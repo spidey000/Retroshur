@@ -1,0 +1,47 @@
+;----------------------
+; Xpadder Profile File
+;----------------------
+
+Version=2008.02
+
+[Set Settings]
+Set1StickDeadZones=64,64
+Set1StickDiagonalSizes=45,45
+Set1TriggerDeadZones=1,1
+Set1DPadMode=Standard
+Set1Stick1Mode=Standard
+Set1Stick2Mode=Standard
+Set2StickDeadZones=64,64
+Set2StickDiagonalSizes=45,45
+Set2TriggerDeadZones=1,1
+Set2DPadMode=Standard
+Set2Stick1Mode=Standard
+Set2Stick2Mode=Standard
+Set3StickDeadZones=64,64
+Set3StickDiagonalSizes=45,45
+Set3TriggerDeadZones=1,1
+Set3DPadMode=Standard
+Set3Stick1Mode=Standard
+Set3Stick2Mode=Standard
+Set4StickDeadZones=64,64
+Set4StickDiagonalSizes=45,45
+Set4TriggerDeadZones=1,1
+Set4DPadMode=Standard
+Set4Stick1Mode=Standard
+Set4Stick2Mode=Standard
+
+[Assignments]
+Set1Button1Slots=B
+Set1Button2Slots=V
+Set1Button3Slots=Space
+Set1Button4Slots=C
+Set1Button5Slots=X
+Set1Button6Slots=S
+Set1Button7Slots=G
+Set1Button8Slots=F
+Set1Button9Slots=Escape
+Set1Button10Slots=Enter
+Set1Stick1UpSlots=Arrow Up
+Set1Stick1RightSlots=Arrow Right
+Set1Stick1DownSlots=Arrow Down
+Set1Stick1LeftSlots=Arrow Left

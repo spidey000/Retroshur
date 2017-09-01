@@ -1,0 +1,675 @@
+<?xml version="1.0"?>
+<menu>
+  <game name="1942 (Japan)">
+    <description>1942 (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="AcroJet (Japan)">
+    <description>AcroJet (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Aleste (Japan)">
+    <description>Aleste (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="American Soccer (Japan)">
+    <description>American Soccer (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Arctic - Active Rail Playing (Japan)">
+    <description>Arctic - Active Rail Playing (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Arkanoid II - Revenge of Doh (Japan)">
+    <description>Arkanoid II - Revenge of Doh (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Bubble Bobble (Japan)">
+    <description>Bubble Bobble (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Cockpit, The (Japan)">
+    <description>Cockpit, The (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Contra (Japan)">
+    <description>Contra (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Daisenryaku MSX2 (Japan)">
+    <description>Daisenryaku MSX2 (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Darwin 4078 (Japan)">
+    <description>Darwin 4078 (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Dires - Giger Loop (Japan)">
+    <description>Dires - Giger Loop (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Dragon Buster (Japan)">
+    <description>Dragon Buster (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Dragon Quest (Japan) [En by Django v1.0] (Incomplete)">
+    <description>Dragon Quest (Japan) [En by Django v1.0] (Incomplete)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Dragon Slayer IV - Drasle Family (Japan) [En by MSX Translations v1.0] (~Dragon Slayer IV - Draslay Family)">
+    <description>Dragon Slayer IV - Drasle Family (Japan) [En by MSX Translations v1.0] (~Dragon Slayer IV - Draslay Family)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Dragon Slayer IV - Drasle Family (Japan)">
+    <description>Dragon Slayer IV - Drasle Family (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Druid (Japan)">
+    <description>Druid (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Dynamite Bowl (Japan)">
+    <description>Dynamite Bowl (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Eidolon, The (Europe)">
+    <description>Eidolon, The (Europe)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="F-15 Strike Eagle (Japan)">
+    <description>F-15 Strike Eagle (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Famicle Parodic (Japan)">
+    <description>Famicle Parodic (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Family Billiards (Japan)">
+    <description>Family Billiards (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Family Boxing - MSX Title Match (Japan)">
+    <description>Family Boxing - MSX Title Match (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Fantasy Zone II - The Tears of Opa-Opa (Japan)">
+    <description>Fantasy Zone II - The Tears of Opa-Opa (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Fire Ball (Japan)">
+    <description>Fire Ball (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Garyuu Ou (Japan)">
+    <description>Garyuu Ou (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)">
+    <description>Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Gekitotsu Pennant Race 2 (Japan)">
+    <description>Gekitotsu Pennant Race 2 (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Girly Block (Japan)">
+    <description>Girly Block (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Han Seimei Senki Andorogynus (Japan)">
+    <description>Han Seimei Senki Andorogynus (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Hard Ball (Japan)">
+    <description>Hard Ball (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Heroes of the Lance (Japan)">
+    <description>Heroes of the Lance (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)">
+    <description>Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Hinotori - Houou Hen (Japan)">
+    <description>Hinotori - Houou Hen (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Hole in One Special (Japan)">
+    <description>Hole in One Special (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Hydlide 3 - The Space Memories (Japan)">
+    <description>Hydlide 3 - The Space Memories (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Ikari (Japan)">
+    <description>Ikari (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Kempelen Chess (Japan)">
+    <description>Kempelen Chess (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="King Kong 2 - Yomigaeru Densetsu (Japan) [En by Imanok v1.0]">
+    <description>King Kong 2 - Yomigaeru Densetsu (Japan) [En by Imanok v1.0]</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Koronis Rift (Europe)">
+    <description>Koronis Rift (Europe)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Lupin Sansei - Babylon no Ougon Densetsu (Japan)">
+    <description>Lupin Sansei - Babylon no Ougon Densetsu (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Lupin Sansei - Cagliostro no Shiro (Japan)">
+    <description>Lupin Sansei - Cagliostro no Shiro (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Mad Rider (Japan)">
+    <description>Mad Rider (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Malaya no Hibou (Japan)">
+    <description>Malaya no Hibou (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Metal Gear (Europe)">
+    <description>Metal Gear (Europe)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Metal Gear (Japan) [En by Jon Taylor+Nekura Hoka+Takamichi Suzukawa v1.9] (Metal Gear Remix)">
+    <description>Metal Gear (Japan) [En by Jon Taylor+Nekura Hoka+Takamichi Suzukawa v1.9] (Metal Gear Remix)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Mirai (Japan)">
+    <description>Mirai (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Monmon Kaibutsu (Japan)">
+    <description>Monmon Kaibutsu (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Ninja-kun - Asura no Shou (Japan)">
+    <description>Ninja-kun - Asura no Shou (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Ogre (Japan)">
+    <description>Ogre (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Ouke no Tani - El Giza no Fuuin (Japan)">
+    <description>Ouke no Tani - El Giza no Fuuin (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Out Run (Japan)">
+    <description>Out Run (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Pac-Mania (Japan)">
+    <description>Pac-Mania (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Penguin-kun Wars 2 (Japan)">
+    <description>Penguin-kun Wars 2 (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Predator (Japan)">
+    <description>Predator (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Pro Yakyuu Family Stadium - Pennant Race (Japan)">
+    <description>Pro Yakyuu Family Stadium - Pennant Race (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Pro Yakyuu Fan - Telenet Stadium (Japan)">
+    <description>Pro Yakyuu Fan - Telenet Stadium (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Project A2 - Shijousaidai no Hyouteki (Japan)">
+    <description>Project A2 - Shijousaidai no Hyouteki (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Quarth (Japan)">
+    <description>Quarth (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Quinpl (Japan)">
+    <description>Quinpl (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Rastan Saga (Japan)">
+    <description>Rastan Saga (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Replicart (Japan)">
+    <description>Replicart (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Return of Ishtar, The (Japan)">
+    <description>Return of Ishtar, The (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Return of Jelda (Japan)">
+    <description>Return of Jelda (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Rick to Mick no Daibouken (Japan)">
+    <description>Rick to Mick no Daibouken (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Scramble Formation (Japan)">
+    <description>Scramble Formation (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Seikima II Special - Akuma no Gyakushuu (Japan)">
+    <description>Seikima II Special - Akuma no Gyakushuu (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Space Manbow (Japan)">
+    <description>Space Manbow (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Star Virgin (Japan)">
+    <description>Star Virgin (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Strategic Mars (Japan)">
+    <description>Strategic Mars (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Super Daisenryaku (Japan)">
+    <description>Super Daisenryaku (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Super Load Runner (Japan)">
+    <description>Super Load Runner (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Super Rambo Special (Japan)">
+    <description>Super Rambo Special (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Super Runner (Japan)">
+    <description>Super Runner (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Super Tritorn (Japan)">
+    <description>Super Tritorn (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Tengoku Yoitoko (Japan) [En by MSX Translations v1.01] (~Welcome to Heaven)">
+    <description>Tengoku Yoitoko (Japan) [En by MSX Translations v1.01] (~Welcome to Heaven)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Tetris (Japan)">
+    <description>Tetris (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Treasure of Usas, The (Japan, Europe)">
+    <description>Treasure of Usas, The (Japan, Europe)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Vampire Killer (Japan, Europe)">
+    <description>Vampire Killer (Japan, Europe)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Woody Poco (Japan) [En by MSX Translations v1.01]">
+    <description>Woody Poco (Japan) [En by MSX Translations v1.01]</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Xevious - Fardraut Saga (Japan)">
+    <description>Xevious - Fardraut Saga (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Yuurei-kun (Japan)">
+    <description>Yuurei-kun (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Zanac Ex (Japan)">
+    <description>Zanac Ex (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Zombie Hunter (Japan)">
+    <description>Zombie Hunter (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+</menu>

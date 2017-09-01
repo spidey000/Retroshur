@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<menu>
+  <game name="AutoBahn Tokio (Japan)">
+    <description>AutoBahn Tokio (Japan)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Gex">
+    <description>Gex</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Killing Time">
+    <description>Killing Time</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Drug Wars">
+    <description>Drug Wars</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="BladeForce">
+    <description>BladeForce</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Need for Speed, The">
+    <description>Need for Speed, The</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+  <game name="Wolfenstein 3D (USA)">
+    <description>Wolfenstein 3D (USA)</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+  </game>
+</menu>

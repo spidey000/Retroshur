@@ -1,0 +1,106 @@
+S.T.A.L.K.E.R. - Shadow of Chernobyl
+
+        Xpadder Profile 1.0
+  (For the XBOX 360(R) Controller)
+
+	    By KBcool
+
+
+
+
+
+Thank you for your interest. This is the
+first profile I've done and it's not as 
+finished as I would like. This may not be the 
+best way to use the a controller with S.T.A.L.K.E.R.
+,though it's the most comfortable for me.
+I hope you enjoy using this profile as 
+much as I have.
+
+[Installation]
+
+1.} Place the 2 files in a location of your choice
+    (I keep my profiles and controller files with my Xpadder program in a folder)
+
+2.} Open Xpadder v2007.11a or higher and click on the profile button, then Open,
+     and browse to the location of the files you just placed. Finally,
+     click on the file named "STALKER [XBOX 360 Controller - KBcool].xpadderprofile"
+     and then click open.
+
+3.} Minimize Xpadder, Startup S.T.A.L.K.E.R. and enjoy.
+
+
+[Use]
+The controls are as follows:
+
+Jump = Y Button
+
+Action = A Button
+
+Reload = X Button
+
+Inventory = B Button
+
+Move = Left Stick
+
+Look/Cursor = Right Stick
+
+Crouch/Low Crouch (Sneak) = Left Stick Button (press once to crouch, then again to low crouch)
+
+Flashlight = Right Stick Button
+
+Fire = Right Trigger
+
+Secondary Fire/Zoom = Left Trigger
+
+Next Weapon = D-Pad Right
+
+Previous Weapon = D-Pad Left
+
+Change Fire Mode (Auto, Semi, etc.) = D-Pad Up
+
+Change Ammunition Type = D-Pad Down
+
+Night Vision = Back Button
+
+PDA = Start Button
+
+Sprint = Right Bumper
+
+Walk/Other Actions = Left Bumper
+
+Switch to Grenade Launcher + Left Bumper + D-Pad Down
+
+Lean Left = Left Bumper + D-Pad Left
+
+Lean Right + Left Bumper + D-Pad Right
+
+Use Med Kit = Left Bumper + X Button
+
+Use Bandages = Left Bumper + B Button
+
+Pick Up Body or Object = Left Bumper + A button
+
+Secondary Fire/Zoom = Left Bumper + Left Stick Button
+
+
+
+
+
+
+
+NOTE: with the Left Bumper held down the face buttons (A,B,X,Y), D-Pad and Left Stick Button change functions.
+
+The D-Pad Left and Right make you lean left and right.
+
+The D-Pad Down switches to the Grenade Launcher if one is present on the current weapon.
+
+The face buttons and stick are as follows:
+
+Use Med Kit = X Button
+
+Use Bandages = B Button
+
+Pick Up Body or Object = A button
+
+Secondary Fire/Zoom = Left Stick Button

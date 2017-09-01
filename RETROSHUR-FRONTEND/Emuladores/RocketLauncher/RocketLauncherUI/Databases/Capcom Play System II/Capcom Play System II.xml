@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu>
+<game name="1944" index="true" image="1">
+	<description>1944</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="19xx" index="" image="">
+	<description>19xx</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="armwar" index="true" image="a">
+	<description>armwar</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="avsp" index="" image="">
+	<description>avsp</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="batcir" index="true" image="b">
+	<description>batcir</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="cybots" index="true" image="c">
+	<description>cybots</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="ddsom" index="true" image="d">
+	<description>ddsom</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="ddtod" index="" image="">
+	<description>ddtod</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="dimahoo" index="" image="">
+	<description>dimahoo</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="dstlk" index="" image="">
+	<description>dstlk</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="ecofghtr" index="true" image="e">
+	<description>ecofghtr</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="gigawing" index="true" image="g">
+	<description>gigawing</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="megaman" index="true" image="m">
+	<description>megaman</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="megaman2" index="" image="">
+	<description>megaman2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="mmatrix" index="" image="">
+	<description>mmatrix</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="msh" index="" image="">
+	<description>msh</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="mshvsf" index="" image="">
+	<description>mshvsf</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="mvsc" index="" image="">
+	<description>mvsc</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="nwarr" index="true" image="n">
+	<description>nwarr</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="vhunt2" index="true" image="v">
+	<description>vhunt2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="vsav" index="" image="">
+	<description>vsav</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="vsav2" index="" image="">
+	<description>vsav2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="xmcota" index="true" image="x">
+	<description>xmcota</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="xmvsf" index="" image="">
+	<description>xmvsf</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+</menu>

@@ -1,0 +1,62 @@
+<systems>
+  <system name="Amstrad GX4000" type="" year="" manufacturer="" enabled="true" />
+  <system name="Atari 5200" type="" year="" manufacturer="" enabled="true" />
+  <system name="Atari 7800" type="" year="" manufacturer="" enabled="true" />
+  <system name="Capcom Play System" type="" year="" manufacturer="" enabled="true" />
+  <system name="Cave" type="" year="" manufacturer="" enabled="true" />
+  <system name="Commodore Max Machine" type="" year="" manufacturer="" enabled="true" />
+  <system name="Data East Classics" type="" year="" manufacturer="" enabled="true" />
+  <system name="Future Pinball" type="" year="" manufacturer="" enabled="true" />
+  <system name="Gaelco" type="" year="" manufacturer="" enabled="true" />
+  <system name="Konami" type="" year="" manufacturer="" enabled="true" />
+  <system name="MAME" type="" year="" manufacturer="" enabled="true" />
+  <system name="Microsoft MSX2" type="" year="" manufacturer="" enabled="true" />
+  <system name="Namco System 22" type="" year="" manufacturer="" enabled="true" />
+  <system name="NEC PC Engine" type="" year="" manufacturer="" enabled="true" />
+  <system name="NEC SuperGrafx" type="" year="" manufacturer="" enabled="true" />
+  <system name="NEC Turbografx-16" type="" year="" manufacturer="" enabled="true" />
+  <system name="Nintendo 64" type="" year="" manufacturer="" enabled="true" />
+  <system name="Nintendo BS-X Satellaview" type="" year="" manufacturer="" enabled="true" />
+  <system name="Nintendo Entertainment System" type="" year="" manufacturer="" enabled="true" />
+  <system name="PC Games" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sammy Atomiswave" type="" year="" manufacturer="" enabled="true" />
+  <system name="ScummVM" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega 32X" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega Arcade Classic" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega Dreamcast" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega Genesis" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega Master System" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega Model 2" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega Naomi" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega Saturn" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega SG-1000" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega ST-V" type="" year="" manufacturer="" enabled="true" />
+  <system name="SNK Neo Geo Pocket Color" type="" year="" manufacturer="" enabled="true" />
+  <system name="SNK Neo Geo CD" type="" year="" manufacturer="" enabled="true" />
+  <system name="SNK Neo Geo" type="" year="" manufacturer="" enabled="true" />
+  <system name="Soccer Games" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sony Playstation" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sony PSP Minis" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sony PSP" type="" year="" manufacturer="" enabled="true" />
+  <system name="Super Nintendo Entertainment System" type="" year="" manufacturer="" enabled="true" />
+  <system name="Taito Type X" type="" year="" manufacturer="" enabled="true" />
+  <system name="Touhou Project" type="" year="" manufacturer="" enabled="true" />
+  <system name="Zinc" type="" year="" manufacturer="" enabled="true" />
+  <system name="Philips CD-i" type="" year="" manufacturer="" enabled="true" />
+  <system name="Nintendo Virtual Boy" type="" year="" manufacturer="" enabled="true" />
+  <system name="Pop Cap" type="" year="" manufacturer="" enabled="true" />
+  <system name="MUGEN" type="" year="" manufacturer="" enabled="true" />
+  <system name="Panasonic 3DO" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega Game Gear" type="" year="" manufacturer="" enabled="true" />
+  <system name="Casio PV-1000" type="" year="" manufacturer="" enabled="true" />
+  <system name="OpenBor" type="" year="" manufacturer="" enabled="true" />
+  <system name="Daphne" type="" year="" manufacturer="" enabled="true" />
+  <system name="American Laser Games" type="" year="" manufacturer="" enabled="true" />
+  <system name="Nintendo DS" type="" year="" manufacturer="" enabled="true" />
+  <system name="Nintendo Game Boy Advance" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega CD" type="" year="" manufacturer="" enabled="true" />
+  <system name="Capcom Play System III" type="" year="" manufacturer="" enabled="true" />
+  <system name="Atari Jaguar" type="" year="" manufacturer="" enabled="true" />
+  <system name="Capcom Play System II" type="" year="" manufacturer="" enabled="true" />
+  <system name="Atari 2600" type="" year="" manufacturer="" enabled="true" />
+</systems>

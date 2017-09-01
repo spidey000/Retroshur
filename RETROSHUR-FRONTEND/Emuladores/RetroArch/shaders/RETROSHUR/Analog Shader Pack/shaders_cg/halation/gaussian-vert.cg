@@ -1,0 +1,78 @@
+/* COMPATIBILITY 
+   - HLSL compilers
+   - Cg   compilers
+*/
+
+#define CRTgamma 2.2
+#define display_gamma 2.2
+#define TEX2D(c) pow(tex2D(IN.texture,(c)),float4(CRTgamma))
+#define BLURFACTOR 1.0
+
+// VERTEX SHADER //
+
+void main_vertex
+(
+	float4 position	: POSITION,
+	float2 texCoord : TEXCOORD0,
+
+    uniform float4x4 modelViewProj,
+
+	out float4 oPosition : POSITION,
+	out float2 otexCoord : TEXCOORD
+)
+{
+	oPosition = mul(modelViewProj, position);
+	otexCoord = texCoord;
+}
+
+struct input
+{
+  float2 video_size;
+  float2 texCoord_size;
+  float2 output_size;
+  float2 texture_size;
+  float frame_count;
+  float frame_direction;
+  float frame_rotation;
+  sampler2D texture : TEXUNIT0;
+};
+
+struct output 
+{
+  float4 col    : COLOR;
+};
+
+// FRAGMENT SHADER //
+
+output main_fragment(in float2 texCoord : TEXCOORD0,
+uniform input IN,
+uniform sampler2D texture : TEXUNIT0
+)
+{
+  float2 xy = texCoord;
+  float oney = 1.0 / IN.texture_size.x;
+
+  float wid = 2.0;
+
+  float c1 = exp(-1.0/wid/wid);
+  float c2 = exp(-4.0/wid/wid);
+  float c3 = exp(-9.0/wid/wid);
+  float c4 = exp(-16.0/wid/wid);
+  float norm = 1.0 / (1.0 + 2.0*(c1+c2+c3+c4));
+
+  float4 sum = float4(0.0);
+
+  sum += TEX2D(xy + float2(0.0, -4.0 * BLURFACTOR * oney)) * float4(c4);
+  sum += TEX2D(xy + float2(0.0, -3.0 * BLURFACTOR * oney)) * float4(c3);
+  sum += TEX2D(xy + float2(0.0, -2.0 * BLURFACTOR * oney)) * float4(c2);
+  sum += TEX2D(xy + float2(0.0, -1.0 * BLURFACTOR * oney)) * float4(c1);
+  sum += TEX2D(xy);
+  sum += TEX2D(xy + float2(0.0, +1.0 * BLURFACTOR * oney)) * float4(c1);
+  sum += TEX2D(xy + float2(0.0, +2.0 * BLURFACTOR * oney)) * float4(c2);
+  sum += TEX2D(xy + float2(0.0, +3.0 * BLURFACTOR * oney)) * float4(c3);
+  sum += TEX2D(xy + float2(0.0, +4.0 * BLURFACTOR * oney)) * float4(c4);
+
+   output OUT;
+   OUT.col = pow(sum*float4(norm),float4(1.0/display_gamma));
+   return OUT;
+}

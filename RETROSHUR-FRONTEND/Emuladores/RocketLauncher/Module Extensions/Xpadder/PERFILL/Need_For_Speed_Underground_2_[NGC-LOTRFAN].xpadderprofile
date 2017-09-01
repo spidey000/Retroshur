@@ -1,0 +1,65 @@
+;----------------------
+; Xpadder Profile File
+;----------------------
+
+Version=2008.01
+
+[Set Settings]
+Set1StickDeadZones=255,255
+Set1StickDiagonalSizes=45,45
+Set1TriggerDeadZones=255,255
+Set1DPadMode=Standard
+Set1Stick1Mode=EightWay
+Set1Stick2Mode=EightWay
+Set2StickDeadZones=255,255
+Set2StickDiagonalSizes=45,45
+Set2TriggerDeadZones=255,255
+Set2DPadMode=Standard
+Set2Stick1Mode=Standard
+Set2Stick2Mode=Standard
+Set3StickDeadZones=255,255
+Set3StickDiagonalSizes=45,45
+Set3TriggerDeadZones=255,255
+Set3DPadMode=Standard
+Set3Stick1Mode=Standard
+Set3Stick2Mode=Standard
+Set4StickDeadZones=255,255
+Set4StickDiagonalSizes=45,45
+Set4TriggerDeadZones=255,255
+Set4DPadMode=Standard
+Set4Stick1Mode=Standard
+Set4Stick2Mode=Standard
+
+[Assignments]
+Set1Button1Name=E Brake
+Set1Button1Slots=Space
+Set1Button2Name=Nitrous
+Set1Button2Slots=Alt
+Set1Button3Name=Shift Down
+Set1Button3Slots=Left Control
+Set1Button4Name=Shift Up
+Set1Button4Slots=Left Shift
+Set1Button5Name=Reset Car
+Set1Button5Slots=R
+Set1Button8Name=Pause
+Set1Button8Slots=Escape
+Set1DPadUpName=Enter Race\Shop
+Set1DPadUpSlots=Enter
+Set1DPadRightName=SMS
+Set1DPadRightSlots=Tab
+Set1DPadDownName=Career Stats
+Set1DPadDownSlots=T
+Set1DPadLeftName=World Map
+Set1DPadLeftSlots=M
+Set1Stick1RightName=Steer Right
+Set1Stick1RightSlots=Arrow Right
+Set1Stick1LeftName=Steer Left
+Set1Stick1LeftSlots=Arrow Left
+Set1Stick2UpName=Camera
+Set1Stick2UpSlots=C
+Set1Stick2DownName=Look Back
+Set1Stick2DownSlots=B
+Set1TriggerLeftName=Reverse Brake
+Set1TriggerLeftSlots=Arrow Down
+Set1TriggerRightName=Throttle
+Set1TriggerRightSlots=Arrow Up

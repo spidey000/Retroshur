@@ -1,0 +1,59 @@
+;----------------------
+; Xpadder Profile File
+;----------------------
+
+Version=2007.11
+
+[Set Settings]
+Set1StickDeadZones=64,64
+Set1StickDiagonalSizes=45,45
+Set1TriggerDeadZones=1,1
+Set1DPadMode=Standard
+Set1Stick1Mode=Standard
+Set1Stick2Mode=Standard
+Set2StickDeadZones=64,64
+Set2StickDiagonalSizes=45,45
+Set2TriggerDeadZones=1,1
+Set2DPadMode=Standard
+Set2Stick1Mode=Standard
+Set2Stick2Mode=Standard
+Set3StickDeadZones=64,64
+Set3StickDiagonalSizes=45,45
+Set3TriggerDeadZones=1,1
+Set3DPadMode=Standard
+Set3Stick1Mode=Standard
+Set3Stick2Mode=Standard
+Set4StickDeadZones=64,64
+Set4StickDiagonalSizes=45,45
+Set4TriggerDeadZones=1,1
+Set4DPadMode=Standard
+Set4Stick1Mode=Standard
+Set4Stick2Mode=Standard
+
+[Assignments]
+Set1Button1Slots=R
+Set1Button2Slots=Escape
+Set1Button3Slots=V
+Set1Button4Slots=F
+Set1Button5Slots=Right Mouse Button (2)
+Set1Button6Slots=Left Mouse Button (1)
+Set1Button7Slots=Q
+Set1Button8Slots=E
+Set1Button9Slots=Space
+Set1Button11Slots=Z
+Set1Button12Slots=C
+Set1DPadUpSlots=Mouse Wheel Up
+Set1DPadRightSlots=3
+Set1DPadDownSlots=Mouse Wheel Down
+Set1DPadLeftSlots=1
+Set1Stick1UpSlots=W
+Set1Stick1RightSlots=D
+Set1Stick1DownSlots=S
+Set1Stick1LeftSlots=A
+Set1Stick2UpSlots=Mouse Move Down
+Set1Stick2RightSlots=Mouse Move Right
+Set1Stick2DownSlots=Mouse Move Up
+Set1Stick2LeftSlots=Mouse Move Left
+Set2Button1Slots=2
+Set2Button2Slots=1
+Set2Button3Slots=3

@@ -1,0 +1,15 @@
+[C64]
+SDLStatusbar=1
+WarpMode=1
+SoundDeviceName="retro"
+SoundBufferSize=100
+IECReset=1
+CIA1Model=0
+CIA2Model=0
+VICIIVideoCache=1
+VICIIHwScale=0
+SidEngine=0
+SidModel=0
+RetroJoy=1
+Drive8Type=1541
+

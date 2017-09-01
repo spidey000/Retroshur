@@ -1,0 +1,87 @@
+;----------------------
+; Xpadder Profile File
+;----------------------
+
+Version=2007.11
+
+[Set Settings]
+Set1StickDeadZones=66,66
+Set1StickDiagonalSizes=45,45
+Set1TriggerDeadZones=1,1
+Set1DPadMode=Standard
+Set1Stick1Mode=Standard
+Set1Stick2Mode=Standard
+Set2StickDeadZones=66,66
+Set2StickDiagonalSizes=45,45
+Set2TriggerDeadZones=1,1
+Set2DPadMode=Standard
+Set2Stick1Mode=Standard
+Set2Stick2Mode=Standard
+Set3StickDeadZones=66,66
+Set3StickDiagonalSizes=45,45
+Set3TriggerDeadZones=1,1
+Set3DPadMode=Standard
+Set3Stick1Mode=Standard
+Set3Stick2Mode=Standard
+Set4StickDeadZones=66,66
+Set4StickDiagonalSizes=45,45
+Set4TriggerDeadZones=1,1
+Set4DPadMode=Standard
+Set4Stick1Mode=Standard
+Set4Stick2Mode=Standard
+
+[Assignments]
+Set1Button1Name=Use
+Set1Button1Slots=E
+Set1Button2Name=Sprint
+Set1Button2Slots=Left Shift
+Set1Button2Toggle=1
+Set1Button3Name=Reload
+Set1Button3Slots=R
+Set1Button4Name=Gravity Gun
+Set1Button4Slots=G
+Set1Button5Name=Duck
+Set1Button5Slots=Left Control
+Set1Button5Toggle=1
+Set1Button6Name=Jump
+Set1Button6Slots=Space
+Set1Button7Name=Quick Save
+Set1Button7Slots=F6
+Set1Button8Name=Menu
+Set1Button8Slots=Escape
+Set1Button9Name=Zoom
+Set1Button9Slots=Z
+Set1Button9Toggle=1
+Set1Button10Name=Flashlight
+Set1Button10Slots=F
+Set1DPadUpName=Command
+Set1DPadUpSlots=C
+Set1DPadRightName=Weapon Select
+Set1DPadRightSlots=Mouse Wheel Down
+Set1DPadDownName=Steam Community
+Set1DPadDownSlots=Left Shift,Tab
+Set1DPadLeftName=Weapon Select
+Set1DPadLeftSlots=Mouse Wheel Up
+Set1Stick1UpName=Move Forward
+Set1Stick1UpSlots=W
+Set1Stick1RightName=Move Left
+Set1Stick1RightSlots=D
+Set1Stick1DownName=Move Back
+Set1Stick1DownSlots=S
+Set1Stick1LeftName=Move Left
+Set1Stick1LeftSlots=A
+Set1Stick2UpName=Look Up
+Set1Stick2UpSlots=Mouse Move Up
+Set1Stick2RightName=Look Right
+Set1Stick2RightSlots=Mouse Move Right
+Set1Stick2DownName=Look Down
+Set1Stick2DownSlots=Mouse Move Down
+Set1Stick2LeftName=Look Left
+Set1Stick2LeftSlots=Mouse Move Left
+Set1TriggerLeftName=Alt Fire
+Set1TriggerLeftSlots=Right Mouse Button (2)
+Set1TriggerLeftRumble=1
+Set1TriggerRightName=Fire 
+Set1TriggerRightSlots=Left Mouse Button (1)
+Set1TriggerRightRumble=1
+Set1TriggerRightRumbleStrengths=145,128

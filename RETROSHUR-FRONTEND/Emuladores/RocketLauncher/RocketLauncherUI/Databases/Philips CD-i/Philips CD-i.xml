@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<menu>
+  <game name="hotelmario">
+    <description>hotelmario</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+ </game>
+ <game name="sharkalert">
+    <description>sharkalert</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+ </game>
+ <game name="lordsoftherisingsun">
+    <description>lordsoftherisingsun</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+ </game> 
+ <game name="mariowackyworlds">
+    <description>mariowackyworlds</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+ </game>
+ <game name="defenderofthecrown">
+    <description>defenderofthecrown</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+ </game>
+ <game name="lemmings">
+    <description>lemmings</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+ </game>
+ <game name="strikerpro">
+    <description>strikerpro</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+ </game>
+ <game name="zeldawandofgamelon">
+    <description>zeldawandofgamelon</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+ </game>
+ <game name="aliengate">
+    <description>aliengate</description>
+    <cloneof> </cloneof>
+    <crc> </crc>
+    <manufacturer> </manufacturer>
+    <year> </year>
+    <genre> </genre>
+ </game>
+</menu>

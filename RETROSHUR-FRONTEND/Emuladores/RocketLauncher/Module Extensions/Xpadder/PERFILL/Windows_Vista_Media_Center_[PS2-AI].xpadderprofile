@@ -1,0 +1,47 @@
+;----------------------
+; Xpadder Profile File
+;----------------------
+
+Version=2007.11
+
+[Set Settings]
+Set1StickDeadZones=64,64
+Set1StickDiagonalSizes=45,45
+Set1TriggerDeadZones=1,1
+Set1DPadMode=Standard
+Set1Stick1Mode=Standard
+Set1Stick2Mode=Standard
+Set2StickDeadZones=64,64
+Set2StickDiagonalSizes=45,45
+Set2TriggerDeadZones=1,1
+Set2DPadMode=Standard
+Set2Stick1Mode=Standard
+Set2Stick2Mode=Standard
+Set3StickDeadZones=64,64
+Set3StickDiagonalSizes=45,45
+Set3TriggerDeadZones=1,1
+Set3DPadMode=Standard
+Set3Stick1Mode=Standard
+Set3Stick2Mode=Standard
+Set4StickDeadZones=64,64
+Set4StickDiagonalSizes=45,45
+Set4TriggerDeadZones=1,1
+Set4DPadMode=Standard
+Set4Stick1Mode=Standard
+Set4Stick2Mode=Standard
+
+[Assignments]
+Set1Button1Slots=Media Stop
+Set1Button2Slots=Media Volume Mute
+Set1Button3Slots=Enter
+Set1Button4Slots=Backspace
+Set1Button5Slots=Media Previous Track
+Set1Button6Slots=Media Volume Down
+Set1Button7Slots=Media Next Track
+Set1Button8Slots=Media Volume Up
+Set1Button9Slots=Right Mouse Button (2)
+Set1Button10Slots=Media Play/Pause
+Set1DPadUpSlots=Arrow Up
+Set1DPadRightSlots=Arrow Right
+Set1DPadDownSlots=Arrow Down
+Set1DPadLeftSlots=Arrow Left

@@ -1,0 +1,55 @@
+;----------------------
+; Xpadder Profile File
+;----------------------
+
+Version=2007.11
+
+[Set Settings]
+Set1StickDeadZones=64,64
+Set1StickDiagonalSizes=45,45
+Set1TriggerDeadZones=1,1
+Set1DPadMode=Standard
+Set1Stick1Mode=Standard
+Set1Stick2Mode=Standard
+Set2StickDeadZones=64,64
+Set2StickDiagonalSizes=45,45
+Set2TriggerDeadZones=1,1
+Set2DPadMode=Standard
+Set2Stick1Mode=Standard
+Set2Stick2Mode=Standard
+Set3StickDeadZones=64,64
+Set3StickDiagonalSizes=45,45
+Set3TriggerDeadZones=1,1
+Set3DPadMode=Standard
+Set3Stick1Mode=Standard
+Set3Stick2Mode=Standard
+Set4StickDeadZones=64,64
+Set4StickDiagonalSizes=45,45
+Set4TriggerDeadZones=1,1
+Set4DPadMode=Standard
+Set4Stick1Mode=Standard
+Set4Stick2Mode=Standard
+
+[Assignments]
+Set1Button1Slots=Space
+Set1Button2Slots=Enter
+Set1Button3Slots=Backspace
+Set1Button4Slots=Right Shift
+Set1Button5Slots=Left Mouse Button (1)
+Set1Button6Slots=Right Mouse Button (2)
+Set1Button7Slots=Escape
+Set1Button8Slots=Windows Logo Right
+Set1Button9Slots=Left Control,Left Shift,Escape
+Set1Button10Slots=Middle Mouse Button (3)
+Set1DPadUpSlots=Arrow Up
+Set1DPadRightSlots=Arrow Right
+Set1DPadDownSlots=Arrow Down
+Set1DPadLeftSlots=Arrow Left
+Set1Stick1UpSlots=Mouse Move Up
+Set1Stick1RightSlots=Mouse Move Right
+Set1Stick1DownSlots=Mouse Move Down
+Set1Stick1LeftSlots=Mouse Move Left
+Set1TriggerLeftSlots=Mouse Wheel Down
+Set1TriggerLeftTurbo=1
+Set1TriggerRightSlots=Mouse Wheel Up
+Set1TriggerRightTurbo=1

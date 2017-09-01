@@ -1,0 +1,61 @@
+#pragma parameter warpX "warpX" 0.031 0.0 0.125 0.01
+#pragma parameter warpY "warpY" 0.041 0.0 0.125 0.01
+#ifdef PARAMETER_UNIFORM
+uniform float warpX;
+uniform float warpY;
+#else
+#define warpX 0.031
+#define warpY 0.041
+#endif
+
+/* COMPATIBILITY 
+   - HLSL compilers
+   - Cg   compilers
+*/
+
+void main_vertex
+(
+	float4 position	: POSITION,
+	float4 color	: COLOR,
+	float2 texCoord : TEXCOORD0,
+
+    uniform float4x4 modelViewProj,
+
+	out float4 oPosition : POSITION,
+	out float4 oColor    : COLOR,
+	out float2 otexCoord : TEXCOORD
+)
+{
+	oPosition = mul(modelViewProj, position);
+	oColor = color;
+	otexCoord = texCoord;
+}
+
+struct output 
+{
+  float4 color    : COLOR;
+};
+
+struct input
+{
+  float2 video_size;
+  float2 texture_size;
+  float2 output_size;
+  float  frame_count;
+  float  frame_direction;
+  float frame_rotation;
+};
+
+// Distortion of scanlines, and end of screen alpha.
+float2 Warp(float2 pos){
+  pos=pos*2.0-1.0;    
+  pos*=float2(1.0+(pos.y*pos.y)*warpX,1.0+(pos.x*pos.x)*warpY);
+  return pos*0.5+0.5;}
+
+output main_fragment(float2 texCoord : TEXCOORD0, uniform sampler2D decal : TEXUNIT0, uniform input IN) 
+{
+float2 pos=Warp(texCoord.xy*(IN.texture_size.xy/IN.video_size.xy))*(IN.video_size.xy/IN.texture_size.xy);
+   output OUT;
+   OUT.color = tex2D(decal, pos);
+   return OUT;
+}

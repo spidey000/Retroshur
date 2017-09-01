@@ -1,0 +1,41 @@
+shaders = 7
+
+
+
+shader0 = shaders/glow/linearize.cg
+filter_linear0 = false
+srgb_framebuffer0 = true
+
+shader1 = "C:\Users\Mike\Desktop\Retroarch 2016\shaders\shaders_cg\stock.cg"
+filter_linear1 = "false"
+wrap_mode1 = "clamp_to_border"
+mipmap_input1 = "false"
+alias1 = ""
+float_framebuffer1 = "false"
+srgb_framebuffer1 = "false"
+
+
+shader2 = shaders/crt-hyllian-glow/crt-hyllian.cg
+filter_linear2 = false
+scale_type2 = viewport
+scale2 = 1.0
+srgb_framebuffer2 = true
+
+shader3 = shaders/glow/threshold.cg
+filter_linear3 = false
+srgb_framebuffer3 = true
+
+shader4 = shaders/glow/blur_horiz.cg
+mipmap_input4 = true
+filter_linear4 = true
+scale_type4 = source
+scale4 = 0.25
+srgb_framebuffer4 = true
+
+shader5 = shaders/glow/blur_vert.cg
+filter_linear5 = true
+srgb_framebuffer5 = true
+
+shader6 = shaders/crt-hyllian-glow/resolve2.cg
+filter_linear6 = true
+

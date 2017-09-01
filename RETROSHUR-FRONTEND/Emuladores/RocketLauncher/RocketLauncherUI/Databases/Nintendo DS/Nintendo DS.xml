@@ -1,0 +1,3343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu>
+<game name="4 Game Fun Pack" index="true" image="4">
+	<description>4 Game Fun Pack</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="50 Classic Games" index="true" image="5">
+	<description>50 Classic Games</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="9 Hours 9 Persons 9 Doors" index="true" image="9">
+	<description>9 Hours 9 Persons 9 Doors</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ace Attorney Investigations - Miles Edgeworth" index="true" image="a">
+	<description>Ace Attorney Investigations - Miles Edgeworth</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Advance Wars - Days of Ruin" index="" image="">
+	<description>Advance Wars - Days of Ruin</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Advance Wars - Dual Strike" index="" image="">
+	<description>Advance Wars - Dual Strike</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Age of Empires Mythologies" index="" image="">
+	<description>Age of Empires Mythologies</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Age of Empires The Age of Kings" index="" image="">
+	<description>Age of Empires The Age of Kings</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Alice in Wonderland" index="" image="">
+	<description>Alice in Wonderland</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Aliens - Infestation" index="" image="">
+	<description>Aliens - Infestation</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Animal Crossing - Wild World" index="" image="">
+	<description>Animal Crossing - Wild World</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Apollo Justice - Ace Attorney" index="" image="">
+	<description>Apollo Justice - Ace Attorney</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Are You Smarter than a 5th Grader" index="" image="">
+	<description>Are You Smarter than a 5th Grader</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Arkanoid DS" index="" image="">
+	<description>Arkanoid DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Asphalt - Urban GT" index="" image="">
+	<description>Asphalt - Urban GT</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Assassin's Creed - Altair's Chronicles" index="" image="">
+	<description>Assassin's Creed - Altair's Chronicles</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Assassin's Creed II - Discovery" index="" image="">
+	<description>Assassin's Creed II - Discovery</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Astro Boy - The Video Game" index="" image="">
+	<description>Astro Boy - The Video Game</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Atelier Annie - Alchemists of Sera Island" index="" image="">
+	<description>Atelier Annie - Alchemists of Sera Island</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="ATV Quad Kings" index="" image="">
+	<description>ATV Quad Kings</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Avalon Code" index="" image="">
+	<description>Avalon Code</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Avatar - The Last Airbender" index="" image="">
+	<description>Avatar - The Last Airbender</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bakugan - Battle Brawlers" index="true" image="b">
+	<description>Bakugan - Battle Brawlers</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bakugan - Battle Brawlers - Battle Trainer" index="" image="">
+	<description>Bakugan - Battle Brawlers - Battle Trainer</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bakugan - Defenders of the Core" index="" image="">
+	<description>Bakugan - Defenders of the Core</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bakugan - Rise of the Resistance" index="" image="">
+	<description>Bakugan - Rise of the Resistance</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bangai-O Spirits" index="" image="">
+	<description>Bangai-O Spirits</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Battle of Giants - Dragons" index="" image="">
+	<description>Battle of Giants - Dragons</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Battle of Giants - Mutant Insects" index="" image="">
+	<description>Battle of Giants - Mutant Insects</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Battleship" index="" image="">
+	<description>Battleship</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bejeweled Twist" index="" image="">
+	<description>Bejeweled Twist</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ben 10 - Ultimate Alien - Cosmic Destruction" index="" image="">
+	<description>Ben 10 - Ultimate Alien - Cosmic Destruction</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ben 10 Protector of Earth" index="" image="">
+	<description>Ben 10 Protector of Earth</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Beyblade - Metal Fusion" index="" image="">
+	<description>Beyblade - Metal Fusion</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Beyblade - Metal Masters" index="" image="">
+	<description>Beyblade - Metal Masters</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Big Brain Academy" index="" image="">
+	<description>Big Brain Academy</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bionicle Heroes" index="" image="">
+	<description>Bionicle Heroes</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Black Sigil - Blade of the Exiled" index="" image="">
+	<description>Black Sigil - Blade of the Exiled</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bleach - The 3rd Phantom" index="" image="">
+	<description>Bleach - The 3rd Phantom</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bleach - The Blade of Fate" index="" image="">
+	<description>Bleach - The Blade of Fate</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bleach Dark Souls" index="" image="">
+	<description>Bleach Dark Souls</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Blue Dragon - Awakened Shadow" index="" image="">
+	<description>Blue Dragon - Awakened Shadow</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Blue Dragon Plus" index="" image="">
+	<description>Blue Dragon Plus</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bomberman" index="" image="">
+	<description>Bomberman</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bomberman Land Touch! 2" index="" image="">
+	<description>Bomberman Land Touch! 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Brain Age - Train Your Brain in Minutes a Day" index="" image="">
+	<description>Brain Age - Train Your Brain in Minutes a Day</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Brain Age 2 - More Training in Minutes a Day" index="" image="">
+	<description>Brain Age 2 - More Training in Minutes a Day</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Brave" index="" image="">
+	<description>Brave</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Broken Sword - Shadow of the Templars - The Director's Cut" index="" image="">
+	<description>Broken Sword - Shadow of the Templars - The Director's Cut</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bubble Bobble Revolution" index="" image="">
+	<description>Bubble Bobble Revolution</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Burnout Legends" index="" image="">
+	<description>Burnout Legends</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bust-a-Move DS" index="" image="">
+	<description>Bust-a-Move DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cake Mania 3" index="true" image="c">
+	<description>Cake Mania 3</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Call of Duty - Black Ops" index="" image="">
+	<description>Call of Duty - Black Ops</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Call of Duty - World at War" index="" image="">
+	<description>Call of Duty - World at War</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Call of Duty 4 - Modern Warfare" index="" image="">
+	<description>Call of Duty 4 - Modern Warfare</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Captain America - Super Soldier" index="" image="">
+	<description>Captain America - Super Soldier</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cars 2" index="" image="">
+	<description>Cars 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Castlevania - Dawn of Sorrow" index="" image="">
+	<description>Castlevania - Dawn of Sorrow</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Castlevania - Order of Ecclesia" index="" image="">
+	<description>Castlevania - Order of Ecclesia</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Castlevania - Portrait of Ruin" index="" image="">
+	<description>Castlevania - Portrait of Ruin</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Children of Mana" index="" image="">
+	<description>Children of Mana</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Chrono Trigger" index="" image="">
+	<description>Chrono Trigger</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Contra 4" index="" image="">
+	<description>Contra 4</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cooking Mama 2 - Dinner with Friends" index="" image="">
+	<description>Cooking Mama 2 - Dinner with Friends</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cooking Mama 3 - Shop and Chop" index="" image="">
+	<description>Cooking Mama 3 - Shop and Chop</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Corvette Evolution GT" index="" image="">
+	<description>Corvette Evolution GT</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Crash of the Titans" index="" image="">
+	<description>Crash of the Titans</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Custom Robo Arena" index="" image="">
+	<description>Custom Robo Arena</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Deep Labyrinth" index="true" image="d">
+	<description>Deep Labyrinth</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Diddy Kong Racing DS" index="" image="">
+	<description>Diddy Kong Racing DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Digimon World - Dusk" index="" image="">
+	<description>Digimon World - Dusk</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Digimon World Championship" index="" image="">
+	<description>Digimon World Championship</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Digimon World DS" index="" image="">
+	<description>Digimon World DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Disgaea DS" index="" image="">
+	<description>Disgaea DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Disgaea DS (traducido)" index="" image="">
+	<description>Disgaea DS (traducido)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Ball - Origins" index="" image="">
+	<description>Dragon Ball - Origins</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Ball - Origins 2" index="" image="">
+	<description>Dragon Ball - Origins 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Ball Z - Attack of the Saiyans" index="" image="">
+	<description>Dragon Ball Z - Attack of the Saiyans</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Ball Z - Supersonic Warriors 2" index="" image="">
+	<description>Dragon Ball Z - Supersonic Warriors 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Ball Z Attack of the Saiyans" index="" image="">
+	<description>Dragon Ball Z Attack of the Saiyans</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Quest Heroes - Rocket Slime" index="" image="">
+	<description>Dragon Quest Heroes - Rocket Slime</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Quest Heroes Rocket Slime USA Celestial Being!" index="" image="">
+	<description>Dragon Quest Heroes Rocket Slime USA Celestial Being!</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Quest IV" index="" image="">
+	<description>Dragon Quest IV</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Quest IV - Chapters of the Chosen" index="" image="">
+	<description>Dragon Quest IV - Chapters of the Chosen</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Quest IX - Sentinels of the Starry Skies" index="" image="">
+	<description>Dragon Quest IX - Sentinels of the Starry Skies</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Quest Monsters - Joker" index="" image="">
+	<description>Dragon Quest Monsters - Joker</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Quest Monsters - Joker 2" index="" image="">
+	<description>Dragon Quest Monsters - Joker 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Quest V - Hand of the Heavenly Bride" index="" image="">
+	<description>Dragon Quest V - Hand of the Heavenly Bride</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Quest VI Realms of Apocalypse" index="" image="">
+	<description>Dragon Quest VI Realms of Apocalypse</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Quest VI Realms of Reverie" index="" image="">
+	<description>Dragon Quest VI Realms of Reverie</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Drawn to Life - The Next Chapter" index="" image="">
+	<description>Drawn to Life - The Next Chapter</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dungeon Raiders" index="" image="">
+	<description>Dungeon Raiders</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dynasty Warriors DS - Fighter's Battle" index="" image="">
+	<description>Dynasty Warriors DS - Fighter's Battle</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Elite Beat Agents" index="true" image="e">
+	<description>Elite Beat Agents</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Etrian Odyssey" index="" image="">
+	<description>Etrian Odyssey</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Etrian Odyssey II - Heroes of Lagaard" index="" image="">
+	<description>Etrian Odyssey II - Heroes of Lagaard</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Etrian Odyssey III - The Drowned City" index="" image="">
+	<description>Etrian Odyssey III - The Drowned City</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Exit DS" index="" image="">
+	<description>Exit DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Fantastic Four - Rise of the Silver Surfer" index="true" image="f">
+	<description>Fantastic Four - Rise of the Silver Surfer</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ferrari Challenge - Trofeo Pirelli" index="" image="">
+	<description>Ferrari Challenge - Trofeo Pirelli</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Fifa 11" index="" image="">
+	<description>Fifa 11</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="FIFA Soccer 10" index="" image="">
+	<description>FIFA Soccer 10</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Final Fantasy - The 4 Heroes of Light" index="" image="">
+	<description>Final Fantasy - The 4 Heroes of Light</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Final Fantasy Crystal Chronicles - Ring of Fates" index="" image="">
+	<description>Final Fantasy Crystal Chronicles - Ring of Fates</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Final Fantasy Crystal Chronicles Echoes of Time" index="" image="">
+	<description>Final Fantasy Crystal Chronicles Echoes of Time</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Final Fantasy Fables - Chocobo Tales" index="" image="">
+	<description>Final Fantasy Fables - Chocobo Tales</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Final Fantasy III" index="" image="">
+	<description>Final Fantasy III</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Final Fantasy IV" index="" image="">
+	<description>Final Fantasy IV</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Final Fantasy Tactics A2 - Grimoire of the Rift" index="" image="">
+	<description>Final Fantasy Tactics A2 - Grimoire of the Rift</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Final Fantasy XII - Revenant Wings" index="" image="">
+	<description>Final Fantasy XII - Revenant Wings</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Fire Emblem - Shadow Dragon" index="" image="">
+	<description>Fire Emblem - Shadow Dragon</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Fossil Fighters" index="" image="">
+	<description>Fossil Fighters</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Front Mission" index="" image="">
+	<description>Front Mission</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Fullmetal Alchemist - Dual Sympathy" index="" image="">
+	<description>Fullmetal Alchemist - Dual Sympathy</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Fullmetal Alchemist - Trading Card Game" index="" image="">
+	<description>Fullmetal Alchemist - Trading Card Game</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Geometry Wars - Galaxies" index="true" image="g">
+	<description>Geometry Wars - Galaxies</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="ghost trick" index="" image="">
+	<description>ghost trick</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ghost Trick - Phantom Detective" index="" image="">
+	<description>Ghost Trick - Phantom Detective</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ghost Trick Detective Fantasma" index="" image="">
+	<description>Ghost Trick Detective Fantasma</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Glory of Heracles" index="" image="">
+	<description>Glory of Heracles</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Godzilla Unleashed - Double Smash" index="" image="">
+	<description>Godzilla Unleashed - Double Smash</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Golden Sun - Dark Dawn" index="" image="">
+	<description>Golden Sun - Dark Dawn</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="GoldenEye 007" index="" image="">
+	<description>GoldenEye 007</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Grand Theft Auto - Chinatown Wars" index="" image="">
+	<description>Grand Theft Auto - Chinatown Wars</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Guitar Hero - On Tour" index="" image="">
+	<description>Guitar Hero - On Tour</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Harvest Moon - Frantic Farming" index="true" image="h">
+	<description>Harvest Moon - Frantic Farming</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Harvest Moon DS" index="" image="">
+	<description>Harvest Moon DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Harvest Moon DS - Island of Happiness" index="" image="">
+	<description>Harvest Moon DS - Island of Happiness</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Harvest Moon DS - Sunshine Islands" index="" image="">
+	<description>Harvest Moon DS - Sunshine Islands</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Harvest Moon DS Cute" index="" image="">
+	<description>Harvest Moon DS Cute</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Harvest Moon Frantic Farmin" index="" image="">
+	<description>Harvest Moon Frantic Farmin</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hello Kitty - Big City Dreams" index="" image="">
+	<description>Hello Kitty - Big City Dreams</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hello Kitty - Daily" index="" image="">
+	<description>Hello Kitty - Daily</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hello Kitty - Party" index="" image="">
+	<description>Hello Kitty - Party</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Heroes of Mana" index="" image="">
+	<description>Heroes of Mana</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hero's Saga - Laevatein Tactics" index="" image="">
+	<description>Hero's Saga - Laevatein Tactics</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hotel Dusk - Room 215" index="" image="">
+	<description>Hotel Dusk - Room 215</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="How to Train Your Dragon" index="" image="">
+	<description>How to Train Your Dragon</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ice Age 4 - Continental Drift" index="true" image="i">
+	<description>Ice Age 4 - Continental Drift</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Inazuma Eleven 2 Tempete de Feu Fixed" index="" image="">
+	<description>Inazuma Eleven 2 Tempete de Feu Fixed</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Inazuma Eleven 2 Tempete de Glace Fixed" index="" image="">
+	<description>Inazuma Eleven 2 Tempete de Glace Fixed</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Incredible Hulk, The" index="" image="">
+	<description>Incredible Hulk, The</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Indiana Jones and the Staff of Kings" index="" image="">
+	<description>Indiana Jones and the Staff of Kings</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Infinite Space" index="" image="">
+	<description>Infinite Space</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Iron Man 2" index="" image="">
+	<description>Iron Man 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Izuna - Legend of the Unemployed Ninja" index="" image="">
+	<description>Izuna - Legend of the Unemployed Ninja</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Jackass - The Game DS" index="true" image="j">
+	<description>Jackass - The Game DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Justice League Heroes" index="" image="">
+	<description>Justice League Heroes</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Kamen Rider - Dragon Knight" index="true" image="k">
+	<description>Kamen Rider - Dragon Knight</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Kingdom Hearts - 358-2 Days" index="" image="">
+	<description>Kingdom Hearts - 358-2 Days</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Kingdom Hearts - Re-Coded [CRACKED]" index="" image="">
+	<description>Kingdom Hearts - Re-Coded [CRACKED]</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Kirby - Canvas curse" index="" image="">
+	<description>Kirby - Canvas curse</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Kirby - Super Star Ultra" index="" image="">
+	<description>Kirby - Super Star Ultra</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Knights in the Nightmare" index="" image="">
+	<description>Knights in the Nightmare</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Legendary Starfy, The" index="true" image="l">
+	<description>Legendary Starfy, The</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="LEGO - Rock Band" index="" image="">
+	<description>LEGO - Rock Band</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="LEGO Batman - The Videogame" index="" image="">
+	<description>LEGO Batman - The Videogame</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="LEGO Batman 2 - DC Super Heroes" index="" image="">
+	<description>LEGO Batman 2 - DC Super Heroes</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="LEGO Battles" index="" image="">
+	<description>LEGO Battles</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="LEGO Battles - Ninjago" index="" image="">
+	<description>LEGO Battles - Ninjago</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="LEGO Harry Potter - Years 1-4" index="" image="">
+	<description>LEGO Harry Potter - Years 1-4</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="LEGO Indiana Jones 2 - The Adventure Continues" index="" image="">
+	<description>LEGO Indiana Jones 2 - The Adventure Continues</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="LEGO Star Wars - The Complete Saga" index="" image="">
+	<description>LEGO Star Wars - The Complete Saga</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="LEGO Star Wars II - The Original Trilogy" index="" image="">
+	<description>LEGO Star Wars II - The Original Trilogy</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="LEGO Star Wars III The Clone Wars" index="" image="">
+	<description>LEGO Star Wars III The Clone Wars</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Let's Draw!" index="" image="">
+	<description>Let's Draw!</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Lost in Blue" index="" image="">
+	<description>Lost in Blue</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Lost in Blue 2" index="" image="">
+	<description>Lost in Blue 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Lufia - Curse of the Sinistrals" index="" image="">
+	<description>Lufia - Curse of the Sinistrals</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Luminous Arc" index="" image="">
+	<description>Luminous Arc</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Luminous Arc 2" index="" image="">
+	<description>Luminous Arc 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Lunar - Dragon Song" index="" image="">
+	<description>Lunar - Dragon Song</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Lunar Knights" index="" image="">
+	<description>Lunar Knights</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mage Knight - Destiny's Soldier" index="true" image="m">
+	<description>Mage Knight - Destiny's Soldier</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Magical Starsign" index="" image="">
+	<description>Magical Starsign</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mario and Luigi - Bowser's Inside Story" index="" image="">
+	<description>Mario and Luigi - Bowser's Inside Story</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mario and luigi - Partners in time" index="" image="">
+	<description>Mario and luigi - Partners in time</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mario and Sonic at the Olympic Games" index="" image="">
+	<description>Mario and Sonic at the Olympic Games</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mario and Sonic at the Olympic Winter Games" index="" image="">
+	<description>Mario and Sonic at the Olympic Winter Games</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mario Hoops 3 on 3" index="" image="">
+	<description>Mario Hoops 3 on 3</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mario Kart DS" index="" image="">
+	<description>Mario Kart DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mario Party DS" index="" image="">
+	<description>Mario Party DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mario vs. Donkey Kong - Mini-Land Mayhem" index="" image="">
+	<description>Mario vs. Donkey Kong - Mini-Land Mayhem</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mario vs. Donkey Kong 2 - March of the Minis" index="" image="">
+	<description>Mario vs. Donkey Kong 2 - March of the Minis</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Marvel Nemesis - Rise of the Imperfects" index="" image="">
+	<description>Marvel Nemesis - Rise of the Imperfects</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Marvel Trading Card Game" index="" image="">
+	<description>Marvel Trading Card Game</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="MechAssault - Phantom War" index="" image="">
+	<description>MechAssault - Phantom War</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Megaman Star Force - Dragon" index="" image="">
+	<description>Megaman Star Force - Dragon</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="MegaMan Zero Collection" index="" image="">
+	<description>MegaMan Zero Collection</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="MegaMan ZX Advent" index="" image="">
+	<description>MegaMan ZX Advent</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Metal Slug 7" index="" image="">
+	<description>Metal Slug 7</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Meteos" index="" image="">
+	<description>Meteos</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Metroid Prime Hunter" index="" image="">
+	<description>Metroid Prime Hunter</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Metroid Prime Pinball" index="" image="">
+	<description>Metroid Prime Pinball</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Micro Machines V4" index="" image="">
+	<description>Micro Machines V4</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Might and Magic Clash Of Heroes" index="" image="">
+	<description>Might and Magic Clash Of Heroes</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Monopoly" index="" image="">
+	<description>Monopoly</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Monster Rancher DS" index="" image="">
+	<description>Monster Rancher DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Monster Tale" index="" image="">
+	<description>Monster Tale</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Myst" index="" image="">
+	<description>Myst</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="N +" index="true" image="n">
+	<description>N +</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Nanostray" index="" image="">
+	<description>Nanostray</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Nanostray 2" index="" image="">
+	<description>Nanostray 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Naruto - Ninja Council 3" index="" image="">
+	<description>Naruto - Ninja Council 3</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Naruto - Ninja Destiny" index="" image="">
+	<description>Naruto - Ninja Destiny</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Naruto - Path of the Ninja" index="" image="">
+	<description>Naruto - Path of the Ninja</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Naruto - Path of the Ninja 2" index="" image="">
+	<description>Naruto - Path of the Ninja 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Naruto Shippuden - Ninja Council 4" index="" image="">
+	<description>Naruto Shippuden - Ninja Council 4</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Naruto Shippuden - Ninja Destiny 2" index="" image="">
+	<description>Naruto Shippuden - Ninja Destiny 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Need for Speed - Most Wanted" index="" image="">
+	<description>Need for Speed - Most Wanted</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Need for Speed - ProStreet" index="" image="">
+	<description>Need for Speed - ProStreet</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Need for Speed - Undercover" index="" image="">
+	<description>Need for Speed - Undercover</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Need for Speed Carbon - Own the City" index="" image="">
+	<description>Need for Speed Carbon - Own the City</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="New Super Mario Bros" index="" image="">
+	<description>New Super Mario Bros</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ninja Gaiden Dragon Sword" index="" image="">
+	<description>Ninja Gaiden Dragon Sword</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ninjatown" index="" image="">
+	<description>Ninjatown</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Nintendogs - Best Friends" index="" image="">
+	<description>Nintendogs - Best Friends</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Nintendogs - Lab and Friends" index="" image="">
+	<description>Nintendogs - Lab and Friends</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Nostalgia" index="" image="">
+	<description>Nostalgia</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Okamiden" index="true" image="o">
+	<description>Okamiden</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="One Piece Gigant Battle" index="" image="">
+	<description>One Piece Gigant Battle</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Orcs and Elves" index="" image="">
+	<description>Orcs and Elves</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Peggle - Dual Shot" index="true" image="p">
+	<description>Peggle - Dual Shot</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phantasy Star 0" index="" image="">
+	<description>Phantasy Star 0</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phoenix Wright - Ace Attorney - Justice For All" index="" image="">
+	<description>Phoenix Wright - Ace Attorney - Justice For All</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phoenix Wright - Ace Attorney - Trials and Tribulations" index="" image="">
+	<description>Phoenix Wright - Ace Attorney - Trials and Tribulations</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Picross 3d" index="" image="">
+	<description>Picross 3d</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Picross DS" index="" image="">
+	<description>Picross DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pirates of the Caribbean - Dead Man's Chest" index="" image="">
+	<description>Pirates of the Caribbean - Dead Man's Chest</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Planet Puzzle League" index="" image="">
+	<description>Planet Puzzle League</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="plants vs zombies" index="" image="">
+	<description>plants vs zombies</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Plants vs. Zombies [Multi5]" index="" image="">
+	<description>Plants vs. Zombies [Multi5]</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon - Black Version" index="" image="">
+	<description>Pokemon - Black Version</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon - HeartGold Version" index="" image="">
+	<description>Pokemon - HeartGold Version</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon - Platinum Version" index="" image="">
+	<description>Pokemon - Platinum Version</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon - SoulSilver Version" index="" image="">
+	<description>Pokemon - SoulSilver Version</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Dash" index="" image="">
+	<description>Pokemon Dash</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Diamond" index="" image="">
+	<description>Pokemon Diamond</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Mystery Dungeon - Blue Rescue Team" index="" image="">
+	<description>Pokemon Mystery Dungeon - Blue Rescue Team</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Mystery Dungeon - Explorers of Darkness" index="" image="">
+	<description>Pokemon Mystery Dungeon - Explorers of Darkness</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Mystery Dungeon - Explorers of Sky" index="" image="">
+	<description>Pokemon Mystery Dungeon - Explorers of Sky</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Mystery Dungeon - Explorers of Time" index="" image="">
+	<description>Pokemon Mystery Dungeon - Explorers of Time</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Ranger" index="" image="">
+	<description>Pokemon Ranger</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Ranger - Guardian Signs" index="" image="">
+	<description>Pokemon Ranger - Guardian Signs</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Ranger - Shadows of Almia" index="" image="">
+	<description>Pokemon Ranger - Shadows of Almia</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Trozei!" index="" image="">
+	<description>Pokemon Trozei!</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Version Argent SoulSilver" index="" image="">
+	<description>Pokemon Version Argent SoulSilver</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Version Blanche" index="" image="">
+	<description>Pokemon Version Blanche</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Version Noire" index="" image="">
+	<description>Pokemon Version Noire</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon Version Or HeartGold" index="" image="">
+	<description>Pokemon Version Or HeartGold</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pokemon White" index="" image="">
+	<description>Pokemon White</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Populous DS" index="" image="">
+	<description>Populous DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Puyo Pop Fever" index="" image="">
+	<description>Puyo Pop Fever</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Puzzle de Harvest Moon" index="" image="">
+	<description>Puzzle de Harvest Moon</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Puzzle Quest 2" index="" image="">
+	<description>Puzzle Quest 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Radiant Historia" index="true" image="r">
+	<description>Radiant Historia</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ragnarok DS" index="" image="">
+	<description>Ragnarok DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rayman DS" index="" image="">
+	<description>Rayman DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Resident Evil - Deadly Silence" index="" image="">
+	<description>Resident Evil - Deadly Silence</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="RetroArch" index="" image="">
+	<description>RetroArch</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rhapsody - A Musical Adventure" index="" image="">
+	<description>Rhapsody - A Musical Adventure</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rhythm Heaven" index="" image="">
+	<description>Rhythm Heaven</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="River King - Mystic Valley" index="" image="">
+	<description>River King - Mystic Valley</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rondo of Swords" index="" image="">
+	<description>Rondo of Swords</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rune Factory - A Fantasy Harvest Moon" index="" image="">
+	<description>Rune Factory - A Fantasy Harvest Moon</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rune Factory 2" index="" image="">
+	<description>Rune Factory 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rune Factory 2 - A Fantasy Harvest Moon" index="" image="">
+	<description>Rune Factory 2 - A Fantasy Harvest Moon</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rune Factory 3 - A Fantasy Harvest Moon" index="" image="">
+	<description>Rune Factory 3 - A Fantasy Harvest Moon</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sands of Destruction" index="true" image="s">
+	<description>Sands of Destruction</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Scooby-Doo" index="" image="">
+	<description>Scooby-Doo</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Scribblenauts" index="" image="">
+	<description>Scribblenauts</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="SEGA Casino" index="" image="">
+	<description>SEGA Casino</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="SEGA Superstars Tennis" index="" image="">
+	<description>SEGA Superstars Tennis</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sherlock Holmes - The Mystery of the Mummy" index="" image="">
+	<description>Sherlock Holmes - The Mystery of the Mummy</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Shin Megami Tensei - Devil Survivor" index="" image="">
+	<description>Shin Megami Tensei - Devil Survivor</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Shin Megami Tensei - Devil Survivor 2" index="" image="">
+	<description>Shin Megami Tensei - Devil Survivor 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Shin Megami Tensei - Strange Journey" index="" image="">
+	<description>Shin Megami Tensei - Strange Journey</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sid Meier's Civilization Revolution" index="" image="">
+	<description>Sid Meier's Civilization Revolution</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Skate It" index="" image="">
+	<description>Skate It</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="SNK vs. Capcom - Card Fighters DS" index="" image="">
+	<description>SNK vs. Capcom - Card Fighters DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sonic and Sega All-Stars Racing" index="" image="">
+	<description>Sonic and Sega All-Stars Racing</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sonic Chronicles - The Dark Brotherhood" index="" image="">
+	<description>Sonic Chronicles - The Dark Brotherhood</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sonic Classic Collection" index="" image="">
+	<description>Sonic Classic Collection</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sonic Colors" index="" image="">
+	<description>Sonic Colors</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sonic Rush" index="" image="">
+	<description>Sonic Rush</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sonic Rush Adventure" index="" image="">
+	<description>Sonic Rush Adventure</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Space Invaders DS" index="" image="">
+	<description>Space Invaders DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Space Invaders Extreme 2" index="" image="">
+	<description>Space Invaders Extreme 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Spider-Man - Shattered Dimensions" index="" image="">
+	<description>Spider-Man - Shattered Dimensions</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Spider-Man 2 (US)" index="" image="">
+	<description>Spider-Man 2 (US)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Spiderman 3" index="" image="">
+	<description>Spiderman 3</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="SpongeBob vs The Big One - Beach Party Cook-Off" index="" image="">
+	<description>SpongeBob vs The Big One - Beach Party Cook-Off</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Star Trek - Tactical Assault" index="" image="">
+	<description>Star Trek - Tactical Assault</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Star Wars - Battlefront - Elite Squadron" index="" image="">
+	<description>Star Wars - Battlefront - Elite Squadron</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Star Wars - Lethal Alliance" index="" image="">
+	<description>Star Wars - Lethal Alliance</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Star Wars - The Force Unleashed II" index="" image="">
+	<description>Star Wars - The Force Unleashed II</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Star Wars Episode III - Revenge of the Sith" index="" image="">
+	<description>Star Wars Episode III - Revenge of the Sith</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Star Wars The Clone Wars L'Alliance Jedi" index="" image="">
+	<description>Star Wars The Clone Wars L'Alliance Jedi</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Star Wars The Clone Wars Republic Heroes" index="" image="">
+	<description>Star Wars The Clone Wars Republic Heroes</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Suikoden - Tierkreis" index="" image="">
+	<description>Suikoden - Tierkreis</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Super Dodgeball Brawlers" index="" image="">
+	<description>Super Dodgeball Brawlers</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Super Mario 64 DS" index="" image="">
+	<description>Super Mario 64 DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Super Princess Peach" index="" image="">
+	<description>Super Princess Peach</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Super Scribblenauts" index="" image="">
+	<description>Super Scribblenauts</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Tamagotchi Connection - Corner Shop" index="true" image="t">
+	<description>Tamagotchi Connection - Corner Shop</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Teenage Mutant Ninja Turtles 3 - Mutant Nightmare" index="" image="">
+	<description>Teenage Mutant Ninja Turtles 3 - Mutant Nightmare</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Tetris DS" index="" image="">
+	<description>Tetris DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="The 4 Heroes Of Light" index="" image="">
+	<description>The 4 Heroes Of Light</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="The Amazing Spider-Man" index="" image="">
+	<description>The Amazing Spider-Man</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="The Legend of Zelda Phantom Hourglass" index="" image="">
+	<description>The Legend of Zelda Phantom Hourglass</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="The Legend of Zelda Spirit Tracks" index="" image="">
+	<description>The Legend of Zelda Spirit Tracks</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="The Sims 3" index="" image="">
+	<description>The Sims 3</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="The Smurfs" index="" image="">
+	<description>The Smurfs</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="The World Ends With You" index="" image="">
+	<description>The World Ends With You</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="TMNT" index="" image="">
+	<description>TMNT</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Tomb Raider Leyends" index="" image="">
+	<description>Tomb Raider Leyends</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Tony Hawk's American Sk8land" index="" image="">
+	<description>Tony Hawk's American Sk8land</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Tony Hawk's Downhill Jam" index="" image="">
+	<description>Tony Hawk's Downhill Jam</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Tony Hawk's Proving Ground" index="" image="">
+	<description>Tony Hawk's Proving Ground</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Trauma Center Under The Knife" index="" image="">
+	<description>Trauma Center Under The Knife</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Trauma Center Under the Knife 2" index="" image="">
+	<description>Trauma Center Under the Knife 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ultimate Mortal Kombat" index="true" image="u">
+	<description>Ultimate Mortal Kombat</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ultimate Spiderman" index="" image="">
+	<description>Ultimate Spiderman</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Viewtiful Joe - Double Trouble" index="true" image="v">
+	<description>Viewtiful Joe - Double Trouble</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="WarioWare - Touched" index="true" image="w">
+	<description>WarioWare - Touched</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="WarioWare D.I.Y - Do It Yourself" index="" image="">
+	<description>WarioWare D.I.Y - Do It Yourself</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Witch's Tale, A" index="" image="">
+	<description>Witch's Tale, A</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="World Ends With You, The" index="" image="">
+	<description>World Ends With You, The</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Worms Open Warfare" index="" image="">
+	<description>Worms Open Warfare</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Worms Open Warfare 2" index="" image="">
+	<description>Worms Open Warfare 2</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="WWE SmackDown vs Raw 2010 featuring ECW" index="" image="">
+	<description>WWE SmackDown vs Raw 2010 featuring ECW</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Yoshi Island DS" index="true" image="y">
+	<description>Yoshi Island DS</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Yu-Gi-Oh 5Ds Stardust Accelerator - World Championship 2009" index="" image="">
+	<description>Yu-Gi-Oh 5Ds Stardust Accelerator - World Championship 2009</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+</menu>

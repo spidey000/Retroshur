@@ -1,0 +1,83 @@
+;----------------------
+; Xpadder Profile File
+;----------------------
+
+Version=2007.12
+
+[Set Settings]
+Set1StickDeadZones=64,64
+Set1StickDiagonalSizes=45,45
+Set1TriggerDeadZones=1,1
+Set1DPadMode=EightWay
+Set1Stick1Mode=Standard
+Set1Stick2Mode=Standard
+Set2StickDeadZones=64,64
+Set2StickDiagonalSizes=45,45
+Set2TriggerDeadZones=1,1
+Set2DPadMode=Standard
+Set2Stick1Mode=Standard
+Set2Stick2Mode=Standard
+Set3StickDeadZones=64,64
+Set3StickDiagonalSizes=45,45
+Set3TriggerDeadZones=1,1
+Set3DPadMode=Standard
+Set3Stick1Mode=Standard
+Set3Stick2Mode=Standard
+Set4StickDeadZones=64,64
+Set4StickDiagonalSizes=45,45
+Set4TriggerDeadZones=1,1
+Set4DPadMode=Standard
+Set4Stick1Mode=Standard
+Set4Stick2Mode=Standard
+
+[Assignments]
+Set1Button1Name=Use
+Set1Button1Slots=Space,Enter
+Set1Button2Name=Inventory/Map
+Set1Button2Slots=Tab
+Set1Button3Name=Equip/Unequip Weapon
+Set1Button3Slots=F
+Set1Button4Name=Jump
+Set1Button4Slots=E
+Set1Button5Name=Grab
+Set1Button5Slots=Z
+Set1Button5Turbo=1
+Set1Button5TurboRate=4
+Set1Button5Rumble=1
+Set1Button5RumbleStrengths=29,29
+Set1Button6Name=Cast
+Set1Button6Slots=C
+Set1Button6TurboRate=5
+Set1Button6Rumble=1
+Set1Button6RumbleStrengths=66,65
+Set1Button7Name=Wait
+Set1Button7Slots=T
+Set1Button8Name=Game Menu
+Set1Button8Slots=Escape
+Set1Button9Name=Sneak
+Set1Button9Slots=Left Control
+Set1Button10Name=Change View
+Set1Button10Slots=R
+Set1DPadUpSlots=1,Arrow Up
+Set1DPadRightSlots=3,Arrow Right
+Set1DPadDownSlots=5,Arrow Down
+Set1DPadLeftSlots=7,Arrow Left
+Set1Stick1UpSlots=W,Arrow Up
+Set1Stick1RightSlots=D,Arrow Right
+Set1Stick1DownSlots=S,Arrow Down
+Set1Stick1LeftSlots=A,Arrow Left
+Set1Stick2UpSlots=Mouse Move Up
+Set1Stick2RightSlots=Mouse Move Right
+Set1Stick2DownSlots=Mouse Move Down
+Set1Stick2LeftSlots=Mouse Move Left
+Set1TriggerLeftName=Block
+Set1TriggerLeftSlots=Right Mouse Button (2)
+Set1TriggerRightName=Attack
+Set1TriggerRightSlots=Left Mouse Button (1)
+Set1TriggerRightTurboRate=5
+Set1TriggerRightRumble=1
+Set1TriggerRightRumbleStrengths=104,102
+Set1DPadUpRightSlots=2
+Set1DPadDownRightSlots=4
+Set1DPadDownLeftSlots=6
+Set1DPadUpLeftSlots=8

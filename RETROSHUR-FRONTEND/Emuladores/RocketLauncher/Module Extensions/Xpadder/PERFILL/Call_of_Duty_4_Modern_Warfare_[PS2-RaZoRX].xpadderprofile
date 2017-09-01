@@ -1,0 +1,81 @@
+;----------------------
+; Xpadder Profile File
+;----------------------
+
+Version=2007.12
+
+[Set Settings]
+Set1StickDeadZones=64,64
+Set1StickDiagonalSizes=45,45
+Set1TriggerDeadZones=1,1
+Set1DPadMode=Standard
+Set1Stick1Mode=Standard
+Set1Stick2Mode=Standard
+Set2StickDeadZones=64,64
+Set2StickDiagonalSizes=45,45
+Set2TriggerDeadZones=1,1
+Set2DPadMode=Standard
+Set2Stick1Mode=Standard
+Set2Stick2Mode=Standard
+Set3StickDeadZones=64,64
+Set3StickDiagonalSizes=45,45
+Set3TriggerDeadZones=1,1
+Set3DPadMode=Standard
+Set3Stick1Mode=Standard
+Set3Stick2Mode=Standard
+Set4StickDeadZones=64,64
+Set4StickDiagonalSizes=45,45
+Set4TriggerDeadZones=1,1
+Set4DPadMode=Standard
+Set4Stick1Mode=Standard
+Set4Stick2Mode=Standard
+
+[Assignments]
+Set1Button1Name=Frag Grenade
+Set1Button1Slots=G
+Set1Button2Name=Reload
+Set1Button2Slots=R
+Set1Button3Name=Jump/Stand
+Set1Button3Slots=Left Shift
+Set1Button4Name=Use
+Set1Button4Slots=E
+Set1Button5Name=Sec. Attack
+Set1Button5Slots=Right Mouse Button (2)
+Set1Button6Name=Prim. Attack
+Set1Button6Slots=Left Mouse Button (1)
+Set1Button7Name=Sprint/Steady
+Set1Button7Slots=Left Shift
+Set1Button8Name=Melee
+Set1Button8Slots=N
+Set1Button9Name=Nightvision
+Set1Button9Slots=Tab
+Set1Button10Name=Menu
+Set1Button10Slots=Escape
+Set1Button11Name=Prone
+Set1Button11Slots=Left Control
+Set1Button12Name=Crouch
+Set1Button12Slots=C
+Set1DPadUpName=Spec. Grenade
+Set1DPadUpSlots=4
+Set1DPadRightName=Change Weap.
+Set1DPadRightSlots=2
+Set1DPadDownName=G. Launcher
+Set1DPadDownSlots=3
+Set1DPadLeftName=C4
+Set1DPadLeftSlots=7
+Set1Stick1UpName=Forward
+Set1Stick1UpSlots=W
+Set1Stick1RightName=Right
+Set1Stick1RightSlots=D
+Set1Stick1DownName=Backward
+Set1Stick1DownSlots=S
+Set1Stick1LeftName=Left
+Set1Stick1LeftSlots=A
+Set1Stick2UpName=Up
+Set1Stick2UpSlots=Mouse Move Up
+Set1Stick2RightName=Right
+Set1Stick2RightSlots=Mouse Move Right
+Set1Stick2DownName=Down
+Set1Stick2DownSlots=Mouse Move Down
+Set1Stick2LeftName=Left
+Set1Stick2LeftSlots=Mouse Move Left

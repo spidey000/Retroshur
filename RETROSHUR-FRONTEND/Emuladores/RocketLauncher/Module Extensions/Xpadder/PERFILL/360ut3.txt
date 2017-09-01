@@ -1,0 +1,43 @@
+Unreal Tournament 3 configuration setup for the Xbox360 controller...
+
+
+Terms:
+
+LT = Left Trigger
+RT = Right Trigger
+LB = Left Bumper
+RB = Right Bumper
+LA = Left Analog
+LC = Left Analog depressed click
+RA = Right Analog
+RC = Right Analog depressed click
+DP = DPad
+BK = Back Button
+ST = Start Button
+A = (a) button
+B = (b) button
+X = (x) button
+Y = (y) button
+
+
+ok here we go....
+
+LT = Right Mouse Button
+RT = Left Mouse Button
+LB = Previous Weapon
+RB = Next Weapon
+LA = Character Movement
+LC = Crouch
+RA = Mouse Movement
+RC = Horn
+BK = Show Scoreboard
+ST = ESC
+A = Jump
+B = select Best Weapon
+X = Feign Death
+Y = Use
+
+DP up = Show Map
+DP down = Toggle Mini Map
+DP left = Taunt
+DP right = Taunt

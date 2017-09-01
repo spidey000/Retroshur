@@ -1,0 +1,1746 @@
+
+<menu>
+	<game name="5 in 1 Funpak (USA, Europe)">
+		<description>5 in 1 Funpak</description>
+		<crc>f85a8ce8</crc>
+		<manufacturer>Beam Software</manufacturer>
+		<year>1994</year>
+		<genre>Miscellaneous/Board Games</genre>
+	</game>
+	<game name="Addams Family, The (USA, Europe)">
+		<description>Addams Family, The</description>
+		<crc>1d01f999</crc>
+		<manufacturer>Arc Developments</manufacturer>
+		<year>1994</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Adventures of Batman &amp; Robin, The (USA, Europe)">
+		<description>Adventures of Batman &amp; Robin, The</description>
+		<crc>bb4f23ff</crc>
+		<manufacturer>Novotrade</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Aerial Assault (World) (v1.1)">
+		<description>Aerial Assault</description>
+		<crc>04fe6dde</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Action/Shooter</genre>
+	</game>
+	<game name="Aladdin (USA, Europe)">
+		<description>Aladdin</description>
+		<crc>7a41c1dc</crc>
+		<manufacturer>Sims</manufacturer>
+		<year>1994</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Alien 3 (USA, Europe)">
+		<description>Alien 3</description>
+		<crc>11a68c08</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Alien Syndrome (USA, Europe)">
+		<description>Alien Syndrome</description>
+		<crc>bb5e10e0</crc>
+		<manufacturer>Sims</manufacturer>
+		<year>1992</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Andre Agassi Tennis (USA, Europe)">
+		<description>Andre Agassi Tennis</description>
+		<crc>46c9fa3e</crc>
+		<manufacturer>Spidersoft</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Tennis</genre>
+	</game>
+	<game name="Arcade Classics (USA, Europe)">
+		<description>Arcade Classics</description>
+		<crc>3deca813</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1996</year>
+		<genre>Miscellaneous/Compilation</genre>
+	</game>
+	<game name="Arch Rivals (USA, Europe)">
+		<description>Arch Rivals</description>
+		<crc>f0204191</crc>
+		<manufacturer>Arc Developments</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Basketball</genre>
+	</game>
+	<game name="Arena (USA, Europe)">
+		<description>Arena</description>
+		<crc>7cb3facf</crc>
+		<manufacturer>Eden Entertainment Software</manufacturer>
+		<year>1996</year>
+		<genre>Action/Shooter</genre>
+	</game>
+	<game name="Ariel the Little Mermaid (USA, Europe)">
+		<description>Ariel the Little Mermaid</description>
+		<crc>97e3a18c</crc>
+		<manufacturer>Blue Sky Software</manufacturer>
+		<year>1992</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Asterix and the Great Rescue (USA)">
+		<description>Asterix and the Great Rescue</description>
+		<crc>78208b40</crc>
+		<manufacturer>Core Design</manufacturer>
+		<year>1995</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Ax Battler - A Legend of Golden Axe (USA, Europe) (v2.4)">
+		<description>Ax Battler: A Legend of Golden Axe</description>
+		<crc>663bcf8a</crc>
+		<manufacturer>Aspect</manufacturer>
+		<year>1991</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Ayrton Senna&apos;s Super Monaco GP II (USA, Europe)">
+		<description>Ayrton Senna&apos;s Super Monaco GP II</description>
+		<crc>1d1b1dd3</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Driving/Racing</genre>
+	</game>
+	<game name="Baku Baku Animal (USA)">
+		<description>Baku Baku Animal</description>
+		<crc>8d8bfdc4</crc>
+		<manufacturer>Minato Giken</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+	<game name="Bartman Meets Radioactive Man (USA, Europe)">
+		<description>Bartman Meets Radioactive Man</description>
+		<crc>ffa447a9</crc>
+		<manufacturer>Imagineering</manufacturer>
+		<year>1992</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Batman Forever (USA, Europe)">
+		<description>Batman Forever</description>
+		<crc>618b19e2</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Action/Beat-&apos;Em-Up</genre>
+	</game>
+	<game name="Batman Returns (World)">
+		<description>Batman Returns</description>
+		<crc>7ac4a3ca</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Batter Up (USA, Europe)">
+		<description>Batter Up</description>
+		<crc>16448209</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+	</game>
+	<game name="Battleship (USA, Europe)">
+		<description>Battleship</description>
+		<crc>fddd8cd9</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1993</year>
+		<genre>Miscellaneous/Board Games</genre>
+	</game>
+	<game name="Battletoads (USA)">
+		<description>Battletoads</description>
+		<crc>817cc0ca</crc>
+		<manufacturer>Rare</manufacturer>
+		<year>1993</year>
+		<genre>Action/Beat-&apos;Em-Up</genre>
+	</game>
+	<game name="Beavis and Butt-head (USA, Europe)">
+		<description>Beavis and Butt-head</description>
+		<crc>a6bf865e</crc>
+		<manufacturer>NuFX</manufacturer>
+		<year>1994</year>
+		<genre>Adventure/General</genre>
+	</game>
+	<game name="Berenstain Bears&apos; Camping Adventure, The (USA)">
+		<description>Berenstain Bears&apos; Camping Adventure, The</description>
+		<crc>a4bb9ffb</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Bonkers Wax Up! (USA, Europe)">
+		<description>Bonkers Wax Up!</description>
+		<crc>bfceba5f</crc>
+		<manufacturer>Al Baker and Associates</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Bram Stoker&apos;s Dracula (USA, Europe)">
+		<description>Bram Stoker&apos;s Dracula</description>
+		<crc>69ebe5fa</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Bubble Bobble (USA, Europe)">
+		<description>Bubble Bobble</description>
+		<crc>fba338c5</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1994</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Bugs Bunny in Double Trouble (USA, Europe)">
+		<description>Bugs Bunny in Double Trouble</description>
+		<crc>5c34d9cd</crc>
+		<manufacturer>Atod AB</manufacturer>
+		<year>1996</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Bust-A-Move (USA, Europe)">
+		<description>Bust-A-Move</description>
+		<crc>c90f29ef</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+	<game name="Caesars Palace (USA, Europe)">
+		<description>Caesars Palace</description>
+		<crc>c53b60b8</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Miscellaneous/Gambling</genre>
+	</game>
+	<game name="Captain America and the Avengers (USA, Europe)">
+		<description>Captain America and the Avengers</description>
+		<crc>5675dfdd</crc>
+		<manufacturer>Realtime Associates</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Casino Funpak (USA)">
+		<description>Casino Funpak</description>
+		<crc>2b732056</crc>
+		<manufacturer>Beam Software</manufacturer>
+		<year>1995</year>
+		<genre>Miscellaneous/Gambling</genre>
+	</game>
+	<game name="Castle of Illusion Starring Mickey Mouse (USA, Europe)">
+		<description>Castle of Illusion Starring Mickey Mouse</description>
+		<crc>59840fd6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Chakan (USA, Europe)">
+		<description>Chakan</description>
+		<crc>dfc7adc8</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Chessmaster, The (USA, Europe)">
+		<description>Chessmaster, The</description>
+		<crc>da811ba6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+	<game name="Chicago Syndicate (USA, Europe)">
+		<description>Chicago Syndicate</description>
+		<crc>6b0fcec3</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Choplifter III (USA, Europe)">
+		<description>Choplifter III</description>
+		<crc>c2e8a692</crc>
+		<manufacturer>Beam Software</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Chuck Rock (World)">
+		<description>Chuck Rock</description>
+		<crc>191b1ed8</crc>
+		<manufacturer>Core Design</manufacturer>
+		<year>1992</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Chuck Rock II - Son of Chuck (USA)">
+		<description>Chuck Rock II: Son of Chuck</description>
+		<crc>3fcc28c9</crc>
+		<manufacturer>Core Design</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Cliffhanger (USA, Europe)">
+		<description>Cliffhanger</description>
+		<crc>bf75b153</crc>
+		<manufacturer>Spidersoft</manufacturer>
+		<year>1994</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Clutch Hitter (USA, Europe)">
+		<description>Clutch Hitter</description>
+		<crc>d228a467</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+	</game>
+	<game name="Columns (USA, Europe)">
+		<description>Columns</description>
+		<crc>83fa26d9</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+	<game name="Cool Spot (USA, Europe)">
+		<description>Cool Spot</description>
+		<crc>2c758fc8</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Cosmic Spacehead (Europe)">
+		<description>Cosmic Spacehead</description>
+		<crc>6caa625b</crc>
+		<manufacturer>Supersonic Software</manufacturer>
+		<year>1996</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Crystal Warriors (USA, Europe)">
+		<description>Crystal Warriors</description>
+		<crc>529c864e</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Strategy/Turn-Based</genre>
+	</game>
+	<game name="Cutthroat Island (USA, Europe)">
+		<description>Cutthroat Island</description>
+		<crc>6a24e47e</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)">
+		<description>Daffy Duck in Hollywood</description>
+		<crc>aae268fc</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Deep Duck Trouble Starring Donald Duck (USA, Europe)">
+		<description>Deep Duck Trouble Starring Donald Duck</description>
+		<crc>5a136d7e</crc>
+		<manufacturer>Aspect</manufacturer>
+		<year>1993</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Defenders of Oasis (USA, Europe)">
+		<description>Defenders of Oasis</description>
+		<crc>e2791cc1</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing/General</genre>
+	</game>
+	<game name="Desert Speedtrap (USA)">
+		<description>Desert Speedtrap</description>
+		<crc>c2e111ac</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Desert Strike - Return to the Gulf (USA, Europe)">
+		<description>Desert Strike: Return to the Gulf</description>
+		<crc>f6c400da</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1994</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Devilish (USA)">
+		<description>Devilish</description>
+		<crc>c01293b0</crc>
+		<manufacturer>OperaHouse</manufacturer>
+		<year>1991</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Double Dragon (USA, Europe)">
+		<description>Double Dragon</description>
+		<crc>1307a290</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Action/Beat-&apos;Em-Up</genre>
+	</game>
+	<game name="Dr. Robotnik&apos;s Mean Bean Machine (USA, Europe)">
+		<description>Dr. Robotnik&apos;s Mean Bean Machine</description>
+		<crc>3c2d4f48</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+	<game name="Dragon - The Bruce Lee Story (USA)">
+		<description>Dragon: The Bruce Lee Story</description>
+		<crc>17f588e8</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Dragon Crystal (USA, Europe)">
+		<description>Dragon Crystal</description>
+		<crc>0ef2ed93</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing/Action RPG</genre>
+	</game>
+	<game name="Dropzone (USA)">
+		<description>Dropzone</description>
+		<crc>152f0dcc</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1994</year>
+		<genre>Action/Shooter</genre>
+	</game>
+	<game name="Dynamite Headdy (USA, Europe)">
+		<description>Dynamite Headdy</description>
+		<crc>610ff95c</crc>
+		<manufacturer>Treasure</manufacturer>
+		<year>1994</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Earthworm Jim (USA, Europe)">
+		<description>Earthworm Jim</description>
+		<crc>5d3f23a9</crc>
+		<manufacturer>Eurocom Entertainment Software</manufacturer>
+		<year>1995</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Ecco II - The Tides of Time (USA, Europe)">
+		<description>Ecco II: The Tides of Time</description>
+		<crc>e2f3b203</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Ecco the Dolphin (USA)">
+		<description>Ecco the Dolphin</description>
+		<crc>866c7113</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Ernie Els Golf (Europe) (En,Fr,De,Es,It)">
+		<description>Ernie Els Golf</description>
+		<crc>5e53c7f7</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Golf</genre>
+	</game>
+	<game name="Evander Holyfield Boxing (USA, Europe)">
+		<description>Evander Holyfield Boxing</description>
+		<crc>36aaf536</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Boxing</genre>
+	</game>
+	<game name="Excellent Dizzy Collection, The (Europe)">
+		<description>Excellent Dizzy Collection, The</description>
+		<crc>aa140c9c</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1993</year>
+		<genre>Miscellaneous/Compilation</genre>
+	</game>
+	<game name="F-15 Strike Eagle (USA, Europe)">
+		<description>F-15 Strike Eagle</description>
+		<crc>8bdb0806</crc>
+		<manufacturer>NMS Software</manufacturer>
+		<year>1993</year>
+		<genre>Simulation/Flight</genre>
+	</game>
+	<game name="F1 (USA, Europe)">
+		<description>F1</description>
+		<crc>d0a93e00</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1993</year>
+		<genre>Driving/Racing</genre>
+	</game>
+	<game name="Factory Panic (Europe)">
+		<description>Factory Panic</description>
+		<crc>59e3be92</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Fantastic Dizzy (Europe) (En,Fr,De,Es,It)">
+		<description>Fantastic Dizzy</description>
+		<crc>c888222b</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Fantasy Zone Gear (USA, Europe)">
+		<description>Fantasy Zone Gear</description>
+		<crc>d69097e8</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action/Shooter</genre>
+	</game>
+	<game name="Fatal Fury Special (USA, Europe)">
+		<description>Fatal Fury Special</description>
+		<crc>449787e2</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Action/Fighting</genre>
+	</game>
+	<game name="FIFA International Soccer (USA, Europe)">
+		<description>FIFA International Soccer</description>
+		<crc>e632a3a2</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+	</game>
+	<game name="FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es)">
+		<description>FIFA Soccer 96</description>
+		<crc>c379de95</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+	</game>
+	<game name="Foreman for Real (USA, Europe)">
+		<description>Foreman for Real</description>
+		<crc>d46d5685</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Boxing</genre>
+	</game>
+	<game name="Frank Thomas Big Hurt Baseball (USA)">
+		<description>Frank Thomas Big Hurt Baseball</description>
+		<crc>c443c35c</crc>
+		<manufacturer>Realtime Associates</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+	</game>
+	<game name="Fred Couples&apos; Golf (USA)">
+		<description>Fred Couples&apos; Golf</description>
+		<crc>46f40b9f</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Golf</genre>
+	</game>
+	<game name="G-Loc Air Battle (USA, Europe)">
+		<description>G-Loc Air Battle</description>
+		<crc>18de59ed</crc>
+		<manufacturer>Sega-AM2</manufacturer>
+		<year>1991</year>
+		<genre>Simulation/Flight</genre>
+	</game>
+	<game name="Garfield - Caught in the Act (USA)">
+		<description>Garfield: Caught in the Act</description>
+		<crc>cd53f3af</crc>
+		<manufacturer>Novotrade International</manufacturer>
+		<year>1995</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Gear Works (USA, Europe)">
+		<description>Gear Works</description>
+		<crc>e9a2efb4</crc>
+		<manufacturer>Teque Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="George Foreman&apos;s KO Boxing (USA, Europe)">
+		<description>George Foreman&apos;s KO Boxing</description>
+		<crc>58b44585</crc>
+		<manufacturer>Sims</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Boxing</genre>
+	</game>
+	<game name="GP Rider (USA, Europe)">
+		<description>GP Rider</description>
+		<crc>876e9b72</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Driving/Racing</genre>
+	</game>
+	<game name="Greendog (USA, Europe)">
+		<description>Greendog</description>
+		<crc>f27925b0</crc>
+		<manufacturer>Interactive Designs</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Halley Wars (USA, Europe)">
+		<description>Halley Wars</description>
+		<crc>7e9dea46</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action/Shooter</genre>
+	</game>
+	<game name="Home Alone (USA, Europe)">
+		<description>Home Alone</description>
+		<crc>dde29f74</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Hook (USA, Europe)">
+		<description>Hook</description>
+		<crc>f53ced2e</crc>
+		<manufacturer>Spidersoft</manufacturer>
+		<year>1992</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Hurricanes (USA, Europe)">
+		<description>Hurricanes</description>
+		<crc>0a25eec5</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1994</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Incredible Crash Dummies, The (USA, Europe)">
+		<description>Incredible Crash Dummies, The</description>
+		<crc>087fc247</crc>
+		<manufacturer>Teeny Weeny Games</manufacturer>
+		<year>1992</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Incredible Hulk, The (USA, Europe)">
+		<description>Incredible Hulk, The</description>
+		<crc>d7055f88</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Indiana Jones and the Last Crusade (USA, Europe)">
+		<description>Indiana Jones and the Last Crusade</description>
+		<crc>8c048325</crc>
+		<manufacturer>LucasArts</manufacturer>
+		<year>1992</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Iron Man X-O Manowar in Heavy Metal (USA, Europe)">
+		<description>Iron Man X-O Manowar in Heavy Metal</description>
+		<crc>8927b69b</crc>
+		<manufacturer>Realtime Associates</manufacturer>
+		<year>1996</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Itchy &amp; Scratchy Game, The (Europe)">
+		<description>Itchy &amp; Scratchy Game, The</description>
+		<crc>44e7e2da</crc>
+		<manufacturer>Bits Corporation</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="James Bond 007 - The Duel (Europe)">
+		<description>James Bond 007: The Duel</description>
+		<crc>881a4524</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1993</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="James Pond 3 - Operation Starfi5h (Europe)">
+		<description>James Pond 3: Operation Starfi5h</description>
+		<crc>68bb7f71</crc>
+		<manufacturer>Millennium</manufacturer>
+		<year>1993</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="James Pond II - Codename RoboCod (USA, Europe)">
+		<description>James Pond II: Codename RoboCod</description>
+		<crc>9fb5c155</crc>
+		<manufacturer>Millennium</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Jeopardy! (USA, Europe)">
+		<description>Jeopardy!</description>
+		<crc>d7820c21</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1992</year>
+		<genre>Miscellaneous/Game Show</genre>
+	</game>
+	<game name="Jeopardy! - Sports Edition (USA, Europe)">
+		<description>Jeopardy!: Sports Edition</description>
+		<crc>2dd850b7</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1994</year>
+		<genre>Miscellaneous/Game Show</genre>
+	</game>
+	<game name="Joe Montana&apos;s Football (World)">
+		<description>Joe Montana&apos;s Football</description>
+		<crc>4a98678b</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+	</game>
+	<game name="Journey from Darkness - Strider Returns (USA, Europe)">
+		<description>Journey from Darkness: Strider Returns</description>
+		<crc>1ebfa5ca</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1994</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Judge Dredd (USA, Europe)">
+		<description>Judge Dredd</description>
+		<crc>04d23fc4</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Junction (USA, Europe)">
+		<description>Junction</description>
+		<crc>a8ef36a7</crc>
+		<manufacturer>Micronet</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+	<game name="Jungle Book, The (USA)">
+		<description>Jungle Book, The</description>
+		<crc>30c09f31</crc>
+		<manufacturer>Syrox Developments</manufacturer>
+		<year>1994</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Jurassic Park (Europe)">
+		<description>Jurassic Park</description>
+		<crc>bd6f2321</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Adventure/Modern</genre>
+	</game>
+	<game name="Kawasaki Superbike Challenge (USA)">
+		<description>Kawasaki Superbike Challenge</description>
+		<crc>23f9150a</crc>
+		<manufacturer>Time Warner Interactive</manufacturer>
+		<year>1995</year>
+		<genre>Driving/Racing</genre>
+	</game>
+	<game name="Klax (USA, Europe)">
+		<description>Klax</description>
+		<crc>9b40fc8e</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+	<game name="Krusty&apos;s Fun House (USA, Europe)">
+		<description>Krusty&apos;s Fun House</description>
+		<crc>d01e784f</crc>
+		<manufacturer>Audiogenic</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+	<game name="Land of Illusion Starring Mickey Mouse (USA, Europe)">
+		<description>Land of Illusion Starring Mickey Mouse</description>
+		<crc>52dbf3e1</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Last Action Hero (USA, Europe)">
+		<description>Last Action Hero</description>
+		<crc>2d367c43</crc>
+		<manufacturer>Bits Studios</manufacturer>
+		<year>1992</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Legend of Illusion Starring Mickey Mouse (USA, Europe)">
+		<description>Legend of Illusion Starring Mickey Mouse</description>
+		<crc>ce5ad8b7</crc>
+		<manufacturer>Aspect</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Lemmings (USA, Europe)">
+		<description>Lemmings</description>
+		<crc>0fde7baa</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+	<game name="Lion King, The (USA)">
+		<description>Lion King, The</description>
+		<crc>9808d7b3</crc>
+		<manufacturer>Syrox Developments</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Lost World, The - Jurassic Park (USA)">
+		<description>Lost World, The: Jurassic Park</description>
+		<crc>8d1597f5</crc>
+		<manufacturer>Aspect</manufacturer>
+		<year>1997</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Lucky Dime Caper, The (USA, Europe)">
+		<description>Lucky Dime Caper, The</description>
+		<crc>07a7815a</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>1992</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Madden NFL &apos;95 (USA, Europe)">
+		<description>Madden NFL &apos;95</description>
+		<crc>75c71ebf</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+	</game>
+	<game name="Madden NFL &apos;96 (USA, Europe)">
+		<description>Madden NFL &apos;96</description>
+		<crc>75e273eb</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Football</genre>
+	</game>
+	<game name="Magical Puzzle Popils (World) (En,Ja)">
+		<description>Magical Puzzle Popils</description>
+		<crc>cf6d7bc5</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+	<game name="Majors Pro Baseball, The (USA, Europe)">
+		<description>Majors Pro Baseball, The</description>
+		<crc>36ebcd6d</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+	</game>
+	<game name="Marble Madness (USA, Europe)">
+		<description>Marble Madness</description>
+		<crc>9559e339</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1992</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Marko&apos;s Magic Football (USA, Europe) (En,Fr,De,Es)">
+		<description>Marko&apos;s Magic Football</description>
+		<crc>22c418bf</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1993</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Mega Man (USA, Europe)">
+		<description>Mega Man</description>
+		<crc>1ace93af</crc>
+		<manufacturer>Freestyle</manufacturer>
+		<year>1995</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Mick &amp; Mack as the Global Gladiators (USA, Europe)">
+		<description>Mick &amp; Mack as the Global Gladiators</description>
+		<crc>d2b6021e</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1992</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Micro Machines (Europe)">
+		<description>Micro Machines</description>
+		<crc>f7c524f6</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1993</year>
+		<genre>Driving/Racing</genre>
+	</game>
+	<game name="Micro Machines 2 - Turbo Tournament (Europe)">
+		<description>Micro Machines 2: Turbo Tournament</description>
+		<crc>dbe8895c</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1995</year>
+		<genre>Driving/Racing</genre>
+	</game>
+	<game name="Mighty Morphin Power Rangers (USA, Europe)">
+		<description>Mighty Morphin Power Rangers</description>
+		<crc>9289dfcc</crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1994</year>
+		<genre>Action/Beat-&apos;Em-Up</genre>
+	</game>
+	<game name="Mighty Morphin Power Rangers - The Movie (USA, Europe)">
+		<description>Mighty Morphin Power Rangers: The Movie</description>
+		<crc>b47c19e5</crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1994</year>
+		<genre>Action/Fighting</genre>
+	</game>
+	<game name="MLBPA Baseball (USA)">
+		<description>MLBPA Baseball</description>
+		<crc>1ecf07b4</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+	</game>
+	<game name="Monster Truck Wars (USA, Europe)">
+		<description>Monster Truck Wars</description>
+		<crc>453c5cec</crc>
+		<manufacturer>Gremlin Interactive</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Mortal Kombat (USA, Europe) (v2.6)">
+		<description>Mortal Kombat</description>
+		<crc>07494f2a</crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1993</year>
+		<genre>Action/Fighting</genre>
+	</game>
+	<game name="Mortal Kombat 3 (Europe)">
+		<description>Mortal Kombat 3</description>
+		<crc>c2be62bb</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1996</year>
+		<genre>Action/Fighting</genre>
+	</game>
+	<game name="Mortal Kombat II (World)">
+		<description>Mortal Kombat II</description>
+		<crc>4b304e0f</crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1994</year>
+		<genre>Action/Fighting</genre>
+	</game>
+	<game name="Ms. Pac-Man (USA, Europe)">
+		<description>Ms. Pac-Man</description>
+		<crc>5ee88bd5</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="NBA Action (USA, Europe)">
+		<description>NBA Action</description>
+		<crc>19030108</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+	</game>
+	<game name="NBA Jam (USA) (v1.1)">
+		<description>NBA Jam</description>
+		<crc>820fa4ab</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Basketball</genre>
+	</game>
+	<game name="NBA Jam Tournament Edition (USA, Europe)">
+		<description>NBA Jam Tournament Edition</description>
+		<crc>86c32e5b</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+	</game>
+	<game name="NFL &apos;95 (USA, Europe)">
+		<description>NFL &apos;95</description>
+		<crc>dc5b0407</crc>
+		<manufacturer>Blue Sky Software</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+	</game>
+	<game name="NFL Quarterback Club &apos;96 (USA, Europe)">
+		<description>NFL Quarterback Club &apos;96</description>
+		<crc>c348e53a</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+	</game>
+	<game name="NFL Quarterback Club (USA, Europe)">
+		<description>NFL Quarterback Club</description>
+		<crc>61785ed5</crc>
+		<manufacturer>Condor</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+	</game>
+	<game name="NHL All-Star Hockey (USA, Europe)">
+		<description>NHL All-Star Hockey</description>
+		<crc>4680c7aa</crc>
+		<manufacturer>Gray Matter</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Ice Hockey</genre>
+	</game>
+	<game name="NHL Hockey (USA, Europe)">
+		<description>NHL Hockey</description>
+		<crc>658713a5</crc>
+		<manufacturer>Realtime Associates</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Ice Hockey</genre>
+	</game>
+	<game name="Ninja Gaiden (USA, Europe)">
+		<description>Ninja Gaiden</description>
+		<crc>c578756b</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Olympic Gold (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)">
+		<description>Olympic Gold</description>
+		<crc>1d93246e</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Olympic Sports</genre>
+	</game>
+	<game name="Ottifants, The (Europe) (En,Fr,De,Es,It)">
+		<description>Ottifants, The</description>
+		<crc>1e673168</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Out Run Europa (USA, Europe)">
+		<description>Out Run Europa</description>
+		<crc>f037ec00</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1991</year>
+		<genre>Driving/Racing</genre>
+	</game>
+	<game name="Pac-Attack (USA, Europe)">
+		<description>Pac-Attack</description>
+		<crc>9273ee2c</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+	<game name="Pac-Man (USA, Europe)">
+		<description>Pac-Man</description>
+		<crc>a16c5e58</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Paperboy (USA, Europe)">
+		<description>Paperboy</description>
+		<crc>f54b6803</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1992</year>
+		<genre>Driving/Mission-Based</genre>
+	</game>
+	<game name="Paperboy II (USA, Europe)">
+		<description>Paperboy II</description>
+		<crc>8b2c454b</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1992</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Pengo (USA, Europe)">
+		<description>Pengo</description>
+		<crc>0da23cc1</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Pete Sampras Tennis (Europe)">
+		<description>Pete Sampras Tennis</description>
+		<crc>c1756bee</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Tennis</genre>
+	</game>
+	<game name="PGA Tour 96 (USA, Europe)">
+		<description>PGA Tour 96</description>
+		<crc>542b6d8e</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Golf</genre>
+	</game>
+	<game name="PGA Tour Golf (USA) (v1.1)">
+		<description>PGA Tour Golf</description>
+		<crc>1c77d996</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Golf</genre>
+	</game>
+	<game name="PGA Tour Golf II (USA, Europe)">
+		<description>PGA Tour Golf II</description>
+		<crc>4a8ac851</crc>
+		<manufacturer>Polygames</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+	</game>
+	<game name="Phantom 2040 (USA, Europe)">
+		<description>Phantom 2040</description>
+		<crc>281b1c3a</crc>
+		<manufacturer>Unexpected Development</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Pinball Dreams (USA)">
+		<description>Pinball Dreams</description>
+		<crc>635c483a</crc>
+		<manufacturer>Spidersoft</manufacturer>
+		<year>1995</year>
+		<genre>Action/Pinball</genre>
+	</game>
+	<game name="Poker Faced Paul&apos;s Blackjack (USA, Europe)">
+		<description>Poker Faced Paul&apos;s Blackjack</description>
+		<crc>89d34067</crc>
+		<manufacturer>Spidersoft</manufacturer>
+		<year>1993</year>
+		<genre>Miscellaneous/Gambling</genre>
+	</game>
+	<game name="Poker Faced Paul&apos;s Gin (USA, Europe)">
+		<description>Poker Faced Paul&apos;s Gin</description>
+		<crc>afd61b89</crc>
+		<manufacturer>Adrenalin Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Miscellaneous/Gambling</genre>
+	</game>
+	<game name="Poker Faced Paul&apos;s Poker (USA, Europe)">
+		<description>Poker Faced Paul&apos;s Poker</description>
+		<crc>03bb0668</crc>
+		<manufacturer>Adrenalin Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Miscellaneous/Gambling</genre>
+	</game>
+	<game name="Poker Faced Paul&apos;s Solitaire (USA, Europe)">
+		<description>Poker Faced Paul&apos;s Solitaire</description>
+		<crc>0e9b0c0a</crc>
+		<manufacturer>Spidersoft</manufacturer>
+		<year>1994</year>
+		<genre>Miscellaneous/Gambling</genre>
+	</game>
+	<game name="Power Strike II (Japan, Europe)">
+		<description>Power Strike II</description>
+		<crc>09de1528</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1994</year>
+		<genre>Action/Shooter</genre>
+	</game>
+	<game name="Predator 2 (USA, Europe)">
+		<description>Predator 2</description>
+		<crc>e5f789b9</crc>
+		<manufacturer>Teeny Weeny Games</manufacturer>
+		<year>1992</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Primal Rage (USA, Europe)">
+		<description>Primal Rage</description>
+		<crc>2a34b5c7</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Action/Fighting</genre>
+	</game>
+	<game name="Prince of Persia (USA, Europe)">
+		<description>Prince of Persia</description>
+		<crc>311d2863</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1992</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Psychic World (USA, Europe) (v1.1)">
+		<description>Psychic World</description>
+		<crc>73779b22</crc>
+		<manufacturer>Hertz</manufacturer>
+		<year>1991</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Putt &amp; Putter (USA, Europe)">
+		<description>Putt &amp; Putter</description>
+		<crc>ecc301dd</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Golf</genre>
+	</game>
+	<game name="Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe)">
+		<description>Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy</description>
+		<crc>6c451ee1</crc>
+		<manufacturer>Realtime Associates</manufacturer>
+		<year>1994</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="R.B.I. Baseball &apos;94 (USA, Europe)">
+		<description>R.B.I. Baseball &apos;94</description>
+		<crc>6dc3295e</crc>
+		<manufacturer>Al Baker and Associates</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+	</game>
+	<game name="R.C. Grand Prix (USA, Europe)">
+		<description>R.C. Grand Prix</description>
+		<crc>56201996</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Driving/Racing</genre>
+	</game>
+	<game name="Revenge of Drancon (USA)">
+		<description>Revenge of Drancon</description>
+		<crc>03e9c607</crc>
+		<manufacturer>West One</manufacturer>
+		<year>1991</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Riddick Bowe Boxing (USA)">
+		<description>Riddick Bowe Boxing</description>
+		<crc>38d8ec56</crc>
+		<manufacturer>Extreme Entertainment Group</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+	</game>
+	<game name="Rise of the Robots (USA, Europe)">
+		<description>Rise of the Robots</description>
+		<crc>100b77b2</crc>
+		<manufacturer>Time Warner Interactive</manufacturer>
+		<year>1995</year>
+		<genre>Action/Fighting</genre>
+	</game>
+	<game name="Ristar - The Shooting Star (USA, Europe)">
+		<description>Ristar: The Shooting Star</description>
+		<crc>efe65b3b</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Road Rash (USA, Europe)">
+		<description>Road Rash</description>
+		<crc>96045f76</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Driving/Motorcycle</genre>
+	</game>
+	<game name="RoboCop 3 (USA, Europe)">
+		<description>RoboCop 3</description>
+		<crc>069a0704</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1994</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="RoboCop versus The Terminator (USA, Europe)">
+		<description>RoboCop versus The Terminator</description>
+		<crc>4ab7fa4e</crc>
+		<manufacturer>NMS Software</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="S.S. Lucifer - Man Overboard! (Europe)">
+		<description>S.S. Lucifer: Man Overboard!</description>
+		<crc>d9a7f170</crc>
+		<manufacturer>Big Red Software</manufacturer>
+		<year>1993</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Samurai Shodown (USA, Europe)">
+		<description>Samurai Shodown</description>
+		<crc>98171deb</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1994</year>
+		<genre>Action/Fighting</genre>
+	</game>
+	<game name="Sega Game Pack 4 in 1 (Europe)">
+		<description>Sega Game Pack 4 in 1</description>
+		<crc>0924d2ec</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Miscellaneous/Compilation</genre>
+	</game>
+	<game name="Sensible Soccer (Europe)">
+		<description>Sensible Soccer</description>
+		<crc>5b68da75</crc>
+		<manufacturer>Sensible Software</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+	</game>
+	<game name="Shaq Fu (USA, Europe)">
+		<description>Shaq Fu</description>
+		<crc>6fcb8ab0</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1995</year>
+		<genre>Action/Fighting</genre>
+	</game>
+	<game name="Shining Force II - The Sword of Hajya (USA, Europe)">
+		<description>Shining Force II: The Sword of Hajya</description>
+		<crc>a6ca6fa9</crc>
+		<manufacturer>Camelot Software Planning</manufacturer>
+		<year>1994</year>
+		<genre>Strategy/Turn-Based</genre>
+	</game>
+	<game name="Side Pocket (USA)">
+		<description>Side Pocket</description>
+		<crc>6a603eed</crc>
+		<manufacturer>Data East USA</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Billiards</genre>
+	</game>
+	<game name="Simpsons, The - Bart vs. The Space Mutants (USA, Europe)">
+		<description>Simpsons, The: Bart vs. The Space Mutants</description>
+		<crc>c0009274</crc>
+		<manufacturer>Imagineering</manufacturer>
+		<year>1992</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Simpsons, The - Bart vs. The World (USA, Europe)">
+		<description>Simpsons, The: Bart vs. The World</description>
+		<crc>da7bd5c7</crc>
+		<manufacturer>Arc Developments</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Slider (USA, Europe)">
+		<description>Slider</description>
+		<crc>4dc6f555</crc>
+		<manufacturer>Loriciels</manufacturer>
+		<year>1991</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Smurfs, The (Europe) (En,Fr,De,Es)">
+		<description>Smurfs, The</description>
+		<crc>354e1cbd</crc>
+		<manufacturer>IMPS</manufacturer>
+		<year>1994</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Solitaire Funpak (USA, Europe)">
+		<description>Solitaire Funpak</description>
+		<crc>f6f24b75</crc>
+		<manufacturer>Beam Software</manufacturer>
+		<year>1994</year>
+		<genre>Strategy/General</genre>
+	</game>
+	<game name="Solitaire Poker (USA, Europe)">
+		<description>Solitaire Poker</description>
+		<crc>06f2fc46</crc>
+		<manufacturer>Sankindo</manufacturer>
+		<year>1991</year>
+		<genre>Miscellaneous/Gambling</genre>
+	</game>
+	<game name="Sonic Blast (World)">
+		<description>Sonic Blast</description>
+		<crc>031b9da9</crc>
+		<manufacturer>Aspect</manufacturer>
+		<year>1996</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Sonic Chaos (USA, Europe)">
+		<description>Sonic Chaos</description>
+		<crc>663f2abb</crc>
+		<manufacturer>Aspect</manufacturer>
+		<year>1993</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Sonic Labyrinth (USA, Europe)">
+		<description>Sonic Labyrinth</description>
+		<crc>5550173b</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Sonic Spinball (USA, Europe)">
+		<description>Sonic Spinball</description>
+		<crc>a9210434</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Sonic the Hedgehog (World) (v1.1)">
+		<description>Sonic the Hedgehog</description>
+		<crc>d163356e</crc>
+		<manufacturer>Ancient</manufacturer>
+		<year>1991</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Sonic the Hedgehog - Triple Trouble (USA, Europe)">
+		<description>Sonic the Hedgehog: Triple Trouble</description>
+		<crc>d23a2a93</crc>
+		<manufacturer>Aspect</manufacturer>
+		<year>1994</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Sonic the Hedgehog 2 (World)">
+		<description>Sonic the Hedgehog 2</description>
+		<crc>95a18ec7</crc>
+		<manufacturer>Aspect</manufacturer>
+		<year>1992</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Space Harrier (USA, Europe)">
+		<description>Space Harrier</description>
+		<crc>600c15b3</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action/Shooter</genre>
+	</game>
+	<game name="Spider-Man - Return of the Sinister Six (USA, Europe)">
+		<description>Spider-Man: Return of the Sinister Six</description>
+		<crc>bc240779</crc>
+		<manufacturer>Bits Studios</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Spider-Man and the X-Men in Arcade&apos;s Revenge (USA, Europe)">
+		<description>Spider-Man and the X-Men in Arcade&apos;s Revenge</description>
+		<crc>742a372b</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1994</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Spider-Man vs. The Kingpin (USA, Europe)">
+		<description>Spider-Man Vs. The Kingpin</description>
+		<crc>2651024e</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Sports Illustrated Championship Football &amp; Baseball (USA, Europe)">
+		<description>Sports Illustrated Championship Football &amp; Baseball</description>
+		<crc>de25e2d8</crc>
+		<manufacturer>Unexpected Development</manufacturer>
+		<year>1993</year>
+		<genre>Sports/General</genre>
+	</game>
+	<game name="Sports Trivia (USA, Europe)">
+		<description>Sports Trivia</description>
+		<crc>a7af7ca9</crc>
+		<manufacturer>Adrenalin Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Miscellaneous/Game Show</genre>
+	</game>
+	<game name="Sports Trivia - Championship Edition (USA, Europe)">
+		<description>Sports Trivia: Championship Edition</description>
+		<crc>5b5de94d</crc>
+		<manufacturer>Adrenalin Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Miscellaneous/Game Show</genre>
+	</game>
+	<game name="Star Trek - The Next Generation (USA, Europe)">
+		<description>Star Trek: The Next Generation</description>
+		<crc>80156323</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Simulation/Sci-Fi</genre>
+	</game>
+	<game name="Star Trek Generations - Beyond the Nexus (USA, Europe)">
+		<description>Star Trek Generations: Beyond the Nexus</description>
+		<crc>087fc5f0</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Star Wars (USA, Europe)">
+		<description>Star Wars</description>
+		<crc>0228769c</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Stargate (USA, Europe)">
+		<description>Stargate</description>
+		<crc>fc7c64e4</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Streets of Rage (World)">
+		<description>Streets of Rage</description>
+		<crc>3d8bcf1d</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Action/Beat-&apos;Em-Up</genre>
+	</game>
+	<game name="Streets of Rage II (World)">
+		<description>Streets of Rage II</description>
+		<crc>0b618409</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action/Beat-&apos;Em-Up</genre>
+	</game>
+	<game name="Super Battletank (USA)">
+		<description>Super Battletank</description>
+		<crc>73d6745a</crc>
+		<manufacturer>Developer Majesco Games</manufacturer>
+		<year>2001</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Super Columns (USA)">
+		<description>Super Columns</description>
+		<crc>8ba43af3</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+	<game name="Super Monaco GP (USA, Europe)">
+		<description>Super Monaco GP</description>
+		<crc>fcf12547</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Driving/Racing</genre>
+	</game>
+	<game name="Super Off Road (USA, Europe)">
+		<description>Super Off Road</description>
+		<crc>e8b42b1f</crc>
+		<manufacturer>Graftgold</manufacturer>
+		<year>1992</year>
+		<genre>Driving/Racing</genre>
+	</game>
+	<game name="Super Return of the Jedi (USA, Europe)">
+		<description>Super Return of the Jedi</description>
+		<crc>4a38b6b6</crc>
+		<manufacturer>Realtime Associates</manufacturer>
+		<year>1994</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Super Smash T.V. (World)">
+		<description>Super Smash T.V.</description>
+		<crc>1006e4e3</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Action/Shooter</genre>
+	</game>
+	<game name="Super Space Invaders (USA, Europe)">
+		<description>Super Space Invaders</description>
+		<crc>dfe38e24</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1993</year>
+		<genre>Action/Shooter</genre>
+	</game>
+	<game name="Superman - The Man of Steel (Europe)">
+		<description>Superman: The Man of Steel</description>
+		<crc>73df5a15</crc>
+		<manufacturer>Graftgold</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Surf Ninjas (USA)">
+		<description>Surf Ninjas</description>
+		<crc>284482a8</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action/Beat-&apos;Em-Up</genre>
+	</game>
+	<game name="T2 - The Arcade Game (USA, Europe)">
+		<description>T2: The Arcade Game</description>
+		<crc>9479c83a</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Action/Shooter</genre>
+	</game>
+	<game name="Tails Adventures (Japan, USA) (En,Ja)">
+		<description>Tails Adventures</description>
+		<crc>5bb6e5d6</crc>
+		<manufacturer>Aspect</manufacturer>
+		<year>1995</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Tale Spin (USA, Europe)">
+		<description>Tale Spin</description>
+		<crc>f1732ffe</crc>
+		<manufacturer>Interactive Designs</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Taz in Escape from Mars (USA, Europe)">
+		<description>Taz in Escape from Mars</description>
+		<crc>eebad66b</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Taz-Mania - The Search for the Lost Seabirds (USA, Europe)">
+		<description>Taz-Mania: The Search for the Lost Seabirds</description>
+		<crc>36040c24</crc>
+		<manufacturer>NuFX</manufacturer>
+		<year>1994</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Tempo Jr. (USA, Europe)">
+		<description>Tempo Jr.</description>
+		<crc>de466796</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Tengen World Cup Soccer (USA, Europe)">
+		<description>Tengen World Cup Soccer</description>
+		<crc>dd6d2e34</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+	</game>
+	<game name="Terminator 2 - Judgment Day (USA, Europe)">
+		<description>Terminator 2: Judgment Day</description>
+		<crc>1bd15773</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Terminator, The (USA, Europe)">
+		<description>Terminator, The</description>
+		<crc>c029a5fd</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Tesserae (USA, Europe)">
+		<description>Tesserae</description>
+		<crc>ca0e11cc</crc>
+		<manufacturer>Eurocom Entertainment Software</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+	<game name="Tom and Jerry - The Movie (USA, Europe)">
+		<description>Tom and Jerry: The Movie</description>
+		<crc>5cd33ff2</crc>
+		<manufacturer>Sims</manufacturer>
+		<year>1993</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="True Lies (USA, Europe)">
+		<description>True Lies</description>
+		<crc>5173b02a</crc>
+		<manufacturer>Beam Software</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Ultimate Soccer (Japan, Europe) (En,Fr,De,Es,It)">
+		<description>Ultimate Soccer</description>
+		<crc>820965a3</crc>
+		<manufacturer>Rage Software</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+	</game>
+	<game name="Urban Strike (USA, Europe)">
+		<description>Urban Strike</description>
+		<crc>185e9fc1</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Vampire - Master of Darkness (USA, Europe)">
+		<description>Vampire: Master of Darkness</description>
+		<crc>7ec64025</crc>
+		<manufacturer>Sims</manufacturer>
+		<year>1993</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Virtua Fighter Animation (USA)">
+		<description>Virtua Fighter Animation</description>
+		<crc>d431c452</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1996</year>
+		<genre>Action/Fighting</genre>
+	</game>
+	<game name="VR Troopers (USA, Europe)">
+		<description>VR Troopers</description>
+		<crc>b0f22745</crc>
+		<manufacturer>Syrox Developments</manufacturer>
+		<year>1995</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Wheel of Fortune (USA, Europe)">
+		<description>Wheel of Fortune</description>
+		<crc>e91cdb2a</crc>
+		<manufacturer>Imagitec Design</manufacturer>
+		<year>1992</year>
+		<genre>Miscellaneous/Game Show</genre>
+	</game>
+	<game name="Wimbledon (Japan, Europe)">
+		<description>Wimbledon</description>
+		<crc>ce1108fd</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+	</game>
+	<game name="Winter Olympics - Lillehammer &apos;94 (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No)">
+		<description>Winter Olympics: Lillehammer &apos;94</description>
+		<crc>d15d335b</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Olympic Sports</genre>
+	</game>
+	<game name="Wizard Pinball (Europe)">
+		<description>Wizard Pinball</description>
+		<crc>9e03f96c</crc>
+		<manufacturer>Teque Interactive</manufacturer>
+		<year>1992</year>
+		<genre>Action/Pinball</genre>
+	</game>
+	<game name="Wolfchild (USA, Europe)">
+		<description>Wolfchild</description>
+		<crc>840a8f8e</crc>
+		<manufacturer>Core Design</manufacturer>
+		<year>1993</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="Wonder Boy - The Dragon&apos;s Trap (USA, Europe)">
+		<description>Wonder Boy: The Dragon&apos;s Trap</description>
+		<crc>a74c97a7</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Woody Pop (USA, Europe) (v1.1)">
+		<description>Woody Pop</description>
+		<crc>b74f3a4f</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="World Class Leader Board (USA)">
+		<description>World Class Leader Board</description>
+		<crc>868fe528</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1991</year>
+		<genre>Action/General</genre>
+	</game>
+	<game name="World Cup USA 94 (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)">
+		<description>World Cup USA 94</description>
+		<crc>d2bb3690</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+	</game>
+	<game name="World Series Baseball &apos;95 (USA, Europe)">
+		<description>World Series Baseball &apos;95</description>
+		<crc>578a8a38</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+	</game>
+	<game name="World Series Baseball (USA, Europe) (v1.1)">
+		<description>World Series Baseball</description>
+		<crc>bb38cfd7</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Baseball</genre>
+	</game>
+	<game name="WWF Raw (USA, Europe)">
+		<description>WWF Raw</description>
+		<crc>8dc68d92</crc>
+		<manufacturer>Realtime Associates</manufacturer>
+		<year>1992</year>
+		<genre>Action/Fighting</genre>
+	</game>
+	<game name="WWF Wrestlemania Steel Cage Challenge (Europe)">
+		<description>WWF Wrestlemania Steel Cage Challenge</description>
+		<crc>da8e95a9</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1993</year>
+		<genre>Action/Fighting</genre>
+	</game>
+	<game name="X-Men (USA, Europe)">
+		<description>X-Men</description>
+		<crc>567a5ee6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="X-Men - Gamemaster&apos;s Legacy (USA, Europe)">
+		<description>X-Men: Gamemaster&apos;s Legacy</description>
+		<crc>c169c344</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="X-Men - Mojo World (USA, Europe)">
+		<description>X-Men: Mojo World</description>
+		<crc>c2cba9d7</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1996</year>
+		<genre>Action/Beat-&apos;Em-Up</genre>
+	</game>
+	<game name="Zool (USA)">
+		<description>Zool</description>
+		<crc>b287c695</crc>
+		<manufacturer>Gremlin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Action/Platformer</genre>
+	</game>
+	<game name="Zoop (USA)">
+		<description>Zoop</description>
+		<crc>3247ff8b</crc>
+		<manufacturer>Hookstone Productions</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Miscellaneous</genre>
+	</game>
+</menu>

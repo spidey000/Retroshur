@@ -1,0 +1,22 @@
+shaders = 4
+
+shader0 = stock.cg
+shader1 = gaussian-vert.cg
+shader2 = gaussian-horiz.cg
+shader3 = combine.cg
+
+
+scale_type0 = viewport
+scale0 = 1.0
+filter_linear0 = false
+
+scale_type1 = viewport
+scale1 = 1.0
+filter_linear1 = false
+
+scale_type2 = viewport
+scale2 = 1.0
+filter_linear2 = true
+
+scale_type3 = viewport
+filter_linear3 = true

@@ -1,0 +1,15 @@
+Left Trigger - Orange Portal
+
+Right Trigger - Blue Portal
+
+Left Joy - Movement
+
+Left Joy IN - Crouch
+
+Right Joy - Look
+
+X - Activate or Pickup items
+
+A - Jump
+
+Start - Menu/Pause
