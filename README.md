@@ -7,10 +7,16 @@ INICIAR RETROSHUR-FULLSCREEN.cmd para fullscreen
 INICIAR RETROSHUR-MODO-VENTANA.bat para el modo VENTANA
 
 ::::::::::::::::::::Actualizar Retroarch:::::::::::::::::::::::::::::
+
+
 2.-Entra en Retropie Menu(es el unico que sale x ahora) y ejecuta:  "Actualizar Retroarch" (estos pasos requiere tener conexion a internet)
 se abrira un terminal cmd y se empezara a descargar los paquetes necesarios cuando termine te devolvera al frontend ahora vamos a instalar los cores
 
+
+
 ::::::::::::::::::::Actualizar cores de retroarch::::::::::::::::::::
+
+
 3.- ve a retropie menu>Actualizar-Retroarch>Actualiza-cores, cuando termine de descargar los cores te saldra el frontend y ahora te toca configurar los mandos
 
 :::::Configurando los mandos::::::script en prueba!::::::::::::::::::
@@ -23,12 +29,15 @@ se abrira un terminal cmd y se empezara a descargar los paquetes necesarios cuan
 si quieres jugar a esas plataformas es obligado que hagas/ejecutes esas opciones.
 
 
+
 :::::::::::::::::::Retroshur-Rom-Downloader:::::::::::::::::::::::::::
+
 
 6.-para bajarse los backups de juegos. da igual que tengas los backups trata de descargarte al menos 1 o 2 para probar que funciona bien.
 
 
 :::::::::::::::::::INICIO-MODO-RAPIDO:::::::::::::::::::::::::::::::::
+
 
 Bien, tanto si INICIAR RETROSHUR-FULLSCREEN.cmd como INICIAR RETROSHUR-MODO-VENTANA.bat tienen un script que scanea 
 tu carpeta de RETROSHUR cualquer ruta erronea a la ruta correcta (es lo que hace que Retroshur sea totalmente portable)
