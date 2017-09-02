@@ -1,4 +1,4 @@
-Gracias por probar Retroshur Emulationstation
+Gracias por probar Retroshur Emulationstation BETA 5
 
 como usar este pack:
 
