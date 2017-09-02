@@ -5,7 +5,11 @@ como usar este pack:
 
 
 0.-conecta tu mando al pc y asegurate que lo reconoce el pc 
+
+
 1.-Ejecuta cualquiera de estos dos archivos:
+
+
 INICIAR RETROSHUR-FULLSCREEN.cmd para fullscreen
 INICIAR RETROSHUR-MODO-VENTANA.bat para el modo VENTANA
 
