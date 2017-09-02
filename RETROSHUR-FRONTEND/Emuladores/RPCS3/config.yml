@@ -1,0 +1,225 @@
+Core:
+  Hook static functions: false
+  Load libraries:
+    []
+  PPU Decoder: Interpreter (fast)
+  Load liblv2.sprx only: false
+  SPU Decoder: Recompiler (ASMJIT)
+Audio:
+  Dump to file: false
+  Renderer: XAudio2
+  Convert to 16 bit: false
+Log:
+  cellAdec: Notice
+  cellAtracMulti: Notice
+  cellAtrac: Notice
+  cellFiber: Notice
+  cellAudio: Notice
+  cellAvconfExt: Notice
+  cellFont: Notice
+  cellFontFT: Notice
+  cellDmux: Notice
+  cellBGDL: Notice
+  cellCelpEnc: Notice
+  cellDaisy: Notice
+  cellCelp8Enc: Notice
+  cellCamera: Notice
+  cellImeJp: Notice
+  cellHttp: Notice
+  cellHttpUtil: Notice
+  cellJpgDec: Notice
+  cellGameExec: Notice
+  cellJpgEnc: Notice
+  cellGem: Notice
+  cellGifDec: Notice
+  cellGcmSys: Notice
+  cellGame: Notice
+  cellFs: Notice
+  cellNetCtl: Notice
+  cellKey2char: Notice
+  cellOskDialog: Notice
+  cellPamf: Notice
+  cellMusicDecode: Notice
+  cellMic: Notice
+  cellMusic: Notice
+  cellMusicExport: Notice
+  cellOvis: Notice
+  cellL10n: Notice
+  cellPhotoDecode: Notice
+  cellPhotoImportUtil: Notice
+  cellResc: Notice
+  cellRudp: Notice
+  cellPhotoExport: Notice
+  cellPrint: Notice
+  cellRtc: Notice
+  cellPngDec: Notice
+  cellRemotePlay: Notice
+  cellRec: Notice
+  cellPngEnc: Notice
+  cellScreenshot: Notice
+  cellSaveData: Notice
+  cellSailRec: Notice
+  cellSail: Notice
+  cellSheap: Notice
+  cellSsl: Notice
+  cellSpudll: Notice
+  cellSubdisplay: Notice
+  cellSearch: Notice
+  cellSpurs: Notice
+  cellSpursJq: Notice
+  cellSync: Notice
+  cellSync2: Notice
+  cellUsbPspcm: Notice
+  cellSysutilAp: Notice
+  cellSysutilAvc2: Notice
+  cellSysutilMisc: Notice
+  cellSysutilAvc: Notice
+  cellSysutil: Notice
+  cellSysmodule: Notice
+  cellSysconf: Notice
+  cellUserInfo: Notice
+  cellVoice: Notice
+  cellUsbd: Notice
+  cellVideoUpload: Notice
+  cellVdec: Notice
+  libmixer: Notice
+  libnet: Notice
+  cellVideoExport: Notice
+  libsnd3: Notice
+  cellVpost: Notice
+  libsynth2: Notice
+  sceAppUtil: Notice
+  sceAudio: Notice
+  sceAudioIn: Notice
+  sceDbg: Notice
+  sceCodecEngine: Notice
+  sceCtrl: Notice
+  sceAppMgr: Notice
+  sceCamera: Notice
+  sceCommonDialog: Notice
+  sceAudioenc: Notice
+  sceAudiodec: Notice
+  sceDeci4p: Notice
+  sceJpeg: Notice
+  sceFios: Notice
+  sceDisplay: Notice
+  sceFiber: Notice
+  sceIme: Notice
+  sceDeflt: Notice
+  sceFpu: Notice
+  sceGxm: Notice
+  sceHttp: Notice
+  sceLibstdcxx: Notice
+  sceLocation: Notice
+  sceLibKernel: Notice
+  sceLibm: Notice
+  sceLibXml: Notice
+  sceMotion: Notice
+  sceMt19937: Notice
+  sceLibc: Notice
+  sceJpegEnc: Notice
+  sceMd5: Notice
+  sceLiveArea: Notice
+  sceNp2: Notice
+  sceNetCtl: Notice
+  sceNgs: Notice
+  sceNp: Notice
+  sceNpCommerce2: Notice
+  sceNpBasic: Notice
+  sceNpCommon: Notice
+  sceNpManager: Notice
+  sceNet: Notice
+  sceNpClans: Notice
+  sceNpMatching: Notice
+  sceRazorCapture: Notice
+  scePhotoExport: Notice
+  scePgf: Notice
+  scePerf: Notice
+  sceNpTrophy: Notice
+  sceNpUtility: Notice
+  sceNpTus: Notice
+  sceNpUtil: Notice
+  sceNpSns: Notice
+  sceNpScore: Notice
+  sceRtc: Notice
+  sceSqlite: Notice
+  sceSsl: Notice
+  sceSha: Notice
+  sceSystemGesture: Notice
+  sceTouch: Notice
+  sceSulpha: Notice
+  sceSysmodule: Notice
+  sceSas: Notice
+  sceScreenShot: Notice
+  sceSfmt: Notice
+  sys_dbg: Notice
+  sys_fs: Notice
+  sceVideodec: Notice
+  sceUlt: Notice
+  sys_event_flag: Notice
+  sysPrxForUser: Notice
+  sys_event: Notice
+  sys_cond: Notice
+  sceVoiceQoS: Notice
+  sceVoice: Notice
+  sys_ppu_thread: Notice
+  sys_io: Notice
+  sys_mmapper: Notice
+  sys_libc: Notice
+  sys_interrupt: Notice
+  sys_process: Notice
+  sys_mutex: Notice
+  sys_lv2dbg: Notice
+  sys_lwcond: Notice
+  sys_lwmutex: Notice
+  sys_memory: Notice
+  sys_time: Notice
+  sys_prx: Notice
+  sys_trace: Notice
+  sys_vm: Notice
+  sys_rwlock: Notice
+  sys_spu: Notice
+  sys_timer: Notice
+  sys_tty: Notice
+  sys_rsx: Notice
+  sys_semaphore: Notice
+Input/Output:
+  Camera: Null
+  Keyboard: Null
+  Mouse: Null
+  Pad: XInput
+  Camera type: Unknown
+Miscellaneous:
+  Auto Pause at Function Call: false
+  Always start after boot: true
+  Exit RPCS3 when process finishes: false
+  Auto Pause at System Call: false
+System:
+  Language: Japanese
+Net:
+  IP address: 192.168.1.1
+  Connection status: Disconnected
+VFS:
+  $(EmulatorDir): !<!> ""
+  Enable /host_root/: true
+  /dev_bdvd/: !<!> ""
+  /dev_flash/: $(EmulatorDir)dev_flash/
+  /dev_usb000/: $(EmulatorDir)dev_usb000/
+  /app_home/: !<!> ""
+  /dev_hdd1/: $(EmulatorDir)dev_hdd1/
+  /dev_hdd0/: $(EmulatorDir)dev_hdd0/
+Video:
+  Aspect ratio: 16x9
+  Debug overlay: false
+  D3D12:
+    Adapter: ""
+  Read Depth Buffer: false
+  Read Color Buffers: false
+  Frame limit: Off
+  Renderer: OpenGL
+  Resolution: 1280x720
+  Debug output: false
+  Log shader programs: false
+  VSync: false
+  Write Color Buffers: false
+  Write Depth Buffer: false
