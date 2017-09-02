@@ -19,7 +19,11 @@ se abrira un terminal cmd y se empezara a descargar los paquetes necesarios cuan
 
 3.- ve a retropie menu>Actualizar-Retroarch>Actualiza-cores, cuando termine de descargar los cores te saldra el frontend y ahora te toca configurar los mandos
 
+
 :::::Configurando los mandos::::::script en prueba!::::::::::::::::::
+
+
+
 4.-ve a retropie menu>Actualizar-Retroarch>Configurar Mandos>player1 te saldra un ventana de CMD lee con calma y cuando estes listo presiona ENTER 
 (si te lias cierra la ventana y empieza este paso de nuevo)
 
