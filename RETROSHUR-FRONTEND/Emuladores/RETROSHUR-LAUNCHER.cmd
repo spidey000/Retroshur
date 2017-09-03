@@ -264,7 +264,7 @@ goto :EXIT
 
 :EXIT
 taskkill /F /IM AutoHotKeyU64.exe /T
-::taskkill /F /IM Frameless.exe /T
-::start "Frameless" /d %BCK% "nircmd.exe" killprocess "Frameless.exe"
+taskkill /F /IM Frameless.exe /T
+start "Frameless" /d %BCK% "nircmd.exe" killprocess "Frameless.exe"
 
 exit /b %ERRORLEVEL%
