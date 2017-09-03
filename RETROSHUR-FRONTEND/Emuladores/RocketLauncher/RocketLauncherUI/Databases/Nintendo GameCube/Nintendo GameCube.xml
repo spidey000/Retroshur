@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu>
+<game name="Paper Mario - The Thousand-Year Door (USA)" index="true" image="p">
+	<description>Paper Mario - The Thousand-Year Door (USA)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+</menu>

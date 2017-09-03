@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <systems>
   <system name="Amstrad GX4000" type="" year="" manufacturer="" enabled="true" />
   <system name="Atari 5200" type="" year="" manufacturer="" enabled="true" />
@@ -9,7 +10,6 @@
   <system name="Future Pinball" type="" year="" manufacturer="" enabled="true" />
   <system name="Gaelco" type="" year="" manufacturer="" enabled="true" />
   <system name="Konami" type="" year="" manufacturer="" enabled="true" />
-  <system name="MAME" type="" year="" manufacturer="" enabled="true" />
   <system name="Microsoft MSX2" type="" year="" manufacturer="" enabled="true" />
   <system name="Namco System 22" type="" year="" manufacturer="" enabled="true" />
   <system name="NEC PC Engine" type="" year="" manufacturer="" enabled="true" />
@@ -47,7 +47,6 @@
   <system name="Pop Cap" type="" year="" manufacturer="" enabled="true" />
   <system name="MUGEN" type="" year="" manufacturer="" enabled="true" />
   <system name="Panasonic 3DO" type="" year="" manufacturer="" enabled="true" />
-  <system name="Sega Game Gear" type="" year="" manufacturer="" enabled="true" />
   <system name="Casio PV-1000" type="" year="" manufacturer="" enabled="true" />
   <system name="OpenBor" type="" year="" manufacturer="" enabled="true" />
   <system name="Daphne" type="" year="" manufacturer="" enabled="true" />
@@ -59,4 +58,8 @@
   <system name="Atari Jaguar" type="" year="" manufacturer="" enabled="true" />
   <system name="Capcom Play System II" type="" year="" manufacturer="" enabled="true" />
   <system name="Atari 2600" type="" year="" manufacturer="" enabled="true" />
+  <system name="MAME" type="" year="" manufacturer="" enabled="true" />
+  <system name="Nintendo GameCube" type="" year="" manufacturer="" enabled="true" />
+  <system name="Nintendo Game Boy" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega Game Gear" type="" year="" manufacturer="" enabled="true" />
 </systems>
