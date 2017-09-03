@@ -2,7 +2,8 @@ Gracias por probar Retroshur Emulationstation BETA 5
 
 como usar este pack:
 
-
+Descarga el pack:
+https://github.com/Akiafroo/Retroshur/releases
 
 0.-conecta tu mando al pc y asegurate que lo reconoce el pc 
 
