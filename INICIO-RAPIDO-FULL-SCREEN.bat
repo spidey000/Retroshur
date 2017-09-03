@@ -16,4 +16,3 @@ call "RETROSHUR-FULLSCREEN.cmd" /min /wait && exit && GOTO END
 ::::::::::::::::::Saliendo de RETROSHUR EMULATIONSTATION::::::::::::::::::::::::::::::::::::::::::::::::::::
 :END
 exit
-exit
