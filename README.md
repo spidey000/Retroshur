@@ -1,10 +1,20 @@
-Gracias por probar Retroshur Emulationstation
+Gracias por probar Retroshur Emulationstation BETA 5
 
 como usar este pack:
+
+Descarga el pack:
+https://github.com/Akiafroo/Retroshur/releases
+
 0.-conecta tu mando al pc y asegurate que lo reconoce el pc 
+
+
 1.-Ejecuta cualquiera de estos dos archivos:
+
+
 INICIAR RETROSHUR-FULLSCREEN.cmd para fullscreen
 INICIAR RETROSHUR-MODO-VENTANA.bat para el modo VENTANA
+
+
 
 ::::::::::::::::::::Actualizar Retroarch:::::::::::::::::::::::::::::
 
