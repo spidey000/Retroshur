@@ -1,0 +1,6 @@
+he configurado para que retroshur use el modo normal si quieres usar ROCKET-LAUNCHER y todo su potencial cambia el nombre a
+
+RETROSHUR-LAUNCHER por RETROSHUR-LAUNCHER-NORMAL 
+RETROSHUR-LAUNCHER_Con_Rocket_Launcher Por RETROSHUR-LAUNCHER
+
+saludos.
