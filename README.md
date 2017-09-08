@@ -1,3 +1,5 @@
+Este pack esta configurado para pantallas 1920x1080
+
 Gracias por probar Retroshur Emulationstation BETA 5
 
 como usar este pack:
