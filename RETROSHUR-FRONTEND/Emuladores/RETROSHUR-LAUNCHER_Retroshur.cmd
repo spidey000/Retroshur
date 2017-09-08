@@ -117,6 +117,11 @@ FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.ex
 goto :EXIT
 
 
+:DOOMBROLAUNCHER
+::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\doom\launching.jpg
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0DoomBroLauncher*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\DoomBroLauncher\port\gzdoom*.exe"') DO ("%~dp0%%D\%%A" %2))
+goto :EXIT
+
 :DEMUL
 start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\demul\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Demul.ahk

@@ -7,13 +7,15 @@ FOR /f "tokens=*" %%D IN ('dir /b "%~dp0Backgrounds*"') Do (set BCK="%~dp0%%D")
 if "%1"=="amiga" goto :RETROARCH-AMIGA
 if "%1"=="atari2600" goto :RETROARCH-A2600
 if "%1"=="atari7800" goto :RETROARCH-A7800
+if "%1"=="atarilynx" goto :RETROARCH-ALYNX
+if "%1"=="atarijaguar" goto :RETROARCH-AJAGUAR
 if "%1"=="amstradcpc" goto :RETROARCH-AMSTRADCPC
 if "%1"=="c64" goto :RETROARCH-C64
 if "%1"=="coleco" goto :RETROARCH-COLECO
-if "%1"=="cps1" goto :RETROARCH-CAPCOM
+if "%1"=="cps1" goto :RETROARCH-CAPCOM1
 if "%1"=="cps2" goto :RETROARCH-CAPCOM2
 if "%1"=="cps3" goto :RETROARCH-CAPCOM3
-if "%1"=="doom" goto :DOOMBROLAUNCHER
+::if "%1"=="doom" goto :DOOMBROLAUNCHER
 if "%1"=="dosbox" goto :RETROARCH-DOSBOX
 if "%1"=="dreamcast" goto :DEMUL
 if "%1"=="gamegear" goto :RETROARCH-GAMEGEAR
@@ -41,7 +43,7 @@ if "%1"=="snes" goto :RETROARCH-SNES
 if "%1"=="wii" goto :DOLPHIN
 if "%1"=="wiiu" goto :CEMU
 if "%1"=="xbox360" goto :XENIA
-
+if "%1"=="wonderswancolor" goto RetroArch-WONDERSWANCOLOR
 exit /b %ERRORLEVEL%
 
 
@@ -63,6 +65,19 @@ goto :EXIT
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Atari 7800" -r %2)
 goto :EXIT
 
+:RETROARCH-ALYNX
+::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\atarilynx\launching.jpg
+start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\atarilynx\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+goto :EXIT
+
+
+:RETROARCH-AJAGUAR
+::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\atarijaguar\launching.jpg
+start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\atarijaguar\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+goto :EXIT
+
 :RetroArch-C64
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\c64\launching.jpg
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Commodore 64" -r %2)
@@ -74,7 +89,16 @@ start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0bluemsx*"') Do ("%~dp0%%D\blueMSX.exe" /machine "COL - ColecoVision with Opcode Memory Extension" /rom1 %2 /romtype1 "113" /fullscreen)
 goto :EXIT
 
-:RetroArch-CAPCOM
+:: comienzo --coolcv
+::otro emulador para colecovision si quieres usarlo quita los dos puntos de cada linea NO si antes ponerselos a la opcion de :retroarch-coleco de arriba.
+:::RetroArch-COLECO
+::start "black screen" /d %AUTOHOTKEY% "BlackScreen.exe"
+::start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Cemu.ahk
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0coolcv*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\CoolCV*.exe"') DO ("%~dp0%%D\%%A" %2))
+::goto :EXIT
+:: fin --coolcv
+
+:RetroArch-CAPCOM1
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\arcade\launching.jpg
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Capcom Play System" -r %2)
 goto :EXIT
@@ -161,8 +185,6 @@ goto :EXIT
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\demul\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Demul.ahk
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0demul*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\demul*.exe"') DO ("%~dp0%%D\%%A" -run=dc -image=%2))
-::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\dreamcast\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
-::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Dreamcast" -r %2)
 goto :EXIT
 
 
@@ -259,6 +281,13 @@ goto :EXIT
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" CITRA.ahk
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0citra*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\citra-qt*.exe"') DO ("%~dp0%%D\%%A" %2))
 goto :EXIT
+
+:RetroArch-WONDERSWANCOLOR
+start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\wonderswancolor\launching.jpg
+start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\wonderswancolor\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+goto :EXIT
+
 
 :EXIT
 taskkill /F /IM AutoHotKeyU64.exe /T
