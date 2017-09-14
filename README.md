@@ -40,7 +40,8 @@ Emulationstation para windows con algunas mejoras y añadidos mediante scripts b
 	- [x] PCengine
 	- [x] Sinclair ZX Spectrum
 	- [*] Amiga - esta en modo prueba.
-## Retroshur-Switcher
+## Retroshur-Switcher:
+- [x] Modos:
 	- [x] Modo-Normal: modo sin overlays,bezels o elementos decorativos
 	- [x] Modo-Rocket-Launcher: con overlays,bezels y con elementos decorativos
 		- [x] Rocket-Launcher configurado para Retroshur - aun faltan sistemas por integrar
