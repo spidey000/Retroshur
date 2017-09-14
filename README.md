@@ -8,6 +8,7 @@ Emulationstation para windows con algunas mejoras y añadidos mediante scripts b
 	- [x] Instalacion/Actualizacion de Retroarch mediante script
 	- [x] Instalacion/Actualizacion de Retroarch/cores mediante script
 ## Script configurar Gamepad
+- [x] Gamepads
 	- [x] PLAYER 1
 	- [x] PLAYER 2
 	- [x] Configurar-Gamepad-GameBoy
