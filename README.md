@@ -1,3 +1,5 @@
+![logo](http://gifyu.com/images/2016-09-17_21-46-48.gif)
+
 Este pack esta configurado para pantallas 1920x1080
 
 Gracias por probar Retroshur Emulationstation BETA 5
