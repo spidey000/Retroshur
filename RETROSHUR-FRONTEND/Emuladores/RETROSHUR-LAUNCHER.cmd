@@ -82,7 +82,7 @@ goto :EXIT
 
 
 :PCSX2
-start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\pcsx2\launching.jpg
+::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\pcsx2\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" PCSX2.ahk
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0pcsx2*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\PCSX2*.exe"') DO ("%~dp0%%D\%%A" %2 --fullscreen --nogui))
 goto :EXIT
