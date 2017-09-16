@@ -219,7 +219,7 @@ mTypeVar:="
 	Sony PSP Minis|LibRetro_PSP|ppsspp_libretro
 	Sord M5|LibRetro_SORD|mame_libretro|m5
 	Spectravideo|LibRetro_SV328|mame_libretro|svi328n
-	Super Nintendo Entertainment System|LibRetro_SNES|bsnes_balanced_libretro|snes
+	Super Nintendo Entertainment System|LibRetro_SNES|snes9x_libretro
 	Taito Classics|LibRetro_TAIC|mame_libretro
 	Tandy TRS-80 Color Computer|LibRetro_TRS80|mame_libretro|coco3
 	Technos|LibRetro_TECHN|mame_libretro
