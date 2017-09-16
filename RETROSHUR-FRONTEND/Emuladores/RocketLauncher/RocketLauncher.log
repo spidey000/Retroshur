@@ -1,13 +1,13 @@
 [code]
-13:59:04:233 | RL |      INFO  | +N/A   | Main - RocketLauncher v1.1.1.1 (www.rlauncher.com)
-13:59:04:304 | RL |      INFO  | +78    | Main - System Specs:
+16:02:44:641 | RL |      INFO  | +N/A   | Main - RocketLauncher v1.1.1.1 (www.rlauncher.com)
+16:02:44:735 | RL |      INFO  | +94    | Main - System Specs:
 					RocketLauncher Dir: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher
 					RocketLauncher is: 32-bit
 					OS: Microsoft Windows 10 Pro
 					SKU: Professional
 					Total Memory: 16332.66 MB
-					Free Memory: 9284.07 MB
-					Used Memory: 7048.586 MB
+					Free Memory: 9813.54 MB
+					Used Memory: 6519.121 MB
 					SystemType: 64-bit
 					Physical Processors: 1
 					Logical Processors: 8
@@ -52,32 +52,32 @@
 					AutoHotkey Path: C:\Program Files\AutoHotkey\AutoHotkey.exe
 					AHK Version: 1.1.13.00
 					Unicode: No
-13:59:04:304 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncher.exe exists
-13:59:04:304 | RL |      INFO  | +0     | Main - Raw CLI received: "-s Sony Playstation -r C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\psx\Resident Evil 3 - Nemesis (USA).PBP"
-13:59:04:304 | RL |      INFO  | +0     | Main - Loading Front End Plugin: "RocketLauncherUI"
-13:59:04:304 | RL |      INFO  | +0     | Process.Process - "Exist" "RocketLauncherUI.exe" 
-13:59:04:310 | RL |      INFO  | +0     | Main - RocketLauncherUI.exe is not currently running
-13:59:04:310 | RL |      INFO  | +0     | Main - RocketLauncher received "Sony Playstation" and "Resident Evil 3 - Nemesis (USA)"
-13:59:04:314 | RL |      INFO  | +0     | Main - Did not find a "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Sony Playstation\Game Options.ini" file, skipping any game-specific options.
-13:59:04:314 | RL |      INFO  | +0     | Main - Resident Evil 3 - Nemesis (USA) is using the default emulator: RetroArch
-13:59:04:314 | RL |      INFO  | +0     | Main - Checking for a [RetroArch] section in C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Sony Playstation\Emulators.ini
-13:59:04:314 | RL |      INFO  | +0     | Main - Checking for a [RetroArch] section in C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global Emulators.ini
-13:59:04:314 | RL |      INFO  | +0     | Main - Found [RetroArch] in C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global Emulators.ini
-13:59:04:314 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\RetroArch\RetroArch.ahk exists
-13:59:04:318 | RL |   WARNING  | +15    | Main - CRC Check - CRC does not match official module and will not be supported. Continue using at your own risk.
-13:59:04:318 | RL |      INFO  | +0     | Main - Resident Evil 3 - Nemesis (USA) will use module: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\RetroArch\RetroArch.ahk
-13:59:04:320 | RL |   WARNING  | +0     | RIniLoadVar - Created missing Global ini key: "Fade_Click_Through " in section: "Fade" in "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global RocketLauncher.ini"
-13:59:04:320 | RL |   WARNING  | +0     | RIniLoadVar - Created missing System ini key: "Fade_Click_Through " in section: "Fade" in "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Sony Playstation\RocketLauncher.ini"
-13:59:04:345 | RL |      INFO  | +16    | Main - Using standard method with "Rom Extension" SkipChecks or without any SkipChecks.
-13:59:04:348 | RL |      INFO  | +16    | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.exe exists
-13:59:04:348 | RL |      INFO  | +0     | Main - INI Keys read
-13:59:04:348 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.exe exists
-13:59:04:349 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.dll exists
-13:59:04:354 | RL |      INFO  | +0     | Main - "Resident Evil 3 - Nemesis (USA)" does not qualify for MultiGame. Only roms with any of these strings in their name are acceptable: \(Disc|\(Disk|\(Cart|\(Tape|\(Cassette|\(Part|\(Side
-13:59:04:354 | RL |      INFO  | +0     | CheckPaths - Started
-13:59:04:354 | RL |      INFO  | +0     | CheckPaths - Not scanning to find the rom because a full path was supplied to RocketLauncher via CLI
-13:59:04:354 | RL |      INFO  | +0     | CheckPaths - Ended
-13:59:04:355 | RL |      INFO  | +0     | BuildScript - User Variables:
+16:02:44:735 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncher.exe exists
+16:02:44:736 | RL |      INFO  | +0     | Main - Raw CLI received: "-s Sony Playstation 2 -r C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\ps2\Harvest Moon - A Wonderful Life - Special Edition.iso"
+16:02:44:736 | RL |      INFO  | +0     | Main - Loading Front End Plugin: "RocketLauncherUI"
+16:02:44:736 | RL |      INFO  | +0     | Process.Process - "Exist" "RocketLauncherUI.exe" 
+16:02:44:740 | RL |      INFO  | +16    | Main - Detected RocketLauncherUI.exe is currently running
+16:02:44:741 | RL |      INFO  | +0     | Main - RocketLauncherUI.exe coordinates are x-32000 y-32000 w160 h28
+16:02:44:741 | RL |      INFO  | +0     | Main - RocketLauncher received "Sony Playstation 2" and "Harvest Moon - A Wonderful Life - Special Edition"
+16:02:44:745 | RL |      INFO  | +0     | Main - Did not find a "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Sony Playstation 2\Game Options.ini" file, skipping any game-specific options.
+16:02:44:745 | RL |      INFO  | +0     | Main - Harvest Moon - A Wonderful Life - Special Edition is using the default emulator: PCSX2-retroshur
+16:02:44:745 | RL |      INFO  | +0     | Main - Checking for a [PCSX2-retroshur] section in C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Sony Playstation 2\Emulators.ini
+16:02:44:745 | RL |      INFO  | +0     | Main - Found [PCSX2-retroshur] in C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Sony Playstation 2\Emulators.ini
+16:02:44:745 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\PCSX2\PCSX2.ahk exists
+16:02:44:748 | RL |      INFO  | +0     | Main - CRC Check - CRC matches, this is an official unedited module.
+16:02:44:748 | RL |      INFO  | +0     | Main - Harvest Moon - A Wonderful Life - Special Edition will use module: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\PCSX2\PCSX2.ahk
+16:02:44:750 | RL |   WARNING  | +0     | RIniLoadVar - Created missing Global ini key: "Fade_Click_Through " in section: "Fade" in "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global RocketLauncher.ini"
+16:02:44:750 | RL |   WARNING  | +0     | RIniLoadVar - Created missing System ini key: "Fade_Click_Through " in section: "Fade" in "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Sony Playstation 2\RocketLauncher.ini"
+16:02:44:779 | RL |      INFO  | +31    | Main - Using standard method with "Rom Extension" SkipChecks or without any SkipChecks.
+16:02:44:782 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\pcsx2.exe exists
+16:02:44:783 | RL |      INFO  | +0     | Main - INI Keys read
+16:02:44:783 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.exe exists
+16:02:44:783 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.dll exists
+16:02:44:789 | RL |      INFO  | +16    | Main - "Harvest Moon - A Wonderful Life - Special Edition" does not qualify for MultiGame. Only roms with any of these strings in their name are acceptable: \(Disc|\(Disk|\(Cart|\(Tape|\(Cassette|\(Part|\(Side
+16:02:44:789 | RL |      INFO  | +0     | CheckPaths - Started
+16:02:44:789 | RL |      INFO  | +0     | CheckPaths - Not scanning to find the rom because a full path was supplied to RocketLauncher via CLI
+16:02:44:789 | RL |      INFO  | +0     | CheckPaths - Ended
+16:02:44:789 | RL |      INFO  | +0     | BuildScript - User Variables:
 					;----------------------------------------------------------------------------
 					; INJECTED VARIABLES
 					;----------------------------------------------------------------------------
@@ -100,7 +100,7 @@
 					rlURL = www.rlauncher.com
 					langFile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Data\Language\Localization.ini
 					primMonitor = 1
-					frontendPID = 0
+					frontendPID = 14060
 					frontendPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncherUI
 					frontendExe = RocketLauncherUI.exe
 					frontendExt = exe
@@ -110,23 +110,23 @@
 					restoreFE = false
 					exitScriptKey = ~q & ~s
 					toggleCursorKey = ~e & ~t
-					emuFullPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.exe
-					emuPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch
-					emuName = RetroArch
+					emuFullPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\pcsx2.exe
+					emuPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2
+					emuName = PCSX2-retroshur
 					emuExt = exe
-					baseRomPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\Sony Playstation
-					romPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\psx
-					romPathFromIni = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\psx|C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\Sony Playstation
-					romExtension = .PBP
-					romExtensionOrig = .PBP
-					romExtensions = 7z|rar|zip|sfc|gba|gb|a78|sv|gbc|rpk|gme|sc|cdt|ws|wsc|ngp|ngc|vms|ipf|n64|z64|sg|fds|caq|vb|vec|wav|cas|min|int|rom|tap|tzx|nes|col|nds|cpr|gg|pce|st2|sms|smc|lnx|md|32x|n64|a52|j64|cso|cue|iso|ccd|chd|bin|dsk|pbp|d64|t64
-					executable = retroarch.exe
-					systemDbName = Sony Playstation
-					systemName = Sony Playstation
-					dbPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\psx
-					dbName = Resident Evil 3 - Nemesis (USA)
-					dbExt = PBP
-					romName = Resident Evil 3 - Nemesis (USA)
+					baseRomPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\Sony Playstation 2
+					romPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\ps2
+					romPathFromIni = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\ps2|C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\Sony Playstation 2
+					romExtension = .iso
+					romExtensionOrig = .iso
+					romExtensions = iso|gz
+					executable = pcsx2.exe
+					systemDbName = Sony Playstation 2
+					systemName = Sony Playstation 2
+					dbPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\ps2
+					dbName = Harvest Moon - A Wonderful Life - Special Edition
+					dbExt = iso
+					romName = Harvest Moon - A Wonderful Life - Special Edition
 					romMapPath = 
 					romMappingEnabled = false
 					romMappingLaunchMenuEnabled = false
@@ -358,9 +358,9 @@
 					RLMediaPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media
 					RLErrSoundPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Sounds\Error
 					modulesPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules
-					moduleFullName = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\RetroArch\RetroArch.ahk
-					moduleName = RetroArch
-					modulePath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\RetroArch
+					moduleFullName = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\PCSX2\PCSX2.ahk
+					moduleName = PCSX2
+					modulePath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\PCSX2
 					moduleExtension = ahk
 					moduleExtensionsPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions
 					libPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib
@@ -402,8 +402,8 @@
 					pauseZoomOutKey = V
 					pauseScreenshotKey = ~PrintScreen
 					pauseHiToTextPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\HiToText.exe
-					pauseSaveStateKeyCodes = {Shift down}{1 down}{1 up}{Shift up}{F3 down}{F3 up}|{Shift down}{2 down}{2 up}{Shift up}{F3 down}{F3 up}|{Shift down}{3 down}{3 up}{Shift up}{F3 down}{F3 up}|{Shift down}{4 down}{4 up}{Shift up}{F3 down}{F3 up}|{Shift down}{5 down}{5 up}{Shift up}{F3 down}{F3 up}|{Shift down}{6 down}{6 up}{Shift up}{F3 down}{F3 up}|{Shift down}{7 down}{7 up}{Shift up}{F3 down}{F3 up}|{Shift down}{8 down}{8 up}{Shift up}{F3 down}{F3 up}|{Shift down}{9 down}{9 up}{Shift up}{F3 down}{F3 up}|{Shift down}{10 down}{10 up}{Shift up}{F3 down}{F3 up}
-					pauseLoadStateKeyCodes = {Shift down}{1 down}{1 up}{Shift up}{F4 down}{F4 up}|{Shift down}{2 down}{2 up}{Shift up}{F4 down}{F4 up}|{Shift down}{3 down}{3 up}{Shift up}{F4 down}{F4 up}|{Shift down}{4 down}{4 up}{Shift up}{F4 down}{F4 up}|{Shift down}{5 down}{5 up}{Shift up}{F4 down}{F4 up}|{Shift down}{6 down}{6 up}{Shift up}{F4 down}{F4 up}|{Shift down}{7 down}{7 up}{Shift up}{F4 down}{F4 up}|{Shift down}{8 down}{8 up}{Shift up}{F4 down}{F4 up}|{Shift down}{9 down}{9 up}{Shift up}{F4 down}{F4 up}|{Shift down}{10 down}{10 up}{Shift up}{F4 down}{F4 up}
+					pauseSaveStateKeyCodes = 
+					pauseLoadStateKeyCodes = 
 					keyboardEncoder = 
 					keyboardEncoderEnabled = false
 					keymapperEnabled = false
@@ -425,19 +425,19 @@
 					rotateMethod = false
 					FEProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\RocketLauncherUI
 					defaultProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\_Default
-					systemProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Sony Playstation
-					xPadderSystemProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Sony Playstation\_Default
-					emuProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Sony Playstation\RetroArch
-					romProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Sony Playstation\Resident Evil 3 - Nemesis (USA)
+					systemProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Sony Playstation 2
+					xPadderSystemProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Sony Playstation 2\_Default
+					emuProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Sony Playstation 2\PCSX2-retroshur
+					romProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Sony Playstation 2\Harvest Moon - A Wonderful Life - Special Edition
 					RocketLauncherProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\RocketLauncher
 					blankProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\_Default\blank
 					ahkFEProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\RocketLauncherUI
 					ahkDefaultProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\_Default
-					ahkSystemProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Sony Playstation
-					ahkEmuProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Sony Playstation\RetroArch
-					ahkRomProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Sony Playstation\Resident Evil 3 - Nemesis (USA)
+					ahkSystemProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Sony Playstation 2
+					ahkEmuProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Sony Playstation 2\PCSX2-retroshur
+					ahkRomProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Sony Playstation 2\Harvest Moon - A Wonderful Life - Special Edition
 					ahkRocketLauncherProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\RocketLauncher
-					bezelEnabled = true
+					bezelEnabled = false
 					bezelICEnabled = false
 					shaderName = false
 					shaderColor = 
@@ -455,1003 +455,513 @@
 					testDuration = 
 					initialErrorMode = 0
 
-13:59:04:359 | RL |      INFO  | +0     | BuildScript - Loaded XHotkey Init.ahk scripts
-13:59:04:359 | RL |      INFO  | +0     | BuildScript - Loaded Fade Init.ahk scripts
-13:59:04:359 | RL |      INFO  | +0     | BuildScript - Loaded Statistics Init.ahk scripts
-13:59:04:359 | RL |   WARNING  | +0     | BuildScript - "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Functions Init.ahk" not found
-13:59:04:359 | RL |      INFO  | +0     | BuildScript - Validating module
-13:59:04:362 | RL |      INFO  | +0     | BuildScript - Validation complete
-13:59:04:362 | RL |      INFO  | +0     | BuildScript - Module:
-					MEmu := "RetroArch"
-					MEmuV := "v1.3.6"
-					MURL := ["http://themaister.net/retroarch.html"]
-					MAuthor := ["djvj","zerojay","SweatyPickle"]
-					MVersion := "2.4.3"
-					MCRC := "699AB8F7"
-					iCRC := "FB2DB971"
-					MID := "635038268922229162"
-					MSystem := ["Acorn BBC Micro","AAE","Amstrad CPC","Amstrad GX4000","APF Imagination Machine","Applied Technology MicroBee","Apple IIGS","Arcade Classics","Atari 2600","Atari 5200","Atari 7800","Atari 8-Bit","Atari Classics","Atari Jaguar","Atari Lynx","Atari ST","Atari XEGS","Bally Astrocade","Bandai Gundam RX-78","Bandai Super Vision 8000","Bandai Wonderswan","Bandai Wonderswan Color","Canon X07","Capcom Classics","Capcom Play System","Capcom Play System II","Capcom Play System III","Casio PV-1000","Casio PV-2000","Cave","Coleco ADAM","ColecoVision","Commodore MAX Machine","Commodore Amiga","Commodore 64","Creatronic Mega Duck","Data East Classics","Dragon Data Dragon","Emerson Arcadia 2001","Entex Adventure Vision","Elektronika BK","Epoch Game Pocket Computer","Epoch Super Cassette Vision","Exidy Sorcerer","Fairchild Channel F","Final Burn Alpha","Funtech Super Acan","GamePark 32","GCE Vectrex","Hartung Game Master","Interton VC 4000","Irem Classics","JungleTac Sport Vii","Konami Classics","MAME","Magnavox Odyssey 2","Microsoft MSX","Microsoft MSX2","Matra & Hachette Alice","Mattel Aquarius","Mattel Intellivision","Midway Classics","Namco Classics","Namco System 22","NEC PC Engine","NEC PC Engine-CD","NEC PC-FX","NEC TurboGrafx-16","NEC SuperGrafx","NEC TurboGrafx-CD","Nintendo 64","Nintendo 64DD","Nintendo Arcade Systems","Nintendo Classics","Nintendo DS","Nintendo Entertainment System","Nintendo Famicom","Nintendo Famicom Disk System","Nintendo Game Boy","Nintendo Game Boy Color","Nintendo Game Boy Japan","Nintendo Game Boy Advance","Nintendo Game & Watch","Nintendo Super Game Boy","Nintendo Pokemon Mini","Nintendo Virtual Boy","Nintendo Super Famicom","Nintendo Satellaview","Nintendo SuFami Turbo","Panasonic 3DO","Elektronska Industrija Pecom 64","Philips CD-i","Philips Videopac","RCA Studio II","ScummVM","Sega 32X","Sega Classics","Sega Mega Drive 32X","Sega Mark III","Sega SC-3000","Sega SG-1000","Sega CD","Sega Dreamcast","Sega Game Gear","Sega Genesis","Sega Master System","Sega Mega Drive","Sega Meganet","Sega Nomad","Sega Pico","Sega Saturn","Sega Saturn Japan","Sega VMU","Sega ST-V","Sharp X1","Sharp X68000","Sinclair ZX Spectrum","Sinclair ZX81","Sony PlayStation","Sony PlayStation Minis","Sony PocketStation","Sony PSP","Sony PSP Minis","Sord M5","SNK Classics","SNK Neo Geo","SNK Neo Geo AES","SNK Neo Geo MVS","SNK Neo Geo Pocket","SNK Neo Geo CD","SNK Neo Geo Pocket Color","Spectravideo","Super Nintendo Entertainment System","Taito Classics","Tandy TRS-80 Color Computer","Technos","Texas Instruments TI 99-4A","Thomson MO5","Thomson TO7","Tiger Game.com","Tiki-100","Tomy Tutor","VTech CreatiVision","Watara Supervision","Williams Classics"]
+16:02:44:793 | RL |      INFO  | +0     | BuildScript - Loaded XHotkey Init.ahk scripts
+16:02:44:793 | RL |      INFO  | +0     | BuildScript - Loaded Fade Init.ahk scripts
+16:02:44:793 | RL |      INFO  | +0     | BuildScript - Loaded Statistics Init.ahk scripts
+16:02:44:793 | RL |   WARNING  | +0     | BuildScript - "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Functions Init.ahk" not found
+16:02:44:793 | RL |      INFO  | +0     | BuildScript - Validating module
+16:02:44:795 | RL |      INFO  | +0     | BuildScript - Validation complete
+16:02:44:795 | RL |      INFO  | +0     | BuildScript - Module:
+					MEmu = PCSX2
+					MEmuV = 1.5.0-dev-263
+					MURL = http://pcsx2.net/
+					MAuthor = djvj
+					MVersion = 2.2.1
+					MCRC = 5E3D250C
+					iCRC = 65DD0603
+					MID = 635038268913291718
+					MSystem = "Sony PlayStation 2"
 					;----------------------------------------------------------------------------
 					; Notes:
-					; If the emu doesn't load and you get no error, usually this means the LibRetro DLL is not working!
-					; Devs stated they will never add support for mounted images (like via DT)
-					; Fullscreen is controlled via the module setting in RocketLauncherUI
-					; This module uses the CLI version of RetroArch (retroarch.exe), not the GUI (retroarch-phoenix.exe).
-					; The emu may make a mouse cursor appear momentarily during launch, MouseMove and hide_cursor seem to have no effect
-					; Enable 7z support for archived roms
-					; Available CLI options: https://github.com/PyroFilmsFX/iOS/blob/master/docs/retroarch.1
+					; This module has many settings that can be controlled via RocketLauncherUI
+					; If you want to customize settings per game, add the game to the module's ini using RocketLauncherUI
+					; If you use Daemon Tools, make sure you have a SCSI virtual drive setup. Not a DT one.
+					; Tested Virtual Drive support with the cdvdGigaherz CDVD plugin. Make sure you set it to use your SCSI Virtual Drive letter.
+					; If the incorrect drive is used, the emu will boot to the bios screen and emu will hang in your running processes on exit and require it to be force closed
+					; Module will set the CdvdSource to Plugin or Iso depending on if you have Virtual Drive enabled or not.
+					; If you have any problems closing the emulator, make sure noGUI module setting in RocketLauncherUI is set to default or false.
+					; Most stable bios is Japan v01.00(17/01/2000)
 					;
-					; LibRetro DLLs:
-					; LibRetro DLLs come with the emu, but here is another source for them: http://forum.themaister.net/
-					; Whatever cores you decide to use, make sure they are extracted anywhere in your Emu_Path\cores folder. The module will find and load the default core unless you choose a custom one for each system.
-					; You can find supported cores that Retroarch supports simply by downloading them from the "retroarch-phoenix.exe" or by visiting here: https://github.com/libretro/libretro.github.com/wiki/Supported-cores
-					; Some good discussion on cores and filters: http://forum.themaister.net/viewtopic.php?id=270
+					; Per-game memory cards
+					; This module supports per-game memory cards to prevent them from ever becoming full
+					; To use this feature, set the PerGameMemoryCards to true in RocketLauncherUI
+					; You need to create a default blank memory card in the path you have defined in pcsx's ini found in section [Folders], key MemoryCards.
+					; Make sure one of the current memory cards are blank, then copy it in that folder and rename it to "default.ps2". The module will copy this file to a romName.ps2 for each game launched.
+					; The module will only insert memory cards into Slot 1. So save your games there.
 					;
-					; SRM files:
-					; The srm files location is determined by the configuration file used (savefile_directory = ":\whatever") The default RetroArch srm directory is ":\saves" You can select to sort into core folders (ie: :/saves/Mednafen PSX) by changing sort_savefiles_enable = "true" in the configuration file.
+					; Linuz cdvd plugin stores its settings in the registry @ HKEY_CURRENT_USER\Software\PS2Eplugin\CDVD\CDVDiso
 					;
-					; Save states:
-					; The save state files location is determined by the configuration file used (savestate_directory = ":\whatever") The default RetroArch savestate directory is ":\states" You can select to sort into core folders (ie: :/states/Mednafen PSX) by changing sort_savestates_enable = "true" in the configuration file.
+					; v1.4.0 setup guide: https://www.youtube.com/watch?v=ovagz8UXFTU
 					;
-					; Config files:
-					; By default, the module looks for config files in a folder called config in the RetroArch folder. Example: C:\emus\RetroArch\config. You can change this folder to anything you like by changing the module's ConfigFolder setting in RocketLauncherUI.  This will be the config folder for the module and will NOT change the location of RetroArch's own /config directory.
-					; RetroArch's global config file is called "retroarch.cfg". RetroArch will use a system cfg file named to match your System Name (example: Nintendo Entertainment System.cfg).
-					; RetroArch will also load core config files named after the core name. Example: nestopia_libretro.cfg
-					; This allows different settings globally, for each system, and for each core. If you want all systems to use the same retroarch.cfg, do not have any system or core cfg files, only have the retroarch.cfg.
-					; If a core config exists, it takes precedence over the global config. And if a system config exists, it takes precedence over the core config.
-					;
-					; Core Options:
-					; By default, RetroArch creates a retroarch-core-options.cfg in it's root directory.  Example: C:\emus\RetroArch\retroarch-core-options.cfg.  This will always be used if the default RetroArch.cfg is loaded.  If a configuration file from any other location is used, RetroArch will create a retroarch-core-options.cfg file in the root of that directory.  The module has an option to have RetroArch use only the default retroarch-core-options.cfg file no matter the path of the config directory or location of the configuiration file being used.  To enable this option set Single_Core_Options to true.
-					
-					; MultiGame:
-					; MultiGame support is currently only available for the Mednafen PSX core. Retroarch uses the same method as Mednafen to load multi-disc games. This method involves m3u playlists which are commonly used for music. The m3u files needed to load multi-disc games are generated for you by the module when you launch a multi-disc game and are saved to your corresponding rom directory. Due to m3u limitations, your multi-disc roms/images cannot be archived -- they must be unzipped. All single disc games can remain archived and you can still enable 7z under system settings. If you do not wish to use MultiGame support you can archive your roms/images and m3u generation will be skipped on launch. 
-					; The m3u files generated by the module contain a list of paths to all roms/images in the multi-disc set. Retroarch automatically loads the first path in the m3u so the first path will always be the disc you are loading. For example, Final Fantasy VII has 3 discs and if you load Disc 2 first, the order of the paths in the m3u will be disc 2, disc 3, disc 1. If you load Disc 3 first, the order will be disc 3, disc 1, disc 2. The module anticipates this and will load the correct disk, selected from the Pause/MultiDisk menus. However if you choose to manually use Retroarch's UI or disk swap keys to change discs, you will need to keep this in mind.
-					; In order for RocketLauncher's MultiGame UI to swap discs, you must define Eject_Toggle_Key, Next_Disk_Key, and Previous_Disk_Key under global settings for the emulator in RocketLauncher. Because AHK and Retroarch use different naming conventions for some keyboard keys, it is best to use a letter, a number, or F1-F12.
-					;
-					; MAME:
-					; MAME BIOS roms should be placed in Rom Path's directory. Some systems require the BIOS roms be placed in the MAME internal name directory. (Example: :\Rom Folder\a5200). The MAME BIOS_Roms_Folder option will have no effect unless you are using an older version of the mess core. 
-					;
-					; System Specific Notes:
-					; Microsoft MSX/MSX2: Launch an MSX game and in the core options, set the console to be an MSX2 and it will play both just fine.
-					; Nintendo Famicom Disk System - Requires disksys.rom be placed in the folder you define as system_directory in the RetroArch's cfg.
-					; Sega CD - Requires "bios_CD_E.bin", "bios_CD_J.bin", "bios_CD_U.bin" all be placed in the folder you define as system_directory in the RetroArch's cfg.
-					; Super Nintendo Entertainment System - requires split all 10 dsp# & st### roms all be placed in the folder you define as system_directory in the RetroArch's cfg. Many games, like Super Mario Kart require these.
-					; NEC TurboGrafx-CD (using pce fast core) - Requires "syscard3.pce" be placed in the folder you define as system_directory in the RetroArch's cfg.
-					; NEC TurboGrafx-CD (using MAME core)
-					;   - You'll need to update a couple mame specific options in the Retroarch core options file to get it to boot from the cli. These should probably be updated automagically by the module. Turning softlists off, but might not need to.
-					;       mame_boot_from_cli = "enabled"
-					;       mame_softlists_enable = "disabled"
-					;       mame_softlists_auto_media = "disabled"
-					;	- Requires hash folder from MAME/MESS/UME, either from the source or release package. Save this in the system_directory you've defined for RetroArch. Something like \RetroArch\system\mame\hash\
-					;	- Requires the CD bios file(s) saved in the mame bios folder you've defined. Usually \RetroArch\system\mame\bios\
-					;		For PC Engine-CD you'll need the file "[cd] cd-rom system (japan) (v2.1).pce" zipped as cdsys.zip and saved in a pce subfolder in your bios path, so \RetroArch\system\mame\bios\pce\cdsys.zip
-					;		For PC Engine SuperGrafx-CD you'll need the file "[cd] super cd-rom system (japan) (v3.0).pce" zipped as scdsys.zip and saved in a pce subfolder in your bios path, so \RetroArch\system\mame\bios\pce\scdsys.zip
-					;		For TurboGrafx-CD you'll need the file "[cd] turbografx cd system card (usa) (v2.0).pce" zipped as cdsys.zip and saved in a tg16 subfolder in your bios path, so \RetroArch\system\mame\bios\tg16\cdsys.zip
-					;		For TurboDuo you'll need the file "[cd] turbografx cd super system card (usa) (v3.0).pce" zipped as scdsys.zip and saved in a tg16 subfolder in your bios path, so \RetroArch\system\mame\bios\tg16\scdsys.zip
-					; Nintendo Super Game Boy - Set the Module setting in RocketLauncherUI SuperGameBoy to true to enable a system or only a rom to use SGB mode. This is not needed if your systemName is set to the official name of "Nintendo Super Game Boy". Requires "sgb.boot.rom" and "Super Game Boy (World).sfc" to be placed in the folder you define as system_directory in the RetroArch's cfg. This is needed if you want to use Super game boy mode and color palettes. Also requires using the latest bsnes core. Not all games support SGB mode.
-					; Sony PSP/PlayStation Minis: To avoid the dialog box complaining about ppge_atlas.zim, download it from https://github.com/libretro/libretro-ppsspp/blob/master/assets/ppge_atlas.zim and place it in your Retroarch/system/PPSSPP/ directory.
+					; Run pcsx2 with the --help option to see current CLI parameters
+					; Known CLI options not currently supported by this module:
+					;  --console        	forces the program log/console to be visible
+					;  --portable       	enables portable mode operation (requires admin/root access)
+					;  --elf=<str>      	executes an ELF image
+					;  --forcewiz       	forces PCSX2 to start the First-time Wizard
 					;----------------------------------------------------------------------------
 					StartModule()
 					BezelGUI()
 					FadeInStart()
 					
-					primaryExe := new Emulator(emuPath . "\" . executable)	; instantiate emulator executable object
-					emuPrimaryWindow := new Window(new WindowTitle("RetroArch","RetroArch"))	; instantiate primary emulator window object
-					emuConsoleWindow := new Window(new WindowTitle("","ConsoleWindowClass"))	; instantiate emulator console window object
+					primaryExe := new Emulator(emuPath . "\" . executable)				; instantiate emulator executable object
+					emuPrimaryWindow := new Window(new WindowTitle("","wxWindowNR"),"","","PCSX2")	; instantiate primary emulator window object
+					emuGUIWindow := new Window(new WindowTitle("PCSX2","wxWindowNR"))
+					emuLoadingWindow := new Window(new WindowTitle("Speed","wxWindowNR"),"","PCSX2")
+					emuBootingWindow := new Window(new WindowTitle("Booting","wxWindowNR"))
 					
-					; Here we define all supported systems for this module. This object controls how the module reacts to different systems. RetroArch can play a lot of systems, but needs to know what system you want to run, so this module has to adapt.
-					; 1 - Official System Name in RocketLauncher
-					; 2 - Short name used only for easy referencing within module
-					; 3 - Default core
-					; 4 - The system ID MAME core recognizes
-					RLLog.Debug("Module - Started building the " . MEmu . " object")
-					mTypeVar:="
-						( LTrim
-						AAE|LibRetro_AAE|mame_libretro
-						Acorn BBC Micro|LibRetro_BBCB|mame_libretro|bbcb
-						Amstrad CPC|LibRetro_CPC|mame_libretro|cpc464
-						Amstrad GX4000|LibRetro_GX4K|mame_libretro|gx4000
-						APF Imagination Machine|LibRetro_APF|mame_libretro|apfimag
-						Apple IIGS|LibRetro_AIIGS|mame_libretro|apple2gs
-						Applied Technology MicroBee|LibRetro_MBEE|mame_libretro|mbeeic
-						Arcade Classics|LibRetro_ARCADE|mame_libretro
-						Atari 2600|LibRetro_2600|stella_libretro|a2600
-						Atari 5200|LibRetro_5200|mame_libretro|a5200
-						Atari 7800|LibRetro_7800|prosystem_libretro|a7800
-						Atari 8-Bit|LibRetro_ATARI8|mame_libretro|a800
-						Atari Classics|LibRetro_ACLS|mame_libretro
-						Atari Jaguar|LibRetro_JAG|virtualjaguar_libretro|jaguar
-						Atari Lynx|LibRetro_LYNX|handy_libretro|lynx
-						Atari ST|LibRetro_ST|hatari_libretro
-						Atari XEGS|LibRetro_XEGS|mame_libretro|xegs
-						Bally Astrocade|LibRetro_BAST|mame_libretro|astrocde
-						Bandai Gundam RX-78|LibRetro_BGRX|mame_libretro|rx78
-						Bandai Super Vision 8000|LibRetro_SV8K|mame_libretro|sv8000
-						Bandai Wonderswan|LibRetro_WSAN|mednafen_wswan_libretro|wswan
-						Bandai Wonderswan Color|LibRetro_WSANC|mednafen_wswan_libretro|wscolor
-						Canon X07|LibRetro_CX07|mame_libretro|x07
-						Capcom Classics|LibRetro_CAPC|fbalpha2012_libretro
-						Capcom Play System|LibRetro_CPS1|fbalpha2012_libretro
-						Capcom Play System II|LibRetro_CPS2|fbalpha2012_libretro
-						Capcom Play System III|LibRetro_CPS3|fbalpha2012_libretro
-						Casio PV-1000|LibRetro_CAS1K|mame_libretro|pv1000
-						Casio PV-2000|LibRetro_CAS2K|mame_libretro|pv2000
-						Cave|LibRetro_CAVE|mame_libretro
-						Coleco ADAM|LibRetro_ADAM|mame_libretro|adam
-						ColecoVision|LibRetro_COLEC|mame_libretro|coleco
-						Commodore Amiga|LibRetro_PUAE|puae_libretro
-						Commodore Max Machine|LibRetro_CMAX|mame_libretro|vic10
-						Commodore 64|vice_x64_libretro|vice_x64_libretro
-						Creatronic Mega Duck|LibRetro_DUCK|mame_libretro|megaduck
-						Data East Classics|LibRetro_DATA|mame_libretro
-						Dragon Data Dragon|LibRetro_DRAG64|mame_libretro|dragon64
-						Elektronika BK|LibRetro_EBK|mame_libretro|bk0010
-						Elektronska Industrija Pecom 64|LibRetro_P64|mame_libretro|pecom64
-						Emerson Arcadia 2001|LibRetro_A2001|mame_libretro|arcadia
-						Entex Adventure Vision|LibRetro_AVISION|mame_libretro|advision
-						Epoch Game Pocket Computer|LibRetro_GPCKET|mame_libretro|gamepock
-						Epoch Super Cassette Vision|LibRetro_SCV|mame_libretro|scv
-						Exidy Sorcerer|LibRetro_SORCR|mame_libretro|sorcerer
-						Fairchild Channel F|LibRetro_CHANF|mame_libretro|channelf
-						Final Burn Alpha|LibRetro_FBA|fbalpha_libretro
-						Funtech Super Acan|LibRetro_SACAN|mame_libretro|supracan
-						GamePark 32|LibRetro_GP32|mame_libretro|gp32
-						GCE Vectrex|LibRetro_VECTX|mame_libretro|vectrex
-						Hartung Game Master|LibRetro_GMASTR|mame_libretro|gmaster
-						Interton VC 4000|LibRetro_VC4K|mame_libretro|vc4000
-						Irem Classics|LibRetro_IREM|mame_libretro
-						JungleTac Sport Vii|LibRetro_SPORTV|mame_libretro|vii
-						Konami Classics|LibRetro_KONC|mame_libretro
-						Magnavox Odyssey 2|LibRetro_ODYS2|mame_libretro|odyssey2
-						MAME|LibRetro_MAME|mame_libretro|mame
-						Matra & Hachette Alice|LibRetro_ALICE|mame_libretro|alice32
-						Mattel Aquarius|LibRetro_AQUA|mame_libretro|aquarius
-						Mattel Intellivision|LibRetro_INTV|mame_libretro|intv
-						MGT Sam Coupe|LibRetro_SAMCP|mame_libretro|
-						Microsoft MS-DOS|LibRetro_MSDOS|dosbox_libretro
-						Microsoft MSX|LibRetro_MSX|bluemsx_libretro
-						Microsoft MSX2|LibRetro_MSX2|bluemsx_libretro
-						Microsoft Windows 3.x|LibRetro_WIN3X|dosbox_libretro
-						Midway Classics|LibRetro_MIDC|mame_libretro
-						Namco Classics|LibRetro_NAMC|mame_libretro
-						Namco System 22|LibRetro_NAM2|mame_libretro
-						NEC PC Engine|LibRetro_PCE|mednafen_pce_fast_libretro|pce,cart
-						NEC PC Engine-CD|LibRetro_PCECD|mednafen_pce_fast_libretro|pce,cdrom
-						NEC PC-FX|LibRetro_PCFX|mednafen_pcfx_libretro
-						NEC SuperGrafx|LibRetro_SGFX|mednafen_supergrafx_libretro|sgx,cart
-						NEC TurboGrafx-16|LibRetro_TG16|mednafen_pce_fast_libretro|tg16,cart
-						NEC TurboGrafx-CD|LibRetro_TGCD|mednafen_pce_fast_libretro|tg16,cdrom
-						Nintendo 64|LibRetro_N64|mupen64plus_libretro|n64
-						Nintendo 64DD|LibRetro_N64|mupen64plus_libretro
-						Nintendo Arcade Systems|LibRetro_NINARC|mame_libretro
-						Nintendo Classics|LibRetro_NINC|mame_libretro
-						Nintendo DS|LibRetro_DS|desmume_libretro
-						Nintendo Entertainment System|LibRetro_NES|nestopia_libretro|nes
-						Nintendo Famicom|LibRetro_NFAM|nestopia_libretro
-						Nintendo Famicom Disk System|LibRetro_NFDS|nestopia_libretro|famicom
-						Nintendo Game Boy|LibRetro_GB|gambatte_libretro|gameboy
-						Nintendo Game Boy Advance|LibRetro_GBA|vba_next_libretro|gba
-						Nintendo Game Boy Color|LibRetro_GBC|gambatte_libretro|gbcolor
-						Nintendo Game Boy Japan|LibRetro_GBJ|gambatte_libretro|gameboy
-						Nintendo Game & Watch|LibRetro_GW|gw_libretro
-						Nintendo Pokemon Mini|LibRetro_POKE|mame_libretro|pokemini
-						Nintendo Satellaview|LibRetro_NSFS|snes9x_libretro
-						Nintendo SuFami Turbo|LibRetro_NSFST|snes9x_libretro
-						Nintendo Super Famicom|LibRetro_NSF|bsnes_balanced_libretro
-						Nintendo Super Game Boy|LibRetro_SGB|bsnes_balanced_libretro
-						Nintendo Virtual Boy|LibRetro_NVB|mednafen_vb_libretro|vboy
-						Othello Multivision|LibRetro_OTHO|genesis_plus_gx_libretro
-						Panasonic 3DO|LibRetro_3DO|4do_libretro
-						Philips CD-i|LibRetro_CDI|mame_libretro|cdimono1
-						Philips Videopac|LibRetro_PVID|mame_libretro|videopac
-						RCA Studio II|LibRetro_STUD2|mame_libretro|studio2
-						SCUMMVM|LibRetro_SCUMM|scummvm_libretro
-						Sega 32X|LibRetro_32X|picodrive_libretro|32x
-						Sega CD|LibRetro_SCD|genesis_plus_gx_libretro|segacd
-						Sega Classics|LibRetro_SEGC|mame_libretro
-						Sega Dreamcast|LibRetro_DCAST|reicast_libretro
-						Sega Game Gear|LibRetro_GG|genesis_plus_gx_libretro|gamegear
-						Sega Genesis|LibRetro_GEN|genesis_plus_gx_libretro|genesis
-						Sega Mark III|Libretro_SM3|genesis_plus_gx_libretro
-						Sega Master System|LibRetro_SMS|genesis_plus_gx_libretro|sms
-						Sega Mega Drive|LibRetro_GEN|genesis_plus_gx_libretro|megadriv
-						Sega Mega Drive 32X|LibRetro_MD32X|picodrive_libretro
-						Sega Meganet|LibRetro_GEN|genesis_plus_gx_libretro|genesis
-						Sega Nomad|LibRetro_GEN|genesis_plus_gx_libretro|genesis
-						Sega Pico|LibRetro_PICO|picodrive_libretro
-						Sega Saturn|LibRetro_SAT|yabause_libretro|saturn
-						Sega Saturn Japan|LibRetro_SAT|yabause_libretro|saturnjp
-						Sega SC-3000|LibRetro_SC3K|mame_libretro|sc3000
-						Sega SG-1000|LibRetro_SG1K|genesis_plus_gx_libretro
-						Sega ST-V|LibRetro_STV|mame_libretro
-						Sega VMU|LibRetro_SVMU|mame_libretro|svmu
-						Sharp X1|LibRetro_SX1|mame_libretro|x1
-						Sharp X68000|LibRetro_SX68000|mame_libretro|x68000
-						Sinclair ZX Spectrum|LibRetro_SPECZX|mame_libretro|spectrum
-						Sinclair ZX81|LibRetro_ZX81|81_libretro|zx81
-						SNK Classics|LibRetro_SNKC|mame_libretro
-						SNK Neo Geo|LibRetro_NEO|fbalpha_libretro
-						SNK Neo Geo AES|LibRetro_NEOAES|mame_libretro|aes
-						SNK Neo Geo CD|LibRetro_NEOCD|mame_libretro|neocdz
-						SNK Neo Geo MVS|LibRetro_NEOMVS|mame_libretro
-						SNK Neo Geo Pocket|LibRetro_NGP|mednafen_ngp_libretro|ngp
-						SNK Neo Geo Pocket Color|LibRetro_NGPC|mednafen_ngp_libretro|ngpc
-						Sony PlayStation|LibRetro_PSX|mednafen_psx_hw_libretro|psu
-						Sony PlayStation Minis|LibRetro_PSXMIN|ppsspp_libretro
-						Sony PocketStation|LibRetro_POCKS|mame_libretro|pockstat
-						Sony PSP|LibRetro_PSP|ppsspp_libretro
-						Sony PSP Minis|LibRetro_PSP|ppsspp_libretro
-						Sord M5|LibRetro_SORD|mame_libretro|m5
-						Spectravideo|LibRetro_SV328|mame_libretro|svi328n
-						Super Nintendo Entertainment System|LibRetro_SNES|snes9x_libretro
-						Taito Classics|LibRetro_TAIC|mame_libretro
-						Tandy TRS-80 Color Computer|LibRetro_TRS80|mame_libretro|coco3
-						Technos|LibRetro_TECHN|mame_libretro
-						Texas Instruments TI 99-4A|LibRetro_TI99|mame_libretro|ti99_4a
-						Thomson MO5|LibRetro_MO5|mame_libretro|mo5
-						Thomson TO7|LibRetro_TO7|mame_libretro|to7
-						Tiger Game.com|LibRetro_TCOM|mame_libretro|gamecom
-						Tiki-100|LibRetro_TIKI|mame_libretro|kontiki
-						Tomy Tutor|LibRetro_TOMY|mame_libretro|tutor
-						VTech CreatiVision|LibRetro_VTECH|mame_libretro|crvision
-						Watara Supervision|LibRetro_SUPRV|mame_libretro|svision
-						Williams Classics|LibRetro_WILLS|mame_libretro
-						)"
-					mType := Object()
-					Loop, Parse, mTypeVar, `n, `r
-					{
-						obj := {}
-						Loop, Parse, A_LoopField, |
-						{
-							If (A_Index = 1)
-								obj.System := A_LoopField
-							Else If (A_Index = 2)
-								obj.ID := A_LoopField
-							Else If (A_Index = 3)
-								obj.Core := A_LoopField
-							Else {	; 4
-								StringSplit, tmp, A_LoopField, `,
-								obj.MAMEID := tmp1
-								obj.MAMEMedia := tmp2
-							}
-						}
-						mType.Insert(obj["System"], obj)
+					Fullscreen := moduleIni.Read("Settings", "Fullscreen","true","",1)
+					AspectRatio := moduleIni.Read(romName . "|Settings", "AspectRatio","4:3","",1)
+					noGUI := moduleIni.Read("Settings", "noGUI","false","",1)	; disables display of the gui while running games
+					perGameMemCards := moduleIni.Read("Settings", "PerGameMemoryCards","false","",1)
+					hideConsole := moduleIni.Read("Settings", "HideConsole","true","",1)	; Hides console window from view if it shows up
+					cfgPath := moduleIni.Read("Settings", "cfgpath", emuPath . "\Game Configs","",1)	; specifies the config folder; applies to pcsx2 + plugins
+					autoCreateINIDir := moduleIni.Read("Settings", "AutoCreateINIDir","false","",1)  ; Enables the module to auto-create of per game ini files and directories
+					defaultINISPath := moduleIni.Read("Settings", "DefaultINISPath","","",1)  ; Path to default INIS folder of PCSX2.
+					fullboot := moduleIni.Read(romName . "|Settings", "fullboot","false","",1)	; disables the quick boot feature, forcing you to sit through the PS2 startup splash screens
+					gs := moduleIni.Read(romName . "|Settings", "gs","","",1)	; override for the GS plugin
+					pad := moduleIni.Read(romName . "|Settings", "pad","","",1)	; override for the PAD plugin
+					spu2 := moduleIni.Read(romName . "|Settings", "spu2","","",1)	; override for the SPU2 plugin
+					cdvd := moduleIni.Read(romName, "cdvd","","",1)	; override for the CDVD plugin
+					usb := moduleIni.Read(romName . "|Settings", "usb","","",1)	; override for the USB plugin
+					fw := moduleIni.Read(romName . "|Settings", "fw","","",1)	; override for the FW plugin
+					dev9 := moduleIni.Read(romName . "|Settings", "dev9","","",1)	; override for the DEV9 plugin
+					vdOveride := moduleIni.Read(romName, "VDOveride","","",1)
+					nohacks := moduleIni.Read(romName, "nohacks","false","",1)	; disables all speedhacks
+					gamefixes := moduleIni.Read(romName, "gamefixes","","",1)	; Enable specific gamefixes for this session. Use the specified comma or pipe-delimited list of gamefixes: VuAddSub,VuClipFlag,FpuCompare,FpuMul,FpuNeg,EETiming,SkipMpeg,OPHFlag,DMABusy,VIFFIFO,VI,FMVinSoftware
+					
+					; GS plugin settings, primarily to fix upscaling issues in games. Game specific settings can be found here: http://www.neogaf.com/forum/showpost.php?p=27110555&postcount=2
+					userHacks_MSAA := If moduleIni.Read(romName, "MSAA",0,"",1)	; Applies hardware anti-aliasing
+					userHacks_SkipDraw := moduleIni.Read(romName, "Skipdraw",0,"",1)	; Can remove ghost images
+					userHacks_HalfPixelOffset := If moduleIni.Read(romName, "Half-pixel_Offset",0,"",1)	; Fixes blur or halo effects
+					userHacks_WildHack := If moduleIni.Read(romName, "Wild_Arms_Offset",0,"",1)	; Fixes fonts in many games
+					userHacks_unsafe_fbmask := If moduleIni.Read(romName, "Fast_Accurate_Blending",0,"",1)	; Accelerates blending operations, speeds up Xenosaga
+					userHacks_AlphaStencil := If moduleIni.Read(romName, "Alpha_Stencil",0,"",1)	; May improve drawing shadows
+					userHacks_align_sprite_X := If moduleIni.Read(romName, "Align_Sprite",0,"",1)	; Fixes issues with vertical lines in Ace Combat, Tekken, Soul Calibur
+					userHacks_AlphaHack := If moduleIni.Read(romName, "Alpha",0,"",1)	; Improves drawing fog-like effects
+					preload_frame_with_gs_data := If moduleIni.Read(romName, "Preload_Data_Frame",0,"",1)	; Fixes black screen issues in Armored Core: Last Raven
+					userHacks_round_sprite_offset := moduleIni.Read(romName, "Round_Sprite",0,"",1)	; Fixes lines in sprites in Ar tonelico
+					userHacks_SpriteHack := moduleIni.Read(romName, "Sprite",0,"",1)	; Fixes inner lines in sprites in Mana Khemia, Ar tonelico, Tales of Destiny
+					userHacks_TCOffset := moduleIni.Read(romName, "TC_Offset",0,"",1)	; Fixes misaligned textures in Persona 3, Haunting Ground, Xenosaga
+					; Set the userHacks variable to 1 if any of the hacks are used.
+					userHacks := If (userHacks_MSAA || userHacks_SkipDraw || userHacks_HalfPixelOffset || userHacks_WildHack || userHacks_unsafe_fbmask || userHacks_AlphaStencil || userHacks_align_sprite_X || userHacks_AlphaHack || preload_frame_with_gs_data || userHacks_round_sprite_offset || userHacks_SpriteHack || userHacks_TCOffset) ? 1 : ""
+					
+					cfgPath := new Folder(GetFullName(cfgPath))
+					If !cfgPath.Exist()
+						cfgPath.CreateDir()	; create the cfg folder if it does not exist
+					
+					; PCSX2_ui.ini = default ini that contains memory card info and general settings
+					portableIni := new File(emuPath . "\portable.ini")
+					If portableIni.Exist() {	; portable install
+						RLLog.Info("Module - PCSX2 is operating in a portable mode")
+						pcsx2IniFolder := emuPath . "\inis"
+						pcsx2_GS_IniFile := CheckFile(emuPath . "\inis\GSdx.ini", "Could not find the default GSdx.ini file. Please manually run and configure PCSX2 first so this file is created with all your default settings.")
+					} Else {	; default not portable install
+						RLLog.Info("Module - PCSX2 is operating in a standard installation mode")
+						pcsx2IniFolder := Registry.Read("HKCU", "Software\PCSX2", "SettingsFolder")
 					}
-					RLLog.Debug("Module - Finished building the " . MEmu . " object")
-					; For easier use throughout the module
-					retroSystem := mType[systemName].System
-					retroID := mType[systemName].ID
-					retroCore := mType[systemName].Core
-					retroMAMEID := mType[systemName].MAMEID
-					retroMAMEMedia := mType[systemName].MAMEMedia
-					RLLog.Info("Module - Using these system variables:")
-					RLLog.Info("Module - retroSystem: " . retroSystem)
-					RLLog.Info("Module - retroID: " . retroID)
-					RLLog.Info("Module - retroCore: " . retroCore)
-					RLLog.Info("Module - retroMAMEID: " . retroMAMEID)
-					RLLog.Info("Module - retroMAMEMedia: " . retroMAMEMedia)
-					If !retroSystem
-						ScriptError("Your systemName is: " . systemName . "`nIt is not one of the known supported systems for this " . MEmu . " module: " . moduleName)
-					If !retroCore
-						ScriptError("Your Core ID is: " . retroID . "`nCould not find a default core to use. Please update the module with a default core.")
+					pcsx2Ini := new IniFile(pcsx2IniFolder . "\PCSX2_ui.ini")
+					pcsx2Ini.CheckFile("Could not find the default PCSX2_ui.ini file. Please manually run and configure PCSX2 first so this file is created with all your default settings.")
+					pcsx2GSdxIni := new IniFile(pcsx2IniFolder . "\GSdx.ini")
+					pcsx2GSdxIni.CheckFile("Could not find the default GSdx.ini file. Please manually run and configure PCSX2 first so this file is created with all your default settings.")
+					pcsx2IniFolder := new Folder(pcsx2IniFolder)
 					
-					Fullscreen := moduleIni.Read("Settings", "Fullscreen","true",,1)
-					configFolder := moduleIni.Read("Settings", "ConfigFolder",emuPath . "\config",,1)
-					singlecoreoptions := moduleIni.Read("Settings", "single_core_options","false",,1) = "true" ? ":\retroarch-core-options.cfg" : """"
-					mameRomPath := moduleIni.Read("MAME", "BIOS_Roms_Folder",,,1)
-					mameHideNag := If moduleIni.Read("MAME", "Hide_Nag_Screen","false",,1) = "true" ? "enabled" : "disabled"
-					mameHideInfo := If moduleIni.Read("MAME", "Hide_Info_Screen","false",,1) = "true" ? "enabled" : "disabled"
-					mameHideWarn := If moduleIni.Read("MAME", "Hide_Warning_Screen","false",,1) = "true" ? "enabled" : "disabled"
-					hideConsole := moduleIni.Read("Settings", "HideConsole","true",,1)
-					ejectToggleKey := moduleIni.Read("Settings", "Eject_Toggle_Key",,,1)
-					nextDiskKey := moduleIni.Read("Settings", "Next_Disk_Key",,,1)
-					prevDiskKey := moduleIni.Read("Settings", "Previous_Disk_Key",,,1)
-					core := moduleIni.Read(romName . "|" . systemName, "LibRetro_Core",retroCore,,1)
-					superGB := moduleIni.Read(romName . "|" . systemName, "SuperGameBoy","false",,1)
-					enableNetworkPlay := moduleIni.Read(romName . "|Network", "Enable_Network_Play","false",,1)
-					overlay := moduleIni.Read(romName . "|" . systemName, "Overlay",,,1)
-					videoShader := moduleIni.Read(romName . "|" . systemName, "VideoShader",,,1)
-					aspectRatioIndex := moduleIni.Read(romName . "|" . systemName, "AspectRatioIndex",,,1)
-					customViewportWidth := moduleIni.Read(romName . "|" . systemName, "CustomViewportWidth",,,1)
-					customViewportHeight := moduleIni.Read(romName . "|" . systemName, "CustomViewportHeight",,,1)
-					customViewportX := moduleIni.Read(romName . "|" . systemName, "CustomViewportX",,,1)
-					customViewportY := moduleIni.Read(romName . "|" . systemName, "CustomViewportY",,,1)
-					stretchToFillBezel := moduleIni.Read(romName . "|" . systemName, "StretchToFillBezel","false",,1)
-					rotation := moduleIni.Read(romName . "|" . systemName, "Rotation",0,,1)
-					cropOverscan := moduleIni.Read(romName . "|" . systemName, "CropOverscan",,,1)
-					threadedVideo := moduleIni.Read(romName . "|" . systemName, "ThreadedVideo",,,1)
-					vSync := moduleIni.Read(romName . "|" . systemName, "VSync",,,1)
-					integerScale := moduleIni.Read(romName . "|" . systemName, "IntegerScale",,,1)
-					configurationPerCore := moduleIni.Read(romName . "|" . systemName, "ConfigurationPerCore","false",,1)
-					
-					If (StringUtils.Contains(core, "^(mame|mess|ume)") && !retroMAMEID) {
-						retroMAMEID := "mame"	; set all systems that use a mame core to the default mame ID so any system name is supported
-						RLLog.Warning("Module - Setting MAMEID to default ""mame"" for """ . retroSystem . """")
-					}
-					
-					configFolder := RLObject.getFullPathFromRelative(rlPath,configFolder)
-					mameRomPath := If mameRomPath ? RLObject.getFullPathFromRelative(rlPath,mameRomPath) : romPath
-					overlay := RLObject.getFullPathFromRelative(rlPath,overlay)
-					videoShader := RLObject.getFullPathFromRelative(rlPath,videoShader)
-					rotateBezel := false
-					
-					configFolder := new Folder(configFolder)
-					
-					If (retroID = "LibRetro_SGB" || superGB = "true")	; if system or rom is set to use Super Game Boy
-					{	superGB := "true"	; setting this just in case it's false and the system is Nintendo Super Game Boy
-						sgbRomPath := CheckFile(emuPath . "\system\Super Game Boy (World).sfc","Could not find the rom required for Super Game Boy support. Make sure the rom ""Super Game Boy (World).sfc"" is located in: " . emuPath . "\system")
-						CheckFile(emuPath . "\system\sgb.boot.rom","Could not find the bios required for Super Game Boy support. Make sure the bios ""sgb.boot.rom"" is located in: " . emuPath . "\system")
-						retroID := "LibRetro_SGB"	; switching to Super Game Boy mode
-						retroSystem := "Nintendo Super Game Boy"
-					}
-					
-					; Find the dll for this system
-					libDll := CheckFile(emuPath . "\cores\" . core . ".dll", "Your " . retroID . " dll is set to " . core . " but could not locate this file:`n" . emuPath . "\cores\" . core . ".dll")
-					
-					; Find the cfg file to use
-					If !configFolder.Exist()
-						ScriptError("You need to make sure ""ConfigFolder"" is pointing to your RetroArch config folder. By default it is looking here: """ . configFolder.FilePath . """")
-					globalRetroCfg := emuPath . "\retroarch.cfg"
-					systemRetroCfg := configFolder.FilePath . "\" . retroSystem . ".cfg"
-					coreRetroCfg := configFolder.FilePath . "\" . core . ".cfg"
-					RLLog.Info("Module - Global cfg should be: " . globalRetroCfg)
-					RLLog.Info("Module - System cfg should be: " . systemRetroCfg)
-					RLLog.Info("Module - Core cfg should be: " . coreRetroCfg)
-					foundCfg := ""
-					
-					systemRetroCfg := new File(systemRetroCfg)
-					coreRetroCfg := new File(coreRetroCfg)
-					globalRetroCfg := new File(globalRetroCfg)
-					
-					If systemRetroCfg.Exist() {	; check for system cfg first
-						retroCFGFile := systemRetroCfg
-						foundCfg := 1
-						RLLog.Info("Module - Found a System cfg!")
-					} Else If coreRetroCfg.Exist() {	; 2nd option is a core config
-						retroCFGFile := coreRetroCfg
-						foundCfg := 1
-						RLLog.Info("Module - Found a Core cfg!")
-					} Else If globalRetroCfg.Exist() {	; 3rd is global cfg
-						retroCFGFile := globalRetroCfg
-						foundCfg := 1
-						RLLog.Info("Module - Found a Global cfg!")
-					}
-					If foundCfg {
-						RLLog.Info("Module - " . MEmu . " is using " . retroCFGFile.FileFullPath . " as its config file.")
-						retroCFG := LoadProperties(retroCFGFile.FileFullPath)
-					} Else
-						RLLog.Warning("Module - Could not find a cfg file to update settings. RetroArch will make one for you.")
-					
-					If StringUtils.Contains(rotation,"1|3") ; use vertical bezel if RA rotation is set to 90 or 270 degrees
-						rotateBezel := true
-					
-					If StringUtils.Contains(retroID, "LibRetro_NFDS|LibRetro_SCD|LibRetro_TGCD|LibRetro_PCECD|LibRetro_PCFX") {		; these systems require the retroarch settings to be read
-						retroSysDir := ReadProperty(retroCFG,"system_directory")	; read value
-						retroSysDir := ConvertRetroCFGKey(retroSysDir)	; remove dbl quotes
-						retroSysDirLeft := StringUtils.Left(retroSysDir, 2)
-						If (retroSysDirLeft = ":\") {	; if retroarch is set to use a default folder
-							retroSysDir := StringUtils.TrimLeft(retroSysDir, 1)
-							RLLog.Info("Module - RetroArch is using a relative system path: """ . retroSysDir . """")
-							retroSysDir := emuPath . retroSysDir
-						}
-						If !retroSysDir
-							ScriptError("RetroArch requires you to set your system_directory and place bios rom(s) in there for """ . retroSystem . """ to function. Please do this first by running ""retroarch-phoenix.exe"" manually.")
-						checkForSlash := StringUtils.Right(retroSysDir, 1)
-						If (checkForSlash = "\")	; check if a backslash is the last character. If it is, remove it, as this is non-standard method to define folders
-							retroSysDir := StringUtils.TrimRight(retroSysDir, 1)
-					}
-					
-					If (StringUtils.Contains(core, "^(mame|mess|ume)")) || (StringUtils.Contains(retroID, "LibRetro_N64|LibRetro_NES|LibRetro_LYNX|LibRetro_PSX")) || (StringUtils.Contains(retroID, "LibRetro_NES") && (StringUtils.Contains(core, "nestopia_libretro"))) {	; these systems will use an ini to store game specific settings
-						RLLog.Info("Module - Reading / creating system ini for specific settings.")
-						If !StringUtils.Contains(core, "^(mame|mess|ume)") {
-							If !SystemModuleIni.Exist()
-								SystemModuleIni.Append		; create a new blank ini file if one does not exist
-						}
-					
-						coreOptionsCFG := LoadProperties(coreOptionsCFGFile.FileFullPath)
-						
-						If StringUtils.Contains(core, "^(mame|mess|ume)") {	; Set some MAME/MESS/UME core options.
-							tmpCore := If StringUtils.Contains(core, "mame") ? "mame" : "mess"
-							WriteProperty(coreOptionsCFG, tmpCore . "_read_config", """enabled""", 1)
-							WriteProperty(coreOptionsCFG, tmpCore . "_boot_from_cli", """enabled""", 1)				; This needs to be enabled in order to run games with RLauncher
-							WriteProperty(coreOptionsCFG, tmpCore . "_hide_nagscreen", "" . mameHideNag . "", 1)
-							WriteProperty(coreOptionsCFG, tmpCore . "_hide_infoscreen", "" . mameHideInfo . "", 1)
-							WriteProperty(coreOptionsCFG, tmpCore . "_hide_warnings", "" . mameHideWarn . "", 1)
-						} Else If StringUtils.Contains(retroID, "LibRetro_N64") {	; Nintendo 64
-							mupenGfx := moduleIni.Read(romName . "|" . systemName, "Mupen_Gfx_Plugin", "auto",,1)
-							mupenRsp := moduleIni.Read(romName . "|" . systemName, "Mupen_RSP_Plugin", "auto",,1)
-							mupenCpu := moduleIni.Read(romName . "|" . systemName, "Mupen_CPU_Core", "dynamic_recompiler",,1)
-							mupenPak1 := moduleIni.Read(romName . "|" . systemName, "Mupen_Pak_1", "memory",,1)
-							mupenPak2 := moduleIni.Read(romName . "|" . systemName, "Mupen_Pak_2", "memory",,1)
-							mupenPak3 := moduleIni.Read(romName . "|" . systemName, "Mupen_Pak_3", "memory",,1)
-							mupenPak4 := moduleIni.Read(romName . "|" . systemName, "Mupen_Pak_4", "memory",,1)
-							mupenGfxAccur := moduleIni.Read(romName . "|" . systemName, "Mupen_Gfx_Accuracy", "high",,1)
-							mupenExpMem := moduleIni.Read(romName . "|" . systemName, "Mupen_Disable_Exp_Memory", "no",,1)
-							mupenTexturFilt := moduleIni.Read(romName . "|" . systemName, "Mupen_Texture_Filtering", "nearest",,1)
-							mupenViRefresh := moduleIni.Read(romName . "|" . systemName, "Mupen_VI_Refresh", "2200",,1)
-							mupenFramerate := moduleIni.Read(romName . "|" . systemName, "Mupen_Framerate", "fullspeed",,1)
-							mupenResolution := moduleIni.Read(romName . "|" . systemName, "Mupen_Resolution", "640x480",,1)
-							mupenPolyOffstFctr := moduleIni.Read(romName . "|" . systemName, "Mupen_Polygon_Offset_Factor", "-3.0",,1)
-							mupenPolyOffstUnts := moduleIni.Read(romName . "|" . systemName, "Mupen_Polygon_Offset_Units", "-3.0",,1)
-							mupenViOverlay := moduleIni.Read(romName . "|" . systemName, "Mupen_VI_Overlay", "disabled",,1)
-							mupenAnalogDzone := moduleIni.Read(romName . "|" . systemName, "Mupen_Analog_Deadzone", "15",,1)
-					
-							WriteProperty(coreOptionsCFG, "mupen64-gfxplugin", mupenGfx, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-rspplugin", mupenRsp, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-cpucore", mupenCpu, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-pak1", mupenPak1, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-pak2", mupenPak2, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-pak3", mupenPak3, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-pak4", mupenPak4, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-gfxplugin-accuracy", mupenGfxAccur, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-disableexpmem", mupenExpMem, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-filtering", mupenTexturFilt, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-virefresh", mupenViRefresh, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-framerate", mupenFramerate, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-screensize", mupenResolution, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-polyoffset-factor", mupenPolyOffstFctr, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-polyoffset-units", mupenPolyOffstUnts, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-angrylion-vioverlay", mupenViOverlay, 1)
-							WriteProperty(coreOptionsCFG, "mupen64-astick-deadzone", mupenAnalogDzone, 1)
-						} Else If StringUtils.Contains(retroID, "LibRetro_NES") {		; these systems will use an ini to store game specific settings
-							If StringUtils.Contains(core, "nestopia_libretro") {	; Nestopia
-								nestopiaBlargg := moduleIni.Read(romName . "|Nestopia", "Nestopia_Blargg_NTSC_Filter", "disabled",,1)
-								nestopiaPalette := moduleIni.Read(romName . "|Nestopia", "Nestopia_Palette", "canonical",,1)
-								nestopiaNoSprteLimit := moduleIni.Read(romName . "|Nestopia", "Nestopia_Remove_Sprites_Limit", "disabled",,1)
-								
-								WriteProperty(coreOptionsCFG, "nestopia_blargg_ntsc_filter", nestopiaBlargg, 1)
-								WriteProperty(coreOptionsCFG, "nestopia_palette", nestopiaPalette, 1)
-								WriteProperty(coreOptionsCFG, "nestopia_nospritelimit", nestopiaNoSprteLimit, 1)
-							}
-						} Else If StringUtils.Contains(retroID, "LibRetro_LYNX") {	; Atari Lynx
-							If StringUtils.Contains(core, "handy_libretro") {   ; Handy
-								handyRotate := moduleIni.Read(romName . "|" . systemName, "Handy_Rotation", "None",,1)
-								If StringUtils.Contains(handyRotate, "240") or StringUtils.Contains(handyRotate, "90")
-									rotateBezel := true
-								WriteProperty(coreOptionsCFG, "handy_rot", handyRotate, 1)
-							}
-						} Else If StringUtils.Contains(retroID, "LibRetro_PSX") {	; Sony PlayStation
-							psxCdImageCache := moduleIni.Read(romName . "|" . systemName, "PSX_CD_Image_Cache", """enabled""",,1)
-							psxMemcardHandling := moduleIni.Read(romName . "|" . systemName, "PSX_Memcard_Handling", """libretro""",,1)
-							psxDualshockAnalogToggle := moduleIni.Read(romName . "|" . systemName, "PSX_Dualshock_Analog_Toggle", """enabled""",,1)
-							
-							WriteProperty(coreOptionsCFG, "beetle_psx_cdimagecache", psxCdImageCache, 1)
-							WriteProperty(coreOptionsCFG, "beetle_psx_use_mednafen_memcard0_method", psxMemcardHandling, 1)
-							WriteProperty(coreOptionsCFG, "beetle_psx_analog_toggle", psxDualshockAnalogToggle, 1)
-						}
-						SaveProperties(coreOptionsCFGFile.FileFullPath, coreOptionsCFG)
-					}
-					
-					hideEmuObj := Object(emuConsoleWindow,0,emuPrimaryWindow,1)
-					7z(romPath, romName, romExtension, sevenZExtractPath)
-					
-					mgM3UFile := new File(romPath . "\" . romTable[1,4] . ".m3u")
-					
-					mgRomExtensions := "cue|iso|ccd"
-					mgValidExtension := false
-					
-					Loop, Parse, mgRomExtensions, |
-						If (romExtension = "." . A_LoopField)
-							mgValidExtension := true
-					
-					If (StringUtils.Contains(retroID, "LibRetro_PSX") && romTable.MaxIndex() && mgValidExtension) { ; See if MultiGame table is populated	
-						m3uRomIndex := Object()
-						mgType := romTable[1,6] . " "
-						mgMaxIndex := romTable.MaxIndex()
-						mgRomIndex := 0
-					
-						If mgM3UFile.Exist()
-							mgM3UFile.Delete()
-					
-						Loop % mgMaxIndex
-						{
-							If (romTable[A_Index, 3] = romName) {
-								tempType := romTable[A_Index, 5]
-								mgRomIndex := StringUtils.TrimLeft(tempType, StringUtils.StringLength(mgType))
-								RLLog.Info("Found rom index in rom set in romTable: " . mgRomIndex)
-								Break
-							}
-						}
-					
-						If (mgRomIndex > 0) {
-							tempRomIndex := mgRomIndex
-							Loop % mgMaxIndex
-							{
-								mgTypeIndex := mgType . tempRomIndex
-								m3uRomIndex.Insert(tempRomIndex)
-					
-								Loop % mgMaxIndex
-								{
-									If (romTable[A_Index, 5] = mgTypeIndex) {
-										tempRomPath := romTable[A_Index, 1]
-										mgM3UFile.Append(tempRomPath . "`n")
-										RLLog.Info("Module - Appending rom path to m3u: " . tempRomPath)
-										Break
-									}
-								}
-					
-								If (tempRomIndex < mgMaxIndex)
-									tempRomIndex++
-								Else
-									tempRomIndex := 1
-							}
-						}
-					}
-					
-					; MAME/MESS/UME core options
-					MAMEParam1 := ""
-					MAMEParam2 := ""
-					MAMEParam3 := ""
-					If StringUtils.Contains(core, "^(mame|mess|ume)") {	; if a MAME/MESS/UME core is used
-						If !retroMAMEID
-							ScriptError("Your systemName is: " . systemName . "`nIt is not one of the known supported systems for the MAME/MESS/UME LibRetro core")
-						Else
-							RLLog.Info("Module - MAME/MESS/UME mode using a known ident: " . retroMAMEID)
-					
-						If !mameRomPath
-							ScriptError("Please set the RetroArch module setting ""BIOS_Roms_Folder"" to the folder that contains your MAME/MESS/UME BIOS roms to use with RetroArch.")
-						
-						If (retroMAMEID = "mame") {		; want this for arcade mame only
-							RLLog.Info("Module - Retroarch MAME/MESS/UME Arcade mode enabled")
-							fullRomPath := " """ . romPath . "\" . romName . romExtension . """"
-						} Else {
-							RLLog.Info("Module - Retroarch MAME/MESS/UME Console/PC mode enabled")
-							MAMEParam1 := ""
-							MAMEParam2 := " -rompath \""" . mameRomPath . "\"""
-					
-							; If we already have a media type, then use it.
-							If (StringUtils.Contains(retroMAMEID, "tg16|pce") && retroMAMEMedia = "cart") {
-								;MAMEParam3 := " -cart \" . """" . romPath . "\" . romName . romExtension . "\" . """"
-								MAMEParam3 := " -cart \""" . romPath . "\" . romName . romExtension . "\"""""
-							; TODO: This needs a better way to handle the cdrom bios files, in my opinion. As it is, there's no clean way to pick between the v2.00 or v3.00 bios.
-							;       Defaulting to the TurboDuo cdrom bios since it will play 2.00 or 3.00 games.
-							} Else If (StringUtils.Contains(retroMAMEID, "tg16|pce") && retroMAMEMedia = "cdrom") {
-								;MAMEParam3 := " -cart cdsys -cdrm \" . """" . romPath . "\" . romName . romExtension . "\" . """"
-								MAMEParam3 := " -cart scdsys -cdrm \""" . romPath . "\" . romName . romExtension . "\"""""
+					; Create INIs subfolder for the game if it does not exist and if AutoCreateINIDir is true
+					perGameINIPath := new Folder(cfgPath.FileFullPath . "\" . romName)
+					If (autoCreateINIDir = "true") {
+						RLLog.Info("Module - PerGameIni - perGameINIPath = " . perGameINIPath.FileFullPath)
+						If !perGameINIPath.Exist() {
+							perGameINIPath.CreateDir()
+							If (defaultINISPath != "") {
+								defaultINISPath := new Folder(defaultINISPath)
+								RLLog.Info("Module - PerGameIni - perGameINIPath does not exist.  So we will create it at " . perGameINIPath.FileFullPath)
+								RLLog.Info("Module - PerGameIni - Now copying the ini files from " . defaultINISPath.FileFullPath . " to " . perGameINIPath.FileFullPath)
+								defaultINISPath.Copy(perGameINIPath.FileFullPath,0,"\*.ini")
 							} Else {
-								; Build a key/value object containing the different MAMEParam3 choices
-								MAMEP3 := Object("alice32","cass1","gp32","memc","cpc464","cass","spectrum","cass","dragon64","cass","cdimono1","cdrom","bk0010","cass","neocd","cdrom","neocdz","cdrom","saturn","cdrm","saturnjp","cdrm","svi328n","cass","pecom64","cass","psu","cdrm","svmu","quik","gamecom","cart1","mbeeic","quik1")
-								MAMEParam3 := MAMEP3[retroMAMEID]	; search object for the retroMAMEID pair
-								MAMEParam3 := " -" . (If MAMEParam3 ? MAMEParam3 : "cart") . " \" . """" . romPath . "\" . romName . romExtension . "\" . """"
+								RLLog.Info("Module - PerGameIni - perGameINIPath does not exist.  So we will create it at " . perGameINIPath.FileFullPath)
+								RLLog.Info("Module - PerGameIni - Now copying the ini files from " . pcsx2IniFolder.FileFullPath . " to " . perGameINIPath.FileFullPath)
+								pcsx2IniFolder.Copy(perGameINIPath.FileFullPath,0,"\*.ini")
 							}
-					
-							If (retroMAMEID = "mbeeic") ; Applied Technology MicroBee
-							{	microbeeModel := IniReadCheck(MAMESysINI, romName, "MicroBee_Model","mbeeic",,1)
-								If microbeeModel not in mbee,mbeeic,mbeepc,mbeepc85,mbee56
-									ScriptError("This is not a known MicroBee model value: " . microbeeModel)
-								Else If (microbeeModel != "mbeeic")
-									retroMAMEID := microbeeModel
-								If romExtension in .mwb,.com,.bee
-									mediaDeviceType := "quik1"
-								Else If romExtension in .wav,.tap
-									mediaDeviceType := "cass"
-								Else If romExtension in .rom
-									mediaDeviceType := "cart"
-								Else If romExtension in .dsk
-									mediaDeviceType := "flop1"
-								Else	; .bin format
-									mediaDeviceType := "quik2"
-								MAMEParam3 := " -" . mediaDeviceType . " \" . """" . romPath . "\" . romName . romExtension . "\" . """"
-							}
-							
-							If (retroMAMEID = "x68000") ; Sharp X68000
-							{	
-								If romExtension in .xdf,.hdm,.2hd,.dim,.d77,.d88,.1dd,.dfi,.imd,.ipf,.mfi,.mfm,.td0,.cqm,.cqi,.dsk
-									mediaDeviceType := "flop1"
-								Else	; .bin format
-									mediaDeviceType := "sasi"
-								MAMEParam3 := " -" . mediaDeviceType . " \" . """" . romPath . "\" . romName . romExtension . "\" . """"
-							}
-							
-							fullRomPath := MAMEParam1 . MAMEParam2 . MAMEParam3
 						}
-					} Else If (superGB = "true") {
-						RLLog.Info("Module - Retroarch Super Game Boy mode enabled")
-						fullRomPath := " """ . sgbRomPath . """ --subsystem sgb """ . romPath . "\" . romName . romExtension . """"
-					} Else {
-						RLLog.Info("Module - Retroarch standard mode enabled")
-						fullRomPath := " """ . romPath . "\" . romName . romExtension . """"
 					}
 					
-					If (retroID = "LibRetro_NFDS")	; Nintendo Famicom Disk System
-					{	disksysRom := new File(retroSysDir . "\disksys.rom")
-						If !disksysRom.Exist()
-							ScriptError("RetroArch requires ""disksys.rom"" for " . retroSystem . " but could not find it in your system_directory: """ . retroSysDir . """")
-					} Else If (retroID = "LibRetro_SCD")	; Sega CD
-					{	If !StringUtils.Contains(romExtension, "\.bin|\.cue|\.iso")
-							ScriptError("RetroArch only supports Sega CD games in bin|cue|iso format. It does not support:`n" . romExtension)
-						biosCDEBin := new File(retroSysDir . "\bios_CD_E.bin")
-						biosCDUBin := new File(retroSysDir . "\bios_CD_U.bin")
-						biosCDJBin := new File(retroSysDir . "\bios_CD_J.bin")
-						If !biosCDEBin.Exist()
-							ScriptError("RetroArch requires ""bios_CD_E.bin"" for " . retroSystem . " but could not find it in your system_directory: """ . retroSysDir . """")
-						If !biosCDUBin.Exist()
-							ScriptError("RetroArch requires ""bios_CD_U.bin"" for " . retroSystem . " but could not find it in your system_directory: """ . retroSysDir . """")
-						If !biosCDJBin.Exist()
-							ScriptError("RetroArch requires ""bios_CD_J.bin"" for " . retroSystem . " but could not find it in your system_directory: """ . retroSysDir . """")
-					} Else If StringUtils.Contains(retroID,"LibRetro_PCECD|LibRetro_TGCD")	; NEC PC Engine-CD and NEC TurboGrafx-CD
-					{	If !StringUtils.Contains(romExtension,"\.ccd|\.cue")
-							ScriptError("RetroArch only supports " . retroSystem . " games in ccd or cue format. It does not support:`n" . romExtension)
-						sysCard3Pce := new File(retroSysDir . "\syscard3.pce")
-						If !sysCard3Pce.Exist()
-							ScriptError("RetroArch requires ""syscard3.pce"" for " . retroSystem . " but could not find it in your system_directory: """ . retroSysDir . """")
-					} Else If (retroID = "LibRetro_PCFX")
-					{	If !StringUtils.Contains(romExtension,"\.ccd|\.cue")
-							ScriptError("RetroArch only supports " . retroSystem . " games in ccd or cue format. It does not support:`n" . romExtension)
-						pcfxBios := new File(retroSysDir . "\pcfx.bios")
-						If !pcfxBios.Exist()
-							ScriptError("RetroArch requires ""pcfx.bios"" for " . retroSystem . " but could not find it in your system_directory: """ . retroSysDir . """")
-					} Else If (retroID = "LibRetro_SCUMM")
-					{
-						scummFile := new File(romPath . "\" . romName . ".scummvm")
-						If !scummFile.Exist()
-							scummFile.Append("""" . romName . """")
-					}
+					BezelStart()
 					
-					networkSession := ""
-					If (enableNetworkPlay = "true") {
-						RLLog.Info("Module - Network Multi-Player is an available option for " . dbName)
+					Fullscreen := If Fullscreen = "true" ? " --fullscreen" : ""
+					noGUI := If noGUI = "true" ? " --nogui" : ""
+					If (noGUI != "")
+						RLLog.Warning("Module - noGUI is set to true, THIS MAY PREVENT PCSX2 FROM CLOSING PROPERLY. If you have any issues, set it to false or default in RocketLauncherUI.")
+					fullboot := If fullboot = "true" ? " --fullboot" : ""
+					nohacks := If nohacks = "true" ? " --nohacks" : ""
+					gamefixes := If gamefixes ? " --gamefixes=" . gamefixes : ""
+					gs := If gs ? " --gs=""" . GetFullName(gs) . """" : ""
+					pad := If pad ? " --pad=""" . GetFullName(pad) . """" : ""
+					spu2 := If spu2 ? " --spu2=""" . GetFullName(spu2) . """" : ""
+					usb := If usb ? " --usb=""" . GetFullName(usb) . """" : ""
+					fw := If fw ? " --fw=""" . GetFullName(fw) . """" : ""
+					dev9 := If dev9 ? " --dev9=""" . GetFullName(dev9) . """" : ""
 					
-						netplayNickname := moduleIni.Read("Network", "NetPlay_Nickname","Player",,1)
-						getWANIP := moduleIni.Read("Network", "Get_WAN_IP","false",,1)
+					; cfgRomPath := new File(cfgPath . "\" . romName)
+					cfgPathCLI := If perGameINIPath.Exist() ? " --cfgpath=""" . perGameINIPath.FileFullPath . """" : ""
 					
-						If (getWANIP = "true")
-							myPublicIP := GetPublicIP()
-					
-						RLLog.Warning("Module - CAREFUL WHEN POSTING THIS LOG PUBLICLY AS IT CONTAINS YOUR IP ON THE NEXT LINE")
-						defaultServerIP := moduleIni.Read("Network", "Default_Server_IP", myPublicIP,,1)
-						defaultServerPort := moduleIni.Read("Network", "Default_Server_Port",,,1)
-						lastIP := moduleIni.Read("Network", "Last_IP", defaultServerIP,,1)	; does not need to be on the ISD
-						lastPort := moduleIni.Read("Network", "Last_Port", defaultServerPort,,1)	; does not need to be on the ISD
-					
-						mpMenuStatus := MultiPlayerMenu(lastIP,lastPort,networkType,,0)
-						If (mpMenuStatus = -1) {	; if user exited menu early
-							RLLog.Warning("Module - Cancelled MultiPlayer Menu. Exiting module.")
-							ExitModule()
-						}
-						If networkSession {
-							RLLog.Info("Module - Using a Network for " . dbName)
-							moduleIni.Write(networkPort, "GlobalModuleIni", "Network", "Last_Port")
-							; msgbox lastIP: %lastIP%`nlastPort: %lastPort%`nnetworkIP: %networkIP%`nnetworkPort: %networkPort%
-							If (networkType = "client") {
-								moduleIni.Write(networkIP, "GlobalModuleIni", "Network", "Last_IP")	; Save last used IP and Port for quicker launching next time
-								netCommand := " -C " . networkIP . " --port " . networkPort . " --nick """ . netplayNickname . """"	; -C = connect as client
-							} Else {	; server
-								netCommand := " -H --port " . networkPort . " --nick """ . netplayNickname . """"	; -H = host as server
-							}
-							RLLog.Warning("Module - CAREFUL WHEN POSTING THIS LOG PUBLICLY AS IT CONTAINS YOUR IP ON THE NEXT LINE")
-							RLLog.Info("Module - Starting a network session using the IP """ . networkIP . """ and PORT """ . networkPort . """")
-						} Else
-							RLLog.Info("Module - User chose Single Player mode for this session")
-					}
-					
-					BezelStart(,,(If rotateBezel ? 1:""))
-					
-					If foundCfg {
-						If (stretchToFillBezel = "true" and bezelEnabled = "true" and bezelPath)
+					; Specify what main ini PCSX2 should use
+					pcsx2GameIni := new File(perGameINIPath.FileFullPath . "\PCSX2_ui.ini")
+					If (cfgPathCLI && pcsx2GameIni.Exist()) {
+						;We can't set both cfgpath and cfg CLI switches, so if only PCSX2_ui.ini file exists we use cfg otherwise we use cfgpath
+						;--cfg specifies a custom configuration file to use instead of PCSX2.ini (does not affect plugins)
+						filecount := 0 
+						Loop % perGameINIPath.FileFullPath . "\*.ini"
+							filecount++
+						If (filecount = 1)
 						{
-							customViewportWidth := bezelScreenWidth
-							customViewportHeight := bezelScreenHeight
-							customViewportX := 0
-							customViewportY := 0
-							aspectRatioIndex := 22
-							RLLog.Info("Stretching viewport to fit bezel")
-						}
-					
-						raCfgHasChanges := ""
-						WriteRetroProperty("core_options_path", singlecoreoptions)
-						WriteRetroProperty("input_overlay", overlay)
-						WriteRetroProperty("video_shader", videoShader)
-						WriteRetroProperty("aspect_ratio_index", aspectRatioIndex)
-						WriteRetroProperty("custom_viewport_width", customViewportWidth)
-						WriteRetroProperty("custom_viewport_height", customViewportHeight)
-						WriteRetroProperty("custom_viewport_x", customViewportX)
-						WriteRetroProperty("custom_viewport_y", customViewportY)
-						WriteRetroProperty("video_rotation", rotation)
-						WriteRetroProperty("video_crop_overscan", cropOverscan)
-						WriteRetroProperty("video_threaded", threadedVideo)
-						WriteRetroProperty("video_vsync", vSync)
-						WriteRetroProperty("video_scale_integer", integerScale)
-						WriteRetroProperty("input_disk_eject_toggle", ejectToggleKey)
-						WriteRetroProperty("input_disk_next", nextDiskKey)
-						WriteRetroProperty("input_disk_prev", prevDiskKey)
-						If StringUtils.Contains(retroID, "LibRetro_PSX") {
-							Loop, 8	; Loop 8 times for 8 controllers
-							{	p%A_Index%ControllerType := moduleIni.Read(romName . "|" . systemName, "P" . A_Index . "_Controller_Type", 517,,1)
-								WriteRetroProperty("input_libretro_device_p" . A_Index, p%A_Index%ControllerType)
-							}
-						}
-					
-						If raCfgHasChanges {
-							RLLog.Info("Module - Saving changed settings to: """ . retroCFGFile.FileFullPath . """")
-							SaveProperties(retroCFGFile.FileFullPath, retroCFG)
+							;Only PCSX2_ui.ini found
+							pcsx2IniFile := pcsx2GameIni
+							RLLog.Info("Module - Found a game-specific PCSX2_ui.ini in the cfgPath. Telling PCSX2 to use this one instead: " . pcsx2IniFile.FileFullPath)
+							cfg := " --cfg=""" . pcsx2IniFile.FileFullPath . """"
+							cfgPathCLI := ""
 						}
 					}
+					RLLog.Info("Module - " . (If cfgPathCLI != "" ? "Setting PCSX2's config path to """ . perGameINIPath.FileFullPath . """" : "Using PCSX2's default configuration folder: """ . pcsx2IniFolder.FileFullPath . """"))
 					
-					fullscreen := If fullscreen = "true" ? " -f" : ""
-					retroCFGFileCLI := If foundCfg ? " -c """ . retroCFGFile.FileFullPath . """" : ""
+					; Update the aspect ratio if the user selected one.
+					If AspectRatio {
+					    pcsx2Ini.Write(AspectRatio, "GSWindow", "AspectRatio")	; Write the aspect ratio value to the pcsx2Ini.
+					}
 					
-					
-					
-					HideAppStart(hideEmuObj,hideEmu)
-					
-					If (StringUtils.Contains(core, "^(mame|mess|ume)") && (retroMAMEID != "mame")) {    ; if a MAME/MESS/UME core is used
-						primaryExe.Run(" """ . (retroMAMEID ? retroMAMEID : "") . fullRomPath . """ " . fullscreen . retroCFGFileCLI . " -L """ . libDll . netCommand, "Hide")
-					} Else If (retroID = "LibRetro_SCUMM") {
-						primaryExe.Run(" """ . scummFile . """" . fullscreen . retroCFGFileCLI . " -L """ . libDll . "" . netCommand, "Hide")
-					} Else If (retroID = "LibRetro_SGB" || If superGB = "true") { ; For some reason, the order of our command line matters in this particular case.
-						primaryExe.Run(fullscreen . retroCFGFileCLI . " -L """ . libDll . fullRomPath . netCommand, "Hide")
-					} Else If mgM3UFile.Exist() {
-						primaryExe.Run(" """ . mgM3UFile.FileFullPath . """" . fullscreen . retroCFGFileCLI . " -L """ . libDll . netCommand, "Hide")
+					; Update the GS plugin settings if hacks were selected.
+					If userHacks {
+						RLLog.Info("Module - UserHacks are being used. Updating GSdx.ini")
+						pcsx2GSdxIni.Write(userHacks, "Settings", "UserHacks")
+						pcsx2GSdxIni.Write(userHacks_MSAA, "Settings", "UserHacks_MSAA")
+						pcsx2GSdxIni.Write(userHacks_SkipDraw, "Settings", "UserHacks_SkipDraw")
+						pcsx2GSdxIni.Write(userHacks_HalfPixelOffset, "Settings", "UserHacks_HalfPixelOffset")
+						pcsx2GSdxIni.Write(userHacks_WildHack, "Settings", "UserHacks_WildHack")
+						pcsx2GSdxIni.Write(userHacks_unsafe_fbmask, "Settings", "UserHacks_unsafe_fbmask")
+						pcsx2GSdxIni.Write(userHacks_AlphaStencil, "Settings", "UserHacks_AlphaStencil")
+						pcsx2GSdxIni.Write(userHacks_align_sprite_X, "Settings", "UserHacks_align_sprite_X")
+						pcsx2GSdxIni.Write(userHacks_AlphaHack, "Settings", "UserHacks_AlphaHack")
+						pcsx2GSdxIni.Write(preload_frame_with_gs_data, "Settings", "preload_frame_with_gs_data")
+						pcsx2GSdxIni.Write(userHacks_round_sprite_offset, "Settings", "UserHacks_round_sprite_offset")
+						pcsx2GSdxIni.Write(userHacks_SpriteHack, "Settings", "UserHacks_SpriteHack")
+						pcsx2GSdxIni.Write(userHacks_TCOffset, "Settings", "UserHacks_TCOffset")
 					} Else {
-						primaryExe.Run(" " . fullRomPath . fullscreen . retroCFGFileCLI . " -L """ . libDll . netCommand, "Hide")
+						; Make sure hacks are disabled.
+						pcsx2GSdxIni.Write(UserHacks, "Settings", "UserHacks")
 					}
 					
-					mpMenuStatus := ""
-					If networkSession {
-						canceledServerWait := false
-						multiplayerMenuExit := false
-						TimerUtils.SetTimer("NetworkConnectedCheck", 500)
+					; Memory Cards
+					If (perGameMemCards = "true")
+					{	currentMemCard1 := pcsx2Ini.Read("MemoryCards", "Slot1_Filename")
+						memCardPath := pcsx2Ini.Read("Folders", "MemoryCards")	; folder where memory cards are stored
+						memCardPathLeft := StringUtils.SubStr(memCardPath,1,3)	; get left 3 characters
+						memCardPathIsAbsolute := If (StringUtils.RegExMatch(memCardPathLeft, "[a-zA-Z]:\\") && (StringUtils.StringLength(memCardPath) >= 3))	; this is 1 only when path looks like this "C:\"
+						memCardPath := If memCardPathIsAbsolute ? memCardPath : emuPath . "\" . memCardPath	; if only a folder name is defined for the memory card path, tack on the emuPath to find the memory cards, otherwise leave the full path as is
+						defaultMemCard := new File(memCardPath . "\default.ps2")	; defining default blank memory card for slot 1
+						RLLog.Info("Module - Default memory card for Slot 1 should be: " . defaultMemCard.FileFullPath)
+						romMemCard1 := new File(memCardPath . "\" . romName . ".ps2")	; defining name for rom's memory card for slot 1
+						RLLog.Info("Module - Rom memory card for Slot 1 should be: " . romMemCard1.FileFullPath)
+						RLLog.Info("Module - Current memory card inserted in PCSX2's ini in Slot 1 is: " . currentMemCard1.FileFullPath)
 					
-						If (networkType = "server") {
-							RLLog.Info("Module - Waiting for a client to connect to your server")
-							mpMenuStatus := MultiPlayerMenu(,,,,,,,,"You are the server. Please wait for your client to connect.")
-						} Else {	; client
-							RLLog.Info("Module - Trying to contact the server to establish a connection.")
-							mpMenuStatus := MultiPlayerMenu(,,,,,,,,"Attempting to connect to the server...")
+						If (currentMemCard1 != romName . ".ps2") {	; if current memory card in slot 1 does not match this romName, switch to one that does if exist or load a default one
+							If !romMemCard1.Exist()	; first check if romName.ps2 memory card exists
+								If !defaultMemCard.Exist()
+									RLLog.Error("Module - A default memory card for Slot 1 was not found in """ . memCardPath . """. Please create an empty memory card called ""default.ps2"" in this folder for per-game memory card support.")
+								Else {
+									defaultMemCard.Copy(romMemCard1.FileFullPath)	; create a new blank memory card for this game
+									RLLog.Info("Module - Creating a new blank memory card for this game in Slot 1: " . romMemCard1.FileFullPath)
+								}
+							pcsx2Ini.Write(romName . ".ps2", "MemoryCards", "Slot1_Filename")	; update the ini to use this rom's card
+							RLLog.Info("Module - Switched memory card in Slot 1 to: " . romMemCard1.FileFullPath)
 						}
-					
-						If (mpMenuStatus = -1) {	; if user exited menu early before a client connected
-							RLLog.Warning("Module - Cancelled waiting for the " . If (networkType = "server") ? "client to connect" : "server to respond" . ". Exiting module.")
-							If primaryExe.Process("Exist")
-								primaryExe.Process("Close")	; must close process as the exe is waiting for a client to connect and no window was drawn yet
-							ExitModule()
-						} Else {	; blank response from MultiPlayerMenu, exited properly
-							RLLog.Info("Module - " . If (networkType = "server") ? "Client has connected" : "Connected to the server")
-							emuPrimaryWindow.Wait()
-							emuPrimaryWindow.WaitActive()
-						}
-						TimerUtils.SetTimer("NetworkConnectedCheck", "Off")
-					} Else {	; single player
-						emuPrimaryWindow.Wait()
-						emuPrimaryWindow.WaitActive()
 					}
 					
-					If (hideConsole = "true")
-						emuConsoleWindow.Set("Transparent", "On")	; makes the console window transparent so you don't see it on exit
+					hideEmuObj := Object(emuBootingWindow,0,emuGUIWindow,0,emuPrimaryWindow,1)
+					7z(romPath, romName, romExtension, SevenZExtractPath)
+					
+					pcsx2Ini := LoadProperties(pcsx2IniFile.FileFullPath)	; load the config into memory
+					dvdSource := ReadProperty(pcsx2Ini,"CdvdSource")	; read value
+					
+					If (vdEnabled != "true" && romExtension = ".cue") {
+						RLLog.Warning("Module - Virtual Drive is disabled but you supplied a .cue as your rom which is not supported by PCSX2")
+						pcsx2GameBin := new File(romPath . "\" . romName . ".bin")
+						pcsx2GameIso := new File(romPath . "\" . romName . ".iso")
+						If pcsx2GameBin.Exist() {
+							romExtension := ".bin"
+							RLLog.Warning("Module - Found a .bin file with the same name as your cue, using it instead. Please change the order of your rom extensions if you want bins to be found first.")
+						} Else If pcsx2GameIso.Exist() {
+							romExtension := ".iso"
+							RLLog.Warning("Module - Found a .iso file with the same name as your cue, using it instead. Please change the order of your rom extensions if you want isos to be found first.")
+						}
+					}
+					
+					; Mount the CD using a Virtual Drive
+					If vdOveride	; this allows per-game Virtual Drive support because some games boot to black when Virtual Drive is enabled
+						vdEnabled := vdOveride
+					If (vdEnabled = "true" && StringUtils.Contains(romExtension,"\.mds|\.mdx|\.b5t|\.b6t|\.bwt|\.ccd|\.cue|\.isz|\.nrg|\.cdi|\.iso|\.ape|\.flac")) {	; if Virtual Drive is enabled and using an image type Virtual Drive can load
+						If !cdvd {
+							vdCDVDPlugin := moduleIni.Read("Settings", "VD_CDVD_Plugin","","",1)
+							If vdCDVDPlugin
+								cdvd := vdCDVDPlugin
+						}
+						cdvd := If cdvd ? " --cdvd=""" . GetFullName(cdvd) . """" : ""
+						If (dvdSource != "Plugin")
+						{	RLLog.Info("Module - CdvdSource was not set to ""Plugin"", changing it so PCSX2 can read from Virtual Drive.")
+							WriteProperty(pcsx2Ini,"CdvdSource","Plugin")	; write a new value to the pcsx2IniFile
+							SaveProperties(pcsx2IniFile.FileFullPath,pcsx2Ini)	; save pcsx2IniFile to disk
+						}
+						
+						pcsx2cdvdIni := new IniFile(pcsx2IniFolder . "\cdvdGigaherz.ini")
+						dvdDrive := pcsx2cdvdIni.Read("Config", "Source")	; cdvd drive
+						If StringUtils.InStr(dvdDrive,"@") {
+							If (vdDriveLetter != "")
+								pcsx2cdvdIni.Write(vdDriveLetter, "Config", "Source")
+							Else
+								ScriptError("You are using a Virtual Drive but have not selected the drive you want to use in PCSX2 CDVD Plugin settings. Select your drive first, either in RLUI Virtual Drive Third Party Settings or within the PCSX2's plugin settings, then try launching again.")
+						} Else If (dvdDrive != vdDriveLetter) {
+							RLLog.Warning("Module - PCSX2 is set to use drive """ . dvdDrive . """ but RocketLauncher is set to use """ . vdDriveLetter . """. Ignore this warning if this is expected.")
+						}
+						VirtualDrive("mount",romPath . "\" . romName . romExtension)
+						HideAppStart(hideEmuObj,hideEmu)
+						errLvl := primaryExe.Run(" --usecd" . noGUI . Fullscreen . fullboot . nohacks . gamefixes . cfg . cfgPathCLI . gs . pad . spu2 . cdvd . usb . fw . dev9, "UseErrorLevel")
+						usedVD := 1	; tell the rest of the script to use VD methods
+					} Else If StringUtils.Contains(romExtension,"\.iso|\.mdf|\.nrg|\.bin|\.img|\.gz|\.cso|\.dump")	; the only formats PCSX2 supports loading directly
+					{
+						If !cdvd {
+							imageCDVDPlugin := moduleIni.Read("Settings", "Image_CDVD_Plugin","","",1)
+							If imageCDVDPlugin
+								cdvd := imageCDVDPlugin
+						}
+						cdvd := If cdvd ? " --cdvd=""" . GetFullName(cdvd) . """" : ""
+						If (dvdSource != "Iso")
+						{	RLLog.Info("Module - CdvdSource was not set to ""Iso"", changing it so PCSX2 can launch this " . romExtension . " image directly")
+							WriteProperty(pcsx2Ini,"CdvdSource","Iso")	; write a new value to the pcsx2IniFile
+							SaveProperties(pcsx2IniFile.FileFullPath,pcsx2Ini)	; save pcsx2IniFile to disk
+						}
+						HideAppStart(hideEmuObj,hideEmu)
+						errLvl := primaryExe.Run(" """ . romPath . "\" . romName . romExtension . """ " . noGUI . Fullscreen . fullboot . nohacks . gamefixes . cfg . cfgPathCLI . gs . pad . spu2 . cdvd . usb . fw . dev9, "UseErrorLevel")
+					} Else If StringUtils.Contains(romExtension,"\.bz2")	; special case format that requires plugin mode and pcsx2 loads it directly
+					{
+						If !cdvd {
+							linuzCDVDPlugin := moduleIni.Read("Settings", "Linuz_CDVD_Plugin","","",1)
+							If linuzCDVDPlugin
+								cdvd := linuzCDVDPlugin
+						}
+						cdvd := If cdvd ? " --cdvd=""" . GetFullName(cdvd) . """" : ""
+						If (dvdSource != "plugin")
+						{	RLLog.Info("Module - CdvdSource was not set to ""Plugin"", changing it so PCSX2 can launch this " . romExtension . " image directly")
+							WriteProperty(pcsx2Ini,"CdvdSource","Plugin")	; write a new value to the pcsx2IniFile
+							SaveProperties(pcsx2IniFile.FileFullPath,pcsx2Ini)	; save pcsx2IniFile to disk
+						}
+						oldHex := Registry.Read("HKEY_CURRENT_USER", "Software\PS2Eplugin\CDVD\CDVDiso", "IsoFile")	; read last used bz2 image
+						newHex := StringUtils.StringToHex(romPath . "\" . romName . romExtension)	; convert new bz2 image path to hex
+						i := 512 - StringUtils.StringLength(newHex)	; get total amount of 0's to add to end of hex to make it 512 bytes
+						Loop % i
+							newHex := newHex . "0"	; add required bytes to end
+						If (oldHex != newHex) {
+							RLLog.Info("Module - Writing new bz2 path to registry")
+							Registry.Write("REG_BINARY", "HKEY_CURRENT_USER", "Software\PS2Eplugin\CDVD\CDVDiso", "IsoFile", newHex)	; write new bz2 path to registry
+						}
+						HideAppStart(hideEmuObj,hideEmu)
+						errLvl := primaryExe.Run(" """ . romPath . "\" . romName . romExtension . """ " . noGUI . Fullscreen . fullboot . nohacks . gamefixes . cfg . cfgPathCLI . gs . pad . spu2 . cdvd . usb . fw . dev9, "UseErrorLevel")
+					} Else
+						ScriptError("You are trying to run a rom type of """ . romExtension . """ but PCSX2 only supports loading iso|mdf|nrg|bin|img|gz directly. Please turn on Virtual Drive and/or 7z support or put ""cue"" last in your rom extensions for " . MEmu . " instead.")
+					 
+					If errLvl
+						ScriptError("Error launching emulator, closing script.")
+					
+					emuPrimaryWindow.Wait()
+					emuPrimaryWindow.WaitActive()
 					
 					BezelDraw()
+					
+					; If (hideConsole = "true") {	; should not be needed anymore
+						; TimerUtils.SetTimerF("HidePCSX2Console", 10)
+						; SetTimerF("HidePCSX2Console", 10)
+						; emuBootingWindow.Set("Transparent",0) ; ,"Booting ahk_class wxWindowNR","","fps:","fps:")	; hiding the console window
+						; emuGUIWindow.Set("Transparent",0) ;,"PCSX2 ahk_class wxWindowNR","","fps:","fps:")	; hiding the GUI window with the menubar
+					; }
+					
+					SetTitleMatchMode 2 ; Wrong window might be detected in the next loop if we only use the class name for WinGetTitle so we will add fps to it
+					Loop { ; Looping until pcsx2 is done loading game
+						Sleep, 200
+						loopWinTitle := emuLoadingWindow.GetTitle(0) ; Excluding the title of the GUI window so we can read the title of the game window instead
+						StringUtils.RegExMatch(loopWinTitle,"(?<=\()(.*?)(?=\))",winText) ;,1,0)	; Only get value between parenthesis
+						If (winText > 0) {	; If FPS shows any value, break out
+							RLLog.Debug("Module - Game is now running, waiting for exit")
+							Break
+						}
+						If A_Index > 150	; After 30 seconds, error out
+							ScriptError("There was an error detecting when PCSX2 finished loading your game. Please report this so the module can be fixed.")
+					
+						; Old method here in case devs change something back
+						; StringSplit, winTextSplit, winTitle, |, %A_Space%
+						; If (winTextSplit10 != "") ; 10th position in the array is empty until game actually starts
+							; Break
+						; tipText:= 
+						; Loop % winTextSplit0
+							; tipText .= "`nposition " . A_Index . ": " . winTextSplit%A_Index%
+						; ToolTip, % "Loop: " . A_Index . "`ntitle: " . winTitle . "`ntext: " . winText . tipText,0,0
+					}
+					
 					HideAppEnd(hideEmuObj,hideEmu)
 					FadeInExit()
 					primaryExe.Process("WaitClose")
+					
+					If usedVD
+						VirtualDrive("unmount")
+					
 					7zCleanUp()
 					BezelExit()
 					FadeOutExit()
 					ExitModule()
 					
 					
-					; Writes new properties into the retroCFG if defined by user
-					WriteRetroProperty(key,value="") {
-						If (value != "") {
-							Global retroCFG,raCfgHasChanges
-							WriteProperty(retroCFG, key, value,1,1)
-							raCfgHasChanges := 1
-						}
-					}
-					
-					; Used to convert between RetroArch keys and usable data
-					ConvertRetroCFGKey(txt,direction="read"){
-						Global emuPath,RLLog
-						If (direction = "read")
-						{	newtxt := StringUtils.TrimLeft(txt,1,0)	; removes the " from the left of the txt
-							newtxt := StringUtils.TrimRight(newtxt,1,0)	; removes the " from the right of the txt
-							relativeCheck := StringUtils.SubStr(newtxt,1,1,0)
-							If StringUtils.Contains(relativeCheck,":",0) {	; if the path contains a ":" then it is a relative path
-								RLLog.Debug("ConvertRetroCFGKey - " . newtxt . " is a relative path")
-								newtxt := StringUtils.TrimLeft(newtxt,1,0)	; removes the : from the left of the txt
-								newtxt := AbsoluteFromRelative(emuPath, "." . newtxt)	; convert relative to absolute
-							}
-							If StringUtils.Contains(newtxt,"/",0)
-								newtxt := StringUtils.Replace(newtxt,"/","\",1,,0)	; replaces all forward slashes with backslashes
-						} Else If (direction = "write")
-						{	newtxt := """" . txt . """"	; wraps the txt with ""
-							If StringUtils.Contains(newtxt,"\\",0)
-								newtxt := StringUtils.Replace(newtxt,"\","/",1,,0)	; replaces all backslashes with forward slashes
-						} Else
-							ScriptError("Not a valid use of ConvertRetroCFGKey. Only ""read"" or ""write"" are supported.")
-						RLLog.Debug("ConvertRetroCFGKey - Converted " . txt . " to " . newtxt)
-						Return newtxt
-					}
-					
 					MultiGame:
-						KeyUtils.SetKeyDelay(100)
-						emuPrimaryWindow.Activate()
-						KeyUtils.Send("{" . ejectToggleKey . " down}{" . ejectToggleKey . " up}")	; eject disc in Retroarch
-						If (!mgLastRomIndex) {
-							mgLastRomIndex := mgRomIndex
-						}
-						selectedRomIndex := 0
-						selectedRomIndex := StringUtils.TrimLeft(selectedRomNum, StringUtils.StringLength(mgType,0))
-						
-						Loop % mgMaxIndex
-						{
-							If (m3uRomIndex[A_index] = mgLastRomIndex) {
-								tempLastRomIndex := A_index
-								RLLog.Debug("Module - Last index: " . tempLastRomIndex)
-							}
-							If (m3uRomIndex[A_index] = selectedRomIndex) {
-								tempSelectedRomIndex := A_index
-								RLLog.Debug("Module - Selected index: " . tempSelectedRomIndex)
-							}
-						}
-						
-						mgNewIndex := tempLastRomIndex - tempSelectedRomIndex
-						
-						If (mgNewIndex < 0) {
-							mgNewIndex := mgNewIndex * -1
-							Loop % mgNewIndex
-							{
-								RLLog.Debug("Module - Sending the next disk key: " . nextDiskKey)
-								KeyUtils.Send("{" . nextDiskKey . " down}{" . nextDiskKey . " up}")
-							}
-						} Else If (mgNewIndex > 0) {
-							Loop % mgNewIndex
-							{
-								RLLog.Debug("Module - Sending the previous disk key: " . mgNewIndex)
-								KeyUtils.Send("{" . prevDiskKey . " down}{" . prevDiskKey . " up}")
-							}
-						}
-						
-						KeyUtils.Send("{" . ejectToggleKey . " down}{" . ejectToggleKey . " up}")	; close disc in Retroarch
-						mgLastRomIndex := selectedRomIndex
+						; msgbox % "selectedRom = " . selectedRom . "`nselected game = " . currentButton . "`nmgRomPath = " . mgRomPath . "`nmgRomExt = " . mgRomExt . "`nmgRomName = "  . mgRomName
+						; Unmount the CD from Virtual Drive
+						If usedVD
+							VirtualDrive("unmount")
+						Sleep, 500	; Required to prevent your Virtual Drive from bugging
+						; Mount the CD using Virtual Drive
+						If usedVD
+							VirtualDrive("mount",selectedRom)
 					Return
 					
-					NetworkConnectedCheck:
-						If clientConnected
-							multiplayerMenuExit := true
-						Else If emuPrimaryWindow.Exist() {
-							RLLog.Info("Module - RetroArch session started, closing the MultiPlayer menu")
-							multiplayerMenuExit := true
-						}
-					Return
+					; HidePCSX2Console:
+						; hideConsoleTimer++
+						; If emuBootingWindow.Exist()
+						; {	RLLog.Info("Module - HidePCSX2Console - Console window found, hiding it out of view.")
+							; emuBootingWindow.Set("Transparent",0) ; ,"Booting ahk_class wxWindowNR","","fps:","fps:")	; hiding the console window
+							; emuGUIWindow.Set("Transparent",0) ; ,"PCSX2 ahk_class wxWindowNR","","fps:","fps:")	; hiding the GUI window with the menubar
+							; SetTimer("HidePCSX2Console", "Off")
+						; } Else If (hideConsoleTimer >= 200)
+							; SetTimer("HidePCSX2Console", "Off")
+					; Return
+					; HidePCSX2Console() {
+						; Static hideConsoleTimer
+						; hideConsoleTimer++
+						; If emuBootingWindow.Exist()
+						; {	RLLog.Info("Module - HidePCSX2Console - Console window found, hiding it out of view.")
+							; emuBootingWindow.Set("Transparent",0) ; ,"Booting ahk_class wxWindowNR","","fps:","fps:")	; hiding the console window
+							; emuGUIWindow.Set("Transparent",0) ; ,"PCSX2 ahk_class wxWindowNR","","fps:","fps:")	; hiding the GUI window with the menubar
+							; TimerUtils.SetTimerF("HidePCSX2Console", "Off")
+						; } Else If (hideConsoleTimer >= 200)
+							; TimerUtils.SetTimerF("HidePCSX2Console", "Off")
+					; }
 					
 					CloseProcess:
 						FadeOutStart()
-						emuPrimaryWindow.Close()
+						If (fullscreen = "true") {
+							; emuPrimaryWindow.CreateControl("wxWindowNR1")		; instantiate new control for wxWindowNR1
+							; emuPrimaryWindow.GetControl("wxWindowNR1").Send("Esc")	; Send ESC to the main window when fullscreen is true to close the emu
+							emuPrimaryWindow.Close()
+						} Else {
+							emuGUIWindow.MenuSelectItem("System","Pause")
+							emuGUIWindow.Close()
+						}
 					Return
 
-13:59:04:374 | RL |      INFO  | +15    | BuildScript - Loaded Multi-Player scripts
-13:59:04:376 | RL |      INFO  | +0     | BuildScript - Loaded Statistics.ahk script
-13:59:04:376 | RL |   WARNING  | +0     | BuildScript - "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Functions.ahk" not found
-13:59:04:376 | RL |      INFO  | +0     | BuildScript - Finished injecting functions into module
-13:59:04:377 | RL |      INFO  | +0     | Main - Module is built
-13:59:04:377 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\AutoHotkey.dll exists
-13:59:04:379 | RL |      INFO  | +0     | Main - Hiding taskbar
-13:59:04:495 | RL |      INFO  | +125   | Main - Running module
-13:59:04:637 | MD |      INFO  | +N/A   | Module initialized
-13:59:04:638 | MD |      INFO  | +0     | StartModule - Started
-13:59:04:638 | MD |      INFO  | +0     | StartModule - MEmu: RetroArch
-					MEmuV: v1.3.6
-					MURL: 
-					MAuthor: 
-					MVersion: 2.4.3
-					MCRC: 699AB8F7
-					iCRC: FB2DB971
+16:02:44:808 | RL |      INFO  | +15    | BuildScript - Loaded Multi-Player scripts
+16:02:44:809 | RL |      INFO  | +0     | BuildScript - Loaded Statistics.ahk script
+16:02:44:809 | RL |   WARNING  | +0     | BuildScript - "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Functions.ahk" not found
+16:02:44:809 | RL |      INFO  | +0     | BuildScript - Finished injecting functions into module
+16:02:44:810 | RL |      INFO  | +0     | Main - Module is built
+16:02:44:810 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\AutoHotkey.dll exists
+16:02:44:824 | RL |      INFO  | +16    | Main - Hiding taskbar
+16:02:44:929 | RL |      INFO  | +109   | Main - Running module
+16:02:45:089 | MD |      INFO  | +N/A   | Module initialized
+16:02:45:090 | MD |      INFO  | +0     | StartModule - Started
+16:02:45:090 | MD |      INFO  | +0     | StartModule - MEmu: PCSX2
+					MEmuV: 1.5.0-dev-263
+					MURL: http://pcsx2.net/
+					MAuthor: djvj
+					MVersion: 2.2.1
+					MCRC: 5E3D250C
+					iCRC: 65DD0603
 					MID: 
-					MSystem: 
-13:59:04:638 | MD |   WARNING  | +0     | StartModule - You have an unsupported System Name for this module: "Sony Playstation". Only the following System Names are suppported: ""
-13:59:04:638 | MD |      INFO  | +0     | PluginInit - Started
-13:59:04:638 | MD |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncherUI\Databases\Sony Playstation\Sony Playstation.xml exists
-13:59:04:638 | MD |      INFO  | +0     | PluginInit - Ended
-13:59:04:639 | MD |      INFO  | +0     | SystemCursor - Hiding mouse cursor
-13:59:04:674 | MD |      INFO  | +31    | StartModule - Ended
-13:59:04:674 | MD |      INFO  | +0     | BezelGUI - Started
-13:59:04:730 | MD |      INFO  | +63    | BezelGUI - Ended
-13:59:04:730 | MD |      INFO  | +0     | GetFadePicFile - Randomized images and Fade  will use C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Fade\_Default\Layer 1.png
-13:59:04:796 | MD |      INFO  | +62    | DefaultAnimateFadeIn - Started, direction is: in
-13:59:04:796 | MD |      INFO  | +0     | DefaultAnimateFadeIn - Drawing First FadeIn Image.
-13:59:05:292 | MD |      INFO  | +500   | DefaultAnimateFadeIn - Ended
-13:59:05:322 | MD |      INFO  | +31    | DefaultFadeAnimation - Started
-13:59:05:322 | MD |      INFO  | +0     | GetFadePicFile - Randomized images and Fade  will use C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Fade\_Default\Info Bar - nosh.png
-13:59:05:359 | MD |      INFO  | +32    | BuildAssetsTable - Started - Building Table for: Genre Logo|Rating Logo|Developer Logo|Publisher Logo|Year Logo
-13:59:05:359 | MD |      INFO  | +0     | BuildAssetsTable - Ended
-13:59:05:359 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: System Logo|Game Logo|Game Logo
-13:59:05:359 | MD |      INFO  | +0     | BuildAssetsTable - Ended
-13:59:05:386 | MD |      INFO  | +31    | DefaultFadeAnimation - Ended
-13:59:05:386 | MD |      INFO  | +0     | DxwndUpdateIniPath - DxwndIni set to C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\dxwnd\dxwnd.ini
-13:59:05:390 | MD |      INFO  | +0     | Module - Using these system variables:
-13:59:05:390 | MD |      INFO  | +0     | Module - retroSystem: Sony PlayStation
-13:59:05:390 | MD |      INFO  | +0     | Module - retroID: LibRetro_PSX
-13:59:05:390 | MD |      INFO  | +0     | Module - retroCore: mednafen_psx_hw_libretro
-13:59:05:390 | MD |      INFO  | +0     | Module - retroMAMEID: psu
-13:59:05:390 | MD |      INFO  | +0     | Module - retroMAMEMedia: cdrom
-13:59:05:390 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Settings] - Fullscreen: true
-13:59:05:390 | MD |      INFO  | +0     | RIniFile.Read - Module - ConfigFolder: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\config (DEFAULT)
-13:59:05:390 | MD |      INFO  | +0     | RIniFile.Read - Module - single_core_options: false (DEFAULT)
-13:59:05:390 | MD |      INFO  | +0     | RIniFile.Read - Module - BIOS_Roms_Folder: (NO VALUE)
-13:59:05:390 | MD |      INFO  | +0     | RIniFile.Read - Module - Hide_Nag_Screen: false (DEFAULT)
-13:59:05:390 | MD |      INFO  | +0     | RIniFile.Read - Module - Hide_Info_Screen: false (DEFAULT)
-13:59:05:390 | MD |      INFO  | +0     | RIniFile.Read - Module - Hide_Warning_Screen: false (DEFAULT)
-13:59:05:390 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Settings] - HideConsole: true
-13:59:05:390 | MD |      INFO  | +0     | RIniFile.Read - Module - Eject_Toggle_Key: (NO VALUE)
-13:59:05:390 | MD |      INFO  | +0     | RIniFile.Read - Module - Next_Disk_Key: (NO VALUE)
-13:59:05:390 | MD |      INFO  | +0     | RIniFile.Read - Module - Previous_Disk_Key: (NO VALUE)
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Sony Playstation] - LibRetro_Core: mednafen_psx_hw_libretro
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module - SuperGameBoy: false (DEFAULT)
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module - Enable_Network_Play: false (DEFAULT)
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module - Overlay: (NO VALUE)
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module - VideoShader: (NO VALUE)
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module - AspectRatioIndex: (NO VALUE)
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module - CustomViewportWidth: (NO VALUE)
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module - CustomViewportHeight: (NO VALUE)
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module - CustomViewportX: (NO VALUE)
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module - CustomViewportY: (NO VALUE)
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Sony Playstation] - StretchToFillBezel: true
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module - Rotation: 0 (DEFAULT)
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Sony Playstation] - CropOverscan: true
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module - ThreadedVideo: (NO VALUE)
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module - VSync: (NO VALUE)
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Sony Playstation] - IntegerScale: true
-13:59:05:391 | MD |      INFO  | +0     | RIniFile.Read - Module - ConfigurationPerCore: false (DEFAULT)
-13:59:05:391 | MD |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\cores\mednafen_psx_hw_libretro.dll exists
-13:59:05:392 | MD |      INFO  | +0     | Module - Global cfg should be: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg
-13:59:05:392 | MD |      INFO  | +0     | Module - System cfg should be: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\config\Sony PlayStation.cfg
-13:59:05:392 | MD |      INFO  | +0     | Module - Core cfg should be: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\config\mednafen_psx_hw_libretro.cfg
-13:59:05:392 | MD |      INFO  | +0     | Module - Found a Global cfg!
-13:59:05:392 | MD |      INFO  | +0     | Module - RetroArch is using C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg as its config file.
-13:59:05:392 | MD |      INFO  | +0     | LoadProperties - Started and loading this cfg into memory: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg
-13:59:05:393 | MD |      INFO  | +0     | LoadProperties - Ended
-13:59:05:393 | MD |      INFO  | +0     | Module - Reading / creating system ini for specific settings.
-13:59:05:393 | MD |      INFO  | +0     | LoadProperties - Started and loading this cfg into memory: 
-13:59:05:393 | MD |      INFO  | +0     | LoadProperties - Ended
-13:59:05:393 | MD |      INFO  | +0     | RIniFile.Read - Module - PSX_CD_Image_Cache: "enabled" (DEFAULT)
-13:59:05:393 | MD |      INFO  | +0     | RIniFile.Read - Module - PSX_Memcard_Handling: "libretro" (DEFAULT)
-13:59:05:393 | MD |      INFO  | +0     | RIniFile.Read - Module - PSX_Dualshock_Analog_Toggle: "enabled" (DEFAULT)
-13:59:05:393 | MD |      INFO  | +0     | SaveProperties - Started and saving this cfg to disk: 
-13:59:05:393 | MD |      INFO  | +0     | SaveProperties - Ended
-13:59:05:393 | MD |      INFO  | +0     | Module - Retroarch standard mode enabled
-13:59:05:393 | MD |      INFO  | +0     | BezelStart - Started
-13:59:05:447 | MD |      INFO  | +62    | DefaultFadeAnimationLoop - percentage
-13:59:05:454 | MD |      INFO  | +0     | Bezel - Game will be moved to monitor 1 if RL finds a valid bezel to be show.
-13:59:05:455 | MD |      INFO  | +0     | Bezel - Loading Bezel image: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Bezels\_Default\Bezel - 80 television.png
-13:59:05:456 | MD |      INFO  | +0     | Bezel - Loading Background image: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Bezels\_Default\Background4 Nosh.png
-13:59:05:479 | MD |      INFO  | +32    | BezelStart - Ended
-13:59:05:479 | MD |      INFO  | +0     | Stretching viewport to fit bezel
-13:59:05:483 | MD |      INFO  | +0     | RIniFile.Read - Module - P1_Controller_Type: 517 (DEFAULT)
-13:59:05:484 | MD |      INFO  | +0     | RIniFile.Read - Module - P2_Controller_Type: 517 (DEFAULT)
-13:59:05:484 | MD |      INFO  | +0     | RIniFile.Read - Module - P3_Controller_Type: 517 (DEFAULT)
-13:59:05:484 | MD |      INFO  | +0     | RIniFile.Read - Module - P4_Controller_Type: 517 (DEFAULT)
-13:59:05:484 | MD |      INFO  | +0     | RIniFile.Read - Module - P5_Controller_Type: 517 (DEFAULT)
-13:59:05:485 | MD |      INFO  | +0     | RIniFile.Read - Module - P6_Controller_Type: 517 (DEFAULT)
-13:59:05:485 | MD |      INFO  | +0     | RIniFile.Read - Module - P7_Controller_Type: 517 (DEFAULT)
-13:59:05:485 | MD |      INFO  | +0     | RIniFile.Read - Module - P8_Controller_Type: 517 (DEFAULT)
-13:59:05:485 | MD |      INFO  | +0     | Module - Saving changed settings to: "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg"
-13:59:05:485 | MD |      INFO  | +0     | SaveProperties - Started and saving this cfg to disk: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg
-13:59:05:509 | MD |      INFO  | +31    | DefaultFadeAnimationLoop - percentage100
-13:59:05:509 | MD |      INFO  | +0     | SaveProperties - Ended
-13:59:05:509 | MD |      INFO  | +0     | Process.Run - Running: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.exe  "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\psx\Resident Evil 3 - Nemesis (USA).PBP" -c "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg" -L "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RetroArch\cores\mednafen_psx_hw_libretro.dll
-13:59:05:570 | MD |      INFO  | +62    | Window.Wait - Waiting for window "RetroArch ahk_class RetroArch"
-13:59:05:725 | MD |      INFO  | +157   | Window.WaitActive - Waiting for "RetroArch ahk_class RetroArch"
-13:59:06:541 | MD |      INFO  | +812   | BezelDraw - Started
-13:59:06:642 | MD |      INFO  | +94    | Bezel - Bezel Screen Offset: left= top= right= bottom=
-13:59:06:779 | MD |      INFO  | +141   | ToggleMenu - Started
-13:59:07:312 | MD |   WARNING  | +531   | ToggleMenu - Timed out trying to restore MenuBar for 0x181194
-13:59:07:312 | MD |      INFO  | +0     | ToggleMenu - Ended
-13:59:07:779 | MD |      INFO  | +469   | BezelDraw - Ended
-13:59:07:779 | MD |      INFO  | +0     | DefaultAnimateFadeIn - Started, direction is: out
-13:59:08:293 | MD |      INFO  | +515   | DefaultAnimateFadeIn - Ended
-13:59:08:329 | MD |      INFO  | +31    | Process.Process - "WaitClose" "retroarch.exe" 
-14:00:19:877 | MD |      INFO  | +71547 | BezelExit - Started
-14:00:19:909 | MD |      INFO  | +32    | Bezel - Removing bezel image components to exit RocketLauncher.
-14:00:19:910 | MD |      INFO  | +0     | BezelExit - Ended
-14:00:19:910 | MD |      INFO  | +0     | ExitModule - Started
-14:00:19:910 | MD |      INFO  | +0     | Starting Updating Statistics:
-14:00:20:062 | MD |      INFO  | +156   | Game section statistics updated.
-14:00:20:062 | MD |      INFO  | +0     | ExitModule - Ended
+					MSystem: "Sony PlayStation 2"
+16:02:45:090 | MD |      INFO  | +0     | StartModule - You have a supported System Name for this module: "Sony Playstation 2"
+16:02:45:090 | MD |      INFO  | +0     | PluginInit - Started
+16:02:45:090 | MD |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncherUI\Databases\Sony Playstation 2\Sony Playstation 2.xml exists
+16:02:45:090 | MD |      INFO  | +0     | PluginInit - Ended
+16:02:45:091 | MD |      INFO  | +0     | SystemCursor - Hiding mouse cursor
+16:02:45:127 | MD |      INFO  | +31    | StartModule - Ended
+16:02:45:148 | MD |      INFO  | +31    | GetFadePicFile - Randomized images and Fade  will use C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Fade\Sony Playstation 2\_Default\Layer 1 - nosh.png
+16:02:45:316 | MD |      INFO  | +172   | DefaultAnimateFadeIn - Started, direction is: in
+16:02:45:316 | MD |      INFO  | +0     | DefaultAnimateFadeIn - Drawing First FadeIn Image.
+16:02:45:818 | MD |      INFO  | +500   | DefaultAnimateFadeIn - Ended
+16:02:45:826 | MD |      INFO  | +0     | DefaultFadeAnimation - Started
+16:02:45:827 | MD |      INFO  | +0     | GetFadePicFile - Randomized images and Fade  will use C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Fade\_Default\Info Bar.png
+16:02:45:853 | MD |      INFO  | +31    | BuildAssetsTable - Started - Building Table for: Genre Logo|Rating Logo|Developer Logo|Publisher Logo|Year Logo
+16:02:45:853 | MD |      INFO  | +0     | BuildAssetsTable - Ended
+16:02:45:853 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: System Logo|Game Logo|Game Logo
+16:02:45:854 | MD |      INFO  | +0     | BuildAssetsTable - Ended
+16:02:45:878 | MD |      INFO  | +31    | DefaultFadeAnimation - Ended
+16:02:45:878 | MD |      INFO  | +0     | DxwndUpdateIniPath - DxwndIni set to C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\dxwnd\dxwnd.ini
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - Fullscreen: true (DEFAULT)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - AspectRatio: 4:3 (DEFAULT)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - noGUI: false (DEFAULT)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - PerGameMemoryCards: false (DEFAULT)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - HideConsole: true (DEFAULT)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - cfgpath: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\Game Configs (DEFAULT)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - AutoCreateINIDir: false (DEFAULT)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - DefaultINISPath: (NO VALUE)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - fullboot: false (DEFAULT)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - gs: (NO VALUE)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - pad: (NO VALUE)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - spu2: (NO VALUE)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - cdvd: (NO VALUE)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - usb: (NO VALUE)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - fw: (NO VALUE)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - dev9: (NO VALUE)
+16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - VDOveride: (NO VALUE)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - nohacks: false (DEFAULT)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - gamefixes: (NO VALUE)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - MSAA: 0 (DEFAULT)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Skipdraw: 0 (DEFAULT)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Half-pixel_Offset: 0 (DEFAULT)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Wild_Arms_Offset: 0 (DEFAULT)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Fast_Accurate_Blending: 0 (DEFAULT)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Alpha_Stencil: 0 (DEFAULT)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Align_Sprite: 0 (DEFAULT)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Alpha: 0 (DEFAULT)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Preload_Data_Frame: 0 (DEFAULT)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Round_Sprite: 0 (DEFAULT)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Sprite: 0 (DEFAULT)
+16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - TC_Offset: 0 (DEFAULT)
+16:02:45:882 | MD |      INFO  | +0     | Module - PCSX2 is operating in a portable mode
+16:02:45:882 | MD |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\inis\GSdx.ini exists
+16:02:45:883 | MD |      INFO  | +0     | File.CheckFile - Checking if "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\inis\PCSX2_ui.ini" exists
+16:02:45:883 | MD |      INFO  | +0     | File.CheckFile - Checking if "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\inis\GSdx.ini" exists
+16:02:45:884 | MD |      INFO  | +0     | Module - Using PCSX2's default configuration folder: "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\inis"
+16:02:45:890 | MD |      INFO  | +0     | IniFile.Write - SECTION: [GSWindow] - KEY: AspectRatio - VALUE: 4:3 - FILE: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\inis\PCSX2_ui.ini
+16:02:45:892 | MD |      INFO  | +0     | IniFile.Write - SECTION: [Settings] - KEY: UserHacks - VALUE:  - FILE: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\inis\GSdx.ini
+16:02:45:892 | MD |      INFO  | +0     | LoadProperties - Started and loading this cfg into memory: 
+16:02:45:892 | MD |      INFO  | +0     | LoadProperties - Ended
+16:02:45:915 | MD |      INFO  | +32    | RIniFile.Read - Module - Image_CDVD_Plugin: (NO VALUE)
+16:02:45:915 | MD |      INFO  | +0     | Module - CdvdSource was not set to "Iso", changing it so PCSX2 can launch this .iso image directly
+16:02:45:915 | MD |      INFO  | +0     | SaveProperties - Started and saving this cfg to disk: 
+16:02:45:915 | MD |      INFO  | +0     | SaveProperties - Ended
+16:02:45:916 | MD |      INFO  | +0     | Process.Run - Running: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\pcsx2.exe "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\ps2\Harvest Moon - A Wonderful Life - Special Edition.iso"  --fullscreen
+16:02:45:955 | MD |      INFO  | +47    | DefaultFadeAnimationLoop - percentage
+16:02:45:000 | MD |      INFO  | +31    | Window.Wait - Waiting for window "ahk_class wxWindowNR"
+16:02:46:012 | MD |      INFO  | +15    | DefaultFadeAnimationLoop - percentage100
+16:02:46:206 | MD |      INFO  | +204   | Window.WaitActive - Waiting for "ahk_class wxWindowNR"
+16:02:47:941 | MD |      INFO  | +1734  | DefaultAnimateFadeIn - Started, direction is: out
+16:02:48:448 | MD |      INFO  | +500   | DefaultAnimateFadeIn - Ended
+16:02:48:509 | MD |      INFO  | +62    | Process.Process - "WaitClose" "pcsx2.exe" 
+16:03:18:544 | MD |      INFO  | +30032 | CloseProcess - Started, user requested to end launched application
+16:03:19:444 | MD |      INFO  | +906   | CloseProcess - Ended
+16:03:20:009 | MD |      INFO  | +562   | ExitModule - Started
+16:03:20:009 | MD |      INFO  | +0     | Starting Updating Statistics:
+16:03:20:075 | MD |      INFO  | +63    | Game section statistics updated.
+16:03:20:075 | MD |      INFO  | +0     | ExitModule - Ended
 End of Module Logs
-14:00:20:180 | RL |      INFO  | +75688 | Main - Module ended, exiting RocketLauncher normally
-14:00:20:180 | RL |      INFO  | +0     | ExitScript - Started
-14:00:20:191 | RL |      INFO  | +0     | ExitScript - Restoring taskbar
-14:00:20:332 | RL |      INFO  | +140   | SystemCursor - Restoring mouse cursor
-14:00:20:348 | RL |      INFO  | +16    | ExitScript - Restored cursor
+16:03:20:177 | RL |      INFO  | +35250 | Main - Module ended, exiting RocketLauncher normally
+16:03:20:177 | RL |      INFO  | +0     | ExitScript - Started
+16:03:20:190 | RL |      INFO  | +16    | ExitScript - Checking what application is currently in focus.
+16:03:20:190 | RL |      INFO  | +0     | ExitScript - C:\WINDOWS\system32\cmd.exe is currently active. Putting focus back on RocketLauncherUI.exe with PID of 14060
+16:03:20:445 | RL |      INFO  | +250   | ExitScript - Restoring taskbar
+16:03:20:556 | RL |      INFO  | +109   | SystemCursor - Restoring mouse cursor
+16:03:20:570 | RL |      INFO  | +16    | ExitScript - Restored cursor
 [/code]

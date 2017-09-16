@@ -169,8 +169,8 @@ goto :EXIT
 
 :PCSX2
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\pcsx2\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" PCSX2.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0pcsx2*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\PCSX2*.exe"') DO ("%~dp0%%D\%%A" %2 --fullscreen --nogui))
+::start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" PCSX2.ahk
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sony Playstation 2" -r %2)
 goto :EXIT
 
 
@@ -193,6 +193,17 @@ goto :EXIT
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\retroarch\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
 goto :EXIT
+
+:RETROARCH-MASTERSYSTEM
+::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\mastersystem\launching.jpg
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Master System" -r %2)
+goto :EXIT
+
+:RETROARCH-MEGADRIVE
+::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\megadrive\launching.jpg
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Mega Drive" -r %2)
+goto :EXIT
+
 
 :RetroArch-ZXSPECTRUM
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\zxspectrum\launching.jpg

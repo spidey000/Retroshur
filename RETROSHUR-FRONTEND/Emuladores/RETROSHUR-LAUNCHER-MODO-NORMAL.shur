@@ -24,8 +24,8 @@ if "%1"=="gba" goto :RETROARCH-GBA
 if "%1"=="gbc" goto :RETROARCH-GBC
 if "%1"=="gc" goto :DOLPHIN
 if "%1"=="mame" goto :RETROARCH-MAME
-if "%1"=="mastersystem" goto :RETROARCH
-if "%1"=="megadrive" goto :RETROARCH
+if "%1"=="mastersystem" goto :RETROARCH-MASTERSYSTEM
+if "%1"=="megadrive" goto :RETROARCH-MEGADRIVE
 if "%1"=="msx" goto :RETROARCH-MSX
 if "%1"=="n3ds" goto :CITRA
 if "%1"=="n64" goto :RETROARCH-N64
@@ -132,13 +132,25 @@ goto :EXIT
 :RetroArch
 start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\retroarch\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\wonderswancolor\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\retroarch\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+goto :EXIT
+
+:RETROARCH-MASTERSYSTEM
+::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\mastersystem\launching.jpg
+start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\mastersystem\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+goto :EXIT
+
+:RETROARCH-MEGADRIVE
+::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\megadrive\launching.jpg
+start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\megadrive\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
 goto :EXIT
 
 :RetroArch-ZXSPECTRUM
 start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\zxspectrum\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\retroarch\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\zxspectrum\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
 goto :EXIT
 
 

@@ -63,4 +63,5 @@
   <system name="Sega Game Gear" type="" year="" manufacturer="" enabled="true" />
   <system name="Sony Playstation 2" type="" year="" manufacturer="" enabled="true" />
   <system name="Sony Playstation" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sega Mega Drive" type="" year="" manufacturer="" enabled="true" />
 </systems>
