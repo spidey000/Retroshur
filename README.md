@@ -7,8 +7,14 @@ Emulationstation para windows con algunas mejoras y añadidos mediante scripts b
 este pack viene por defecto configurado en RetroArch para el gamepad xbox 360/ps2 clones asi que si tienes ese gamepad no hace falta que configures los mandos.: aqui te dejo como debes de salir/cargar/guardar partida
  
 Left Thumb Stick Button + Start = Exit Emulator
+
+
 Left Thumb Stick Button + Back = Fast Forward
+
+
 Left Thumb Stick Button + Left Bumper = Save State
+
+
 Left Thumb Stick Button + Right Bumper = Load State
 #
 ## STATUS
