@@ -35,7 +35,6 @@
   <system name="SNK Neo Geo CD" type="" year="" manufacturer="" enabled="true" />
   <system name="SNK Neo Geo" type="" year="" manufacturer="" enabled="true" />
   <system name="Soccer Games" type="" year="" manufacturer="" enabled="true" />
-  <system name="Sony Playstation" type="" year="" manufacturer="" enabled="true" />
   <system name="Sony PSP Minis" type="" year="" manufacturer="" enabled="true" />
   <system name="Sony PSP" type="" year="" manufacturer="" enabled="true" />
   <system name="Super Nintendo Entertainment System" type="" year="" manufacturer="" enabled="true" />
@@ -63,4 +62,5 @@
   <system name="Nintendo Game Boy" type="" year="" manufacturer="" enabled="true" />
   <system name="Sega Game Gear" type="" year="" manufacturer="" enabled="true" />
   <system name="Sony Playstation 2" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sony Playstation" type="" year="" manufacturer="" enabled="true" />
 </systems>

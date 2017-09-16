@@ -212,7 +212,7 @@ mTypeVar:="
 	SNK Neo Geo MVS|LibRetro_NEOMVS|mame_libretro
 	SNK Neo Geo Pocket|LibRetro_NGP|mednafen_ngp_libretro|ngp
 	SNK Neo Geo Pocket Color|LibRetro_NGPC|mednafen_ngp_libretro|ngpc
-	Sony PlayStation|LibRetro_PSX|mednafen_psx_libretro|psu
+	Sony PlayStation|LibRetro_PSX|mednafen_psx_hw_libretro|psu
 	Sony PlayStation Minis|LibRetro_PSXMIN|ppsspp_libretro
 	Sony PocketStation|LibRetro_POCKS|mame_libretro|pockstat
 	Sony PSP|LibRetro_PSP|ppsspp_libretro
