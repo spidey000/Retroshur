@@ -6,7 +6,7 @@ Host Machine Init:
 	Physical RAM     =  16332 MB
 	CPU name         =  Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
 	Vendor/Model     =  GenuineIntel (stepping 03)
-	CPU speed        =  4.006 ghz (8 logical threads)
+	CPU speed        =  4.007 ghz (8 logical threads)
 	x86PType         =  Standard OEM
 	x86Flags         =  bfebfbff 7ffafbbf
 	x86EFlags        =  2c100000
@@ -23,7 +23,6 @@ Windows 10.0.15063
 	Binding SPU2: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\plugins\spu2-x.dll 
 	Binding CDVD: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\plugins\cdvdGigaherz.dll 
 	Binding  USB: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\plugins\USBnull.dll 
-(GameDB) 9693 games on record (loaded in 123ms)
 	Binding   FW: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\plugins\FWnull.dll 
 	Binding DEV9: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\plugins\DEV9null.dll 
 Plugins loaded successfully.
@@ -35,6 +34,7 @@ Initializing plugins...
 	Init GS
 Windows 10.0.15063
 	Init PAD
+(GameDB) 9693 games on record (loaded in 118ms)
 	Init SPU2
 	Init CDVD
 	Init USB
@@ -47,51 +47,11 @@ Opening plugins...
 	Opening PAD
 	Opening SPU2
 Current Renderer: Direct3D11 (Hardware mode)
-* SPU2-X: Enumerating PortAudio devices:
- *** Device 0: 'Controlador primario de sonido' (Windows DirectSound)
- *** Device 1: 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' (Windows DirectSound)
- *** Device 2: 'Altavoces (VB-Audio Virtual Cable)' (Windows DirectSound)
- *** Device 3: 'Altavoces (XSplit  Stream  Audio  Renderer)' (Windows DirectSound)
- *** Device 4: 'Altavoces (Steam Streaming Microphone)' (Windows DirectSound)
- *** Device 5: 'Altavoces (Wirecast Virtual Microphone Driver)' (Windows DirectSound)
- *** Device 6: 'DELL U2414H-0 (NVIDIA High Definition Audio)' (Windows DirectSound)
- *** Device 7: 'Altavoces (AnvSoft Virtual Sound Device)' (Windows DirectSound)
- *** Device 8: 'Realtek Digital Output (Realtek High Definition Audio)' (Windows DirectSound)
- *** Device 9: 'Altavoces (VB-Audio VoiceMeeter AUX VAIO)' (Windows DirectSound)
- *** Device 10: 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' (Windows DirectSound)
- *** Device 11: 'Altavoces (Realtek High Definition Audio)' (Windows DirectSound)
- *** Device 12: 'Altavoces (Steam Streaming Speakers)' (Windows DirectSound)
- *** Device 13: 'Altavoces (VB-Audio Virtual Cable)' (Windows WASAPI)
- *** Device 14: 'Altavoces (XSplit  Stream  Audio  Renderer)' (Windows WASAPI)
- *** Device 15: 'Altavoces (Steam Streaming Microphone)' (Windows WASAPI)
- *** Device 16: 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' (Windows WASAPI)
- *** Device 17: 'Altavoces (Wirecast Virtual Microphone Driver)' (Windows WASAPI)
- *** Device 18: 'DELL U2414H-0 (NVIDIA High Definition Audio)' (Windows WASAPI)
- *** Device 19: 'Altavoces (AnvSoft Virtual Sound Device)' (Windows WASAPI)
- *** Device 20: 'Realtek Digital Output (Realtek High Definition Audio)' (Windows WASAPI)
- *** Device 21: 'Altavoces (VB-Audio VoiceMeeter AUX VAIO)' (Windows WASAPI)
- *** Device 22: 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' (Windows WASAPI)
- *** Device 23: 'Altavoces (Realtek High Definition Audio)' (Windows WASAPI)
- *** Device 24: 'Altavoces (Steam Streaming Speakers)' (Windows WASAPI)
- *** Device 25: 'Speakers (TSVAD Wave)' (Windows WDM-KS)
- *** Device 26: 'Speakers (VoiceMeeter vaio)' (Windows WDM-KS)
- *** Device 27: 'SPDIF Out (Realtek HDA SPDIF Optical Out)' (Windows WDM-KS)
- *** Device 28: 'Headphones (Realtek HD Audio 2nd output)' (Windows WDM-KS)
- *** Device 29: 'SPDIF Out (Realtek HDA SPDIF Out)' (Windows WDM-KS)
- *** Device 30: 'Speakers (Realtek HD Audio output)' (Windows WDM-KS)
- *** Device 31: 'Speakers (XSplit Wave)' (Windows WDM-KS)
- *** Device 32: 'Speakers (Steam Streaming Microphone Wave)' (Windows WDM-KS)
- *** Device 33: 'Output (NVIDIA High Definition Audio)' (Windows WDM-KS)
- *** Device 34: 'Speakers (VoiceMeeter Aux vaio)' (Windows WDM-KS)
- *** Device 35: 'Speakers (Steam Streaming Speakers Wave)' (Windows WDM-KS)
- *** Device 36: 'Speakers (anvsnddrv Wave)' (Windows WDM-KS)
- *** Device 37: 'Speakers (VB-Audio Point)' (Windows WDM-KS)
-* SPU2-X: PortAudio error: Invalid device
 	Opening CDVD
-isoFile open ok: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\ps2\Harvest Moon - A Wonderful Life - Special Edition.iso
+isoFile open ok: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\ps2\Rampage - Total Destruction (Europe) (En,Fr,De,Es,It).iso
 	Image type  = DVD
  * CDVD Disk Open: DVD, Single layer or unknown:
- * * Track 1: Data (Mode 1) (623824 sectors)
+ * * Track 1: Data (Mode 1) (846368 sectors)
 	Opening USB
 	Opening FW
 	Opening DEV9
@@ -132,13 +92,14 @@ PlayStation 2 ======== Hard reset boot
 EE DECI2 Manager version 0.06 Apr  7 2005 21:09:14
   CPUID=2e20, BoardID=0, ROMGEN=2006-0210, 32M
 
-(SYSTEM.CNF) Detected PS2 Disc = cdrom0:\SLUS_211.71;1
-(SYSTEM.CNF) Software version = 1.02
-(SYSTEM.CNF) Disc region type = NTSC
-ELF (cdrom0:\SLUS_211.71;1) Game CRC = 0x304C115C, EntryPoint = 0x00100008
-(SYSTEM.CNF) Detected PS2 Disc = cdrom0:\SLUS_211.71;1
-(SYSTEM.CNF) Software version = 1.02
-(SYSTEM.CNF) Disc region type = NTSC
+(SYSTEM.CNF) Detected PS2 Disc = cdrom0:\SLES_538.00;1
+(SYSTEM.CNF) Software version = 1.00
+(SYSTEM.CNF) Disc region type = PAL
+found 0 symbols
+ELF (cdrom0:\SLES_538.00;1) Game CRC = 0xE389B921, EntryPoint = 0x00100008
+(SYSTEM.CNF) Detected PS2 Disc = cdrom0:\SLES_538.00;1
+(SYSTEM.CNF) Software version = 1.00
+(SYSTEM.CNF) Disc region type = PAL
 
 IOP Realtime Kernel Ver.0.9.1
     Copyright 1999 (C) Sony Computer Entertainment Inc. 
@@ -147,11 +108,11 @@ cdvd driver module version 0.1.1 (C)SCEI
 Load File service.(99/11/05)
 Multi Threaded Fileio module.(99/11/15) 
 iop heap service (99/11/03)
-loadelf: fname cdrom0:¥SLUS_211.71;1 secname all
+loadelf: fname cdrom0:¥SLES_538.00;1 secname all
 loadelf version 3.30
-Input ELF format filename = cdrom0:¥SLUS_211.71;1
-0 00100000 0075d580 ......................................................................................................................
-Loaded, cdrom0:¥SLUS_211.71;1
+Input ELF format filename = cdrom0:¥SLES_538.00;1
+0 00100000 0034ca80 .....................................................
+Loaded, cdrom0:¥SLES_538.00;1
 start address 0x100008
 gp address 00000000
 # Restart Without Memory Clear.
@@ -172,16 +133,10 @@ gp address 00000000
 # Initialize FPU ...
 # Initialize Scratch Pad ...
 # Restart Without Memory Clear Done.
-Not found Cheats file: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\cheats\304C115C.pnach
+Not found Cheats file: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\cheats\E389B921.pnach
 Overall 0 Cheats loaded
 Overall 0 Widescreen hacks loaded
-Loading patch '304C115C.pnach' from archive 'C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\cheats_ws.zip'
-comment: Widescreen Hack by ElHecht
-(Wide Screen Cheats DB) Patches Loaded: 5
-(UpdateVSyncRate) Mode Changed to NTSC.
-(UpdateVSyncRate) FPS Limit Changed : 59,94 fps
 Get Reboot Request From EE
-Frame buffer size set to  640x512 (1920x1536)
 
 PlayStation 2 ======== Update rebooting..
 
@@ -197,45 +152,25 @@ Multi Threaded Fileio module.(99/11/15)
 iop heap service (99/11/03)
 loadmodule: fname cdrom0:¥MODULES¥SIO2MAN.IRX;1 args 0 arg 
 loadmodule: id 25, ret 0
-loadmodule: fname cdrom0:¥MODULES¥PADMAN.IRX;1 args 0 arg 
-loadmodule: id 26, ret 0
-loadmodule: fname cdrom0:¥MODULES¥MCMAN.IRX;1 args 0 arg 
-loadmodule: id 27, ret 2
-loadmodule: fname cdrom0:¥MODULES¥MCSERV.IRX;1 args 0 arg 
-loadmodule: id 28, ret 2
 loadmodule: fname cdrom0:¥MODULES¥LIBSD.IRX;1 args 0 arg 
-loadmodule: id 29, ret 0
-loadmodule: fname cdrom0:¥MODULES¥SDRDRV.IRX;1 args 0 arg 
-SDR driver version 4.0.1 (C) SCEI
- Exit rsd_main 
-loadmodule: id 30, ret 0
-loadmodule: fname cdrom0:¥MODULES¥MODHSYN.IRX;1 args 0 arg 
-loadmodule: id 31, ret 0
-loadmodule: fname cdrom0:¥MODULES¥MODMIDI.IRX;1 args 0 arg 
-loadmodule: id 32, ret 0
-loadmodule: fname cdrom0:¥MODULES¥MODSD.IRX;1 args 0 arg 
-MODSD driver version 0.0.1
-alloc adr 140000
-loadmodule: id 33, ret 0
-loadmodule: fname cdrom0:¥MODULES¥CRI_ADXI.IRX;1 args 0 arg 
-CRI ADX Driver Ver.9.00(Sep 18 2003 10:00:25)
-CRI ADX Driver : Main Thread Priority = 39
-CRI ADX Driver : PSM Thread Priority  = 39
-CRI ADX Driver : DTX Thread Priority  = 48
-CRI ADX Driver : SPU CORE Number = 0
-CRI ADX Driver : sceSdInit(SD_INIT_COLD) call.
-loadmodule: id 34, ret 0
-sceMcInit Succeed
-DVCI: "DATA0000.AFS" found.
-DVCI: "DATA0001.AFS" found.
-DVCI: "DATA0002.AFS" found.
-DVCI: "DATA0000.DAT" found.
-DVCI: "DATA0001.DAT" found.
-DVCI: "DATA0002.DAT" found.
-DVCI: Total 6 files.
-PS2RNA: sceSifAllocIopHeap(266304) ret=0x000bf600
-PS2RNA: sceSifAllocIopHeap(2256) ret=0x00100700
-PS2RNA: sceSifAllocIopHeap(16448) ret=0x00101000
+loadmodule: id 26, ret 0
+loadmodule: fname cdrom0:¥MODULES¥STREAM.IRX;1 args 0 arg 
+ Exit MultiStream V7.1 Thread Load 
+loadmodule: id 27, ret 0
+loadmodule: fname cdrom0:¥MODULES¥PADMAN.IRX;1 args 12 arg thpri=20,20
+Frame buffer size set to  640x512 (1920x1536)
+padman: thread priority: high=20, low=20
+loadmodule: id 28, ret 0
+loadmodule: fname cdrom0:¥MODULES¥MCMAN.IRX;1 args 0 arg thpri=20,20
+loadmodule: id 29, ret 2
+loadmodule: fname cdrom0:¥MODULES¥MCSERV.IRX;1 args 0 arg thpri=20,20
+loadmodule: id 30, ret 2
+open fail directory Game¥¥.
+open fail directory Shell¥¥.
+open fail directory Audio¥¥.
+open fail directory Video¥¥.
+open fail directory Media¥¥.
+open fail directory Modules¥¥.
 Closing plugins...
 	Closing DEV9
 	Closing FW
