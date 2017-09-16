@@ -9,7 +9,7 @@ echo el MODO-NORMAL significa que rocket-launcher esta desactivado. Este modo es
 echo para equipos low-level o para quien no quiera bezels,overlays o cualquier otro elemento
 echo decorativo.
 echo *******************************************************************************************
-timeout 15
+timeout 10
 cls
 echo.
 echo cambiando a Modo Normal:
