@@ -62,4 +62,5 @@
   <system name="Nintendo GameCube" type="" year="" manufacturer="" enabled="true" />
   <system name="Nintendo Game Boy" type="" year="" manufacturer="" enabled="true" />
   <system name="Sega Game Gear" type="" year="" manufacturer="" enabled="true" />
+  <system name="Sony Playstation 2" type="" year="" manufacturer="" enabled="true" />
 </systems>
