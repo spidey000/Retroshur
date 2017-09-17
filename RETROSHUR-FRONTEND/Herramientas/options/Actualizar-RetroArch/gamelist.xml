@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./1.-Actualiza-RetroArch.bat</path>
+		<name>1.-Actualiza-RetroArch</name>
+		<image>./boxart/1.-Actualiza-RetroArch.png</image>
+	</game>
+	<game>
+		<path>./2.-Actualiza-Cores.bat</path>
+		<name>2.-Actualiza-Cores</name>
+		<image>./boxart/2.-Actualiza-Cores.png</image>
+	</game>
+	<game>
+		<path>./gamelist.xml</path>
+		<name>gamelist</name>
+		<image>./boxart/gamelist.png</image>
+	</game>
+</gameList>
