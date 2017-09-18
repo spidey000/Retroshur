@@ -44,7 +44,19 @@
 	<game>
 		<path>./Configurar-Mandos/6.-Configurar-Gamepad-GameBoy.cmd</path>
 		<name>6.-Configurar-Gamepad-GameBoy</name>
-		<playcount>6</playcount>
-		<lastplayed>20170819T153820</lastplayed>
+		<playcount>7</playcount>
+		<lastplayed>20170918T072035</lastplayed>
+	</game>
+	<game>
+		<path>./configuracion-Retroshur/MODO-NORMAL.cmd</path>
+		<name>MODO-NORMAL</name>
+		<playcount>10</playcount>
+		<lastplayed>20170918T152058</lastplayed>
+	</game>
+	<game>
+		<path>./configuracion-Retroshur/MODO-ROCKET-LAUNCHER.cmd</path>
+		<name>MODO-ROCKET-LAUNCHER</name>
+		<playcount>29</playcount>
+		<lastplayed>20170918T222608</lastplayed>
 	</game>
 </gameList>

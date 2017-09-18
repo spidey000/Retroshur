@@ -1,4 +1,6 @@
 ::script adaptado para RETROSHUR
+:: Modo Rocket-Launcher OFF
+:: Modo Normal ON
 @echo off
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0AutoHotKey*"') Do (set AUTOHOTKEY="%~dp0%%D")
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0Backgrounds*"') Do (set BCK="%~dp0%%D")
@@ -43,9 +45,10 @@ if "%1"=="snes" goto :RETROARCH-SNES
 if "%1"=="wii" goto :DOLPHIN
 if "%1"=="wiiu" goto :CEMU
 if "%1"=="xbox360" goto :XENIA
+if "%1"=="wonderswan" goto :RetroArch-WONDERSWAN
 if "%1"=="wonderswancolor" goto RetroArch-WONDERSWANCOLOR
-
-
+if "%1"=="retroarch" goto :RETROARCH
+if "%1"=="zxspectrum" goto :RETROARCH-ZXSPECTRUM
 exit /b %ERRORLEVEL%
 
 
@@ -105,9 +108,10 @@ goto :EXIT
 
 
 :PPSSPP
-start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\ppsspp\launching.jpg
+::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\ppsspp\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" PPSSPP.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0ppsspp*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\ppsspp*64.exe"') DO ("%~dp0%%D\%%A" %2 --escapeexitsemu --fullscreen))
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0ppsspp*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\ppsspp*64.exe"') DO ("%~dp0%%D\%%A" %2 --escapeexitsemu --fullscreen))
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\psp\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
 goto :EXIT
 
 :RetroArch-C64
@@ -123,9 +127,10 @@ FOR /f "tokens=*" %%D IN ('dir /b "%~dp0DoomBroLauncher*"') Do (FOR /f "tokens=*
 goto :EXIT
 
 :DEMUL
-start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\demul\launching.jpg
+::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\demul\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Demul.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0demul*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\demul*.exe"') DO ("%~dp0%%D\%%A" -run=dc -image=%2))
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0demul*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\demul*.exe"') DO ("%~dp0%%D\%%A" -run=dc -image=%2))
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\Dreamcast\retroshur.cfg" -L "%~dp0%%D\cores\reicast_libretro.dll" %2 -f)
 goto :EXIT
 
 
@@ -150,7 +155,8 @@ goto :EXIT
 :RetroArch-ZXSPECTRUM
 start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\zxspectrum\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\zxspectrum\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\zxspectrum\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0Zxspectrum*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\Spectaculator*.exe"') DO ("%~dp0%%D\%%A" %2))
 goto :EXIT
 
 
@@ -294,6 +300,12 @@ start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\amstradcpc\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
 goto :EXIT
 
+
+:RetroArch-WONDERSWAN
+start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\wonderswan\launching.jpg
+start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\wonderswan\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+goto :EXIT
 
 :RetroArch-WONDERSWANCOLOR
 start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\wonderswancolor\launching.jpg

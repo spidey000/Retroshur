@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <menu>
+<game name="Final Fantasy - Crystal Chronicles (USA)" index="true" image="f">
+	<description>Final Fantasy - Crystal Chronicles (USA)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Luigi's Mansion (USA)" index="true" image="l">
+	<description>Luigi's Mansion (USA)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
 <game name="Paper Mario - The Thousand-Year Door (USA)" index="true" image="p">
 	<description>Paper Mario - The Thousand-Year Door (USA)</description>
 	<cloneof></cloneof>

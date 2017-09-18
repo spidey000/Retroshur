@@ -1,4 +1,6 @@
 ::script adaptado para RETROSHUR
+:: Modo Rocket-Launcher ON
+:: Modo Normal off
 @echo off
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0AutoHotKey*"') Do (set AUTOHOTKEY="%~dp0%%D")
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0Backgrounds*"') Do (set BCK="%~dp0%%D")
@@ -15,7 +17,6 @@ if "%1"=="coleco" goto :RETROARCH-COLECO
 if "%1"=="cps1" goto :RETROARCH-CAPCOM1
 if "%1"=="cps2" goto :RETROARCH-CAPCOM2
 if "%1"=="cps3" goto :RETROARCH-CAPCOM3
-::if "%1"=="doom" goto :DOOMBROLAUNCHER
 if "%1"=="dosbox" goto :RETROARCH-DOSBOX
 if "%1"=="dreamcast" goto :DEMUL
 if "%1"=="gamegear" goto :RETROARCH-GAMEGEAR
@@ -43,7 +44,10 @@ if "%1"=="snes" goto :RETROARCH-SNES
 if "%1"=="wii" goto :DOLPHIN
 if "%1"=="wiiu" goto :CEMU
 if "%1"=="xbox360" goto :XENIA
+if "%1"=="wonderswan" goto :RetroArch-WONDERSWAN
 if "%1"=="wonderswancolor" goto RetroArch-WONDERSWANCOLOR
+if "%1"=="retroarch" goto :RETROARCH
+if "%1"=="zxspectrum" goto :RETROARCH-ZXSPECTRUM
 exit /b %ERRORLEVEL%
 
 
@@ -56,37 +60,24 @@ goto :EXIT
 
 
 :RetroArch-A2600
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\atari2600\launching.jpg
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Atari 2600" -r %2)
 goto :EXIT
 
 :RetroArch-A7800
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\atari7800\launching.jpg
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Atari 7800" -r %2)
 goto :EXIT
 
 :RETROARCH-ALYNX
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\atarilynx\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\atarilynx\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Atari Lynx" -r %2)
 goto :EXIT
 
 
 :RETROARCH-AJAGUAR
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\atarijaguar\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\atarijaguar\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Atari Jaguar" -r %2)
 goto :EXIT
 
 :RetroArch-C64
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\c64\launching.jpg
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Commodore 64" -r %2)
-goto :EXIT
-
-:RetroArch-COLECO
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\coleco\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0bluemsx*"') Do ("%~dp0%%D\blueMSX.exe" /machine "COL - ColecoVision with Opcode Memory Extension" /rom1 %2 /romtype1 "113" /fullscreen)
 goto :EXIT
 
 :: comienzo --coolcv
@@ -114,12 +105,6 @@ FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketL
 goto :EXIT
 
 
-
-:DOOMBROLAUNCHER
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\doom\launching.jpg
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0DoomBroLauncher*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\DoomBroLauncher\port\gzdoom*.exe"') DO ("%~dp0%%D\%%A" %2))
-goto :EXIT
-
 :RetroArch-DOSBOX
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\dosbox\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
@@ -128,23 +113,23 @@ goto :EXIT
 
 :RetroArch-GAMEGEAR
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\gamegear\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --config "%~dp0%%D\config\gamegear\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+::start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --config "%~dp0%%D\config\gamegear\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Game Gear" -r %2)
 goto :EXIT
 
 :RetroArch-GB
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\gb\launching.jpg
+start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Game Boy" -r %2)
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --config "%~dp0%%D\config\gb\retroshur.cfg"  -L "%~dp0%%D\cores\%3" %2 -f)
 goto :EXIT
 
-:RetroArch-GBA
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\gba\launching.jpg
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Game Boy Advance" -r %2)
-goto :EXIT
 
 :RetroArch-GBC
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\gbc\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+::start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --config "%~dp0%%D\config\gbc\retroshur.cfg"  -L "%~dp0%%D\cores\%3" %2 -f)
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Game Boy Color" -r %2)
 goto :EXIT
 
@@ -162,8 +147,9 @@ goto :EXIT
 
 :DOLPHIN
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\dolphin\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0dolphin*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\Dolphin.exe"') DO ("%~dp0%%D\%%A" /b /e %2))
+::start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0dolphin*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\Dolphin.exe"') DO ("%~dp0%%D\%%A" /b /e %2))
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Gamecube" -r %2)
 goto :EXIT
 
 
@@ -177,14 +163,16 @@ goto :EXIT
 
 :PPSSPP
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\ppsspp\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" PPSSPP.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0ppsspp*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\ppsspp*64.exe"') DO ("%~dp0%%D\%%A" %2 --escapeexitsemu --fullscreen))
+::start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" PPSSPP.ahk
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0ppsspp*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\ppsspp*64.exe"') DO ("%~dp0%%D\%%A" %2 --escapeexitsemu --fullscreen))
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sony PSP" -r %2)
 goto :EXIT
 
 :DEMUL
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\demul\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Demul.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0demul*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\demul*.exe"') DO ("%~dp0%%D\%%A" -run=dc -image=%2))
+::start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Demul.ahk
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0demul*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\demul*.exe"') DO ("%~dp0%%D\%%A" -run=dc -image=%2))
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Dreamcast" -r %2)
 goto :EXIT
 
 
@@ -195,20 +183,19 @@ FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.ex
 goto :EXIT
 
 :RETROARCH-MASTERSYSTEM
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\mastersystem\launching.jpg
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Master System" -r %2)
 goto :EXIT
 
 :RETROARCH-MEGADRIVE
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\megadrive\launching.jpg
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Mega Drive" -r %2)
 goto :EXIT
 
 
-:RetroArch-ZXSPECTRUM
+:RETROARCH-ZXSPECTRUM
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\zxspectrum\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\retroarch\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+::start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\zxspectrum\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sinclair ZX Spectrum" -r %2)
 goto :EXIT
 
 :RetroArch-PCENGINE
@@ -293,15 +280,33 @@ start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" CITRA.ahk
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0citra*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\citra-qt*.exe"') DO ("%~dp0%%D\%%A" %2))
 goto :EXIT
 
-:RetroArch-WONDERSWANCOLOR
-start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\wonderswancolor\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\wonderswancolor\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+:RetroArch-WONDERSWAN
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Bandai Wonderswan" -r %2)
 goto :EXIT
 
+:RetroArch-WONDERSWANCOLOR
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Bandai Wonderswan Color" -r %2)
+goto :EXIT
+
+:RetroArch-GBA
+::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\gba\launching.jpg
+start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --config "%~dp0%%D\config\gba\retroshur.cfg"  -L "%~dp0%%D\cores\%3" %2 -f)
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Game Boy Advance" -r %2)
+goto :EXIT
+
+:RetroArch-COLECO
+::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\coleco\launching.jpg
+::start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0bluemsx*"') Do ("%~dp0%%D\blueMSX.exe" /machine "COL - ColecoVision with Opcode Memory Extension" /rom1 %2 /romtype1 "113" /fullscreen)
+taskkill /F /IM RocketLauncher.exe /T
+goto :EXIT
 
 :EXIT
+::tasklist /FI "IMAGENAME eq Frameless.exe" 2>NUL | find /I /N "Frameless.exe">NUL
+::if "%ERRORLEVEL%"=="0" taskkill /f /im Frameless.exe
 taskkill /F /IM AutoHotKeyU64.exe /T
+taskkill /F /IM RocketLauncher.exe /T
 ::taskkill /F /IM Frameless.exe /T
 ::start "Frameless" /d %BCK% "nircmd.exe" killprocess "Frameless.exe"
 

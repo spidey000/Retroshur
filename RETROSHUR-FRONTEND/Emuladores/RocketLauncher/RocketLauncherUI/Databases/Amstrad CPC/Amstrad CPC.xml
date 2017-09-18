@@ -1,0 +1,4693 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu>
+<game name="180 Darts (UK) (1986)" index="true" image="1">
+	<description>180 Darts (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="1942 (UK) (1986)" index="" image="">
+	<description>1942 (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="1943 (UK) (1988)" index="" image="">
+	<description>1943 (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="3D Boxing (UK) (1985)" index="true" image="3">
+	<description>3D Boxing (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="3D Grand Prix (UK) (1985)" index="" image="">
+	<description>3D Grand Prix (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="3D Star Fighter (UK) (1987)" index="" image="">
+	<description>3D Star Fighter (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="3D Stunt Rider (UK) (1985)" index="" image="">
+	<description>3D Stunt Rider (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Abu Simbel Profanation (1985)" index="true" image="a">
+	<description>Abu Simbel Profanation (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ace (UK) (1987)" index="" image="">
+	<description>Ace (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ace 2 (UK) (1987)" index="" image="">
+	<description>Ace 2 (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ace of Aces (UK) (1985)" index="" image="">
+	<description>Ace of Aces (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Advanced OCP Art Studio V2.4 (UK) (1986)" index="" image="">
+	<description>Advanced OCP Art Studio V2.4 (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Advanced Pinball Simulator (UK) (1988)" index="" image="">
+	<description>Advanced Pinball Simulator (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Advanced Tactical Fighter (UK) (1986)" index="" image="">
+	<description>Advanced Tactical Fighter (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="After the War (S) (1989)" index="" image="">
+	<description>After the War (S) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Afterburner (UK) (1988)" index="" image="">
+	<description>Afterburner (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Airwolf (UK) (1985)" index="" image="">
+	<description>Airwolf (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Airwolf 2 (UK) (1987)" index="" image="">
+	<description>Airwolf 2 (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Alex Higgins World Pool (UK) (1985)" index="" image="">
+	<description>Alex Higgins World Pool (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Alien 8 (UK) (1985)" index="" image="">
+	<description>Alien 8 (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Alien Highway - Highway Encounter 2 (UK) (1986)" index="" image="">
+	<description>Alien Highway - Highway Encounter 2 (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Alien Syndrome A (1988)" index="" image="">
+	<description>Alien Syndrome A (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Aliens (UK) (1986)" index="" image="">
+	<description>Aliens (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Altered Beast (UK) (1989)" index="" image="">
+	<description>Altered Beast (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Andy Capp (UK) (1987)" index="" image="">
+	<description>Andy Capp (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Angel Nieto Pole 500 (1990)" index="" image="">
+	<description>Angel Nieto Pole 500 (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Animated Strip Poker (UK) (1987)" index="" image="">
+	<description>Animated Strip Poker (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Antiriad, La Armadura Sagrada" index="" image="">
+	<description>Antiriad, La Armadura Sagrada</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Arkanoid (UK) (1987)" index="" image="">
+	<description>Arkanoid (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Arkanoid 2 - Revenge of Doh (UK) (1988)" index="" image="">
+	<description>Arkanoid 2 - Revenge of Doh (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Army Moves (UK) (1986)" index="" image="">
+	<description>Army Moves (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Aspar G.P. Master (1988)" index="" image="">
+	<description>Aspar G.P. Master (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Asphalt (F) (1986)" index="" image="">
+	<description>Asphalt (F) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Asterix And The Magic Cauldron (UK) (1987)" index="" image="">
+	<description>Asterix And The Magic Cauldron (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Astro Attack (UK) (1984)" index="" image="">
+	<description>Astro Attack (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Astro Marine Corps (1989)" index="" image="">
+	<description>Astro Marine Corps (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Baby Jo Going Home (UK) (1991)" index="true" image="b">
+	<description>Baby Jo Going Home (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bad Dudes Vs Dragon Ninja (UK) (1988)" index="" image="">
+	<description>Bad Dudes Vs Dragon Ninja (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Barbarian 1 (UK) (1987)" index="" image="">
+	<description>Barbarian 1 (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Barbarian 2 (UK) (1989)" index="" image="">
+	<description>Barbarian 2 (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Barbarian II" index="" image="">
+	<description>Barbarian II</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bards Tale (UK) (1988) (Disk 1 of 2)" index="" image="">
+	<description>Bards Tale (UK) (1988) (Disk 1 of 2)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Barry McGuigans Boxing (UK) (1985)" index="" image="">
+	<description>Barry McGuigans Boxing (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Batman - The Movie (UK) (1989)" index="" image="">
+	<description>Batman - The Movie (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Batman (UK) (1986)" index="" image="">
+	<description>Batman (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Batman Caped Crusader (1988)" index="" image="">
+	<description>Batman Caped Crusader (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Beachhead (UK) (1985)" index="" image="">
+	<description>Beachhead (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bedlam (UK) (1988)" index="" image="">
+	<description>Bedlam (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bestial Warrior (1989)" index="" image="">
+	<description>Bestial Warrior (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Beyond the Ice Palace (UK) (1988)" index="" image="">
+	<description>Beyond the Ice Palace (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Blagger (UK) (1985)" index="" image="">
+	<description>Blagger (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Blasteroids (UK) (1989)" index="" image="">
+	<description>Blasteroids (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bloodwych (UK) (1990)" index="" image="">
+	<description>Bloodwych (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="BMX Simulator (UK) (1987)" index="" image="">
+	<description>BMX Simulator (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="BMX Simulator 2 (UK) (19xx)" index="" image="">
+	<description>BMX Simulator 2 (UK) (19xx)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bomb Jack (UK) (1986)" index="" image="">
+	<description>Bomb Jack (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bomb Jack 2 (UK) (1987)" index="" image="">
+	<description>Bomb Jack 2 (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bonanza Bros (UK) (1991)" index="" image="">
+	<description>Bonanza Bros (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Booty (UK) (1986)" index="" image="">
+	<description>Booty (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bravestarr (UK) (1987)" index="" image="">
+	<description>Bravestarr (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Breakthru (UK) (1986)" index="" image="">
+	<description>Breakthru (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bride of Frankenstein (UK) (1987)" index="" image="">
+	<description>Bride of Frankenstein (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bronx (1989)" index="" image="">
+	<description>Bronx (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bruce Lee (UK) (1984)" index="" image="">
+	<description>Bruce Lee (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bubble Bobble (UK) (1987)" index="" image="">
+	<description>Bubble Bobble (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Budokan (1990)" index="" image="">
+	<description>Budokan (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Buffalo Bills Wild West Show (UK) (1989)" index="" image="">
+	<description>Buffalo Bills Wild West Show (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Buggy Boy (UK) (1987)" index="" image="">
+	<description>Buggy Boy (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Bumpy (1989)" index="" image="">
+	<description>Bumpy (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cabal (UK) (1989)" index="true" image="c">
+	<description>Cabal (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Camelot Warriors (1985)" index="" image="">
+	<description>Camelot Warriors (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Capitan Sevilla (1988)" index="" image="">
+	<description>Capitan Sevilla (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Carlos Sainz (S) (1990)" index="" image="">
+	<description>Carlos Sainz (S) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cauldron (UK) (1985)" index="" image="">
+	<description>Cauldron (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cauldron 2 (S) (1986)" index="" image="">
+	<description>Cauldron 2 (S) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Championship Sprint (UK) (1986)" index="" image="">
+	<description>Championship Sprint (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Chase HQ (UK) (1989)" index="" image="">
+	<description>Chase HQ (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Chessmaster 2000 (UK) (1990)" index="" image="">
+	<description>Chessmaster 2000 (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Chevy Chase (UK) (1991)" index="" image="">
+	<description>Chevy Chase (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Chicago's 30 (1988)" index="" image="">
+	<description>Chicago's 30 (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Chronos (UK) (1987)" index="" image="">
+	<description>Chronos (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Chuckie Egg (UK) (1985)" index="" image="">
+	<description>Chuckie Egg (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Classic Axiens (UK) (1987)" index="" image="">
+	<description>Classic Axiens (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Classic Invaders (UK) (1986)" index="" image="">
+	<description>Classic Invaders (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Classic Muncher (UK) (1987)" index="" image="">
+	<description>Classic Muncher (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cobra (UK) (1987)" index="" image="">
+	<description>Cobra (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cobra Force (UK) (1989)" index="" image="">
+	<description>Cobra Force (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Coliseum (1988)" index="" image="">
+	<description>Coliseum (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Comando Quatro (1989)" index="" image="">
+	<description>Comando Quatro (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Comando Tracer (1988)" index="" image="">
+	<description>Comando Tracer (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Combat School (UK) (1987)" index="" image="">
+	<description>Combat School (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Commando (UK) (1985)" index="" image="">
+	<description>Commando (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Contintental Circus (UK) (1989)" index="" image="">
+	<description>Contintental Circus (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Corsarios (1989)" index="" image="">
+	<description>Corsarios (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cosa Nostra (1986)" index="" image="">
+	<description>Cosa Nostra (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Crazy Cars (UK) (1988)" index="" image="">
+	<description>Crazy Cars (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Crazy Cars 2 (UK) (1989)" index="" image="">
+	<description>Crazy Cars 2 (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Crazy Cars 3 (UK) (1992)" index="" image="">
+	<description>Crazy Cars 3 (UK) (1992)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cubit (UK) (1985)" index="" image="">
+	<description>Cubit (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Curro Jimenez (1989)" index="" image="">
+	<description>Curro Jimenez (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cybernoid (UK) (1988)" index="" image="">
+	<description>Cybernoid (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cybernoid 2 (UK) (1988)" index="" image="">
+	<description>Cybernoid 2 (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Cyrus II Chess (UK) (1985)" index="" image="">
+	<description>Cyrus II Chess (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Daley Thompsons Decathlon (UK) (1985)" index="true" image="d">
+	<description>Daley Thompsons Decathlon (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Daley Thompsons Olympic Challenge (UK) (1988)" index="" image="">
+	<description>Daley Thompsons Olympic Challenge (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Daley Thompson's Supertest (1986)" index="" image="">
+	<description>Daley Thompson's Supertest (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dan Dare (UK) (1986)" index="" image="">
+	<description>Dan Dare (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dan Dare 2 (UK) (1987)" index="" image="">
+	<description>Dan Dare 2 (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dan Dare 3 (UK) (1990)" index="" image="">
+	<description>Dan Dare 3 (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Defend or Die (1985)" index="" image="">
+	<description>Defend or Die (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Deflektor (1987)" index="" image="">
+	<description>Deflektor (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Deflektor (UK) (1987)" index="" image="">
+	<description>Deflektor (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Desert Fox (UK) (1986)" index="" image="">
+	<description>Desert Fox (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Desperado (1987)" index="" image="">
+	<description>Desperado (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Desperado 2 (1991)" index="" image="">
+	<description>Desperado 2 (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dick Tracy (UK) (1990)" index="" image="">
+	<description>Dick Tracy (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Discology 7.3 (F) (1989)" index="" image="">
+	<description>Discology 7.3 (F) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Donkey Kong (UK) (1986)" index="" image="">
+	<description>Donkey Kong (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Doomsday Blues (UK) (1985)" index="" image="">
+	<description>Doomsday Blues (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Double Dragon (UK) (1988)" index="" image="">
+	<description>Double Dragon (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Double Dragon 2 - The Revenge (UK) (1989)" index="" image="">
+	<description>Double Dragon 2 - The Revenge (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Double Dragon 3 - The Rosetta Stone (UK) (1991)" index="" image="">
+	<description>Double Dragon 3 - The Rosetta Stone (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon Spirit (UK) (1989)" index="" image="">
+	<description>Dragon Spirit (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragons Lair (UK) (1985)" index="" image="">
+	<description>Dragons Lair (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dragon's Lair 2 (1987)" index="" image="">
+	<description>Dragon's Lair 2 (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Driller (UK) (1988)" index="" image="">
+	<description>Driller (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dustin (1986)" index="" image="">
+	<description>Dustin (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Dynasty Wars (UK) (1990)" index="" image="">
+	<description>Dynasty Wars (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="El Capitan Trueno (1989)" index="true" image="e">
+	<description>El Capitan Trueno (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="El Equipo A (1988)" index="" image="">
+	<description>El Equipo A (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="El Misterio del Nilo (1987)" index="" image="">
+	<description>El Misterio del Nilo (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="El Zorro (1985)" index="" image="">
+	<description>El Zorro (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Elevator Action (UK) (1986)" index="" image="">
+	<description>Elevator Action (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Elite (UK) (1986)" index="" image="">
+	<description>Elite (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Emilio Butragueno 2 (1989)" index="" image="">
+	<description>Emilio Butragueno 2 (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Emilio Butragueno Futbol (S) (1988)" index="" image="">
+	<description>Emilio Butragueno Futbol (S) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Emilio Sanchez Vicario Grand Slam (1989)" index="" image="">
+	<description>Emilio Sanchez Vicario Grand Slam (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Emlyn Huges International Soccer (UK) (1988)" index="" image="">
+	<description>Emlyn Huges International Soccer (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Enduro Racer (UK) (1987)" index="" image="">
+	<description>Enduro Racer (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Exolon (UK) (1987)" index="" image="">
+	<description>Exolon (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Express Raider (UK) (1986)" index="" image="">
+	<description>Express Raider (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="F-15 Strike Eagle (UK) (1987)" index="true" image="f">
+	<description>F-15 Strike Eagle (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="F-16 Combat Pilot (UK) (1991)" index="" image="">
+	<description>F-16 Combat Pilot (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Fantastic Voyage (UK) (1985)" index="" image="">
+	<description>Fantastic Voyage (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Fantasy World Dizzy (UK) (1989)" index="" image="">
+	<description>Fantasy World Dizzy (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Fernando Martin Basket Master (S) (1987)" index="" image="">
+	<description>Fernando Martin Basket Master (S) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Feud (UK) (1987)" index="" image="">
+	<description>Feud (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Fire and Forget (UK) (1988)" index="" image="">
+	<description>Fire and Forget (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Fire and Forget 2 (UK) (1990)" index="" image="">
+	<description>Fire and Forget 2 (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Flimbos Quest (UK) (1990)" index="" image="">
+	<description>Flimbos Quest (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Flintstones - Yabba Dabba Doo (UK) (1988)" index="" image="">
+	<description>Flintstones - Yabba Dabba Doo (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Flintstones (UK) (19xx)" index="" image="">
+	<description>Flintstones (UK) (19xx)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Flying Shark (UK) (1987)" index="" image="">
+	<description>Flying Shark (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Footballer of the Year (UK) (1986)" index="" image="">
+	<description>Footballer of the Year (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Footballer of the Year 2 (UK) (1989)" index="" image="">
+	<description>Footballer of the Year 2 (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Forgotten Worlds (UK) (1989)" index="" image="">
+	<description>Forgotten Worlds (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Fred (1983)" index="" image="">
+	<description>Fred (1983)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Freddy Hardest (1987)" index="" image="">
+	<description>Freddy Hardest (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Freddy Hardest en Manhattan Sur (1989)" index="" image="">
+	<description>Freddy Hardest en Manhattan Sur (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Friday The 13th (UK) (1986)" index="" image="">
+	<description>Friday The 13th (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Froggy (UK) (1985)" index="" image="">
+	<description>Froggy (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Frost Byte (UK) (1986)" index="" image="">
+	<description>Frost Byte (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Fruity Frank (UK) (1984)" index="" image="">
+	<description>Fruity Frank (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Game Over (S) (1986)" index="true" image="g">
+	<description>Game Over (S) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Game Over 2 (UK) (1988)" index="" image="">
+	<description>Game Over 2 (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Gary Linekers Super Skills (UK) (19xx)" index="" image="">
+	<description>Gary Linekers Super Skills (UK) (19xx)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Gates to Hell (2006)" index="" image="">
+	<description>Gates to Hell (2006)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Gauntlet (UK) (1985)" index="" image="">
+	<description>Gauntlet (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="GBA Championship Basketball - 2 On 2 (UK) (1987)" index="" image="">
+	<description>GBA Championship Basketball - 2 On 2 (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Gee Bee Air Rally (UK) (1987)" index="" image="">
+	<description>Gee Bee Air Rally (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Get Dexter (UK,F,G) (1986)" index="" image="">
+	<description>Get Dexter (UK,F,G) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ghostbusters (UK) (1984)" index="" image="">
+	<description>Ghostbusters (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ghosts n Goblins (UK) (1986)" index="" image="">
+	<description>Ghosts n Goblins (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ghouls n Ghosts (UK) (1989)" index="" image="">
+	<description>Ghouls n Ghosts (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Glider Rider (UK) (1986)" index="" image="">
+	<description>Glider Rider (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="G-Loc (UK) (1991)" index="" image="">
+	<description>G-Loc (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Golden Axe (UK) (1988) (Disk 1 of 2)" index="" image="">
+	<description>Golden Axe (UK) (1988) (Disk 1 of 2)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Gonzzalezz (1989)" index="" image="">
+	<description>Gonzzalezz (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Goody (1988)" index="" image="">
+	<description>Goody (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Gorbaf el Vikingo (1987)" index="" image="">
+	<description>Gorbaf el Vikingo (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Great Gurianos (UK) (1987)" index="" image="">
+	<description>Great Gurianos (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Green Beret (UK) (1986)" index="" image="">
+	<description>Green Beret (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Gryzor (UK) (1987)" index="" image="">
+	<description>Gryzor (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Guerrilla War (UK) (1988)" index="" image="">
+	<description>Guerrilla War (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Gun Smoke (1987)" index="" image="">
+	<description>Gun Smoke (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Gunfright (1985)" index="" image="">
+	<description>Gunfright (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Guzzler (UK) (1986)" index="" image="">
+	<description>Guzzler (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="H Myga (GR) (1988)" index="true" image="h">
+	<description>H Myga (GR) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hagar (UK) (1989)" index="" image="">
+	<description>Hagar (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hard Drivin (UK) (1989)" index="" image="">
+	<description>Hard Drivin (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Harrier Attack (UK) (1984)" index="" image="">
+	<description>Harrier Attack (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="HATE - Hostile All Terrain Encounter (UK) (1989)" index="" image="">
+	<description>HATE - Hostile All Terrain Encounter (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Head Over Heels (UK) (1987)" index="" image="">
+	<description>Head Over Heels (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Heartland (UK) (1986)" index="" image="">
+	<description>Heartland (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hero Quest (UK) (1991)" index="" image="">
+	<description>Hero Quest (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hero Quest 2 - Return of the Witch Lord (UK) (1991)" index="" image="">
+	<description>Hero Quest 2 - Return of the Witch Lord (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Highway Encounter (UK) (1985)" index="" image="">
+	<description>Highway Encounter (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Human Killing Machine (UK) (1989)" index="" image="">
+	<description>Human Killing Machine (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hunchback (UK) (1986)" index="" image="">
+	<description>Hunchback (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hunchback 2 - Quasimodos Revenge (UK) (1985)" index="" image="">
+	<description>Hunchback 2 - Quasimodos Revenge (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hundra (S) (1987)" index="" image="">
+	<description>Hundra (S) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Hunt for Red October (UK) (1984)" index="" image="">
+	<description>Hunt for Red October (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="IK + (1988)" index="true" image="i">
+	<description>IK + (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ikari Warriors (UK) (1986)" index="" image="">
+	<description>Ikari Warriors (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Impossible Mission (1986)" index="" image="">
+	<description>Impossible Mission (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Impossible Mission 2 (1988)" index="" image="">
+	<description>Impossible Mission 2 (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Indiana Jones and the Temple of Doom (UK) (1987)" index="" image="">
+	<description>Indiana Jones and the Temple of Doom (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Infiltrator (UK) (1986)" index="" image="">
+	<description>Infiltrator (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Inside Outing (UK) (1987)" index="" image="">
+	<description>Inside Outing (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="International Karate (UK) (1986)" index="" image="">
+	<description>International Karate (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="International Karate Plus (UK) (1988)" index="" image="">
+	<description>International Karate Plus (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Into the Eagles Nest (UK) (1987)" index="" image="">
+	<description>Into the Eagles Nest (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Jack the Nipper (UK) (1986)" index="true" image="j">
+	<description>Jack the Nipper (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Jack the Nipper in Coconut Capers (UK) (1987)" index="" image="">
+	<description>Jack the Nipper in Coconut Capers (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Jackal (UK) (1988)" index="" image="">
+	<description>Jackal (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Jai Alai (1991)" index="" image="">
+	<description>Jai Alai (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Jet Set Willy (UK) (1985)" index="" image="">
+	<description>Jet Set Willy (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Jungle Warrior (1990)" index="" image="">
+	<description>Jungle Warrior (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Kane (UK) (1986)" index="true" image="k">
+	<description>Kane (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Karnov (UK) (1988) (Disk 1 of 2)" index="" image="">
+	<description>Karnov (UK) (1988) (Disk 1 of 2)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Kat Trap (UK) (1987)" index="" image="">
+	<description>Kat Trap (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Key Factor (UK) (1985)" index="" image="">
+	<description>Key Factor (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Kick Off (UK,F,G,S,I) (1990)" index="" image="">
+	<description>Kick Off (UK,F,G,S,I) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Kick Off 2 (F) (1990)" index="" image="">
+	<description>Kick Off 2 (F) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Killer Cobra (UK) (1987)" index="" image="">
+	<description>Killer Cobra (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Killer Gorilla (UK) (1984)" index="" image="">
+	<description>Killer Gorilla (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Klax (UK) (1990)" index="" image="">
+	<description>Klax (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Knight Lore (1984)" index="" image="">
+	<description>Knight Lore (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Knightmare (UK) (1987)" index="" image="">
+	<description>Knightmare (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Krakout (UK) (1987)" index="" image="">
+	<description>Krakout (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Kung-Fu Master (UK) (1986)" index="" image="">
+	<description>Kung-Fu Master (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="La Abadia Del Crimen (1987)" index="true" image="l">
+	<description>La Abadia Del Crimen (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="La Aventura Original (1989)" index="" image="">
+	<description>La Aventura Original (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="La Espada Sagrada (1990)" index="" image="">
+	<description>La Espada Sagrada (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="La Pulga (1983)" index="" image="">
+	<description>La Pulga (1983)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="La Pulga II (1991)" index="" image="">
+	<description>La Pulga II (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Las Tres Luces de Glaurung (1986)" index="" image="">
+	<description>Las Tres Luces de Glaurung (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Lasersquad (UK,F) (1989)" index="" image="">
+	<description>Lasersquad (UK,F) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Light Force (UK) (1986)" index="" image="">
+	<description>Light Force (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Livingstone Supongo (S) (1986)" index="" image="">
+	<description>Livingstone Supongo (S) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Livingstone Supongo 2 (UK) (1989)" index="" image="">
+	<description>Livingstone Supongo 2 (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Lorna (S) (1990)" index="" image="">
+	<description>Lorna (S) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Macadam Bumper (F) (1985)" index="true" image="m">
+	<description>Macadam Bumper (F) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mad Mix 2 (1990)" index="" image="">
+	<description>Mad Mix 2 (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mad Mix Game (1988)" index="" image="">
+	<description>Mad Mix Game (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Manic Miner (UK) (1984)" index="" image="">
+	<description>Manic Miner (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Marble Madness Construction Set (UK) (1986)" index="" image="">
+	<description>Marble Madness Construction Set (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mata Hari (F) (1988)" index="" image="">
+	<description>Mata Hari (F) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Match Point - Balle de Match (UK) (1986)" index="" image="">
+	<description>Match Point - Balle de Match (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Matchday (UK) (1985)" index="" image="">
+	<description>Matchday (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Matchday 2 (UK) (1988)" index="" image="">
+	<description>Matchday 2 (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mega Phoenix (1991)" index="" image="">
+	<description>Mega Phoenix (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mercenary 1 and 2 (UK) (1987)" index="" image="">
+	<description>Mercenary 1 and 2 (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Metal Army (UK) (1988)" index="" image="">
+	<description>Metal Army (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Metropolis (1989)" index="" image="">
+	<description>Metropolis (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Michel Futbol Master (1989)" index="" image="">
+	<description>Michel Futbol Master (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Midnight Resistance (1990)" index="" image="">
+	<description>Midnight Resistance (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Midnight Stories 2 (GR) (1988) (Disk 1 of 2)" index="" image="">
+	<description>Midnight Stories 2 (GR) (1988) (Disk 1 of 2)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mike Gunner (1989)" index="" image="">
+	<description>Mike Gunner (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Milk Race (UK) (1987)" index="" image="">
+	<description>Milk Race (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mission Elevator (UK) (1986)" index="" image="">
+	<description>Mission Elevator (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mithos (1990)" index="" image="">
+	<description>Mithos (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Monopoly (UK) (1986)" index="" image="">
+	<description>Monopoly (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Monty On The Run (UK) (1986)" index="" image="">
+	<description>Monty On The Run (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Moon Buggy (UK) (1985)" index="" image="">
+	<description>Moon Buggy (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Moon Cresta (UK) (1986)" index="" image="">
+	<description>Moon Cresta (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mortadelo y Filemon (1988)" index="" image="">
+	<description>Mortadelo y Filemon (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mortadelo y Filemon II (1989)" index="" image="">
+	<description>Mortadelo y Filemon II (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mot (1989)" index="" image="">
+	<description>Mot (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mr Heli (UK) (1989)" index="" image="">
+	<description>Mr Heli (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mundial de Futbol (1990)" index="" image="">
+	<description>Mundial de Futbol (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Music System (UK) (1986)" index="" image="">
+	<description>Music System (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Mutan Zone (1988)" index="" image="">
+	<description>Mutan Zone (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Nanako (2007)" index="true" image="n">
+	<description>Nanako (2007)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Navy Moves (UK) (1988)" index="" image="">
+	<description>Navy Moves (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Nebulus (UK) (1988)" index="" image="">
+	<description>Nebulus (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Nemesis IV (UK) (1986)" index="" image="">
+	<description>Nemesis IV (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="New Zealand Story (UK) (1989)" index="" image="">
+	<description>New Zealand Story (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Nexus (UK) (1986)" index="" image="">
+	<description>Nexus (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Nigel Mansells Grand Prix (UK) (1988)" index="" image="">
+	<description>Nigel Mansells Grand Prix (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Night Breed (UK) (1990)" index="" image="">
+	<description>Night Breed (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Night Hunter (F) (1989)" index="" image="">
+	<description>Night Hunter (F) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Nonamed (1986)" index="" image="">
+	<description>Nonamed (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Oh Mummy (UK) (1984)" index="true" image="o">
+	<description>Oh Mummy (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ole, Toro (1985)" index="" image="">
+	<description>Ole, Toro (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Operation Wolf (UK) (1988)" index="" image="">
+	<description>Operation Wolf (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Oriental Games (UK) (1990)" index="" image="">
+	<description>Oriental Games (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="P-47 Freedom Fighter (UK) (1989)" index="true" image="p">
+	<description>P-47 Freedom Fighter (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pac-Land (UK) (1989)" index="" image="">
+	<description>Pac-Land (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pac-Mania (UK) (1988)" index="" image="">
+	<description>Pac-Mania (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Panza Kick Boxing (UK) (1990)" index="" image="">
+	<description>Panza Kick Boxing (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Paperboy (UK) (1987)" index="" image="">
+	<description>Paperboy (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Parin Dakar (1988)" index="" image="">
+	<description>Parin Dakar (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Perico Delgado Maillot Amarillo (1989)" index="" image="">
+	<description>Perico Delgado Maillot Amarillo (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Peter Shiltons Handball Maradona (UK) (1987)" index="" image="">
+	<description>Peter Shiltons Handball Maradona (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phantis (1987)" index="" image="">
+	<description>Phantis (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phantomas 2 (1986)" index="" image="">
+	<description>Phantomas 2 (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Phantomas Saga Infinity (2006)" index="" image="">
+	<description>Phantomas Saga Infinity (2006)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pinball Power (UK) (1987)" index="" image="">
+	<description>Pinball Power (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ping-Pong (UK) (1985)" index="" image="">
+	<description>Ping-Pong (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pink Panther (UK) (1988)" index="" image="">
+	<description>Pink Panther (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pipe Mania (1990)" index="" image="">
+	<description>Pipe Mania (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pirates (UK) (1987) (Disk 1 of 2)" index="" image="">
+	<description>Pirates (UK) (1987) (Disk 1 of 2)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pit Fighter (UK) (1991)" index="" image="">
+	<description>Pit Fighter (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Platoon (UK) (1988)" index="" image="">
+	<description>Platoon (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Poli Diaz  (1990)" index="" image="">
+	<description>Poli Diaz  (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Power Drift (UK) (1989)" index="" image="">
+	<description>Power Drift (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Powerplay - Game of the Gods (GR) (1986)" index="" image="">
+	<description>Powerplay - Game of the Gods (GR) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Powerplay - Game of the Gods (UK) (1986)" index="" image="">
+	<description>Powerplay - Game of the Gods (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Predator (UK) (1988)" index="" image="">
+	<description>Predator (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Predator 2 (UK) (1991)" index="" image="">
+	<description>Predator 2 (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Prehistorik (UK) (1991)" index="" image="">
+	<description>Prehistorik (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Prince of Persia (F) (1990)" index="" image="">
+	<description>Prince of Persia (F) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Prohibition (1987)" index="" image="">
+	<description>Prohibition (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Purple Saturn Day (UK) (1989)" index="" image="">
+	<description>Purple Saturn Day (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Puzznic (UK) (1989)" index="" image="">
+	<description>Puzznic (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Pyjamarama (UK) (1985)" index="" image="">
+	<description>Pyjamarama (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="R.A.M (1990)" index="true" image="r">
+	<description>R.A.M (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Radius (UK) (1987)" index="" image="">
+	<description>Radius (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Raffles (UK) (1985)" index="" image="">
+	<description>Raffles (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Raid Over Moscow (UK) (1985)" index="" image="">
+	<description>Raid Over Moscow (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rainbow Islands (UK) (1989)" index="" image="">
+	<description>Rainbow Islands (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rambo - First Blood Part 2 (UK) (1986)" index="" image="">
+	<description>Rambo - First Blood Part 2 (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rambo 3 (UK) (1988)" index="" image="">
+	<description>Rambo 3 (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rampage (UK) (1986)" index="" image="">
+	<description>Rampage (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rastan Saga (UK) (1998)" index="" image="">
+	<description>Rastan Saga (UK) (1998)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Red Arrows (UK) (1985)" index="" image="">
+	<description>Red Arrows (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Red Moon (UK) (1985)" index="" image="">
+	<description>Red Moon (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Renegade (UK) (1987)" index="" image="">
+	<description>Renegade (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Renegade 3 - The Final Chapter (UK) (1989)" index="" image="">
+	<description>Renegade 3 - The Final Chapter (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rescate Atlantida (1989)" index="" image="">
+	<description>Rescate Atlantida (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rick Dangerous (UK) (1989)" index="" image="">
+	<description>Rick Dangerous (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rick Dangerous 2 (UK) (1990)" index="" image="">
+	<description>Rick Dangerous 2 (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Road Runner (UK) (1987)" index="" image="">
+	<description>Road Runner (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="RoboCop (UK) (1987)" index="" image="">
+	<description>RoboCop (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rock'n Roller (1988)" index="" image="">
+	<description>Rock'n Roller (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rockstar Ate My Hamster (UK) (1989)" index="" image="">
+	<description>Rockstar Ate My Hamster (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Roland Ahoy! (1984)" index="" image="">
+	<description>Roland Ahoy! (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Roland Goes Digging (UK) (1984)" index="" image="">
+	<description>Roland Goes Digging (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Roland in the Caves (UK) (1984)" index="" image="">
+	<description>Roland in the Caves (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Roland in Time (UK) (1984)" index="" image="">
+	<description>Roland in Time (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Roland on the Ropes (UK) (1985)" index="" image="">
+	<description>Roland on the Ropes (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Roland on the Run (UK) (1984)" index="" image="">
+	<description>Roland on the Run (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="R-Type (UK) (1987)" index="" image="">
+	<description>R-Type (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Run the Gauntlet (UK) (1988)" index="" image="">
+	<description>Run the Gauntlet (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Rygar (UK) (1987)" index="" image="">
+	<description>Rygar (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Saboteur (UK) (1986)" index="true" image="s">
+	<description>Saboteur (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Saboteur 2 (UK) (1987)" index="" image="">
+	<description>Saboteur 2 (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sabre Wulf (1985)" index="" image="">
+	<description>Sabre Wulf (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sacred Armour of Antiriad (F) (1987)" index="" image="">
+	<description>Sacred Armour of Antiriad (F) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sai Combat (F) (1986)" index="" image="">
+	<description>Sai Combat (F) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Saint Dragon (UK) (1990)" index="" image="">
+	<description>Saint Dragon (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Samantha Fox Strip Poker (UK) (1986)" index="" image="">
+	<description>Samantha Fox Strip Poker (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Satan (1989)" index="" image="">
+	<description>Satan (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Savage (1988)" index="" image="">
+	<description>Savage (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Scooby Doo in the Castle Mystery (UK) (1986)" index="" image="">
+	<description>Scooby Doo in the Castle Mystery (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Senda Salvaje (1990)" index="" image="">
+	<description>Senda Salvaje (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sentinel (UK) (1987)" index="" image="">
+	<description>Sentinel (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Shadow Dancer (UK) (1991)" index="" image="">
+	<description>Shadow Dancer (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Shadow of the Beast (UK) (1990) (Disk 1 of 2)" index="" image="">
+	<description>Shadow of the Beast (UK) (1990) (Disk 1 of 2)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Shadow Warriors (UK) (1990)" index="" image="">
+	<description>Shadow Warriors (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Shao Lins Road Kung Fu (UK) (1987)" index="" image="">
+	<description>Shao Lins Road Kung Fu (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Shinobi (UK) (1989)" index="" image="">
+	<description>Shinobi (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Shogun (UK) (1986)" index="" image="">
+	<description>Shogun (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Shufflepuck Cafe (F) (1989)" index="" image="">
+	<description>Shufflepuck Cafe (F) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Side Arms (UK) (1987)" index="" image="">
+	<description>Side Arms (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Silent Service - The Submarine Simulation (UK) (1986)" index="" image="">
+	<description>Silent Service - The Submarine Simulation (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Silkworm (UK) (1988)" index="" image="">
+	<description>Silkworm (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sim City (UK) (1989)" index="" image="">
+	<description>Sim City (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sir Fred (1985)" index="" image="">
+	<description>Sir Fred (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sir Lancelot (UK) (1985)" index="" image="">
+	<description>Sir Lancelot (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sirwood (1990)" index="" image="">
+	<description>Sirwood (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sito Pons 500 c.c. Grand Prix (1991)" index="" image="">
+	<description>Sito Pons 500 c.c. Grand Prix (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Skull and Crossbones (UK) (1991)" index="" image="">
+	<description>Skull and Crossbones (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sol Negro (1988)" index="" image="">
+	<description>Sol Negro (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Soldier of Light (1989)" index="" image="">
+	<description>Soldier of Light (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Solomons Key (UK) (1986)" index="" image="">
+	<description>Solomons Key (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sorcery (UK) (1985)" index="" image="">
+	<description>Sorcery (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Sorcery Plus (UK) (1985)" index="" image="">
+	<description>Sorcery Plus (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Southern Belle (UK) (1985)" index="" image="">
+	<description>Southern Belle (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Space Crusade (E) (1990)" index="" image="">
+	<description>Space Crusade (E) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Space Harrier (UK) (1986)" index="" image="">
+	<description>Space Harrier (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Spellbound Dizzy (UK) (1991)" index="" image="">
+	<description>Spellbound Dizzy (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Spindizzy (UK) (1986)" index="" image="">
+	<description>Spindizzy (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Spirits (1987)" index="" image="">
+	<description>Spirits (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Spitting Image (UK) (1988)" index="" image="">
+	<description>Spitting Image (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Split Personalities (UK) (1986)" index="" image="">
+	<description>Split Personalities (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Spy Hunter (UK) (1986)" index="" image="">
+	<description>Spy Hunter (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Spy vs Spy (UK) (1985)" index="" image="">
+	<description>Spy vs Spy (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Stardust (1987)" index="" image="">
+	<description>Stardust (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Stormlord (UK) (1989)" index="" image="">
+	<description>Stormlord (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Street Fighter (UK) (1988)" index="" image="">
+	<description>Street Fighter (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Street Gang Football (UK) (1989)" index="" image="">
+	<description>Street Gang Football (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Street Sports Basketball (UK) (1988)" index="" image="">
+	<description>Street Sports Basketball (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Strider (UK) (1989)" index="" image="">
+	<description>Strider (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Strip Poker 2 (UK) (1988)" index="" image="">
+	<description>Strip Poker 2 (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Stunt Car Racer - Extended Version (UK) (1990)" index="" image="">
+	<description>Stunt Car Racer - Extended Version (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Subway Vigilante (UK) (1989)" index="" image="">
+	<description>Subway Vigilante (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Super Cars (UK) (1990)" index="" image="">
+	<description>Super Cars (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Super Cycle (UK) (1986)" index="" image="">
+	<description>Super Cycle (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Super Hang On (UK) (1986)" index="" image="">
+	<description>Super Hang On (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Super Off Road Racer (1990)" index="" image="">
+	<description>Super Off Road Racer (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Super Robin Hood (UK) (1986)" index="" image="">
+	<description>Super Robin Hood (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Super Scramble Simulator (UK) (1989)" index="" image="">
+	<description>Super Scramble Simulator (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Supernudge 2000 Fruitbank (UK) (1987)" index="" image="">
+	<description>Supernudge 2000 Fruitbank (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Survivor (1987)" index="" image="">
+	<description>Survivor (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Switchblade (UK) (1990)" index="" image="">
+	<description>Switchblade (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Taipan (UK) (1986)" index="true" image="t">
+	<description>Taipan (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Tapper (UK) (1986)" index="" image="">
+	<description>Tapper (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Target Plus (1988)" index="" image="">
+	<description>Target Plus (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Target Renegade (UK) (1988)" index="" image="">
+	<description>Target Renegade (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Teenage Mutant Hero Turtles (UK) (1990)" index="" image="">
+	<description>Teenage Mutant Hero Turtles (UK) (1990)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Teenage Mutant Hero Turtles 2 (UK) (1991)" index="" image="">
+	<description>Teenage Mutant Hero Turtles 2 (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Teenage Queen (UK) (1989) (Disk 1 of 2)" index="" image="">
+	<description>Teenage Queen (UK) (1989) (Disk 1 of 2)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Tempest (UK) (1986)" index="" image="">
+	<description>Tempest (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Test Drive 2 Duel (UK) (1989)" index="" image="">
+	<description>Test Drive 2 Duel (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Thanatos (UK) (1986)" index="" image="">
+	<description>Thanatos (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="The Goonies (1987)" index="" image="">
+	<description>The Goonies (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="The Last Mission (1987)" index="" image="">
+	<description>The Last Mission (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="The Prayer Of The Warrior (1992)" index="" image="">
+	<description>The Prayer Of The Warrior (1992)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="The Untouchables (UK) (1989) (Disk 1 of 2)" index="" image="">
+	<description>The Untouchables (UK) (1989) (Disk 1 of 2)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="The Way of the Exploding Fist (UK) (1985)" index="" image="">
+	<description>The Way of the Exploding Fist (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="The Way Of The Tiger (UK) (1986)" index="" image="">
+	<description>The Way Of The Tiger (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Three Weeks in Paradise (UK) (1986)" index="" image="">
+	<description>Three Weeks in Paradise (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Thundercats (UK) (1987)" index="" image="">
+	<description>Thundercats (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Tiger Road (UK) (1987)" index="" image="">
+	<description>Tiger Road (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Titanic (1988)" index="" image="">
+	<description>Titanic (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Titus the Fox (UK) (1992)" index="" image="">
+	<description>Titus the Fox (UK) (1992)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Toi Acid Game (1989)" index="" image="">
+	<description>Toi Acid Game (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Tom and Jerry (UK) (1989)" index="" image="">
+	<description>Tom and Jerry (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Tomahawk (UK,F,G) (1986)" index="" image="">
+	<description>Tomahawk (UK,F,G) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Top Gun (UK) (1986)" index="" image="">
+	<description>Top Gun (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Tornado Low Level (UK) (1985)" index="" image="">
+	<description>Tornado Low Level (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Total Eclipse (UK) (1988)" index="" image="">
+	<description>Total Eclipse (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Total Eclipse 2 - Sphinx Jinx (UK) (1989)" index="" image="">
+	<description>Total Eclipse 2 - Sphinx Jinx (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Trailblazer (UK) (1986)" index="" image="">
+	<description>Trailblazer (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Trantor (UK) (1987)" index="" image="">
+	<description>Trantor (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Trucking (UK) (1985)" index="" image="">
+	<description>Trucking (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="TT-Racer (UK) (1986)" index="" image="">
+	<description>TT-Racer (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Tuareg (1988)" index="" image="">
+	<description>Tuareg (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Turbo Esprit (UK) (1986)" index="" image="">
+	<description>Turbo Esprit (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Turbo Girl (1988)" index="" image="">
+	<description>Turbo Girl (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Turbo Out Run (UK) (1989) (Disk 1 of 2)" index="" image="">
+	<description>Turbo Out Run (UK) (1989) (Disk 1 of 2)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Turrican (UK) (1990) (Disk 1 of 2)" index="" image="">
+	<description>Turrican (UK) (1990) (Disk 1 of 2)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Typhoon (UK) (1988)" index="" image="">
+	<description>Typhoon (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Ulises (1989)" index="true" image="u">
+	<description>Ulises (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Usagi Yo Jimbo - Samurai Warrior (UK) (1988)" index="" image="">
+	<description>Usagi Yo Jimbo - Samurai Warrior (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Viaje al Centro de la Tierra (1989)" index="true" image="v">
+	<description>Viaje al Centro de la Tierra (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Vigilante (UK) (1989)" index="" image="">
+	<description>Vigilante (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Vindicator (UK) (1988)" index="" image="">
+	<description>Vindicator (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Vixen (UK) (1988)" index="" image="">
+	<description>Vixen (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Wacky Races (UK) (1992)" index="true" image="w">
+	<description>Wacky Races (UK) (1992)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="WEC le Mans (UK) (1988)" index="" image="">
+	<description>WEC le Mans (UK) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Wells &amp; Fargo (1988)" index="" image="">
+	<description>Wells &amp; Fargo (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Werewolves of London (UK) (1987)" index="" image="">
+	<description>Werewolves of London (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="West Bank (S) (1986)" index="" image="">
+	<description>West Bank (S) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Western Games (1988)" index="" image="">
+	<description>Western Games (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Who Dares Win 2 (UK) (1986)" index="" image="">
+	<description>Who Dares Win 2 (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Winter Games (UK) (1986) (Disk 1 of 2)" index="" image="">
+	<description>Winter Games (UK) (1986) (Disk 1 of 2)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Wizball (UK) (1987)" index="" image="">
+	<description>Wizball (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Wonderboy (UK) (1987)" index="" image="">
+	<description>Wonderboy (UK) (1987)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="World Cup Carnival - Mexico 86 (UK) (1984)" index="" image="">
+	<description>World Cup Carnival - Mexico 86 (UK) (1984)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="WWF Wrestlemania (UK) (1991)" index="" image="">
+	<description>WWF Wrestlemania (UK) (1991)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Xenon (S) (1988)" index="true" image="x">
+	<description>Xenon (S) (1988)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Xybots (UK) (1989)" index="" image="">
+	<description>Xybots (UK) (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Xyphoes Fantasy (UK) (1991) (Disk 1 of 3)" index="" image="">
+	<description>Xyphoes Fantasy (UK) (1991) (Disk 1 of 3)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Yie Ar Kung Fu (UK) (1985)" index="true" image="y">
+	<description>Yie Ar Kung Fu (UK) (1985)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Yie Ar Kung Fu 2 (UK) (1986)" index="" image="">
+	<description>Yie Ar Kung Fu 2 (UK) (1986)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+<game name="Zipi y Zape (1989)" index="true" image="z">
+	<description>Zipi y Zape (1989)</description>
+	<cloneof></cloneof>
+	<crc></crc>
+	<manufacturer></manufacturer>
+	<year></year>
+	<genre></genre>
+	<rating></rating>
+	<enabled>Yes</enabled>
+</game>
+</menu>

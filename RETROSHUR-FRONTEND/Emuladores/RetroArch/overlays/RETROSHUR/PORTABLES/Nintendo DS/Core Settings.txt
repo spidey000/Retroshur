@@ -1,7 +1,0 @@
-Core Settings
-
-Aspect Ratio - Config
-Width - 777
-Height -711
-Interger Turned On
-In Options - Screen Gap 95

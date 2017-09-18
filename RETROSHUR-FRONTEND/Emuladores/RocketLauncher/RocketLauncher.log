@@ -1,13 +1,13 @@
 [code]
-16:02:44:641 | RL |      INFO  | +N/A   | Main - RocketLauncher v1.1.1.1 (www.rlauncher.com)
-16:02:44:735 | RL |      INFO  | +94    | Main - System Specs:
-					RocketLauncher Dir: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher
+22:39:23:772 | RL |      INFO  | +N/A   | Main - RocketLauncher v1.1.1.1 (www.rlauncher.com)
+22:39:23:846 | RL |      INFO  | +62    | Main - System Specs:
+					RocketLauncher Dir: D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher
 					RocketLauncher is: 32-bit
 					OS: Microsoft Windows 10 Pro
 					SKU: Professional
 					Total Memory: 16332.66 MB
-					Free Memory: 9813.54 MB
-					Used Memory: 6519.121 MB
+					Free Memory: 10440.38 MB
+					Used Memory: 5892.277 MB
 					SystemType: 64-bit
 					Physical Processors: 1
 					Logical Processors: 8
@@ -52,32 +52,34 @@
 					AutoHotkey Path: C:\Program Files\AutoHotkey\AutoHotkey.exe
 					AHK Version: 1.1.13.00
 					Unicode: No
-16:02:44:735 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncher.exe exists
-16:02:44:736 | RL |      INFO  | +0     | Main - Raw CLI received: "-s Sony Playstation 2 -r C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\ps2\Harvest Moon - A Wonderful Life - Special Edition.iso"
-16:02:44:736 | RL |      INFO  | +0     | Main - Loading Front End Plugin: "RocketLauncherUI"
-16:02:44:736 | RL |      INFO  | +0     | Process.Process - "Exist" "RocketLauncherUI.exe" 
-16:02:44:740 | RL |      INFO  | +16    | Main - Detected RocketLauncherUI.exe is currently running
-16:02:44:741 | RL |      INFO  | +0     | Main - RocketLauncherUI.exe coordinates are x-32000 y-32000 w160 h28
-16:02:44:741 | RL |      INFO  | +0     | Main - RocketLauncher received "Sony Playstation 2" and "Harvest Moon - A Wonderful Life - Special Edition"
-16:02:44:745 | RL |      INFO  | +0     | Main - Did not find a "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Sony Playstation 2\Game Options.ini" file, skipping any game-specific options.
-16:02:44:745 | RL |      INFO  | +0     | Main - Harvest Moon - A Wonderful Life - Special Edition is using the default emulator: PCSX2-retroshur
-16:02:44:745 | RL |      INFO  | +0     | Main - Checking for a [PCSX2-retroshur] section in C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Sony Playstation 2\Emulators.ini
-16:02:44:745 | RL |      INFO  | +0     | Main - Found [PCSX2-retroshur] in C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Sony Playstation 2\Emulators.ini
-16:02:44:745 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\PCSX2\PCSX2.ahk exists
-16:02:44:748 | RL |      INFO  | +0     | Main - CRC Check - CRC matches, this is an official unedited module.
-16:02:44:748 | RL |      INFO  | +0     | Main - Harvest Moon - A Wonderful Life - Special Edition will use module: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\PCSX2\PCSX2.ahk
-16:02:44:750 | RL |   WARNING  | +0     | RIniLoadVar - Created missing Global ini key: "Fade_Click_Through " in section: "Fade" in "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global RocketLauncher.ini"
-16:02:44:750 | RL |   WARNING  | +0     | RIniLoadVar - Created missing System ini key: "Fade_Click_Through " in section: "Fade" in "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Sony Playstation 2\RocketLauncher.ini"
-16:02:44:779 | RL |      INFO  | +31    | Main - Using standard method with "Rom Extension" SkipChecks or without any SkipChecks.
-16:02:44:782 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\pcsx2.exe exists
-16:02:44:783 | RL |      INFO  | +0     | Main - INI Keys read
-16:02:44:783 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.exe exists
-16:02:44:783 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.dll exists
-16:02:44:789 | RL |      INFO  | +16    | Main - "Harvest Moon - A Wonderful Life - Special Edition" does not qualify for MultiGame. Only roms with any of these strings in their name are acceptable: \(Disc|\(Disk|\(Cart|\(Tape|\(Cassette|\(Part|\(Side
-16:02:44:789 | RL |      INFO  | +0     | CheckPaths - Started
-16:02:44:789 | RL |      INFO  | +0     | CheckPaths - Not scanning to find the rom because a full path was supplied to RocketLauncher via CLI
-16:02:44:789 | RL |      INFO  | +0     | CheckPaths - Ended
-16:02:44:789 | RL |      INFO  | +0     | BuildScript - User Variables:
+22:39:23:846 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncher.exe exists
+22:39:23:846 | RL |      INFO  | +0     | Main - Raw CLI received: "-s Nintendo Gamecube -r D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Roms\gc\Paper Mario - The Thousand-Year Door (USA).iso"
+22:39:23:847 | RL |   WARNING  | +16    | Main - Front End plugin was not sent via CLI. Defaulting to the "HyperSpin" Plugin. If you want to load a different Front End Plugin, please make sure you set up your Front End so it sends this parameter to RocketLauncher: "-p <PLUGINTYPE>"
+22:39:23:847 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Plugins\HyperSpin.plugin exists
+22:39:23:847 | RL |      INFO  | +0     | Process.Process - "Exist" "RocketLauncherUI.exe" 
+22:39:23:852 | RL |      INFO  | +0     | Main - Detected RocketLauncherUI.exe is currently running
+22:39:23:852 | RL |      INFO  | +0     | Main - RocketLauncherUI.exe coordinates are x525 y50 w1150 h960
+22:39:23:852 | RL |      INFO  | +0     | Main - RocketLauncher received "Nintendo Gamecube" and "Paper Mario - The Thousand-Year Door (USA)"
+22:39:23:856 | RL |      INFO  | +0     | Main - Did not find a "D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Nintendo Gamecube\Game Options.ini" file, skipping any game-specific options.
+22:39:23:856 | RL |      INFO  | +0     | Main - Paper Mario - The Thousand-Year Door (USA) is using the default emulator: Dolphin
+22:39:23:856 | RL |      INFO  | +0     | Main - Checking for a [Dolphin] section in D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Nintendo Gamecube\Emulators.ini
+22:39:23:856 | RL |      INFO  | +0     | Main - Checking for a [Dolphin] section in D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global Emulators.ini
+22:39:23:856 | RL |      INFO  | +0     | Main - Found [Dolphin] in D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global Emulators.ini
+22:39:23:857 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\Dolphin\Dolphin.ahk exists
+22:39:23:859 | RL |      INFO  | +0     | Main - CRC Check - CRC matches, this is an official unedited module.
+22:39:23:860 | RL |      INFO  | +0     | Main - Paper Mario - The Thousand-Year Door (USA) will use module: D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\Dolphin\Dolphin.ahk
+22:39:23:862 | RL |   WARNING  | +0     | RIniLoadVar - Created missing Global ini key: "Fade_Click_Through " in section: "Fade" in "D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global RocketLauncher.ini"
+22:39:23:862 | RL |   WARNING  | +0     | RIniLoadVar - Created missing System ini key: "Fade_Click_Through " in section: "Fade" in "D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Nintendo Gamecube\RocketLauncher.ini"
+22:39:23:894 | RL |      INFO  | +47    | Main - Using standard method with "Rom Extension" SkipChecks or without any SkipChecks.
+22:39:23:897 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\Dolphin\Dolphin.exe exists
+22:39:23:897 | RL |      INFO  | +0     | Main - INI Keys read
+22:39:23:897 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.exe exists
+22:39:23:898 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.dll exists
+22:39:23:902 | RL |      INFO  | +0     | Main - "Paper Mario - The Thousand-Year Door (USA)" does not qualify for MultiGame. Only roms with any of these strings in their name are acceptable: \(Disc|\(Disk|\(Cart|\(Tape|\(Cassette|\(Part|\(Side
+22:39:23:902 | RL |      INFO  | +0     | CheckPaths - Started
+22:39:23:902 | RL |      INFO  | +0     | CheckPaths - Not scanning to find the rom because a full path was supplied to RocketLauncher via CLI
+22:39:23:902 | RL |      INFO  | +0     | CheckPaths - Ended
+22:39:23:902 | RL |      INFO  | +0     | BuildScript - User Variables:
 					;----------------------------------------------------------------------------
 					; INJECTED VARIABLES
 					;----------------------------------------------------------------------------
@@ -88,9 +90,9 @@
 					SetTitleMatchMode, 2
 					SendMode, Event
 					0 = 4
-					rlPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher
-					pluginPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Plugins
-					pluginName = RocketLauncherUI
+					rlPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher
+					pluginPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Plugins
+					pluginName = HyperSpin
 					pluginExt = .plugin
 					contextOnExit = 
 					rlMode = 
@@ -98,35 +100,35 @@
 					rlVersion = 1.1.1.1
 					rlAuthor = djvj
 					rlURL = www.rlauncher.com
-					langFile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Data\Language\Localization.ini
+					langFile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Data\Language\Localization.ini
 					primMonitor = 1
-					frontendPID = 14060
-					frontendPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncherUI
+					frontendPID = 3880
+					frontendPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncherUI
 					frontendExe = RocketLauncherUI.exe
 					frontendExt = exe
 					frontendName = RocketLauncherUI
-					frontendDrive = C
+					frontendDrive = D
 					exitEmulatorKey = ~Esc
 					restoreFE = false
 					exitScriptKey = ~q & ~s
 					toggleCursorKey = ~e & ~t
-					emuFullPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\pcsx2.exe
-					emuPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2
-					emuName = PCSX2-retroshur
+					emuFullPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\Dolphin\Dolphin.exe
+					emuPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\Dolphin
+					emuName = Dolphin
 					emuExt = exe
-					baseRomPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\Sony Playstation 2
-					romPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\ps2
-					romPathFromIni = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\ps2|C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\Sony Playstation 2
+					baseRomPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Roms\Nintendo Gamecube
+					romPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Roms\gc
+					romPathFromIni = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Roms\gc|D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Roms\Nintendo Gamecube
 					romExtension = .iso
 					romExtensionOrig = .iso
-					romExtensions = iso|gz
-					executable = pcsx2.exe
-					systemDbName = Sony Playstation 2
-					systemName = Sony Playstation 2
-					dbPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\ps2
-					dbName = Harvest Moon - A Wonderful Life - Special Edition
+					romExtensions = 7z|zip|wbfs|ciso|iso|elf|dol|gcm|wad
+					executable = Dolphin.exe
+					systemDbName = Nintendo Gamecube
+					systemName = Nintendo Gamecube
+					dbPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Roms\gc
+					dbName = Paper Mario - The Thousand-Year Door (USA)
 					dbExt = iso
-					romName = Harvest Moon - A Wonderful Life - Special Edition
+					romName = Paper Mario - The Thousand-Year Door (USA)
 					romMapPath = 
 					romMappingEnabled = false
 					romMappingLaunchMenuEnabled = false
@@ -167,7 +169,7 @@
 					skipchecks = false
 					romMatchExt = false
 					blockInputTime = 0
-					blockInputFile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\BlockInput.exe
+					blockInputFile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\BlockInput.exe
 					errorLevelReporting = false
 					lockLaunch = false
 					lockLaunchGame = 
@@ -202,7 +204,7 @@
 					originalHeight = 1080
 					vdEnabled = false
 					vdFullPath = 
-					vdUseSCSI = true
+					vdUseSCSI = false
 					vdDriveLetter = 
 					vdDriveLetterScsi = 
 					vdAddDrive = false
@@ -212,8 +214,8 @@
 					ledblinkyEnabled = false
 					ledblinkySystemName = 
 					ledblinkyFullPath = 
-					ledblinkyProfilePath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\LEDBlinky
-					ledblinkyRLProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\LEDBlinky\RocketLauncher
+					ledblinkyProfilePath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\LEDBlinky
+					ledblinkyRLProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\LEDBlinky\RocketLauncher
 					winIPACFullPath = 
 					ultraMapEnabled = false
 					ultraMapFullPath = 
@@ -353,20 +355,20 @@
 					fadeExtractionTimeTextOptions = cFF555555 r4 s20 Bold
 					fadeInterruptKey = 
 					detectFadeErrorEnabled = true
-					fadeImgPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Fade
-					RLDataPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Data
-					RLMediaPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media
-					RLErrSoundPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Sounds\Error
-					modulesPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules
-					moduleFullName = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\PCSX2\PCSX2.ahk
-					moduleName = PCSX2
-					modulePath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\PCSX2
+					fadeImgPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Fade
+					RLDataPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Data
+					RLMediaPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media
+					RLErrSoundPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Sounds\Error
+					modulesPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules
+					moduleFullName = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\Dolphin\Dolphin.ahk
+					moduleName = Dolphin
+					modulePath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\Dolphin
 					moduleExtension = ahk
-					moduleExtensionsPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions
-					libPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib
+					moduleExtensionsPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions
+					libPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib
 					sevenZEnabled = false
-					sevenZPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.exe
-					sevenZDllPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.dll
+					sevenZPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.exe
+					sevenZDllPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.dll
 					sevenZExtractPath = 
 					sevenZExtractPathOrig = 
 					sevenZAttachSystemName = false
@@ -401,7 +403,7 @@
 					pauseZoomInKey = C
 					pauseZoomOutKey = V
 					pauseScreenshotKey = ~PrintScreen
-					pauseHiToTextPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\HiToText.exe
+					pauseHiToTextPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\HiToText.exe
 					pauseSaveStateKeyCodes = 
 					pauseLoadStateKeyCodes = 
 					keyboardEncoder = 
@@ -409,10 +411,10 @@
 					keymapperEnabled = false
 					keymapperAHKMethod = false
 					keymapper = xpadder
-					xpadderFullPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\Utilities\Xpadder\xpadder.exe
-					joyToKeyFullPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\Utilities\JoyToKey\JoyToKey.exe
-					profilePath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles
-					keymapperProfilePath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder
+					xpadderFullPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\Utilities\Xpadder\xpadder.exe
+					joyToKeyFullPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\Utilities\JoyToKey\JoyToKey.exe
+					profilePath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles
+					keymapperProfilePath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder
 					keymapperFrontEndProfileName = RocketLauncherUI
 					keymapperFrontEndProfile = false
 					keymapperRocketLauncherProfileEnabled = false
@@ -423,21 +425,21 @@
 					CustomJoyNamesEnabled = false
 					CustomJoyNames = 
 					rotateMethod = false
-					FEProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\RocketLauncherUI
-					defaultProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\_Default
-					systemProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Sony Playstation 2
-					xPadderSystemProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Sony Playstation 2\_Default
-					emuProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Sony Playstation 2\PCSX2-retroshur
-					romProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Sony Playstation 2\Harvest Moon - A Wonderful Life - Special Edition
-					RocketLauncherProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\RocketLauncher
-					blankProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\_Default\blank
-					ahkFEProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\RocketLauncherUI
-					ahkDefaultProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\_Default
-					ahkSystemProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Sony Playstation 2
-					ahkEmuProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Sony Playstation 2\PCSX2-retroshur
-					ahkRomProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Sony Playstation 2\Harvest Moon - A Wonderful Life - Special Edition
-					ahkRocketLauncherProfile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\RocketLauncher
-					bezelEnabled = false
+					FEProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\RocketLauncherUI
+					defaultProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\_Default
+					systemProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Nintendo Gamecube
+					xPadderSystemProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Nintendo Gamecube\_Default
+					emuProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Nintendo Gamecube\Dolphin
+					romProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Nintendo Gamecube\Paper Mario - The Thousand-Year Door (USA)
+					RocketLauncherProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\RocketLauncher
+					blankProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\_Default\blank
+					ahkFEProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\RocketLauncherUI
+					ahkDefaultProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\_Default
+					ahkSystemProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Nintendo Gamecube
+					ahkEmuProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Nintendo Gamecube\Dolphin
+					ahkRomProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Nintendo Gamecube\Paper Mario - The Thousand-Year Door (USA)
+					ahkRocketLauncherProfile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\RocketLauncher
+					bezelEnabled = true
 					bezelICEnabled = false
 					shaderName = false
 					shaderColor = 
@@ -445,370 +447,466 @@
 					statisticsEnabled = true
 					pressDuration = -1
 					emuVolume = 1
-					dxwndIni = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\dxwnd\dxwnd.ini
-					dxwndFullPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\dxwnd\dxwnd.exe
-					qResFullPath = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\QRes.exe
+					dxwndIni = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\dxwnd\dxwnd.ini
+					dxwndFullPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\dxwnd\dxwnd.exe
+					qResFullPath = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\QRes.exe
 					mon1O = 
-					pacDrivedllFile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\PacDrive32.dll
-					userFadeAnimIniFile = C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Fade Animations.ini
+					pacDrivedllFile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\PacDrive32.dll
+					userFadeAnimIniFile = D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Fade Animations.ini
 					testFile = 
 					testDuration = 
 					initialErrorMode = 0
 
-16:02:44:793 | RL |      INFO  | +0     | BuildScript - Loaded XHotkey Init.ahk scripts
-16:02:44:793 | RL |      INFO  | +0     | BuildScript - Loaded Fade Init.ahk scripts
-16:02:44:793 | RL |      INFO  | +0     | BuildScript - Loaded Statistics Init.ahk scripts
-16:02:44:793 | RL |   WARNING  | +0     | BuildScript - "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Functions Init.ahk" not found
-16:02:44:793 | RL |      INFO  | +0     | BuildScript - Validating module
-16:02:44:795 | RL |      INFO  | +0     | BuildScript - Validation complete
-16:02:44:795 | RL |      INFO  | +0     | BuildScript - Module:
-					MEmu = PCSX2
-					MEmuV = 1.5.0-dev-263
-					MURL = http://pcsx2.net/
-					MAuthor = djvj
-					MVersion = 2.2.1
-					MCRC = 5E3D250C
-					iCRC = 65DD0603
-					MID = 635038268913291718
-					MSystem = "Sony PlayStation 2"
+22:39:23:906 | RL |      INFO  | +0     | BuildScript - Loaded XHotkey Init.ahk scripts
+22:39:23:906 | RL |      INFO  | +0     | BuildScript - Loaded Fade Init.ahk scripts
+22:39:23:906 | RL |      INFO  | +0     | BuildScript - Loaded Statistics Init.ahk scripts
+22:39:23:906 | RL |   WARNING  | +0     | BuildScript - "D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Functions Init.ahk" not found
+22:39:23:906 | RL |      INFO  | +0     | BuildScript - Validating module
+22:39:23:908 | RL |      INFO  | +0     | BuildScript - Validation complete
+22:39:23:908 | RL |      INFO  | +0     | BuildScript - Module:
+					MEmu = Dolphin
+					MEmuV =  v4.0 r6928
+					MURL = https://dolphin-emu.org/
+					MAuthor = djvj & bleasby
+					MVersion = 2.1.9
+					MCRC = 48F41AEA
+					iCRC = F063B9AF
+					MID = 635038268884477733
+					MSystem = "Nintendo Gamecube","Nintendo Wii","Nintendo WiiWare"
 					;----------------------------------------------------------------------------
 					; Notes:
-					; This module has many settings that can be controlled via RocketLauncherUI
-					; If you want to customize settings per game, add the game to the module's ini using RocketLauncherUI
-					; If you use Daemon Tools, make sure you have a SCSI virtual drive setup. Not a DT one.
-					; Tested Virtual Drive support with the cdvdGigaherz CDVD plugin. Make sure you set it to use your SCSI Virtual Drive letter.
-					; If the incorrect drive is used, the emu will boot to the bios screen and emu will hang in your running processes on exit and require it to be force closed
-					; Module will set the CdvdSource to Plugin or Iso depending on if you have Virtual Drive enabled or not.
-					; If you have any problems closing the emulator, make sure noGUI module setting in RocketLauncherUI is set to default or false.
-					; Most stable bios is Japan v01.00(17/01/2000)
+					; Be sure you are running at least Dolphin v4.0 or greater.
+					; If you get an error that you are missing a vcomp100.dll, install Visual C++ 2010: http://www.microsoft.com/download/en/details.aspx?id=14632
+					; Also make sure you are running latest directx: http://www.microsoft.com/downloads/details.aspx?FamilyID=2da43d38-db71-4c1b-bc6a-9b6652cd92a3
+					; Dolphin will sometimes crash when connnecting a Wiimote, then going back to the game. After all Wiimotes are connected that you want to use, it shouldn't have anymore issues.
+					; Convert all your games to ciso using Wii Backup Manager to save alot of space by stripping everything but the game partition. http://www.wiibackupmanager.tk/
+					; If you want to keep your Dolphin.ini in the emu folder, create a "portable.txt" file in MyDocuments\Dolphin Emulator\
 					;
-					; Per-game memory cards
-					; This module supports per-game memory cards to prevent them from ever becoming full
-					; To use this feature, set the PerGameMemoryCards to true in RocketLauncherUI
-					; You need to create a default blank memory card in the path you have defined in pcsx's ini found in section [Folders], key MemoryCards.
-					; Make sure one of the current memory cards are blank, then copy it in that folder and rename it to "default.ps2". The module will copy this file to a romName.ps2 for each game launched.
-					; The module will only insert memory cards into Slot 1. So save your games there.
+					; Bezels:
+					; If the game does not fit the window, you can try setting stretch to window manually in dolphin.
 					;
-					; Linuz cdvd plugin stores its settings in the registry @ HKEY_CURRENT_USER\Software\PS2Eplugin\CDVD\CDVDiso
+					; Setting up custom Wiimote or GCPad profiles:
+					; First set UseCustomWiimoteProfiles or UseCustomGCpadProfiles to true in RocketLauncherUI for this module
+					; Launch Dolphin manually and goto Options->(Wiimote or Gamecube Pad) Settings and configure all your controls how you want your default setup to look like. This will be used for all games that you don't set a custom profile for. No need to save any profiles.
+					; All your controls are stored in WiimoteNew.ini or GCPadNew.ini and get copied to a _Default_(WiimoteNew or GCPadNew).ini on first launch. This ini contains all the controls for all 4 controllers.
+					; Do not confuse this with Dolphin's built-in profiles as those only contain info for only one controller. The (WiimoteNew or GCPadNew).ini and all the profiles RocketLauncher uses contain info for all controllers in one file.
+					; This new profile now called _Default_(WiimoteNew or GCPadNew).ini will be found in Dolphins settings folder: \Config\Profiles\(Wiimote or GCPad) (RL)\Default.ini
+					; For each game or custom control sets you want to use, edit the controls for all the controllers to work for that game and exit Dolphin. Now copy the (WiimoteNew or GCPadNew).ini to the "(Wiimote or GCPad) (RL)" folder and name it whatever you like.
+					; In RocketLauncherUI's module settings for Dolphin, Click the Rom Settings tab and add each game from your xml you want to use a this custom profile for.
+					; Now for all those games you added, make sure the Profile setting it set to the custom profile you want to load when that game is launched.
+					; Any game not added will use the "_Default_(WiimoteNew or GCPadNew).ini" profile RocketLauncher makes on first launch.
 					;
-					; v1.4.0 setup guide: https://www.youtube.com/watch?v=ovagz8UXFTU
+					; To Pair a Wiimote:
+					; Highly suggest getting a Mayflash DolphinBar as it makes pairing and using wiimotes as easy as with a real Wii: http://www.amazon.com/TOTALCONSOLE-W010-Wireless-Sensor-DolphinBar/dp/B00HZWEB74
+					; If using the DolphinBar, just make sure Dolphin is set to continuously scan for wiimotes and set controls to use real wiimotes for as many wiimotes you have.
+					; You do not need to pair the wiimote with the PC first as you would with a standard blueooth and wiimote.
+					; DolphinBar should be on Mode 4. Wiimotes don't get paired until after Dolphin is running, not before!!
+					; After Dolphin is running, press 1+2 on each wiimote and after a few moments, the wiimote will pair and vibrate and one led will lock solid. Do this for each wiimote. That's it!
 					;
-					; Run pcsx2 with the --help option to see current CLI parameters
-					; Known CLI options not currently supported by this module:
-					;  --console        	forces the program log/console to be visible
-					;  --portable       	enables portable mode operation (requires admin/root access)
-					;  --elf=<str>      	executes an ELF image
-					;  --forcewiz       	forces PCSX2 to start the First-time Wizard
+					; If using a standard LED Bar:
+					; Make sure all your wiimotes have already been paired with your PC's bluetooth adapter
+					; All 4 leds on the wiimote should be flashing
+					; Press your Refresh key (set in RocketLauncherUI for this module) or enable continuous scanning in Dolphin
+					; Press 1 + 2 on the wiimote and one led should go solid designating the player number
+					;
+					; MultiGame:
+					; Currently unable to get disc swapping to work. See MultiGame section below for additional details.
+					;
+					; Netplay:
+					; If you're using a GameCube game with saves, synchronize your memory cards, Wii NAND needs to be synchronized, and some settings (such as CPU Clock Override) must be either synchronized or disabled.
+					; Because netplay may require different settings than you would normally use with local play, the module will look for any inis in your Dolphin user config folder ending with "_netplay" and use those configs instead of your normal ones.
+					; So for example, after you tweak all your dolphin settings for netplay, copy your dolphin.ini to dolphin_netplay.ini in the same folder.
+					; When the module launches and you choose multiplayer from RocketLauncher on screen menu, the module will backup dolphin.ini and copy dolphin_network.ini to dolphin.IniDelete
+					; On exit, the module will restore your backed up dolphin.ini and any other ini files in this folder (and all subfolders) that had the "_netplay" in the name.
+					; Guide on tweaking performance for netplay: https://dolphin-emu.org/docs/guides/netplay-guide/
+					; Another guide: https://docs.google.com/document/d/1CIkBAGcf_-kBUa4urn4KUj2U4UA6y_2a7stXJz85yiE/
+					;
+					; Linking a GameCube game with VBA-M
+					; Game tested: Legend of Zelda, The - Four Swords Adventures (USA)
+					; VBA-M emulator tested: visualboyadvance-m2.0.0Beta1
+					; dolphin emulator tested: dolphin-master-4.0-6725-x64
+					; On RocketLaunchUI, dolphin, GameCube Module settings set your VBA-M executable and VBA Bios file path on the VBALink tab.
+					; On RocketLaunchUI, dolphin, GameCube, Game name Module Settings enable VBA Link
+					; If your Game Boy Advanced Windows appear frozen after the RocketLauncher fade screen loads, increase the value of the VBADelay on GameCube, VBALink settings. Default value is 500 milliseconds.
+					; A game with one VBA window will use a two screens bezel file, Bezel [2S].png, the first screen for the GameCube game and the second one for the VBA screen. Two VBAs = Bezel [3S].png, again first screen for the GameCube game and second and third for the VBA screens, and so on.
 					;----------------------------------------------------------------------------
 					StartModule()
-					BezelGUI()
+					BezelGui()
 					FadeInStart()
 					
-					primaryExe := new Emulator(emuPath . "\" . executable)				; instantiate emulator executable object
-					emuPrimaryWindow := new Window(new WindowTitle("","wxWindowNR"),"","","PCSX2")	; instantiate primary emulator window object
-					emuGUIWindow := new Window(new WindowTitle("PCSX2","wxWindowNR"))
-					emuLoadingWindow := new Window(new WindowTitle("Speed","wxWindowNR"),"","PCSX2")
-					emuBootingWindow := new Window(new WindowTitle("Booting","wxWindowNR"))
+					primaryExe := new Emulator(emuPath . "\" . executable)			; instantiate emulator executable object
 					
 					Fullscreen := moduleIni.Read("Settings", "Fullscreen","true","",1)
-					AspectRatio := moduleIni.Read(romName . "|Settings", "AspectRatio","4:3","",1)
-					noGUI := moduleIni.Read("Settings", "noGUI","false","",1)	; disables display of the gui while running games
-					perGameMemCards := moduleIni.Read("Settings", "PerGameMemoryCards","false","",1)
-					hideConsole := moduleIni.Read("Settings", "HideConsole","true","",1)	; Hides console window from view if it shows up
-					cfgPath := moduleIni.Read("Settings", "cfgpath", emuPath . "\Game Configs","",1)	; specifies the config folder; applies to pcsx2 + plugins
-					autoCreateINIDir := moduleIni.Read("Settings", "AutoCreateINIDir","false","",1)  ; Enables the module to auto-create of per game ini files and directories
-					defaultINISPath := moduleIni.Read("Settings", "DefaultINISPath","","",1)  ; Path to default INIS folder of PCSX2.
-					fullboot := moduleIni.Read(romName . "|Settings", "fullboot","false","",1)	; disables the quick boot feature, forcing you to sit through the PS2 startup splash screens
-					gs := moduleIni.Read(romName . "|Settings", "gs","","",1)	; override for the GS plugin
-					pad := moduleIni.Read(romName . "|Settings", "pad","","",1)	; override for the PAD plugin
-					spu2 := moduleIni.Read(romName . "|Settings", "spu2","","",1)	; override for the SPU2 plugin
-					cdvd := moduleIni.Read(romName, "cdvd","","",1)	; override for the CDVD plugin
-					usb := moduleIni.Read(romName . "|Settings", "usb","","",1)	; override for the USB plugin
-					fw := moduleIni.Read(romName . "|Settings", "fw","","",1)	; override for the FW plugin
-					dev9 := moduleIni.Read(romName . "|Settings", "dev9","","",1)	; override for the DEV9 plugin
-					vdOveride := moduleIni.Read(romName, "VDOveride","","",1)
-					nohacks := moduleIni.Read(romName, "nohacks","false","",1)	; disables all speedhacks
-					gamefixes := moduleIni.Read(romName, "gamefixes","","",1)	; Enable specific gamefixes for this session. Use the specified comma or pipe-delimited list of gamefixes: VuAddSub,VuClipFlag,FpuCompare,FpuMul,FpuNeg,EETiming,SkipMpeg,OPHFlag,DMABusy,VIFFIFO,VI,FMVinSoftware
+					UseCustomWiimoteProfiles := moduleIni.Read("Settings", "UseCustomWiimoteProfiles","false","",1)	; set to true if you want to setup custom Wiimote profiles for games
+					UseCustomGCPadProfiles := moduleIni.Read("Settings", "UseCustomGCPadProfiles","false","",1)	; set to true if you want to setup custom GCPad profiles for games
+					HideMouse := moduleIni.Read("Settings", "HideMouse","true","",1)					; hides mouse cursor in the emu options
+					RefreshKey := moduleIni.Read("Settings", "RefreshKey","","",1)						; hotkey to "Refresh" Wiimotes, delete the key to disable it
+					Timeout := moduleIni.Read("Settings", "Timeout","5","",1)							; amount in seconds we should wait for the above hotkeys to timeout
+					renderToMain := moduleIni.Read("Settings", "Render_To_Main","false","",1)
+					enableNetworkPlay := moduleIni.Read("Network", "Enable_Network_Play","false","",1)
 					
-					; GS plugin settings, primarily to fix upscaling issues in games. Game specific settings can be found here: http://www.neogaf.com/forum/showpost.php?p=27110555&postcount=2
-					userHacks_MSAA := If moduleIni.Read(romName, "MSAA",0,"",1)	; Applies hardware anti-aliasing
-					userHacks_SkipDraw := moduleIni.Read(romName, "Skipdraw",0,"",1)	; Can remove ghost images
-					userHacks_HalfPixelOffset := If moduleIni.Read(romName, "Half-pixel_Offset",0,"",1)	; Fixes blur or halo effects
-					userHacks_WildHack := If moduleIni.Read(romName, "Wild_Arms_Offset",0,"",1)	; Fixes fonts in many games
-					userHacks_unsafe_fbmask := If moduleIni.Read(romName, "Fast_Accurate_Blending",0,"",1)	; Accelerates blending operations, speeds up Xenosaga
-					userHacks_AlphaStencil := If moduleIni.Read(romName, "Alpha_Stencil",0,"",1)	; May improve drawing shadows
-					userHacks_align_sprite_X := If moduleIni.Read(romName, "Align_Sprite",0,"",1)	; Fixes issues with vertical lines in Ace Combat, Tekken, Soul Calibur
-					userHacks_AlphaHack := If moduleIni.Read(romName, "Alpha",0,"",1)	; Improves drawing fog-like effects
-					preload_frame_with_gs_data := If moduleIni.Read(romName, "Preload_Data_Frame",0,"",1)	; Fixes black screen issues in Armored Core: Last Raven
-					userHacks_round_sprite_offset := moduleIni.Read(romName, "Round_Sprite",0,"",1)	; Fixes lines in sprites in Ar tonelico
-					userHacks_SpriteHack := moduleIni.Read(romName, "Sprite",0,"",1)	; Fixes inner lines in sprites in Mana Khemia, Ar tonelico, Tales of Destiny
-					userHacks_TCOffset := moduleIni.Read(romName, "TC_Offset",0,"",1)	; Fixes misaligned textures in Persona 3, Haunting Ground, Xenosaga
-					; Set the userHacks variable to 1 if any of the hacks are used.
-					userHacks := If (userHacks_MSAA || userHacks_SkipDraw || userHacks_HalfPixelOffset || userHacks_WildHack || userHacks_unsafe_fbmask || userHacks_AlphaStencil || userHacks_align_sprite_X || userHacks_AlphaHack || preload_frame_with_gs_data || userHacks_round_sprite_offset || userHacks_SpriteHack || userHacks_TCOffset) ? 1 : ""
+					;options to Gamecube and VBA Link
+					enableVBALink := moduleIni.Read(romName, "enableVBALink", "false","",1)
+					VBAExePath := moduleIni.Read("VBA Link", "VBAExePath","","",1)
+					VBABiosPath := moduleIni.Read("VBA Link", "VBABiosPath","","",1)
+					VBADelay := moduleIni.Read("VBA Link", "VBADelay", 500,"",1)
 					
-					cfgPath := new Folder(GetFullName(cfgPath))
-					If !cfgPath.Exist()
-						cfgPath.CreateDir()	; create the cfg folder if it does not exist
-					
-					; PCSX2_ui.ini = default ini that contains memory card info and general settings
-					portableIni := new File(emuPath . "\portable.ini")
-					If portableIni.Exist() {	; portable install
-						RLLog.Info("Module - PCSX2 is operating in a portable mode")
-						pcsx2IniFolder := emuPath . "\inis"
-						pcsx2_GS_IniFile := CheckFile(emuPath . "\inis\GSdx.ini", "Could not find the default GSdx.ini file. Please manually run and configure PCSX2 first so this file is created with all your default settings.")
-					} Else {	; default not portable install
-						RLLog.Info("Module - PCSX2 is operating in a standard installation mode")
-						pcsx2IniFolder := Registry.Read("HKCU", "Software\PCSX2", "SettingsFolder")
+					If (renderToMain = "true") {
+						emuPrimaryWindow := new Window(new WindowTitle("Dolphin","wxWindowNR"))	; instantiate primary emulator window object
+						emuGameWindow := emuPrimaryWindow
+					} Else {
+						emuPrimaryWindow := new Window(new WindowTitle("Dolphin","wxWindowNR"))	; instantiate primary emulator window object
+						emuPrimaryWindow.ExcludeTitle := "FPS"	; when main window doesn't have the game, FPS will not be on the title bar
+						emuGameWindow := new Window(new WindowTitle("FPS","wxWindowNR"))
 					}
-					pcsx2Ini := new IniFile(pcsx2IniFolder . "\PCSX2_ui.ini")
-					pcsx2Ini.CheckFile("Could not find the default PCSX2_ui.ini file. Please manually run and configure PCSX2 first so this file is created with all your default settings.")
-					pcsx2GSdxIni := new IniFile(pcsx2IniFolder . "\GSdx.ini")
-					pcsx2GSdxIni.CheckFile("Could not find the default GSdx.ini file. Please manually run and configure PCSX2 first so this file is created with all your default settings.")
-					pcsx2IniFolder := new Folder(pcsx2IniFolder)
+					emuPrimaryWindow := new Window(new WindowTitle("Dolphin","wxWindowNR"))	; instantiate primary emulator window object
+					emuGameWindow := If renderToMain = "true" ? emuPrimaryWindow : new Window(new WindowTitle("FPS","wxWindowNR"))	; Older dolphins used "FPS ahk_class wxWindowClassNR"
+					emuScanningWindow := new Window(new WindowTitle("Scanning for ISOs","#32770"))
+					emuNetPlaySetupWindow := new Window(new WindowTitle("Dolphin NetPlay Setup","wxWindowNR"))
+					emuNetPlayWindow := new Window(new WindowTitle("Dolphin NetPlay","wxWindowNR"))
+					emuWiimoteWindow := new Window(new WindowTitle("Dolphin Controller Configuration","#32770"))
+					emuOpenROMWindow := new Window(new WindowTitle("Select","#32770"))
+					emuErrorWindow1 := new Window(new WindowTitle("Warning","#32770"))
+					emuErrorWindow2 := new Window(new WindowTitle("Error","#32770"))
+					emuWiimoteWindow.CreateControl("OK")
 					
-					; Create INIs subfolder for the game if it does not exist and if AutoCreateINIDir is true
-					perGameINIPath := new Folder(cfgPath.FileFullPath . "\" . romName)
-					If (autoCreateINIDir = "true") {
-						RLLog.Info("Module - PerGameIni - perGameINIPath = " . perGameINIPath.FileFullPath)
-						If !perGameINIPath.Exist() {
-							perGameINIPath.CreateDir()
-							If (defaultINISPath != "") {
-								defaultINISPath := new Folder(defaultINISPath)
-								RLLog.Info("Module - PerGameIni - perGameINIPath does not exist.  So we will create it at " . perGameINIPath.FileFullPath)
-								RLLog.Info("Module - PerGameIni - Now copying the ini files from " . defaultINISPath.FileFullPath . " to " . perGameINIPath.FileFullPath)
-								defaultINISPath.Copy(perGameINIPath.FileFullPath,0,"\*.ini")
-							} Else {
-								RLLog.Info("Module - PerGameIni - perGameINIPath does not exist.  So we will create it at " . perGameINIPath.FileFullPath)
-								RLLog.Info("Module - PerGameIni - Now copying the ini files from " . pcsx2IniFolder.FileFullPath . " to " . perGameINIPath.FileFullPath)
-								pcsx2IniFolder.Copy(perGameINIPath.FileFullPath,0,"\*.ini")
+					; Determine where Dolphin is storing its ini, this will act as the base folder for settings and profiles related to this emu
+					dolphinININewPath := new File(A_MyDocuments . "\Dolphin Emulator\Config\Dolphin.ini")	; location of Dolphin.ini for v4.0+
+					dolphinINIOldPath := new File(emuPath . "\User\Config\Dolphin.ini")	; location of Dolphin.ini prior to v4.0
+					portableTxtFile := new File(emuPath . "\portable.txt")
+					If (!portableTxtFile.Exist() && dolphinININewPath.Exist())
+					{	dolphinBasePath := A_MyDocuments . "\Dolphin Emulator"
+						RLLog.Info("Module - Dolphin's base settings folder is not portable and found in: " . dolphinBasePath)
+					} Else If (portableTxtFile.Exist() || dolphinINIOldPath.Exist())
+					{	dolphinBasePath := emuPath . "\User"
+						RLLog.Info("Module - Dolphin's base settings folder is portable and found in: " . dolphinBasePath)
+					} Else
+						ScriptError("Could not find your Dolphin.ini in either of these folders. Please run Dolphin manually first to create it.`n" . dolphinINIOldPath.FileFullPath . "`n" . dolphinININewPath.FileFullPath)
+					dolphinINI := new IniFile(dolphinBasePath . "\Config\Dolphin.ini")
+					
+					If (enableVBALink = "true"){
+						VBAExePath := AbsoluteFromRelative(EmuPath, VBAExePath)
+						VBABiosPath := AbsoluteFromRelative(EmuPath, VBABiosPath)
+						StringUtils.SplitPath(VBAExePath, VBAFile, VBAPath)
+						SelectedNumberofPlayers := NumberOfPlayersSelectionMenu(4)
+						If (SelectedNumberofPlayers = 1) {
+							enableVBALink := "false"
+						} Else {
+							; backup original ini
+							dolphinINIBackup := new File(dolphinBasePath . "\Config\Dolphin_Backup.ini")
+							dolphinINI.Copy(dolphinINIBackup.FileFullPath)
+							Loop, % SelectedNumberofPlayers
+							{ 	tempCount := A_Index-1
+								dolphinINI.Write(5, "Controls", PadType%tempCount%)
 							}
 						}
 					}
 					
-					BezelStart()
+					If (enableVBALink = "true")
+						BezelStart(SelectedNumberofPlayers+1)
+					Else
+						BezelStart()
 					
-					Fullscreen := If Fullscreen = "true" ? " --fullscreen" : ""
-					noGUI := If noGUI = "true" ? " --nogui" : ""
-					If (noGUI != "")
-						RLLog.Warning("Module - noGUI is set to true, THIS MAY PREVENT PCSX2 FROM CLOSING PROPERLY. If you have any issues, set it to false or default in RocketLauncherUI.")
-					fullboot := If fullboot = "true" ? " --fullboot" : ""
-					nohacks := If nohacks = "true" ? " --nohacks" : ""
-					gamefixes := If gamefixes ? " --gamefixes=" . gamefixes : ""
-					gs := If gs ? " --gs=""" . GetFullName(gs) . """" : ""
-					pad := If pad ? " --pad=""" . GetFullName(pad) . """" : ""
-					spu2 := If spu2 ? " --spu2=""" . GetFullName(spu2) . """" : ""
-					usb := If usb ? " --usb=""" . GetFullName(usb) . """" : ""
-					fw := If fw ? " --fw=""" . GetFullName(fw) . """" : ""
-					dev9 := If dev9 ? " --dev9=""" . GetFullName(dev9) . """" : ""
+					If (enableVBALink = "true" and !bezelPath)   ; disabling fullscreen if VBA Link mode
+						Fullscreen := "false"
 					
-					; cfgRomPath := new File(cfgPath . "\" . romName)
-					cfgPathCLI := If perGameINIPath.Exist() ? " --cfgpath=""" . perGameINIPath.FileFullPath . """" : ""
-					
-					; Specify what main ini PCSX2 should use
-					pcsx2GameIni := new File(perGameINIPath.FileFullPath . "\PCSX2_ui.ini")
-					If (cfgPathCLI && pcsx2GameIni.Exist()) {
-						;We can't set both cfgpath and cfg CLI switches, so if only PCSX2_ui.ini file exists we use cfg otherwise we use cfgpath
-						;--cfg specifies a custom configuration file to use instead of PCSX2.ini (does not affect plugins)
-						filecount := 0 
-						Loop % perGameINIPath.FileFullPath . "\*.ini"
-							filecount++
-						If (filecount = 1)
-						{
-							;Only PCSX2_ui.ini found
-							pcsx2IniFile := pcsx2GameIni
-							RLLog.Info("Module - Found a game-specific PCSX2_ui.ini in the cfgPath. Telling PCSX2 to use this one instead: " . pcsx2IniFile.FileFullPath)
-							cfg := " --cfg=""" . pcsx2IniFile.FileFullPath . """"
-							cfgPathCLI := ""
-						}
-					}
-					RLLog.Info("Module - " . (If cfgPathCLI != "" ? "Setting PCSX2's config path to """ . perGameINIPath.FileFullPath . """" : "Using PCSX2's default configuration folder: """ . pcsx2IniFolder.FileFullPath . """"))
-					
-					; Update the aspect ratio if the user selected one.
-					If AspectRatio {
-					    pcsx2Ini.Write(AspectRatio, "GSWindow", "AspectRatio")	; Write the aspect ratio value to the pcsx2Ini.
+					If (renderToMain = "true" && (enableVBALink = "true" || bezelEnabled = "true")) {   ; disabling toolbar and statusbar if bezels or vba link is used as it will show when rendering to the main window
+						dolphinINI.Write("False", "Interface", "ShowToolbar")
+						dolphinINI.Write("False", "Interface", "ShowStatusbar")
 					}
 					
-					; Update the GS plugin settings if hacks were selected.
-					If userHacks {
-						RLLog.Info("Module - UserHacks are being used. Updating GSdx.ini")
-						pcsx2GSdxIni.Write(userHacks, "Settings", "UserHacks")
-						pcsx2GSdxIni.Write(userHacks_MSAA, "Settings", "UserHacks_MSAA")
-						pcsx2GSdxIni.Write(userHacks_SkipDraw, "Settings", "UserHacks_SkipDraw")
-						pcsx2GSdxIni.Write(userHacks_HalfPixelOffset, "Settings", "UserHacks_HalfPixelOffset")
-						pcsx2GSdxIni.Write(userHacks_WildHack, "Settings", "UserHacks_WildHack")
-						pcsx2GSdxIni.Write(userHacks_unsafe_fbmask, "Settings", "UserHacks_unsafe_fbmask")
-						pcsx2GSdxIni.Write(userHacks_AlphaStencil, "Settings", "UserHacks_AlphaStencil")
-						pcsx2GSdxIni.Write(userHacks_align_sprite_X, "Settings", "UserHacks_align_sprite_X")
-						pcsx2GSdxIni.Write(userHacks_AlphaHack, "Settings", "UserHacks_AlphaHack")
-						pcsx2GSdxIni.Write(preload_frame_with_gs_data, "Settings", "preload_frame_with_gs_data")
-						pcsx2GSdxIni.Write(userHacks_round_sprite_offset, "Settings", "UserHacks_round_sprite_offset")
-						pcsx2GSdxIni.Write(userHacks_SpriteHack, "Settings", "UserHacks_SpriteHack")
-						pcsx2GSdxIni.Write(userHacks_TCOffset, "Settings", "UserHacks_TCOffset")
-					} Else {
-						; Make sure hacks are disabled.
-						pcsx2GSdxIni.Write(UserHacks, "Settings", "UserHacks")
+					If (renderToMain = "true")
+						hideEmuObj := Object(emuScanningWindow,0,emuNetPlayWindow,0,emuNetPlaySetupWindow,0,emuErrorWindow1,0,emuErrorWindow2,0,emuGameWindow,1)
+					Else
+						hideEmuObj := Object(emuScanningWindow,0,emuNetPlayWindow,0,emuNetPlaySetupWindow,0,emuErrorWindow1,0,emuErrorWindow2,0,emuPrimaryWindow,0,emuGameWindow,1)
+					
+					7z(romPath, romName, romExtension, sevenZExtractPath)
+					
+					If StringUtils.Contains(romExtension,"\.zip|\.7z|\.rar")
+						ScriptError(MEmu . " does not support compressed roms. Please enable 7z support in RocketLauncherUI to use this module/emu.")
+					
+					If RefreshKey {
+						RefreshKey := xHotKeyVarEdit(RefreshKey,"RefreshKey","~","Add")
+						xHotKeywrapper(RefreshKey,"RefreshWiimote")
 					}
 					
-					; Memory Cards
-					If (perGameMemCards = "true")
-					{	currentMemCard1 := pcsx2Ini.Read("MemoryCards", "Slot1_Filename")
-						memCardPath := pcsx2Ini.Read("Folders", "MemoryCards")	; folder where memory cards are stored
-						memCardPathLeft := StringUtils.SubStr(memCardPath,1,3)	; get left 3 characters
-						memCardPathIsAbsolute := If (StringUtils.RegExMatch(memCardPathLeft, "[a-zA-Z]:\\") && (StringUtils.StringLength(memCardPath) >= 3))	; this is 1 only when path looks like this "C:\"
-						memCardPath := If memCardPathIsAbsolute ? memCardPath : emuPath . "\" . memCardPath	; if only a folder name is defined for the memory card path, tack on the emuPath to find the memory cards, otherwise leave the full path as is
-						defaultMemCard := new File(memCardPath . "\default.ps2")	; defining default blank memory card for slot 1
-						RLLog.Info("Module - Default memory card for Slot 1 should be: " . defaultMemCard.FileFullPath)
-						romMemCard1 := new File(memCardPath . "\" . romName . ".ps2")	; defining name for rom's memory card for slot 1
-						RLLog.Info("Module - Rom memory card for Slot 1 should be: " . romMemCard1.FileFullPath)
-						RLLog.Info("Module - Current memory card inserted in PCSX2's ini in Slot 1 is: " . currentMemCard1.FileFullPath)
+					Fullscreen := If Fullscreen = "true" ? "True" : "False"
+					HideMouse := If HideMouse = "true" ? "True" : "False"
 					
-						If (currentMemCard1 != romName . ".ps2") {	; if current memory card in slot 1 does not match this romName, switch to one that does if exist or load a default one
-							If !romMemCard1.Exist()	; first check if romName.ps2 memory card exists
-								If !defaultMemCard.Exist()
-									RLLog.Error("Module - A default memory card for Slot 1 was not found in """ . memCardPath . """. Please create an empty memory card called ""default.ps2"" in this folder for per-game memory card support.")
-								Else {
-									defaultMemCard.Copy(romMemCard1.FileFullPath)	; create a new blank memory card for this game
-									RLLog.Info("Module - Creating a new blank memory card for this game in Slot 1: " . romMemCard1.FileFullPath)
+					networkSession := ""
+					If (enableNetworkPlay = "true") {
+						RLLog.Info("Module - Network Multi-Player is an available option for " . dbName)
+						dolphinNickname := dolphinINI.Read("NetPlay", "Nickname")
+						dolphinAddress := dolphinINI.Read("NetPlay", "Address")
+						dolphinCPort := dolphinINI.Read("NetPlay", "ConnectPort")
+						dolphinHPort := dolphinINI.Read("NetPlay", "HostPort")
+						netplayNickname := moduleIni.Read("Network", "NetPlay_Nickname","Player","",1)
+						getWANIP := moduleIni.Read("Network", "Get_WAN_IP","false","",1)
+						networkPlayers := 4	; Max amount of networkable players
+					
+						If (getWANIP = "true")
+							myPublicIP := GetPublicIP()
+					
+						defaultServerIP := moduleIni.Read("Network", "Default_Server_IP", myPublicIP,"",1)
+						defaultServerPort := moduleIni.Read("Network", "Default_Server_Port","","",1)
+						lastIP := moduleIni.Read("Network", "Last_IP", defaultServerIP,"",1)	; does not need to be on the ISD
+						lastPort := moduleIni.Read("Network", "Last_Port", defaultServerPort,"",1)	; does not need to be on the ISD
+					
+						If (netplayNickname != dolphinNickname)
+							dolphinINI.Write(netplayNickname, "NetPlay", "Nickname")
+					
+						MultiplayerMenu(lastIP,lastPort,networkType,networkPlayers,0)
+						If networkSession {
+							RLLog.Info("Module - Using a Network for " . dbName)
+					
+							restoreIniObject := Object()	; initialize object
+							currentObj := ""
+							dolphinConfigPath := dolphinBasePath . "\Config"
+							Loop, % dolphinConfigPath . "\*.ini"
+							{
+								If StringUtils.InStr(A_LoopFileName, "_netplay.ini","","","",0) {
+									RLLog.Info("Module - Found a network specific ini: " . A_LoopFileFullPath)
+									networkIni%A_Index%File := new File(A_LoopFileFullPath)
+									originalIni%A_Index%File := new File(StringUtils.RegExReplace(A_LoopFileFullPath, "_netplay","","",-1,15))
+									backupIni%A_Index%File := new File(originalIni%A_Index%File.FileFullPath . ".backup")
+									originalIni%A_Index%File.Move(backupIni%A_Index%File,1)	; backup original ini
+									networkIni%A_Index%File.Copy(originalIni%A_Index%File)	; copy network ini to original name
 								}
-							pcsx2Ini.Write(romName . ".ps2", "MemoryCards", "Slot1_Filename")	; update the ini to use this rom's card
-							RLLog.Info("Module - Switched memory card in Slot 1 to: " . romMemCard1.FileFullPath)
-						}
+							}
+							
+							moduleIni.Write(lastPort, "GlobalModuleIni", "Network", "Last_Port")
+					
+							If (networkType = "client") {
+								moduleIni.Write(lastIP, "GlobalModuleIni", "Network", "Last_IP")	; Save last used IP and Port for quicker launching next time
+								dolphinINI.Write(lastIP, "Network", "Address")
+								dolphinINI.Write(lastPort, "Network", "ConnectPort")
+							} Else	; server
+								dolphinINI.Write(lastPort, "Network", "HostPort")
+					
+							dolphinINI.Write(romPath, "Network", "ISOPath0")	; makes browser only show the one game we want to play
+							dolphinINI.Write(1, "General", "ISOPaths")	; makes browser only show the first path set
+							dolphinINI.Write(romPath . "\" . romName . romExtension, "General", "LastFilename")
+							RLLog.Info("Module - Starting a network session using the IP """ . networkIP . """ and PORT """ . networkPort . """")
+						} Else
+							RLLog.Info("Module - User chose Single Player mode for this session")
 					}
 					
-					hideEmuObj := Object(emuBootingWindow,0,emuGUIWindow,0,emuPrimaryWindow,1)
-					7z(romPath, romName, romExtension, SevenZExtractPath)
+					gcSerialPort := 5	; this puts the BBA network adapter into the serial port. If previous launch was Triforce, AM-Baseboard would be set here and would result in Unknown DVD command errors
 					
-					pcsx2Ini := LoadProperties(pcsx2IniFile.FileFullPath)	; load the config into memory
-					dvdSource := ReadProperty(pcsx2Ini,"CdvdSource")	; read value
+					; Compare existing settings and if different than desired, write them to the emulator's ini
+					dolphinINI.Write(Fullscreen, "Display", "Fullscreen", 1)
+					dolphinINI.Write(renderToMain, "Display", "RenderToMain", 1)
+					dolphinINI.Write(HideMouse, "Interface", "HideCursor", 1)
+					dolphinINI.Write("False", "Interface", "ConfirmStop", 1)
+					dolphinINI.Write("False", "Interface", "UsePanicHandlers", 1)
+					dolphinINI.Write(gcSerialPort, "Core", "SerialPort1", 1)
 					
-					If (vdEnabled != "true" && romExtension = ".cue") {
-						RLLog.Warning("Module - Virtual Drive is disabled but you supplied a .cue as your rom which is not supported by PCSX2")
-						pcsx2GameBin := new File(romPath . "\" . romName . ".bin")
-						pcsx2GameIso := new File(romPath . "\" . romName . ".iso")
-						If pcsx2GameBin.Exist() {
-							romExtension := ".bin"
-							RLLog.Warning("Module - Found a .bin file with the same name as your cue, using it instead. Please change the order of your rom extensions if you want bins to be found first.")
-						} Else If pcsx2GameIso.Exist() {
-							romExtension := ".iso"
-							RLLog.Warning("Module - Found a .iso file with the same name as your cue, using it instead. Please change the order of your rom extensions if you want isos to be found first.")
-						}
-					}
+					 ; Load default or user specified Wiimote or GCPad profiles for launching
+					If (StringUtils.InStr(systemName, "wii") && UseCustomWiimoteProfiles = "true")
+						ChangeDolphinProfile("Wiimote")
+					If (UseCustomGCPadProfiles = "true")
+						ChangeDolphinProfile("GCPad")
 					
-					; Mount the CD using a Virtual Drive
-					If vdOveride	; this allows per-game Virtual Drive support because some games boot to black when Virtual Drive is enabled
-						vdEnabled := vdOveride
-					If (vdEnabled = "true" && StringUtils.Contains(romExtension,"\.mds|\.mdx|\.b5t|\.b6t|\.bwt|\.ccd|\.cue|\.isz|\.nrg|\.cdi|\.iso|\.ape|\.flac")) {	; if Virtual Drive is enabled and using an image type Virtual Drive can load
-						If !cdvd {
-							vdCDVDPlugin := moduleIni.Read("Settings", "VD_CDVD_Plugin","","",1)
-							If vdCDVDPlugin
-								cdvd := vdCDVDPlugin
-						}
-						cdvd := If cdvd ? " --cdvd=""" . GetFullName(cdvd) . """" : ""
-						If (dvdSource != "Plugin")
-						{	RLLog.Info("Module - CdvdSource was not set to ""Plugin"", changing it so PCSX2 can read from Virtual Drive.")
-							WriteProperty(pcsx2Ini,"CdvdSource","Plugin")	; write a new value to the pcsx2IniFile
-							SaveProperties(pcsx2IniFile.FileFullPath,pcsx2Ini)	; save pcsx2IniFile to disk
-						}
-						
-						pcsx2cdvdIni := new IniFile(pcsx2IniFolder . "\cdvdGigaherz.ini")
-						dvdDrive := pcsx2cdvdIni.Read("Config", "Source")	; cdvd drive
-						If StringUtils.InStr(dvdDrive,"@") {
-							If (vdDriveLetter != "")
-								pcsx2cdvdIni.Write(vdDriveLetter, "Config", "Source")
+					HideAppStart(hideEmuObj,hideEmu)
+					
+					If networkSession
+						primaryExe.Run()	; must be launched w/o /b for browser list to work
+					Else
+						primaryExe.Run(" /b /e """ . romPath . "\" . romName . romExtension . """")	; /b = batch (exit dolphin with emu), /e = load file
+					
+					emuGameWindow.Wait()
+					emuGameWindow.Get("ID")
+					emuGameWindow.WaitActive()
+					
+					If networkSession {
+						RLLog.Info("Module - Opening NetPlay window")
+					
+						; Get the 6-letter ID of the game
+						If (romExtension = ".wbfs")
+							gameID := RLObject.readFileData(romPath . "\" . romName . romExtension,512,6,"UTF8")
+						Else If (romExtension = ".iso")
+							gameID := RLObject.readFileData(romPath . "\" . romName . romExtension,0,6,"UTF8")
+						Else If (romExtension = ".ciso")
+							gameID := RLObject.readFileData(romPath . "\" . romName . romExtension,32768,6,"UTF8")
+					
+						; Must wait for Dolphin to finish scanning isos before netplay window can be opened so the game list is populated. Opening too early and the game list will be blank or partially filled.
+						If emuScanningWindow.Exist()
+							emuScanningWindow.WaitClose(60)	; wait 60 seconds max. hopefully doesn't take longer than that to scan your isos...
+						Else {
+							errlvl := emuScanningWindow.Wait(5)	; wait 5 seconds max to appear
+							If errlvl
+								RLLog.Info("Module - Timed out waiting for ""Scanning for ISOs"" window to appear. It may have finished before it could be detected, moving on.")
 							Else
-								ScriptError("You are using a Virtual Drive but have not selected the drive you want to use in PCSX2 CDVD Plugin settings. Select your drive first, either in RLUI Virtual Drive Third Party Settings or within the PCSX2's plugin settings, then try launching again.")
-						} Else If (dvdDrive != vdDriveLetter) {
-							RLLog.Warning("Module - PCSX2 is set to use drive """ . dvdDrive . """ but RocketLauncher is set to use """ . vdDriveLetter . """. Ignore this warning if this is expected.")
+								RLLog.Info("Module - ""Scanning for ISOs"" window found.")
 						}
-						VirtualDrive("mount",romPath . "\" . romName . romExtension)
-						HideAppStart(hideEmuObj,hideEmu)
-						errLvl := primaryExe.Run(" --usecd" . noGUI . Fullscreen . fullboot . nohacks . gamefixes . cfg . cfgPathCLI . gs . pad . spu2 . cdvd . usb . fw . dev9, "UseErrorLevel")
-						usedVD := 1	; tell the rest of the script to use VD methods
-					} Else If StringUtils.Contains(romExtension,"\.iso|\.mdf|\.nrg|\.bin|\.img|\.gz|\.cso|\.dump")	; the only formats PCSX2 supports loading directly
-					{
-						If !cdvd {
-							imageCDVDPlugin := moduleIni.Read("Settings", "Image_CDVD_Plugin","","",1)
-							If imageCDVDPlugin
-								cdvd := imageCDVDPlugin
-						}
-						cdvd := If cdvd ? " --cdvd=""" . GetFullName(cdvd) . """" : ""
-						If (dvdSource != "Iso")
-						{	RLLog.Info("Module - CdvdSource was not set to ""Iso"", changing it so PCSX2 can launch this " . romExtension . " image directly")
-							WriteProperty(pcsx2Ini,"CdvdSource","Iso")	; write a new value to the pcsx2IniFile
-							SaveProperties(pcsx2IniFile.FileFullPath,pcsx2Ini)	; save pcsx2IniFile to disk
-						}
-						HideAppStart(hideEmuObj,hideEmu)
-						errLvl := primaryExe.Run(" """ . romPath . "\" . romName . romExtension . """ " . noGUI . Fullscreen . fullboot . nohacks . gamefixes . cfg . cfgPathCLI . gs . pad . spu2 . cdvd . usb . fw . dev9, "UseErrorLevel")
-					} Else If StringUtils.Contains(romExtension,"\.bz2")	; special case format that requires plugin mode and pcsx2 loads it directly
-					{
-						If !cdvd {
-							linuzCDVDPlugin := moduleIni.Read("Settings", "Linuz_CDVD_Plugin","","",1)
-							If linuzCDVDPlugin
-								cdvd := linuzCDVDPlugin
-						}
-						cdvd := If cdvd ? " --cdvd=""" . GetFullName(cdvd) . """" : ""
-						If (dvdSource != "plugin")
-						{	RLLog.Info("Module - CdvdSource was not set to ""Plugin"", changing it so PCSX2 can launch this " . romExtension . " image directly")
-							WriteProperty(pcsx2Ini,"CdvdSource","Plugin")	; write a new value to the pcsx2IniFile
-							SaveProperties(pcsx2IniFile.FileFullPath,pcsx2Ini)	; save pcsx2IniFile to disk
-						}
-						oldHex := Registry.Read("HKEY_CURRENT_USER", "Software\PS2Eplugin\CDVD\CDVDiso", "IsoFile")	; read last used bz2 image
-						newHex := StringUtils.StringToHex(romPath . "\" . romName . romExtension)	; convert new bz2 image path to hex
-						i := 512 - StringUtils.StringLength(newHex)	; get total amount of 0's to add to end of hex to make it 512 bytes
-						Loop % i
-							newHex := newHex . "0"	; add required bytes to end
-						If (oldHex != newHex) {
-							RLLog.Info("Module - Writing new bz2 path to registry")
-							Registry.Write("REG_BINARY", "HKEY_CURRENT_USER", "Software\PS2Eplugin\CDVD\CDVDiso", "IsoFile", newHex)	; write new bz2 path to registry
-						}
-						HideAppStart(hideEmuObj,hideEmu)
-						errLvl := primaryExe.Run(" """ . romPath . "\" . romName . romExtension . """ " . noGUI . Fullscreen . fullboot . nohacks . gamefixes . cfg . cfgPathCLI . gs . pad . spu2 . cdvd . usb . fw . dev9, "UseErrorLevel")
-					} Else
-						ScriptError("You are trying to run a rom type of """ . romExtension . """ but PCSX2 only supports loading iso|mdf|nrg|bin|img|gz directly. Please turn on Virtual Drive and/or 7z support or put ""cue"" last in your rom extensions for " . MEmu . " instead.")
-					 
-					If errLvl
-						ScriptError("Error launching emulator, closing script.")
+						emuPrimaryWindow.MenuSelectItem("Tools", "Start NetPlay")
+						matchMode := A_TitleMatchMode	; store for restoration later
+						MiscUtils.SetTitleMatchMode(3)	; changes match mode so title must match exactly
+						emuNetPlaySetupWindow.Wait()
+						emuNetPlaySetupWindow.WaitActive()
+						emuNetPlayWindow.ExcludeTitle := emuNetPlaySetupWindow.WinTitle.GetWIndowTitle()		; set emuNetPlayWindow exclude title for the below command
+						If (networkType = "client") {
+							RLLog.Info("Module - Clicking Connect button")
 					
-					emuPrimaryWindow.Wait()
-					emuPrimaryWindow.WaitActive()
+							emuNetPlaySetupWindow.CreateControl("Button1")		; instantiate new control for button1
+							emuErrorWindow1.CreateControl("Button1")
+							emuErrorWindow2.CreateControl("Button1")
+					
+							While !breakLoops {
+								emuNetPlaySetupWindow.GetControl("button1").Click()	; click connect button
+								RLLog.Info("Module - Waiting for Host to start game")
+								errlvl := emuNetPlayWindow.Wait(2)	; waits 2 seconds
+								If errlvl {	; 1 if timed out, now check for any error windows and close them
+									Loop, 2		; loop through both error windows
+										If emuErrorWindow%A_Index%.Exist()	; error windows that can appear when host is not running yet
+											emuErrorWindow%A_Index%.GetControl("button1").Click()	; click ok to clear the error
+									RLLog.Info("Module - Host not running yet, trying again")
+									Continue
+								} Else {	; window exists
+									RLLog.Info("Module - Connected to host, waiting for host to start game")
+									Break
+								}
+							}
+						} Else {	; server
+							emuNetPlayWindow.CreateControl("ListBox1")	; create a control called ListBox1
+							emuNetPlayWindow.CreateControl("Button8")	; create a control called Button8 (the Host's Start button)
+							emuNetPlaySetupWindow.CreateControl("ListBox1")	; create a control called ListBox1
+							emuNetPlaySetupWindow.CreateControl("Button3")	; create a control called Button3 (the Host button)
+							emuNetPlaySetupWindow.GetControl("ListBox1").Get("List")	; Get the text from the ListBox
+							loopList := emuNetPlaySetupWindow.GetControl("ListBox1").List	; can't use this object directly on the Parse Loop below
+							Loop, Parse, loopList, `n
+							{
+								If StringUtils.InStr(A_Loopfield, gameID,"","","",0) {
+									idLocation := A_Index	; record the location in the ListBox of our game
+									RLLog.Info("Module - Game list shows """ . A_LoopField . """ as item " . A_Index)	; logging each items in ListBox
+								}
+							}
+							If !idLocation {	; game was not found in list
+								ScriptError("Could not find your """ . romName . """ in the game selection window for netplay. Possibly the gameID could not be found in your game. Please check your the RocketLauncher log and report this error.",,,,,1)
+								Gosub, CloseProcess
+								FadeInExit()
+								Goto, CloseDolphin
+							}
+							emuNetPlaySetupWindow.GetControl("ListBox1").Control("Choose",idLocation)	; selects our game in the ListBox
+							RLLog.Info("Module - Clicking Host button")
+							emuNetPlaySetupWindow.GetControl("Button3").Click()	; click host button
+							emuNetPlayWindow.Wait()	; this window should now appear when hosted correctly
+							RLLog.Info("Module - Waiting for " . networkPlayers . " players until the game is started")
+							While !breakLoops {
+								emuNetPlayWindow.GetControl("ListBox1").Get("List")	; Get the text from the ListBox
+								If StringUtils.InStr(emuNetPlayWindow.GetControl("ListBox1").List,"[" . networkPlayers . "]","","","",0) {
+									RLLog.Info("Module - All players have joined, starting game")
+									Break
+								}
+								TimerUtils.Sleep(100,0)
+							}
+							emuNetPlayWindow.GetControl("Button8").Click()	; click Start button
+						}
+						MiscUtils.SetTitleMatchMode(matchMode)	; restore old match mode
+					}
+					
+					
+					If (enableVBALink = "true") {
+						vbaINI := new IniFile(VBAPath . "\vbam.ini")
+						vbaINI.CheckFile()
+						vbaINIBackup := new File(VBAPath . "\vbam_Backup.ini")
+						vbaINI.Copy(vbaINIBackup.FileFullPath)
+						;removing fullscreen from VBA-M
+						vbaINI.Write(0, "preferences", "fullScreen")
+						;setting other VBA-M ini options
+						VBABiosPathDoubleSlash := StringUtils.Replace(VBABiosPath,"\","\\","all")
+						vbaINI.Write(0, "preferences", "pauseWhenInactive")
+						vbaINI.Write(VBABiosPathDoubleSlash, "GBA", "BiosFile")
+						vbaINI.Write(1, "GBA", "LinkAuto")
+						vbaINI.Write("127.0.0.1", "GBA", "LinkHost")
+						vbaINI.Write(3, "GBA", "LinkType")
+						vbaINI.Write(SelectedNumberofPlayers, "preferences", "LinkNumPlayers")
+						vbaINI.Write(1, "preferences", "useBiosGBA")
+						vbaINI.Write(1, "Display", "Stretch")
+						vbaINI.Write(1, "Display", "Scale")
+						
+						;running VBA-M
+						Loop % SelectedNumberofPlayers {
+							currentScreen := A_Index + 1
+							VBA%currentScreen%Exe := new Process(VBAExePath)	; instantiate a new process for each instance of VBA we need to run
+							VBA%currentScreen%Exe.Run(" """ . VBABiosPath . """")
+							; msgbox % "PID: " . VBA%A_Index%Exe.PID . "`nVBABiosPath: " . VBABiosPath
+							VBA%currentScreen%Window := new Window(new WindowTitle("","","","",VBA%currentScreen%Exe.PID))
+							VBA%currentScreen%Window.Wait()
+							TimerUtils.Sleep(VBADelay,0)
+							bezelBottomOffsetScreen%currentScreen% := 24 ; to hide emu bottom bar
+						}
+						;waiting for VBA-M windows bios loading
+						timeout := A_TickCount
+						VBAGBABiosWindow := new Window(new WindowTitle("gba_bios - VisualBoyAdvance-M"))
+						Loop {	
+							VBAGBABiosWindow.Get("List")	; Get a list of all vba-m hwnd IDs
+							If (VBAGBABiosWindow.List[0] = SelectedNumberofPlayers){
+								Loop % VBAGBABiosWindow.List[0] {	; loop through each vba-m window
+									currentScreen := A_Index + 1
+									Screen%currentScreen%ID := VBAGBABiosWindow.List[A_Index]	; record each vba-m window's hwnd ID
+								}
+								RLLog.Info("Module - gba_bios Loaded")
+								Break
+							}
+							If (timeout < A_TickCount - 10000) {
+								RLLog.Warning("Module - Timed out waiting gba_bios to load")
+								Break
+							}
+							TimerUtils.Sleep(100,0)
+						}
+						;Resizing Windows to fill screen if no bezel file is found
+						If !(bezelPath) {
+							Loop % (SelectedNumberofPlayers + 1) {
+								If (A_Index = 1) {	; the main Dolphin window
+									X1 := 0
+									Y1 := 0
+									W1 := A_ScreenWidth//2
+									H1 := A_ScreenHeight
+									emuGameWindow.WinTitle.PID := ""	; remove PID from object's WinTitle so only the window hwnd ID is acted upon
+									emuGameWindow.RemoveBorder()	
+									emuGameWindow.RemoveTitlebar()
+									emuGameWindow.ToggleMenu()
+									emuGameWindow.Move(X1,Y1,W1,H1)
+								} Else {	; the vba-m windows
+									X%A_Index% := A_ScreenWidth//2
+									Y%A_Index% := (A_Index-2)*(A_ScreenHeight//SelectedNumberofPlayers)
+									W%A_Index% := A_ScreenWidth//2
+									H%A_Index% := (A_ScreenHeight//SelectedNumberofPlayers)+bezelBottomOffsetScreen%A_Index%
+									VBA%A_Index%Window.WinTitle.ID := Screen%A_Index%ID	; set ID of window into object
+									VBA%A_Index%Window.WinTitle.PID := ""	; remove PID from object's WinTitle so only the window hwnd ID is acted upon
+									VBA%A_Index%Window.RemoveBorder()
+									VBA%A_Index%Window.RemoveTitlebar()
+									VBA%A_Index%Window.ToggleMenu()
+									VBA%A_Index%Window.Move(X%A_Index%,Y%A_Index%,W%A_Index%,H%A_Index%)
+								}
+							}
+							TimerUtils.Sleep(50)
+							Loop % SelectedNumberofPlayers {
+								currentScreen := A_Index + 1
+								VBA%currentScreen%Window.Activate()	; put focus on all the VBA windows
+							}
+							VBA1Window.Activate()	; put focus on the first VBA window
+						}
+					}
 					
 					BezelDraw()
 					
-					; If (hideConsole = "true") {	; should not be needed anymore
-						; TimerUtils.SetTimerF("HidePCSX2Console", 10)
-						; SetTimerF("HidePCSX2Console", 10)
-						; emuBootingWindow.Set("Transparent",0) ; ,"Booting ahk_class wxWindowNR","","fps:","fps:")	; hiding the console window
-						; emuGUIWindow.Set("Transparent",0) ;,"PCSX2 ahk_class wxWindowNR","","fps:","fps:")	; hiding the GUI window with the menubar
-					; }
-					
-					SetTitleMatchMode 2 ; Wrong window might be detected in the next loop if we only use the class name for WinGetTitle so we will add fps to it
-					Loop { ; Looping until pcsx2 is done loading game
-						Sleep, 200
-						loopWinTitle := emuLoadingWindow.GetTitle(0) ; Excluding the title of the GUI window so we can read the title of the game window instead
-						StringUtils.RegExMatch(loopWinTitle,"(?<=\()(.*?)(?=\))",winText) ;,1,0)	; Only get value between parenthesis
-						If (winText > 0) {	; If FPS shows any value, break out
-							RLLog.Debug("Module - Game is now running, waiting for exit")
-							Break
-						}
-						If A_Index > 150	; After 30 seconds, error out
-							ScriptError("There was an error detecting when PCSX2 finished loading your game. Please report this so the module can be fixed.")
-					
-						; Old method here in case devs change something back
-						; StringSplit, winTextSplit, winTitle, |, %A_Space%
-						; If (winTextSplit10 != "") ; 10th position in the array is empty until game actually starts
-							; Break
-						; tipText:= 
-						; Loop % winTextSplit0
-							; tipText .= "`nposition " . A_Index . ": " . winTextSplit%A_Index%
-						; ToolTip, % "Loop: " . A_Index . "`ntitle: " . winTitle . "`ntext: " . winText . tipText,0,0
-					}
+					emuGameWindow.Activate()
 					
 					HideAppEnd(hideEmuObj,hideEmu)
 					FadeInExit()
 					primaryExe.Process("WaitClose")
 					
-					If usedVD
-						VirtualDrive("unmount")
+					CloseDolphin:
+					If networkSession {
+						Loop {	
+							If !IsObject(backupIni%A_Index%File)
+								Break
+							RLLog.Info("Module - Restoring the original ini: " . backupIni%A_Index%File.FileFullPath . " to " . originalIni%A_Index%File.FileFullPath)
+							backupIni%A_Index%File.Move(originalIni%A_Index%File.FileFullPath,1)		; restore all backed up inis
+						}
+					}
 					
 					7zCleanUp()
 					BezelExit()
@@ -816,152 +914,240 @@
 					ExitModule()
 					
 					
-					MultiGame:
-						; msgbox % "selectedRom = " . selectedRom . "`nselected game = " . currentButton . "`nmgRomPath = " . mgRomPath . "`nmgRomExt = " . mgRomExt . "`nmgRomName = "  . mgRomName
-						; Unmount the CD from Virtual Drive
-						If usedVD
-							VirtualDrive("unmount")
-						Sleep, 500	; Required to prevent your Virtual Drive from bugging
-						; Mount the CD using Virtual Drive
-						If usedVD
-							VirtualDrive("mount",selectedRom)
+					ChangeDolphinProfile(profileType) {
+						Global settingsFile,romName,dolphinBasePath,RLLog,moduleIni
+						profile := moduleIni.Read(romName, "profile", "Default","",1)
+						RLProfilePath := new Folder(dolphinBasePath . "\Config\Profiles\" . profileType . " (RL)")
+						currentProfileFile := new File(dolphinBasePath . "\Config\" . profileType . "New.ini")
+						defaultProfileFile := new File(RLProfilePath.FilePath . "\_Default_" . profileType . "New.ini")
+						customProfileFile := new File(RLProfilePath.FilePath . "\" . profile . ".ini")
+						If !currentProfileFile.Exist() {
+							RLLog.Warning("Module - You have custom " . profileType . " profiles enabled, but could not locate " . currentProfileFile.FileFullPath . ". This file stores all your current controls in Dolphin. Please setup your controls in Dolphin first.")
+							Return
+						}
+						If !defaultProfileFile.Exist() {
+							RLLog.Warning("Module - Creating initial Default " . profileType . " profile by copying " . profileType . ".ini to " . defaultProfileFile.FileFullPath)
+							RLProfilePath.CreateDir()
+							currentProfileFile.Copy(defaultProfileFile.FileFullPath)	; create the initial default profile on first launch
+						}
+						If (profile != "Default" && !customProfileFile.Exist())
+							RLLog.Warning("Module - " . romName . " is set to load a custom " . profileType . " profile`, but it could not be found: " . customProfileFile.FileFullPath)
+						currentProfileFile.Read()	; read current profile into memory
+						customProfileFile.Read()	; read custom profile into memory
+						If (currentProfileFile.Text != customProfileFile.Text) {	; if both profiles do not match exactly
+							RLLog.Info("Module - Current " . profileType . " profile does not match the one this game should use.")
+							If (profile != "Default") {	; if user set to use a custom profile
+								RLLog.Info("Module - Copying this defined " . profileType . " profile to replace the current one: " . customProfileFile.FileFullPath)
+								customProfileFile.Copy(currentProfileFile.FileFullPath,1)
+							} Else {	; load default profile
+								RLLog.Info("Module - Copying the default " . profileType . " profile to replace the current one: " . defaultProfileFile.FileFullPath)
+								defaultProfileFile.Copy(currentProfileFile.FileFullPath,1)
+							}
+						} Else
+							RLLog.Info("Module - Current " . profileType . " profile is already the correct one for this game, not touching it.")
+					}
+					
+					ConnectWiimote(key) {
+						Global Timeout,emuPrimaryWindow,emuGameWindow,emuWiimoteWindow
+						If !emuWiimoteWindow.Exist()
+						{
+							MiscUtils.DetectHiddenWindows("OFF") ; this needs to be off otherwise WinMenuSelectItem doesn't work for some odd reason
+							emuPrimaryWindow.Activate()
+							emuPrimaryWindow.MenuSelectItem("Options","Controller Settings")
+							emuWiimoteWindow.Wait()
+							emuWiimoteWindow.WaitActive()
+						}
+						;emuWiimoteWindow.Activate() ; test if window needs to be active
+						If !emuWiimoteWindow.GetControl(key)
+							emuWiimoteWindow.CreateControl(key)
+						emuWiimoteWindow.GetControl(key).Click()
+						emuWiimoteWindow.GetControl("OK").Click()
+						emuGameWindow.Activate()
+					}
+					
+					PairWiimote:
+						ConnectWiimote("Pair Up")
 					Return
 					
-					; HidePCSX2Console:
-						; hideConsoleTimer++
-						; If emuBootingWindow.Exist()
-						; {	RLLog.Info("Module - HidePCSX2Console - Console window found, hiding it out of view.")
-							; emuBootingWindow.Set("Transparent",0) ; ,"Booting ahk_class wxWindowNR","","fps:","fps:")	; hiding the console window
-							; emuGUIWindow.Set("Transparent",0) ; ,"PCSX2 ahk_class wxWindowNR","","fps:","fps:")	; hiding the GUI window with the menubar
-							; SetTimer("HidePCSX2Console", "Off")
-						; } Else If (hideConsoleTimer >= 200)
-							; SetTimer("HidePCSX2Console", "Off")
-					; Return
-					; HidePCSX2Console() {
-						; Static hideConsoleTimer
-						; hideConsoleTimer++
-						; If emuBootingWindow.Exist()
-						; {	RLLog.Info("Module - HidePCSX2Console - Console window found, hiding it out of view.")
-							; emuBootingWindow.Set("Transparent",0) ; ,"Booting ahk_class wxWindowNR","","fps:","fps:")	; hiding the console window
-							; emuGUIWindow.Set("Transparent",0) ; ,"PCSX2 ahk_class wxWindowNR","","fps:","fps:")	; hiding the GUI window with the menubar
-							; TimerUtils.SetTimerF("HidePCSX2Console", "Off")
-						; } Else If (hideConsoleTimer >= 200)
-							; TimerUtils.SetTimerF("HidePCSX2Console", "Off")
-					; }
+					RefreshWiimote:
+						ConnectWiimote("Refresh")
+					Return
+					
+					HaltEmu:
+						If RefreshKey
+							XHotKeywrapper(RefreshKey,"RefreshWiimote","OFF")
+					Return
+					
+					MultiGame:
+						; MultiGame doesn't work with Dolphin currently because Dolphin hides itself from Winspector Spy and cannot send any commands to the emulator through scripts.
+						If (fullscreen = "True")
+						{	KeyUtils.SetKeyDelay(50)
+							KeyUtils.Send("{Alt Down}{Enter Down}{Enter Up}{Alt Up}")	; go windowed to get the menubar
+						}
+						If bezelEnabled
+							emuGameWindow.ToggleMenu()	; put the menubar back
+						; emuPrimaryWindow.MenuSelectItem("File","Change Disc...")
+						emuPrimaryWindow.MessageUtils.PostMessage("0x111", "00288")	; Change Disc
+						OpenROM(emuOpenROMWindow.WinTitle.GetWindowTitle(), selectedRom)
+						emuPrimaryWindow.WaitActive()
+						If bezelEnabled
+							emuGameWindow.ToggleMenu()	; remove the menubar again
+						If (fullscreen = "True")
+							KeyUtils.Send("{Alt Down}{Enter Down}{Enter Up}{Alt Up}")	; restore fullscreen
+					Return
+					
+					RestoreEmu:
+						If RefreshKey
+							XHotKeywrapper(RefreshKey,"RefreshWiimote","ON")
+					Return
 					
 					CloseProcess:
+						breakLoops := 1
 						FadeOutStart()
-						If (fullscreen = "true") {
-							; emuPrimaryWindow.CreateControl("wxWindowNR1")		; instantiate new control for wxWindowNR1
-							; emuPrimaryWindow.GetControl("wxWindowNR1").Send("Esc")	; Send ESC to the main window when fullscreen is true to close the emu
-							emuPrimaryWindow.Close()
-						} Else {
-							emuGUIWindow.MenuSelectItem("System","Pause")
-							emuGUIWindow.Close()
+						If (enableVBALink = "true") {
+							Loop % SelectedNumberofPlayers
+							{	currentScreen := A_Index + 1
+								;VBA%currentScreen%Window.Activate()
+								VBA%currentScreen%Window.Close()
+								TimerUtils.Sleep(100,0)
+							}
+							dolphinINIBackup.Move(dolphinINI.FileFullPath)
+							vbaINIBackup.Move(vbaINI,1)
 						}
+						If networkSession {
+							If emuNetPlaySetupWindow.Exist()
+								emuNetPlaySetupWindow.Close()
+							If emuNetPlayWindow.Exist()
+								emuNetPlayWindow.Close()
+							If !emuGameWindow.Exist()	; if game never launched, close the main emu window
+								emuPrimaryWindow.Close()
+						}
+						If emuGameWindow.Exist()
+							emuGameWindow.Close() ; this needs to close the window the game is running in otherwise dolphin crashes on exit
 					Return
+					
+					; Unused messages for reference from Dolphin v4.0 build 6980 x64:
+					; emuPrimaryWindow.PostMessage("0x111", "0261")		; Toggle Fullscreen
+					; emuPrimaryWindow.PostMessage("0x111", "0258")		; Toggle Play/Pause
+					; emuPrimaryWindow.PostMessage("0x111", "0259")		; Stop
+					; emuPrimaryWindow.PostMessage("0x111", "0260")		; Reset
+					; emuPrimaryWindow.PostMessage("0x111", "00539")	; Show Toolbar
+					; emuPrimaryWindow.PostMessage("0x111", "00540")	; Show Statusbar
+					; emuPrimaryWindow.PostMessage("0x111", "05123")	; Refresh List
+					; emuPrimaryWindow.PostMessage("0x111", "0305")		; Change Disc
+					; emuPrimaryWindow.PostMessage("0x111", "00218")	; Load State Slot 1
+					; emuPrimaryWindow.PostMessage("0x111", "00227")	; Load State Slot 10
+					; emuPrimaryWindow.PostMessage("0x111", "00208")	; Save State Slot 1
+					; emuPrimaryWindow.PostMessage("0x111", "00217")	; Save State Slot 10
+					; emuPrimaryWindow.PostMessage("0x111", "00303")	; Start Netplay
+					; emuPrimaryWindow.PostMessage("0x111", "05000")	; Open
+					
+					; Unused messages for reference from Dolphin v4.0.2 x86:
+					; emuPrimaryWindow.PostMessage("0x111", "00248")	; Toggle Fullscreen
+					; emuPrimaryWindow.PostMessage("0x111", "00245")	; Toggle Play/Pause
+					; emuPrimaryWindow.PostMessage("0x111", "00246")	; Stop
+					; emuPrimaryWindow.PostMessage("0x111", "00247")	; Reset
+					; emuPrimaryWindow.PostMessage("0x111", "00501")	; Show Toolbar
+					; emuPrimaryWindow.PostMessage("0x111", "00502")	; Show Statusbar
+					; emuPrimaryWindow.PostMessage("0x111", "00217")	; Load State Slot 1
+					; emuPrimaryWindow.PostMessage("0x111", "00226")	; Load State Slot 10
+					; emuPrimaryWindow.PostMessage("0x111", "00207")	; Save State Slot 1
+					; emuPrimaryWindow.PostMessage("0x111", "00216")	; Save State Slot 10
+					; emuPrimaryWindow.PostMessage("0x111", "00286")	; Start Netplay
+					; emuPrimaryWindow.PostMessage("0x111", "05000")	; Open
+					; emuPrimaryWindow.PostMessage("0x111", "05006")	; Exit
 
-16:02:44:808 | RL |      INFO  | +15    | BuildScript - Loaded Multi-Player scripts
-16:02:44:809 | RL |      INFO  | +0     | BuildScript - Loaded Statistics.ahk script
-16:02:44:809 | RL |   WARNING  | +0     | BuildScript - "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Functions.ahk" not found
-16:02:44:809 | RL |      INFO  | +0     | BuildScript - Finished injecting functions into module
-16:02:44:810 | RL |      INFO  | +0     | Main - Module is built
-16:02:44:810 | RL |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\AutoHotkey.dll exists
-16:02:44:824 | RL |      INFO  | +16    | Main - Hiding taskbar
-16:02:44:929 | RL |      INFO  | +109   | Main - Running module
-16:02:45:089 | MD |      INFO  | +N/A   | Module initialized
-16:02:45:090 | MD |      INFO  | +0     | StartModule - Started
-16:02:45:090 | MD |      INFO  | +0     | StartModule - MEmu: PCSX2
-					MEmuV: 1.5.0-dev-263
-					MURL: http://pcsx2.net/
-					MAuthor: djvj
-					MVersion: 2.2.1
-					MCRC: 5E3D250C
-					iCRC: 65DD0603
+22:39:23:919 | RL |      INFO  | +15    | BuildScript - Loaded Multi-Player scripts
+22:39:23:921 | RL |      INFO  | +0     | BuildScript - Loaded Statistics.ahk script
+22:39:23:921 | RL |   WARNING  | +0     | BuildScript - "D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Functions.ahk" not found
+22:39:23:921 | RL |      INFO  | +0     | BuildScript - Finished injecting functions into module
+22:39:23:924 | RL |      INFO  | +0     | Main - Module is built
+22:39:23:924 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\AutoHotkey.dll exists
+22:39:23:927 | RL |      INFO  | +16    | Main - Hiding taskbar
+22:39:24:044 | RL |      INFO  | +109   | Main - Running module
+22:39:24:250 | MD |      INFO  | +N/A   | Module initialized
+22:39:24:252 | MD |      INFO  | +0     | StartModule - Started
+22:39:24:252 | MD |      INFO  | +0     | StartModule - MEmu: Dolphin
+					MEmuV: v4.0 r6928
+					MURL: https://dolphin-emu.org/
+					MAuthor: djvj & bleasby
+					MVersion: 2.1.9
+					MCRC: 48F41AEA
+					iCRC: F063B9AF
 					MID: 
-					MSystem: "Sony PlayStation 2"
-16:02:45:090 | MD |      INFO  | +0     | StartModule - You have a supported System Name for this module: "Sony Playstation 2"
-16:02:45:090 | MD |      INFO  | +0     | PluginInit - Started
-16:02:45:090 | MD |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncherUI\Databases\Sony Playstation 2\Sony Playstation 2.xml exists
-16:02:45:090 | MD |      INFO  | +0     | PluginInit - Ended
-16:02:45:091 | MD |      INFO  | +0     | SystemCursor - Hiding mouse cursor
-16:02:45:127 | MD |      INFO  | +31    | StartModule - Ended
-16:02:45:148 | MD |      INFO  | +31    | GetFadePicFile - Randomized images and Fade  will use C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Fade\Sony Playstation 2\_Default\Layer 1 - nosh.png
-16:02:45:316 | MD |      INFO  | +172   | DefaultAnimateFadeIn - Started, direction is: in
-16:02:45:316 | MD |      INFO  | +0     | DefaultAnimateFadeIn - Drawing First FadeIn Image.
-16:02:45:818 | MD |      INFO  | +500   | DefaultAnimateFadeIn - Ended
-16:02:45:826 | MD |      INFO  | +0     | DefaultFadeAnimation - Started
-16:02:45:827 | MD |      INFO  | +0     | GetFadePicFile - Randomized images and Fade  will use C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Fade\_Default\Info Bar.png
-16:02:45:853 | MD |      INFO  | +31    | BuildAssetsTable - Started - Building Table for: Genre Logo|Rating Logo|Developer Logo|Publisher Logo|Year Logo
-16:02:45:853 | MD |      INFO  | +0     | BuildAssetsTable - Ended
-16:02:45:853 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: System Logo|Game Logo|Game Logo
-16:02:45:854 | MD |      INFO  | +0     | BuildAssetsTable - Ended
-16:02:45:878 | MD |      INFO  | +31    | DefaultFadeAnimation - Ended
-16:02:45:878 | MD |      INFO  | +0     | DxwndUpdateIniPath - DxwndIni set to C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\dxwnd\dxwnd.ini
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - Fullscreen: true (DEFAULT)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - AspectRatio: 4:3 (DEFAULT)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - noGUI: false (DEFAULT)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - PerGameMemoryCards: false (DEFAULT)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - HideConsole: true (DEFAULT)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - cfgpath: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\Game Configs (DEFAULT)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - AutoCreateINIDir: false (DEFAULT)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - DefaultINISPath: (NO VALUE)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - fullboot: false (DEFAULT)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - gs: (NO VALUE)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - pad: (NO VALUE)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - spu2: (NO VALUE)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - cdvd: (NO VALUE)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - usb: (NO VALUE)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - fw: (NO VALUE)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - dev9: (NO VALUE)
-16:02:45:881 | MD |      INFO  | +0     | RIniFile.Read - Module - VDOveride: (NO VALUE)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - nohacks: false (DEFAULT)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - gamefixes: (NO VALUE)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - MSAA: 0 (DEFAULT)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Skipdraw: 0 (DEFAULT)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Half-pixel_Offset: 0 (DEFAULT)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Wild_Arms_Offset: 0 (DEFAULT)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Fast_Accurate_Blending: 0 (DEFAULT)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Alpha_Stencil: 0 (DEFAULT)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Align_Sprite: 0 (DEFAULT)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Alpha: 0 (DEFAULT)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Preload_Data_Frame: 0 (DEFAULT)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Round_Sprite: 0 (DEFAULT)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - Sprite: 0 (DEFAULT)
-16:02:45:882 | MD |      INFO  | +0     | RIniFile.Read - Module - TC_Offset: 0 (DEFAULT)
-16:02:45:882 | MD |      INFO  | +0     | Module - PCSX2 is operating in a portable mode
-16:02:45:882 | MD |      INFO  | +0     | CheckFile - Checking if C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\inis\GSdx.ini exists
-16:02:45:883 | MD |      INFO  | +0     | File.CheckFile - Checking if "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\inis\PCSX2_ui.ini" exists
-16:02:45:883 | MD |      INFO  | +0     | File.CheckFile - Checking if "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\inis\GSdx.ini" exists
-16:02:45:884 | MD |      INFO  | +0     | Module - Using PCSX2's default configuration folder: "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\inis"
-16:02:45:890 | MD |      INFO  | +0     | IniFile.Write - SECTION: [GSWindow] - KEY: AspectRatio - VALUE: 4:3 - FILE: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\inis\PCSX2_ui.ini
-16:02:45:892 | MD |      INFO  | +0     | IniFile.Write - SECTION: [Settings] - KEY: UserHacks - VALUE:  - FILE: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\inis\GSdx.ini
-16:02:45:892 | MD |      INFO  | +0     | LoadProperties - Started and loading this cfg into memory: 
-16:02:45:892 | MD |      INFO  | +0     | LoadProperties - Ended
-16:02:45:915 | MD |      INFO  | +32    | RIniFile.Read - Module - Image_CDVD_Plugin: (NO VALUE)
-16:02:45:915 | MD |      INFO  | +0     | Module - CdvdSource was not set to "Iso", changing it so PCSX2 can launch this .iso image directly
-16:02:45:915 | MD |      INFO  | +0     | SaveProperties - Started and saving this cfg to disk: 
-16:02:45:915 | MD |      INFO  | +0     | SaveProperties - Ended
-16:02:45:916 | MD |      INFO  | +0     | Process.Run - Running: C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Emuladores\PCSX2\pcsx2.exe "C:\Users\papilyn\Desktop\Retroshur-master\RETROSHUR-FRONTEND\Roms\ps2\Harvest Moon - A Wonderful Life - Special Edition.iso"  --fullscreen
-16:02:45:955 | MD |      INFO  | +47    | DefaultFadeAnimationLoop - percentage
-16:02:45:000 | MD |      INFO  | +31    | Window.Wait - Waiting for window "ahk_class wxWindowNR"
-16:02:46:012 | MD |      INFO  | +15    | DefaultFadeAnimationLoop - percentage100
-16:02:46:206 | MD |      INFO  | +204   | Window.WaitActive - Waiting for "ahk_class wxWindowNR"
-16:02:47:941 | MD |      INFO  | +1734  | DefaultAnimateFadeIn - Started, direction is: out
-16:02:48:448 | MD |      INFO  | +500   | DefaultAnimateFadeIn - Ended
-16:02:48:509 | MD |      INFO  | +62    | Process.Process - "WaitClose" "pcsx2.exe" 
-16:03:18:544 | MD |      INFO  | +30032 | CloseProcess - Started, user requested to end launched application
-16:03:19:444 | MD |      INFO  | +906   | CloseProcess - Ended
-16:03:20:009 | MD |      INFO  | +562   | ExitModule - Started
-16:03:20:009 | MD |      INFO  | +0     | Starting Updating Statistics:
-16:03:20:075 | MD |      INFO  | +63    | Game section statistics updated.
-16:03:20:075 | MD |      INFO  | +0     | ExitModule - Ended
+					MSystem: "Nintendo Gamecube","Nintendo Wii","Nintendo WiiWare"
+22:39:24:252 | MD |      INFO  | +0     | StartModule - You have a supported System Name for this module: "Nintendo Gamecube"
+22:39:24:273 | MD |      INFO  | +31    | PluginInit - Started
+22:39:24:273 | MD |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncherUI\Databases\Nintendo Gamecube\Nintendo Gamecube.xml exists
+22:39:24:275 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: Game Logo|System Logo
+22:39:24:275 | MD |      INFO  | +0     | BuildAssetsTable - Ended
+22:39:24:275 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: Artwork1|Box Art|Cartridge|Flyers|Letters|Other
+22:39:24:275 | MD |      INFO  | +0     | BuildAssetsTable - Ended
+22:39:24:275 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: Game Video|System Video
+22:39:24:275 | MD |      INFO  | +0     | BuildAssetsTable - Ended
+22:39:24:275 | MD |      INFO  | +0     | PluginInit - Ended
+22:39:24:276 | MD |      INFO  | +0     | SystemCursor - Hiding mouse cursor
+22:39:24:314 | MD |      INFO  | +31    | StartModule - Ended
+22:39:24:314 | MD |      INFO  | +0     | BezelGUI - Started
+22:39:24:404 | MD |      INFO  | +94    | BezelGUI - Ended
+22:39:24:438 | MD |      INFO  | +31    | DefaultAnimateFadeIn - Started, direction is: in
+22:39:24:438 | MD |      INFO  | +0     | DefaultAnimateFadeIn - Drawing First FadeIn Image.
+22:39:24:927 | MD |      INFO  | +500   | DefaultAnimateFadeIn - Ended
+22:39:24:940 | MD |      INFO  | +0     | DefaultFadeAnimation - Started
+22:39:24:940 | MD |      INFO  | +0     | GetFadePicFile - Randomized images and Fade  will use D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Fade\_Default\Info Bar - nosh.png
+22:39:24:994 | MD |      INFO  | +63    | BuildAssetsTable - Started - Building Table for: Genre Logo|Rating Logo|Developer Logo|Publisher Logo|Year Logo
+22:39:24:994 | MD |      INFO  | +0     | BuildAssetsTable - Ended
+22:39:24:994 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: System Logo|Game Logo|Game Logo
+22:39:24:994 | MD |      INFO  | +0     | BuildAssetsTable - Ended
+22:39:24:026 | MD |      INFO  | +31    | DefaultFadeAnimation - Ended
+22:39:25:026 | MD |      INFO  | +0     | DxwndUpdateIniPath - DxwndIni set to D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\dxwnd\dxwnd.ini
+22:39:25:030 | MD |      INFO  | +0     | RIniFile.Read - Module - Fullscreen: true (DEFAULT)
+22:39:25:030 | MD |      INFO  | +0     | RIniFile.Read - Module - UseCustomWiimoteProfiles: false (DEFAULT)
+22:39:25:030 | MD |      INFO  | +0     | RIniFile.Read - Module - UseCustomGCPadProfiles: false (DEFAULT)
+22:39:25:030 | MD |      INFO  | +0     | RIniFile.Read - Module - HideMouse: true (DEFAULT)
+22:39:25:030 | MD |      INFO  | +0     | RIniFile.Read - Module - RefreshKey: (NO VALUE)
+22:39:25:030 | MD |      INFO  | +0     | RIniFile.Read - Module - Timeout: 5 (DEFAULT)
+22:39:25:030 | MD |      INFO  | +0     | RIniFile.Read - Module - Render_To_Main: false (DEFAULT)
+22:39:25:030 | MD |      INFO  | +0     | RIniFile.Read - Module - Enable_Network_Play: false (DEFAULT)
+22:39:25:030 | MD |      INFO  | +0     | RIniFile.Read - Module - enableVBALink: false (DEFAULT)
+22:39:25:030 | MD |      INFO  | +0     | RIniFile.Read - Module - VBAExePath: (NO VALUE)
+22:39:25:030 | MD |      INFO  | +0     | RIniFile.Read - Module - VBABiosPath: (NO VALUE)
+22:39:25:030 | MD |      INFO  | +0     | RIniFile.Read - Module - VBADelay: 500 (DEFAULT)
+22:39:25:031 | MD |      INFO  | +0     | Module - Dolphin's base settings folder is portable and found in: D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\Dolphin\User
+22:39:25:031 | MD |      INFO  | +0     | BezelStart - Started
+22:39:25:086 | MD |      INFO  | +62    | DefaultFadeAnimationLoop - percentage
+22:39:25:118 | MD |      INFO  | +32    | Bezel - Game will be moved to monitor 1 if RL finds a valid bezel to be show.
+22:39:25:118 | MD |      INFO  | +0     | Bezel - Loading Bezel image: D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Bezels\Nintendo Gamecube\_Default\Bezel-horizontal.png
+22:39:25:120 | MD |      INFO  | +0     | Bezel - Loading Background image: D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Bezels\_Default\Background4 Nosh.png
+22:39:25:123 | MD |      INFO  | +0     | BezelStart - Ended
+22:39:25:123 | MD |      INFO  | +0     | Process.Run - Running: D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Emuladores\Dolphin\Dolphin.exe /b /e "D:\RETROSHUR-BETA5-FULL-EDITION\RETROSHUR-FRONTEND\Roms\gc\Paper Mario - The Thousand-Year Door (USA).iso"
+22:39:25:160 | MD |      INFO  | +46    | DefaultFadeAnimationLoop - percentage100
+22:39:25:256 | MD |      INFO  | +94    | Window.Wait - Waiting for window "FPS ahk_class wxWindowNR"
+22:39:29:051 | MD |      INFO  | +3797  | Window.WaitActive - Waiting for "FPS ahk_class wxWindowNR"
+22:39:29:198 | MD |      INFO  | +141   | BezelDraw - Started
+22:39:29:293 | MD |      INFO  | +93    | Bezel - Bezel Screen Offset: left= top= right= bottom=
+22:39:29:295 | MD |      INFO  | +0     | ToggleMenu - Started
+22:39:29:821 | MD |   WARNING  | +532   | ToggleMenu - Timed out trying to restore MenuBar for 0x109a2
+22:39:29:821 | MD |      INFO  | +0     | ToggleMenu - Ended
+22:39:30:304 | MD |      INFO  | +484   | BezelDraw - Ended
+22:39:30:415 | MD |      INFO  | +109   | DefaultAnimateFadeIn - Started, direction is: out
+22:39:30:920 | MD |      INFO  | +500   | DefaultAnimateFadeIn - Ended
+22:39:30:984 | MD |      INFO  | +63    | Process.Process - "WaitClose" "Dolphin.exe" 
+22:40:17:684 | MD |      INFO  | +46703 | CloseProcess - Started, user requested to end launched application
+22:40:17:942 | MD |      INFO  | +266   | CloseProcess - Ended
+22:40:18:058 | MD |      INFO  | +109   | BezelExit - Started
+22:40:18:096 | MD |      INFO  | +31    | Bezel - Removing bezel image components to exit RocketLauncher.
+22:40:18:118 | MD |      INFO  | +32    | BezelExit - Ended
+22:40:18:118 | MD |      INFO  | +0     | ExitModule - Started
+22:40:18:118 | MD |      INFO  | +0     | Starting Updating Statistics:
+22:40:18:247 | MD |      INFO  | +125   | Game section statistics updated.
+22:40:18:247 | MD |      INFO  | +0     | ExitModule - Ended
 End of Module Logs
-16:03:20:177 | RL |      INFO  | +35250 | Main - Module ended, exiting RocketLauncher normally
-16:03:20:177 | RL |      INFO  | +0     | ExitScript - Started
-16:03:20:190 | RL |      INFO  | +16    | ExitScript - Checking what application is currently in focus.
-16:03:20:190 | RL |      INFO  | +0     | ExitScript - C:\WINDOWS\system32\cmd.exe is currently active. Putting focus back on RocketLauncherUI.exe with PID of 14060
-16:03:20:445 | RL |      INFO  | +250   | ExitScript - Restoring taskbar
-16:03:20:556 | RL |      INFO  | +109   | SystemCursor - Restoring mouse cursor
-16:03:20:570 | RL |      INFO  | +16    | ExitScript - Restored cursor
+22:40:18:352 | RL |      INFO  | +54313 | Main - Module ended, exiting RocketLauncher normally
+22:40:18:352 | RL |      INFO  | +0     | ExitScript - Started
+22:40:18:368 | RL |      INFO  | +16    | ExitScript - Checking what application is currently in focus.
+22:40:18:368 | RL |      INFO  | +0     | ExitScript - C:\WINDOWS\system32\cmd.exe is currently active. Putting focus back on RocketLauncherUI.exe with PID of 3880
+22:40:18:598 | RL |      INFO  | +234   | ExitScript - Restoring taskbar
+22:40:18:721 | RL |      INFO  | +125   | SystemCursor - Restoring mouse cursor
+22:40:18:730 | RL |      INFO  | +0     | ExitScript - Restored cursor
 [/code]
