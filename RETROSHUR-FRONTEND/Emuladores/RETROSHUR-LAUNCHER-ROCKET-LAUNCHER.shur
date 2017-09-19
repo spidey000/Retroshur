@@ -46,7 +46,6 @@ if "%1"=="wiiu" goto :CEMU
 if "%1"=="xbox360" goto :XENIA
 if "%1"=="wonderswan" goto :RetroArch-WONDERSWAN
 if "%1"=="wonderswancolor" goto RetroArch-WONDERSWANCOLOR
-::if "%1"=="retroarch" goto :RETROARCH
 if "%1"=="zxspectrum" goto :RETROARCH-ZXSPECTRUM
 exit /b %ERRORLEVEL%
 
@@ -155,12 +154,6 @@ goto :EXIT
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Dreamcast" -r %2)
 goto :EXIT
 
-
-::RetroArch
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\retroarch\launching.jpg
-::start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\retroarch\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
-::goto :EXIT
 
 :RETROARCH-MASTERSYSTEM
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Master System" -r %2)
