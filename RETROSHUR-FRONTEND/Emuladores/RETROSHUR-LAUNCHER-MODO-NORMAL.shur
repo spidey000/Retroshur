@@ -149,8 +149,8 @@ goto :EXIT
 :RetroArch-ZXSPECTRUM
 start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\zxspectrum\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\zxspectrum\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0Zxspectrum*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\Spectaculator*.exe"') DO ("%~dp0%%D\%%A" %2))
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\zxspectrum\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0Zxspectrum*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\Spectaculator*.exe"') DO ("%~dp0%%D\%%A" %2))
 goto :EXIT
 
 
