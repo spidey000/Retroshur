@@ -187,7 +187,8 @@ goto :EXIT
 :RetroArch-NDS
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\nds\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\nds\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\nds\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo DS" -r %2)
 goto :EXIT
 
 
