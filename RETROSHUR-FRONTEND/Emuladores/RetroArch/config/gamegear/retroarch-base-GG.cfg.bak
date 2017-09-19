@@ -1,5 +1,5 @@
 video_shader_enable = "true"
-video_shader = ":\shaders\consolas-portables\Game-Gear-2x.cgp"
+video_shader = ":\shaders\RETROSHUR\consolas-portables\Game-Gear-2x.cgp"
 video_shader_dir = ":\shaders\"
 video_fullscreen = "true"
 core_updater_buildbot_url = "http://buildbot.libretro.com/nightly/win-x86_64/latest/"
@@ -12,3 +12,5 @@ content_history_path = ":\config\gamegear\content_history.lpl"
 content_music_history_path = ":\config\gamegear\content_music_history.lpl"
 content_video_history_path = ":\config\gamegear\content_video_history.lpl"
 content_image_history_path = ":\config\gamegear\content_image_history.lpl"
+
+
