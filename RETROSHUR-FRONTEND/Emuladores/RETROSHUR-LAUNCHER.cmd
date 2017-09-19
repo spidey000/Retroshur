@@ -115,9 +115,7 @@ goto :EXIT
 
 
 :RetroArch-MAME
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\mame\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\mame\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "MAME" -r %2)
 goto :EXIT
 
 :RetroArch-SEGACD
@@ -208,9 +206,7 @@ FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketL
 goto :EXIT
 
 :RetroArch-MSX
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\msx\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\msx\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Microsoft MSX" -r %2)
 goto :EXIT
 
 :RetroArch-AMSTRADCPC
@@ -295,9 +291,7 @@ FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketL
 goto :EXIT
 
 :RetroArch-NEOGEO
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\neogeo\launching.jpg
-start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\neogeo\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "SNK Neo Geo" -r %2)
 goto :EXIT
 
 :EXIT
