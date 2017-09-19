@@ -50,13 +50,13 @@
 	<game>
 		<path>./configuracion-Retroshur/MODO-NORMAL.cmd</path>
 		<name>MODO-NORMAL</name>
-		<playcount>10</playcount>
-		<lastplayed>20170918T152058</lastplayed>
+		<playcount>11</playcount>
+		<lastplayed>20170919T181403</lastplayed>
 	</game>
 	<game>
 		<path>./configuracion-Retroshur/MODO-ROCKET-LAUNCHER.cmd</path>
 		<name>MODO-ROCKET-LAUNCHER</name>
-		<playcount>29</playcount>
-		<lastplayed>20170918T222608</lastplayed>
+		<playcount>36</playcount>
+		<lastplayed>20170919T185713</lastplayed>
 	</game>
 </gameList>

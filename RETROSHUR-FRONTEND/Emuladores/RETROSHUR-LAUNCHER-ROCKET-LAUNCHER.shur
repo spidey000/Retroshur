@@ -209,12 +209,6 @@ goto :EXIT
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Microsoft MSX" -r %2)
 goto :EXIT
 
-:RetroArch-AMSTRADCPC
-::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\amstradcpc\launching.jpg
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Amstrad CPC" -r %2)
-goto :EXIT
-
-
 :CEMU
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\cemu\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Cemu.ahk
@@ -292,6 +286,11 @@ goto :EXIT
 
 :RetroArch-NEOGEO
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "SNK Neo Geo" -r %2)
+goto :EXIT
+
+:RetroArch-AMSTRADCPC
+::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\amstradcpc\launching.jpg
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Amstrad CPC" -r %2)
 goto :EXIT
 
 :EXIT
