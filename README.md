@@ -65,7 +65,7 @@ cualquier otro gamepad se puede configurar en el menu de Retroshur "Script confi
 	- [x] Game Boy Color
 	- [ ] Game Boy Advance
 	- [x] GameGear
-	- [x] Mame
+	- [] Mame (se ha quitado por errores varios)
 	- [x] Mastersystem
 	- [x] Megadrive
 	- [x] Microsoft MSX
