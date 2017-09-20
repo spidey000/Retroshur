@@ -22,7 +22,7 @@ if "%1"=="dreamcast" goto :DEMUL
 if "%1"=="gamegear" goto :RETROARCH-GAMEGEAR
 if "%1"=="gb" goto :RETROARCH-GB
 if "%1"=="gba" goto :RETROARCH-GBA
-if "%1"=="gbc" goto :RETROARCH-COLOR
+if "%1"=="gbc" goto :RetroArch-GBC
 if "%1"=="gc" goto :DOLPHIN
 if "%1"=="mame" goto :RETROARCH-MAME
 if "%1"=="mastersystem" goto :RETROARCH-MASTERSYSTEM
@@ -241,7 +241,9 @@ goto :EXIT
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Bandai Wonderswan Color" -r %2)
 goto :EXIT
 
-:RETROARCH-GW
+:RetroArch-GW
+start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --config "%~dp0%%D\config\gbc\retroshur.cfg"  -L "%~dp0%%D\cores\%3" %2 -f)
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Game & Watch" -r %2)
 goto :EXIT
 
@@ -273,7 +275,7 @@ goto :EXIT
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Game Gear" -r %2)
 goto :EXIT
 
-:RetroArch-COLOR
+:RETROARCH-GBC
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Game Boy Color" -r %2)
 goto :EXIT
 
