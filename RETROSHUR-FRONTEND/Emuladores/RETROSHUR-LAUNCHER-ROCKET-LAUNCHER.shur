@@ -82,15 +82,6 @@ goto :EXIT
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Commodore 64" -r %2)
 goto :EXIT
 
-:: comienzo --coolcv
-::otro emulador para colecovision si quieres usarlo quita los dos puntos de cada linea NO si antes ponerselos a la opcion de :retroarch-coleco de arriba.
-:::RetroArch-COLECO
-::start "black screen" /d %AUTOHOTKEY% "BlackScreen.exe"
-::start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Cemu.ahk
-::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0coolcv*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\CoolCV*.exe"') DO ("%~dp0%%D\%%A" %2))
-::goto :EXIT
-:: fin --coolcv
-
 :RetroArch-CAPCOM1
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Capcom Play System" -r %2)
 goto :EXIT
