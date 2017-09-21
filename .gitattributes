@@ -1,2 +1,2 @@
-*.bat linguist-language=batchfile
-*.cmd linguist-language=batchfile
+*.bat linguist-language=batch
+*.cmd linguist-language=batch
