@@ -45,6 +45,7 @@ if "%1"=="snes" goto :RETROARCH-SNES
 if "%1"=="wii" goto :DOLPHIN
 if "%1"=="wiiu" goto :CEMU
 if "%1"=="xbox360" goto :XENIA
+if "%1"=="vectrex" goto :RETROARCH-VECTREX
 if "%1"=="wonderswan" goto :RetroArch-WONDERSWAN
 if "%1"=="wonderswancolor" goto RetroArch-WONDERSWANCOLOR
 if "%1"=="gameandwatch" goto :RETROARCH-GW
@@ -95,6 +96,7 @@ start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\coleco\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0bluemsx*"') Do ("%~dp0%%D\blueMSX.exe" /machine "COL - ColecoVision with Opcode Memory Extension" /rom1 %2 /romtype1 "113" /fullscreen)
 goto :EXIT
+
 
 :PPSSPP
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\ppsspp\launching.jpg
@@ -229,6 +231,11 @@ goto :EXIT
 start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\snes\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\snes\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
+goto :EXIT
+
+:RETROARCH-VECTREX
+start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --appendconfig "%~dp0%%D\config\vectrex\retroshur.cfg" -L "%~dp0%%D\cores\%3" %2 -f)
 goto :EXIT
 
 :RetroArch-GB

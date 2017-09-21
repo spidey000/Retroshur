@@ -40,7 +40,6 @@
   <system name="Panasonic 3DO" type="" year="" manufacturer="" enabled="true" />
   <system name="Casio PV-1000" type="" year="" manufacturer="" enabled="true" />
   <system name="OpenBor" type="" year="" manufacturer="" enabled="true" />
-  <system name="Daphne" type="" year="" manufacturer="" enabled="true" />
   <system name="American Laser Games" type="" year="" manufacturer="" enabled="true" />
   <system name="Nintendo DS" type="" year="" manufacturer="" enabled="true" />
   <system name="Sega CD" type="" year="" manufacturer="" enabled="true" />
@@ -67,4 +66,6 @@
   <system name="Commodore 64" type="" year="" manufacturer="" enabled="true" />
   <system name="Commodore Amiga" type="" year="" manufacturer="" enabled="true" />
   <system name="Nintendo Game &amp; Watch" type="" year="" manufacturer="" enabled="true" />
+  <system name="GCE Vectrex" type="" year="" manufacturer="" enabled="true" />
+  <system name="Nintendo Game Boy Advance" type="" year="" manufacturer="" enabled="true" />
 </systems>

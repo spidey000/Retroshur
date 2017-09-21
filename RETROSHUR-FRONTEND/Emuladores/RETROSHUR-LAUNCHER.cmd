@@ -22,7 +22,7 @@ if "%1"=="dreamcast" goto :DEMUL
 if "%1"=="gamegear" goto :RETROARCH-GAMEGEAR
 if "%1"=="gb" goto :RETROARCH-GB
 if "%1"=="gba" goto :RETROARCH-GBA
-if "%1"=="gbc" goto :RetroArch-GBC
+if "%1"=="gbc" goto :RETROARCH-GBC
 if "%1"=="gc" goto :DOLPHIN
 if "%1"=="mame" goto :RETROARCH-MAME
 if "%1"=="mastersystem" goto :RETROARCH-MASTERSYSTEM
@@ -44,7 +44,9 @@ if "%1"=="snes" goto :RETROARCH-SNES
 if "%1"=="wii" goto :DOLPHIN
 if "%1"=="wiiu" goto :CEMU
 if "%1"=="xbox360" goto :XENIA
-::if "%1"=="wonderswan" goto :RetroArch-WONDERSWAN
+if "%1"=="daphne" goto :DAPHNE
+if "%1"=="vectrex" goto :RETROARCH-VECTREX
+::if "%1"=="wonderswan" goto :RETROARCH-WONDERSWAN
 if "%1"=="wonderswancolor" goto RetroArch-WONDERSWANCOLOR
 if "%1"=="gameandwatch" goto :RETROARCH-GW
 if "%1"=="zxspectrum" goto :RETROARCH-ZXSPECTRUM
@@ -55,118 +57,138 @@ exit /b %ERRORLEVEL%
 
 
 
-:RetroArch-AMIGA
+:RETROARCH-AMIGA
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\amiga\launching.jpg
 call %2 & FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --config "%~dp0%%D\config\amiga\retroshur.cfg" -L "%~dp0%%D\cores\%3" \.uaerc -f)
 goto :EXIT
 
 
-:RetroArch-A2600
+:RETROARCH-A2600
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Atari 2600" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-A7800
+:RETROARCH-A7800
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Atari 7800" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 :RETROARCH-ALYNX
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Atari Lynx" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
-
 
 :RETROARCH-AJAGUAR
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Atari Jaguar" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-C64
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Commodore 64" -r %2)
-goto :EXIT
 
-:RetroArch-CAPCOM1
+:RETROARCH-CAPCOM1
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Capcom Play System" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-CAPCOM2
+:RETROARCH-CAPCOM2
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Capcom Play System II" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-CAPCOM3
+:RETROARCH-CAPCOM3
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Capcom Play System III" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 
-:RetroArch-DOSBOX
+:RETROARCH-DOSBOX
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\dosbox\launching.jpg
 start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" Mouse.ahk
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0retroarch*"') Do ("%~dp0%%D\retroarch.exe" --config "%~dp0%%D\config\dosbox\dosbox.conf" -L "%~dp0%%D\cores\%3" %2 -f)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 
-:RetroArch-MAME
+:RETROARCH-MAME
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "MAME" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-SEGACD
+:RETROARCH-SEGACD
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "sega CD" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 :DOLPHIN
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Gamecube" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 :PCSX2
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sony Playstation 2" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 :PPSSPP
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sony PSP" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 :DEMUL
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Dreamcast" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 
 :RETROARCH-MASTERSYSTEM
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Master System" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 :RETROARCH-MEGADRIVE
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Mega Drive" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 
 :RETROARCH-ZXSPECTRUM
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sinclair ZX Spectrum" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-NDS
+:RETROARCH-NDS
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo DS" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 
-:RetroArch-PSX
+:RETROARCH-PSX
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sony Playstation" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-N64
+:RETROARCH-N64
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo 64" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-NES
+:RETROARCH-NES
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Entertainment System" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-SNES
+:RETROARCH-SNES
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Super Nintendo Entertainment System" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-SEGA32X
+:RETROARCH-SEGA32X
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega 32X" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-MSX
+:RETROARCH-MSX
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Microsoft MSX" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 :CEMU
@@ -192,56 +214,79 @@ start "autohotkey" /d %AUTOHOTKEY% "AutoHotkeyU64.exe" CITRA.ahk
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0citra*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\citra-qt*.exe"') DO ("%~dp0%%D\%%A" %2))
 goto :EXIT
 
-::RetroArch-WONDERSWAN
+::RETROARCH-WONDERSWAN
 ::FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Bandai Wonderswan" -r %2)
+::taskkill /F /IM RocketLauncher.exe /T
 ::goto :EXIT
 
-:RetroArch-WONDERSWANCOLOR
+:RETROARCH-WONDERSWANCOLOR
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Bandai Wonderswan Color" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-GW
+:RETROARCH-GW
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Game & Watch" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-GBA
+:RETROARCH-GBA
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Game Boy Advance" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-COLECO
+:RETROARCH-COLECO
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0bluemsx*"') Do ("%~dp0%%D\blueMSX.exe" /machine "COL - ColecoVision with Opcode Memory Extension" /rom1 %2 /romtype1 "113" /fullscreen)
 taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-GB
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Game Boy" -r %2)
+:RETROARCH-VECTREX
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "GCE Vectrex" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-GAMEGEAR
+:RETROARCH-GB
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Game Boy" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
+goto :EXIT
+
+:RETROARCH-GAMEGEAR
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Sega Game Gear" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 :RETROARCH-GBC
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Nintendo Game Boy Color" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-PCENGINE
+:RETROARCH-PCENGINE
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "NEC PC Engine" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-NEOGEO
+:RETROARCH-NEOGEO
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "SNK Neo Geo" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
-:RetroArch-AMSTRADCPC
+:RETROARCH-AMSTRADCPC
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Amstrad CPC" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
+goto :EXIT
+
+:DAPHNE
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Daphne" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
+goto :EXIT
+
+:RETROARCH-C64
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do ("%~dp0%%D\RocketLauncher.exe" -s "Commodore 64" -r %2)
+taskkill /F /IM RocketLauncher.exe /T
 goto :EXIT
 
 :EXIT
-::tasklist /FI "IMAGENAME eq Frameless.exe" 2>NUL | find /I /N "Frameless.exe">NUL
-::if "%ERRORLEVEL%"=="0" taskkill /f /im Frameless.exe
 taskkill /F /IM AutoHotKeyU64.exe /T
-::taskkill /F /IM RocketLauncher.exe /T
+taskkill /F /IM RocketLauncher.exe /T
 ::taskkill /F /IM Frameless.exe /T
 ::start "Frameless" /d %BCK% "nircmd.exe" killprocess "Frameless.exe"
 

@@ -1,13 +1,13 @@
 [code]
-20:58:31:962 | RL |      INFO  | +N/A   | Main - RocketLauncher v1.1.1.1 (www.rlauncher.com)
-20:58:32:029 | RL |      INFO  | +62    | Main - System Specs:
+20:21:22:147 | RL |      INFO  | +N/A   | Main - RocketLauncher v1.1.1.1 (www.rlauncher.com)
+20:21:22:213 | RL |      INFO  | +63    | Main - System Specs:
 					RocketLauncher Dir: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher
 					RocketLauncher is: 32-bit
 					OS: Microsoft Windows 10 Pro
 					SKU: Professional
 					Total Memory: 16332.66 MB
-					Free Memory: 10101.82 MB
-					Used Memory: 6230.832 MB
+					Free Memory: 9927.38 MB
+					Used Memory: 6405.273 MB
 					SystemType: 64-bit
 					Physical Processors: 1
 					Logical Processors: 8
@@ -52,34 +52,33 @@
 					AutoHotkey Path: C:\Program Files\AutoHotkey\AutoHotkey.exe
 					AHK Version: 1.1.13.00
 					Unicode: No
-20:58:32:029 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncher.exe exists
-20:58:32:029 | RL |      INFO  | +0     | Main - Raw CLI received: "-s Nintendo Entertainment System -r D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\nes\8 Eyes (USA).zip"
-20:58:32:029 | RL |   WARNING  | +0     | Main - Front End plugin was not sent via CLI. Defaulting to the "HyperSpin" Plugin. If you want to load a different Front End Plugin, please make sure you set up your Front End so it sends this parameter to RocketLauncher: "-p <PLUGINTYPE>"
-20:58:32:029 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Plugins\HyperSpin.plugin exists
-20:58:32:030 | RL |      INFO  | +0     | Process.Process - "Exist" "RocketLauncherUI.exe" 
-20:58:32:034 | RL |      INFO  | +0     | Main - Detected RocketLauncherUI.exe is currently running
-20:58:32:035 | RL |      INFO  | +0     | Main - RocketLauncherUI.exe coordinates are x48 y35 w1262 h960
-20:58:32:035 | RL |      INFO  | +0     | Main - RocketLauncher received "Nintendo Entertainment System" and "8 Eyes (USA)"
-20:58:32:039 | RL |      INFO  | +16    | Main - Did not find a "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Nintendo Entertainment System\Game Options.ini" file, skipping any game-specific options.
-20:58:32:039 | RL |      INFO  | +0     | Main - 8 Eyes (USA) is using the default emulator: RetroArch
-20:58:32:039 | RL |      INFO  | +0     | Main - Checking for a [RetroArch] section in D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Nintendo Entertainment System\Emulators.ini
-20:58:32:039 | RL |      INFO  | +0     | Main - Checking for a [RetroArch] section in D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global Emulators.ini
-20:58:32:040 | RL |      INFO  | +0     | Main - Found [RetroArch] in D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global Emulators.ini
-20:58:32:040 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\RetroArch\RetroArch.ahk exists
-20:58:32:043 | RL |   WARNING  | +0     | Main - CRC Check - CRC does not match official module and will not be supported. Continue using at your own risk.
-20:58:32:043 | RL |      INFO  | +0     | Main - 8 Eyes (USA) will use module: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\RetroArch\RetroArch.ahk
-20:58:32:045 | RL |   WARNING  | +0     | RIniLoadVar - Created missing Global ini key: "Fade_Click_Through " in section: "Fade" in "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global RocketLauncher.ini"
-20:58:32:045 | RL |   WARNING  | +0     | RIniLoadVar - Created missing System ini key: "Fade_Click_Through " in section: "Fade" in "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Nintendo Entertainment System\RocketLauncher.ini"
-20:58:32:075 | RL |      INFO  | +31    | Main - Using standard method with "Rom Extension" SkipChecks or without any SkipChecks.
-20:58:32:078 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.exe exists
-20:58:32:078 | RL |      INFO  | +0     | Main - INI Keys read
-20:58:32:078 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.exe exists
-20:58:32:079 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.dll exists
-20:58:32:085 | RL |      INFO  | +16    | Main - "8 Eyes (USA)" does not qualify for MultiGame. Only roms with any of these strings in their name are acceptable: \(Disc|\(Disk|\(Cart|\(Tape|\(Cassette|\(Part|\(Side
-20:58:32:085 | RL |      INFO  | +0     | CheckPaths - Started
-20:58:32:085 | RL |      INFO  | +0     | CheckPaths - Not scanning to find the rom because a full path was supplied to RocketLauncher via CLI
-20:58:32:085 | RL |      INFO  | +0     | CheckPaths - Ended
-20:58:32:086 | RL |      INFO  | +0     | BuildScript - User Variables:
+20:21:22:213 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncher.exe exists
+20:21:22:214 | RL |      INFO  | +0     | Main - Raw CLI received: "-s Amstrad CPC -r D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\amstradcpc\Afterburner (UK) (1988).dsk"
+20:21:22:214 | RL |   WARNING  | +0     | Main - Front End plugin was not sent via CLI. Defaulting to the "HyperSpin" Plugin. If you want to load a different Front End Plugin, please make sure you set up your Front End so it sends this parameter to RocketLauncher: "-p <PLUGINTYPE>"
+20:21:22:214 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Plugins\HyperSpin.plugin exists
+20:21:22:214 | RL |      INFO  | +0     | Process.Process - "Exist" "RocketLauncherUI.exe" 
+20:21:22:219 | RL |      INFO  | +16    | Main - RocketLauncherUI.exe is not currently running
+20:21:22:219 | RL |      INFO  | +0     | Main - RocketLauncher received "Amstrad CPC" and "Afterburner (UK) (1988)"
+20:21:22:223 | RL |      INFO  | +0     | Main - Did not find a "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Amstrad CPC\Game Options.ini" file, skipping any game-specific options.
+20:21:22:223 | RL |      INFO  | +0     | Main - Afterburner (UK) (1988) is using the default emulator: RetroArch
+20:21:22:223 | RL |      INFO  | +0     | Main - Checking for a [RetroArch] section in D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Amstrad CPC\Emulators.ini
+20:21:22:223 | RL |      INFO  | +0     | Main - Checking for a [RetroArch] section in D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global Emulators.ini
+20:21:22:224 | RL |      INFO  | +0     | Main - Found [RetroArch] in D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global Emulators.ini
+20:21:22:224 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\RetroArch\RetroArch.ahk exists
+20:21:22:227 | RL |   WARNING  | +0     | Main - CRC Check - CRC does not match official module and will not be supported. Continue using at your own risk.
+20:21:22:227 | RL |      INFO  | +0     | Main - Afterburner (UK) (1988) will use module: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Modules\RetroArch\RetroArch.ahk
+20:21:22:229 | RL |   WARNING  | +0     | RIniLoadVar - Created missing Global ini key: "Fade_Click_Through " in section: "Fade" in "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Global RocketLauncher.ini"
+20:21:22:229 | RL |   WARNING  | +0     | RIniLoadVar - Created missing System ini key: "Fade_Click_Through " in section: "Fade" in "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Settings\Amstrad CPC\RocketLauncher.ini"
+20:21:22:261 | RL |      INFO  | +31    | Main - Using standard method with "Rom Extension" SkipChecks or without any SkipChecks.
+20:21:22:264 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.exe exists
+20:21:22:264 | RL |      INFO  | +0     | Main - INI Keys read
+20:21:22:264 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.exe exists
+20:21:22:265 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Herramientas\7-Zip\7z.dll exists
+20:21:22:270 | RL |      INFO  | +15    | Main - "Afterburner (UK) (1988)" does not qualify for MultiGame. Only roms with any of these strings in their name are acceptable: \(Disc|\(Disk|\(Cart|\(Tape|\(Cassette|\(Part|\(Side
+20:21:22:270 | RL |      INFO  | +0     | CheckPaths - Started
+20:21:22:270 | RL |      INFO  | +0     | CheckPaths - Not scanning to find the rom because a full path was supplied to RocketLauncher via CLI
+20:21:22:270 | RL |      INFO  | +0     | CheckPaths - Ended
+20:21:22:270 | RL |      INFO  | +0     | BuildScript - User Variables:
 					;----------------------------------------------------------------------------
 					; INJECTED VARIABLES
 					;----------------------------------------------------------------------------
@@ -102,7 +101,7 @@
 					rlURL = www.rlauncher.com
 					langFile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Data\Language\Localization.ini
 					primMonitor = 1
-					frontendPID = 10068
+					frontendPID = 0
 					frontendPath = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncherUI
 					frontendExe = RocketLauncherUI.exe
 					frontendExt = exe
@@ -116,19 +115,19 @@
 					emuPath = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch
 					emuName = RetroArch
 					emuExt = exe
-					baseRomPath = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\Nintendo Entertainment System
-					romPath = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\nes
-					romPathFromIni = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\nes|D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\Nintendo Entertainment System
-					romExtension = .zip
-					romExtensionOrig = .zip
+					baseRomPath = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\Amstrad CPC
+					romPath = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\amstradcpc
+					romPathFromIni = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\amstradcpc|D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\Amstrad CPC
+					romExtension = .dsk
+					romExtensionOrig = .dsk
 					romExtensions = 7z|rar|zip|sfc|gba|gb|a78|sv|gbc|rpk|gme|sc|cdt|ws|wsc|ngp|ngc|vms|ipf|n64|z64|sg|fds|caq|vb|vec|wav|cas|min|int|rom|tap|tzx|nes|col|nds|cpr|gg|pce|st2|sms|smc|lnx|md|32x|n64|a52|j64|cso|cue|iso|ccd|chd|bin|dsk|pbp|d64|t64
 					executable = retroarch.exe
-					systemDbName = Nintendo Entertainment System
-					systemName = Nintendo Entertainment System
-					dbPath = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\nes
-					dbName = 8 Eyes (USA)
-					dbExt = zip
-					romName = 8 Eyes (USA)
+					systemDbName = Amstrad CPC
+					systemName = Amstrad CPC
+					dbPath = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\amstradcpc
+					dbName = Afterburner (UK) (1988)
+					dbExt = dsk
+					romName = Afterburner (UK) (1988)
 					romMapPath = 
 					romMappingEnabled = false
 					romMappingLaunchMenuEnabled = false
@@ -236,9 +235,9 @@
 					fadeOutDuration = 500
 					fadeOutTransitionAnimation = DefaultAnimateFadeOut
 					fadeOutDelay = 0
-					fadeLyrInterpolation = 2
-					fadeMuteEmulator = true
-					fadeUseBackgrounds = true
+					fadeLyrInterpolation = 7
+					fadeMuteEmulator = false
+					fadeUseBackgrounds = false
 					fadeClickThrough = false
 					fadeSounds = true
 					fade7zProgressMode = extraction
@@ -293,7 +292,7 @@
 					fadeBarWindowR = 30
 					fadeBarWindowM = 30
 					fadeBarWindowHatchStyle = 8
-					fadeBar = false
+					fadeBar = 7zOnly
 					fadeProgressDuration = 0
 					fadeBarBack = true
 					fadeBarBackColor = FF555555
@@ -301,7 +300,7 @@
 					fadeBarR = 10
 					fadeBarColor = DD00BFFF
 					fadeBarHatchStyle = 8
-					fadeBarPercentageText = false
+					fadeBarPercentageText = true
 					fadeBarInfoText = true
 					fadeBarXOffset = 0
 					fadeBarYOffset = 150
@@ -427,17 +426,17 @@
 					rotateMethod = false
 					FEProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\RocketLauncherUI
 					defaultProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\_Default
-					systemProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Nintendo Entertainment System
-					xPadderSystemProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Nintendo Entertainment System\_Default
-					emuProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Nintendo Entertainment System\RetroArch
-					romProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Nintendo Entertainment System\8 Eyes (USA)
+					systemProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Amstrad CPC
+					xPadderSystemProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Amstrad CPC\_Default
+					emuProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Amstrad CPC\RetroArch
+					romProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\Amstrad CPC\Afterburner (UK) (1988)
 					RocketLauncherProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\RocketLauncher
 					blankProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\xpadder\_Default\blank
 					ahkFEProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\RocketLauncherUI
 					ahkDefaultProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\_Default
-					ahkSystemProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Nintendo Entertainment System
-					ahkEmuProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Nintendo Entertainment System\RetroArch
-					ahkRomProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Nintendo Entertainment System\8 Eyes (USA)
+					ahkSystemProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Amstrad CPC
+					ahkEmuProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Amstrad CPC\RetroArch
+					ahkRomProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\Amstrad CPC\Afterburner (UK) (1988)
 					ahkRocketLauncherProfile = D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Profiles\AHK\RocketLauncher
 					bezelEnabled = true
 					bezelICEnabled = false
@@ -457,13 +456,13 @@
 					testDuration = 
 					initialErrorMode = 0
 
-20:58:32:096 | RL |      INFO  | +0     | BuildScript - Loaded XHotkey Init.ahk scripts
-20:58:32:096 | RL |      INFO  | +0     | BuildScript - Loaded Fade Init.ahk scripts
-20:58:32:096 | RL |      INFO  | +0     | BuildScript - Loaded Statistics Init.ahk scripts
-20:58:32:096 | RL |   WARNING  | +0     | BuildScript - "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Functions Init.ahk" not found
-20:58:32:096 | RL |      INFO  | +0     | BuildScript - Validating module
-20:58:32:105 | RL |      INFO  | +15    | BuildScript - Validation complete
-20:58:32:106 | RL |      INFO  | +0     | BuildScript - Module:
+20:21:22:274 | RL |      INFO  | +0     | BuildScript - Loaded XHotkey Init.ahk scripts
+20:21:22:274 | RL |      INFO  | +0     | BuildScript - Loaded Fade Init.ahk scripts
+20:21:22:274 | RL |      INFO  | +0     | BuildScript - Loaded Statistics Init.ahk scripts
+20:21:22:274 | RL |   WARNING  | +0     | BuildScript - "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Functions Init.ahk" not found
+20:21:22:274 | RL |      INFO  | +0     | BuildScript - Validating module
+20:21:22:277 | RL |      INFO  | +0     | BuildScript - Validation complete
+20:21:22:277 | RL |      INFO  | +0     | BuildScript - Module:
 					MEmu := "RetroArch"
 					MEmuV := "v1.3.6"
 					MURL := ["http://themaister.net/retroarch.html"]
@@ -1323,17 +1322,17 @@
 						emuPrimaryWindow.Close()
 					Return
 
-20:58:32:138 | RL |      INFO  | +32    | BuildScript - Loaded Multi-Player scripts
-20:58:32:143 | RL |      INFO  | +0     | BuildScript - Loaded Statistics.ahk script
-20:58:32:143 | RL |   WARNING  | +0     | BuildScript - "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Functions.ahk" not found
-20:58:32:143 | RL |      INFO  | +0     | BuildScript - Finished injecting functions into module
-20:58:32:144 | RL |      INFO  | +0     | Main - Module is built
-20:58:32:144 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\AutoHotkey.dll exists
-20:58:32:146 | RL |      INFO  | +0     | Main - Hiding taskbar
-20:58:32:266 | RL |      INFO  | +125   | Main - Running module
-20:58:32:468 | MD |      INFO  | +N/A   | Module initialized
-20:58:32:470 | MD |      INFO  | +0     | StartModule - Started
-20:58:32:470 | MD |      INFO  | +0     | StartModule - MEmu: RetroArch
+20:21:22:288 | RL |      INFO  | +16    | BuildScript - Loaded Multi-Player scripts
+20:21:22:290 | RL |      INFO  | +0     | BuildScript - Loaded Statistics.ahk script
+20:21:22:290 | RL |   WARNING  | +0     | BuildScript - "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Lib\User Functions.ahk" not found
+20:21:22:290 | RL |      INFO  | +0     | BuildScript - Finished injecting functions into module
+20:21:22:291 | RL |      INFO  | +0     | Main - Module is built
+20:21:22:291 | RL |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\AutoHotkey.dll exists
+20:21:22:293 | RL |      INFO  | +0     | Main - Hiding taskbar
+20:21:22:392 | RL |      INFO  | +109   | Main - Running module
+20:21:22:527 | MD |      INFO  | +N/A   | Module initialized
+20:21:22:527 | MD |      INFO  | +0     | StartModule - Started
+20:21:22:527 | MD |      INFO  | +0     | StartModule - MEmu: RetroArch
 					MEmuV: v1.3.6
 					MURL: 
 					MAuthor: 
@@ -1342,117 +1341,108 @@
 					iCRC: FB2DB971
 					MID: 
 					MSystem: 
-20:58:32:470 | MD |   WARNING  | +0     | StartModule - You have an unsupported System Name for this module: "Nintendo Entertainment System". Only the following System Names are suppported: ""
-20:58:32:471 | MD |      INFO  | +0     | PluginInit - Started
-20:58:32:471 | MD |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncherUI\Databases\Nintendo Entertainment System\Nintendo Entertainment System.xml exists
-20:58:32:473 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: Game Logo|System Logo
-20:58:32:473 | MD |      INFO  | +0     | BuildAssetsTable - Ended
-20:58:32:473 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: Artwork1|Box Art|Cartridge|Flyers|Letters|Other
-20:58:32:474 | MD |      INFO  | +0     | BuildAssetsTable - Ended
-20:58:32:474 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: Game Video|System Video
-20:58:32:474 | MD |      INFO  | +0     | BuildAssetsTable - Ended
-20:58:32:474 | MD |      INFO  | +0     | PluginInit - Ended
-20:58:32:498 | MD |      INFO  | +31    | SystemCursor - Hiding mouse cursor
-20:58:32:589 | MD |      INFO  | +94    | StartModule - Ended
-20:58:32:589 | MD |      INFO  | +0     | BezelGUI - Started
-20:58:32:731 | MD |      INFO  | +140   | BezelGUI - Ended
-20:58:32:732 | MD |      INFO  | +0     | GetFadePicFile - Randomized images and Fade  will use D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Fade\Nintendo Entertainment System\_Default\Layer 1 - nosh.png
-20:58:32:733 | MD |      INFO  | +0     | GetFadePicFile - Randomized images and Fade  will use D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Fade\Nintendo Entertainment System\_Default\Extra Layer 1 - Console - nosh.png
-20:58:32:934 | MD |      INFO  | +204   | DefaultAnimateFadeIn - Started, direction is: in
-20:58:32:934 | MD |      INFO  | +0     | DefaultAnimateFadeIn - Drawing First FadeIn Image.
-20:58:33:438 | MD |      INFO  | +500   | DefaultAnimateFadeIn - Ended
-20:58:33:565 | MD |      INFO  | +125   | DefaultFadeAnimation - Started
-20:58:33:566 | MD |      INFO  | +0     | GetFadePicFile - Randomized images and Fade  will use D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Fade\_Default\Info Bar - nosh.png
-20:58:33:607 | MD |      INFO  | +46    | BuildAssetsTable - Started - Building Table for: Genre Logo|Rating Logo|Developer Logo|Publisher Logo|Year Logo
-20:58:33:607 | MD |      INFO  | +0     | BuildAssetsTable - Ended
-20:58:33:607 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: System Logo|Game Logo|Game Logo
-20:58:33:608 | MD |      INFO  | +0     | BuildAssetsTable - Ended
-20:58:33:639 | MD |      INFO  | +32    | DefaultFadeAnimation - Ended
-20:58:33:639 | MD |      INFO  | +0     | DxwndUpdateIniPath - DxwndIni set to D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\dxwnd\dxwnd.ini
-20:58:33:643 | MD |      INFO  | +0     | Module - Using these system variables:
-20:58:33:643 | MD |      INFO  | +0     | Module - retroSystem: Nintendo Entertainment System
-20:58:33:643 | MD |      INFO  | +0     | Module - retroID: LibRetro_NES
-20:58:33:643 | MD |      INFO  | +0     | Module - retroCore: nestopia_libretro
-20:58:33:643 | MD |      INFO  | +0     | Module - retroMAMEID: nes
-20:58:33:643 | MD |      INFO  | +0     | Module - retroMAMEMedia: cdrom
-20:58:33:643 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Settings] - Fullscreen: true
-20:58:33:643 | MD |      INFO  | +0     | RIniFile.Read - Module - ConfigFolder: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\config (DEFAULT)
-20:58:33:643 | MD |      INFO  | +0     | RIniFile.Read - Module - single_core_options: false (DEFAULT)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - BIOS_Roms_Folder: (NO VALUE)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - Hide_Nag_Screen: false (DEFAULT)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - Hide_Info_Screen: false (DEFAULT)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - Hide_Warning_Screen: false (DEFAULT)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Settings] - HideConsole: true
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - Eject_Toggle_Key: (NO VALUE)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - Next_Disk_Key: (NO VALUE)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - Previous_Disk_Key: (NO VALUE)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Nintendo Entertainment System] - LibRetro_Core: fceumm_libretro
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - SuperGameBoy: false (DEFAULT)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - Enable_Network_Play: false (DEFAULT)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - Overlay: (NO VALUE)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - VideoShader: (NO VALUE)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - AspectRatioIndex: (NO VALUE)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - CustomViewportWidth: (NO VALUE)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - CustomViewportHeight: (NO VALUE)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - CustomViewportX: (NO VALUE)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - CustomViewportY: (NO VALUE)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Nintendo Entertainment System] - StretchToFillBezel: true
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - Rotation: 0 (DEFAULT)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Nintendo Entertainment System] - CropOverscan: true
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Nintendo Entertainment System] - ThreadedVideo: true
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module - VSync: (NO VALUE)
-20:58:33:644 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Nintendo Entertainment System] - IntegerScale: true
-20:58:33:645 | MD |      INFO  | +0     | RIniFile.Read - Module - ConfigurationPerCore: false (DEFAULT)
-20:58:33:645 | MD |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\cores\fceumm_libretro.dll exists
-20:58:33:645 | MD |      INFO  | +0     | Module - Global cfg should be: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg
-20:58:33:645 | MD |      INFO  | +0     | Module - System cfg should be: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\config\Nintendo Entertainment System.cfg
-20:58:33:645 | MD |      INFO  | +0     | Module - Core cfg should be: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\config\fceumm_libretro.cfg
-20:58:33:645 | MD |      INFO  | +0     | Module - Found a Global cfg!
-20:58:33:645 | MD |      INFO  | +0     | Module - RetroArch is using D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg as its config file.
-20:58:33:645 | MD |      INFO  | +0     | LoadProperties - Started and loading this cfg into memory: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg
-20:58:33:646 | MD |      INFO  | +0     | LoadProperties - Ended
-20:58:33:646 | MD |      INFO  | +0     | Module - Reading / creating system ini for specific settings.
-20:58:33:646 | MD |      INFO  | +0     | LoadProperties - Started and loading this cfg into memory: 
-20:58:33:646 | MD |      INFO  | +0     | LoadProperties - Ended
-20:58:33:668 | MD |      INFO  | +31    | SaveProperties - Started and saving this cfg to disk: 
-20:58:33:668 | MD |      INFO  | +0     | SaveProperties - Ended
-20:58:33:668 | MD |      INFO  | +0     | Module - Retroarch standard mode enabled
-20:58:33:668 | MD |      INFO  | +0     | BezelStart - Started
-20:58:33:705 | MD |      INFO  | +31    | DefaultFadeAnimationLoop - percentage
-20:58:33:768 | MD |      INFO  | +63    | DefaultFadeAnimationLoop - percentage100
-20:58:33:830 | MD |      INFO  | +62    | Bezel - Game will be moved to monitor 1 if RL finds a valid bezel to be show.
-20:58:33:833 | MD |      INFO  | +0     | Bezel - Loading Bezel image: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Bezels\Nintendo Entertainment System\_Default\Bezel - horizontal.png
-20:58:33:854 | MD |      INFO  | +31    | Bezel - Loading Background image: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Bezels\_Default\Background4 Nosh.png
-20:58:33:863 | MD |      INFO  | +0     | BezelStart - Ended
-20:58:33:863 | MD |      INFO  | +0     | Stretching viewport to fit bezel
-20:58:33:976 | MD |      INFO  | +125   | Module - Saving changed settings to: "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg"
-20:58:33:977 | MD |      INFO  | +0     | SaveProperties - Started and saving this cfg to disk: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg
-20:58:33:016 | MD |      INFO  | +32    | SaveProperties - Ended
-20:58:34:017 | MD |      INFO  | +0     | Process.Run - Running: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.exe  "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\nes\8 Eyes (USA).zip" -c "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg" -L "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\cores\fceumm_libretro.dll
-20:58:34:088 | MD |      INFO  | +78    | Window.Wait - Waiting for window "RetroArch ahk_class RetroArch"
-20:58:34:274 | MD |      INFO  | +187   | Window.WaitActive - Waiting for "RetroArch ahk_class RetroArch"
-20:58:35:134 | MD |      INFO  | +860   | BezelDraw - Started
-20:58:35:238 | MD |      INFO  | +93    | Bezel - Bezel Screen Offset: left= top= right= bottom=
-20:58:35:389 | MD |      INFO  | +157   | ToggleMenu - Started
-20:58:35:919 | MD |   WARNING  | +531   | ToggleMenu - Timed out trying to restore MenuBar for 0x470a58
-20:58:35:919 | MD |      INFO  | +0     | ToggleMenu - Ended
-20:58:36:480 | MD |      INFO  | +562   | BezelDraw - Ended
-20:58:36:483 | MD |      INFO  | +0     | DefaultAnimateFadeIn - Started, direction is: out
-20:58:36:984 | MD |      INFO  | +500   | DefaultAnimateFadeIn - Ended
-20:58:37:098 | MD |      INFO  | +110   | Process.Process - "WaitClose" "retroarch.exe" 
-20:58:39:127 | MD |      INFO  | +2031  | BezelExit - Started
-20:58:39:151 | MD |      INFO  | +31    | Bezel - Removing bezel image components to exit RocketLauncher.
-20:58:39:153 | MD |      INFO  | +0     | BezelExit - Ended
-20:58:39:153 | MD |      INFO  | +0     | ExitModule - Started
-20:58:39:153 | MD |      INFO  | +0     | Starting Updating Statistics:
-20:58:39:308 | MD |      INFO  | +157   | Game section statistics updated.
-20:58:39:308 | MD |      INFO  | +0     | ExitModule - Ended
+20:21:22:527 | MD |   WARNING  | +0     | StartModule - You have an unsupported System Name for this module: "Amstrad CPC". Only the following System Names are suppported: ""
+20:21:22:528 | MD |      INFO  | +0     | PluginInit - Started
+20:21:22:528 | MD |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\RocketLauncherUI\Databases\Amstrad CPC\Amstrad CPC.xml exists
+20:21:22:529 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: Game Logo|System Logo
+20:21:22:529 | MD |      INFO  | +0     | BuildAssetsTable - Ended
+20:21:22:529 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: Artwork1|Box Art|Cartridge|Flyers|Letters|Other
+20:21:22:529 | MD |      INFO  | +0     | BuildAssetsTable - Ended
+20:21:22:529 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: Game Video|System Video
+20:21:22:529 | MD |      INFO  | +0     | BuildAssetsTable - Ended
+20:21:22:529 | MD |      INFO  | +0     | PluginInit - Ended
+20:21:22:530 | MD |      INFO  | +0     | SystemCursor - Hiding mouse cursor
+20:21:22:557 | MD |      INFO  | +32    | StartModule - Ended
+20:21:22:557 | MD |      INFO  | +0     | BezelGUI - Started
+20:21:22:594 | MD |      INFO  | +31    | BezelGUI - Ended
+20:21:22:623 | MD |      INFO  | +31    | DefaultAnimateFadeIn - Started, direction is: in
+20:21:22:623 | MD |      INFO  | +0     | DefaultAnimateFadeIn - Drawing First FadeIn Image.
+20:21:23:117 | MD |      INFO  | +500   | DefaultAnimateFadeIn - Ended
+20:21:23:147 | MD |      INFO  | +31    | DefaultFadeAnimation - Started
+20:21:23:147 | MD |      INFO  | +0     | GetFadePicFile - Randomized images and Fade  will use D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Fade\_Default\Info Bar - nosh.png
+20:21:23:182 | MD |      INFO  | +32    | BuildAssetsTable - Started - Building Table for: Genre Logo|Rating Logo|Developer Logo|Publisher Logo|Year Logo
+20:21:23:182 | MD |      INFO  | +0     | BuildAssetsTable - Ended
+20:21:23:182 | MD |      INFO  | +0     | BuildAssetsTable - Started - Building Table for: System Logo|Game Logo|Game Logo
+20:21:23:182 | MD |      INFO  | +0     | BuildAssetsTable - Ended
+20:21:23:204 | MD |      INFO  | +31    | DefaultFadeAnimation - Ended
+20:21:23:204 | MD |      INFO  | +0     | DxwndUpdateIniPath - DxwndIni set to D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Module Extensions\dxwnd\dxwnd.ini
+20:21:23:209 | MD |      INFO  | +0     | Module - Using these system variables:
+20:21:23:209 | MD |      INFO  | +0     | Module - retroSystem: Amstrad CPC
+20:21:23:209 | MD |      INFO  | +0     | Module - retroID: LibRetro_CPC
+20:21:23:209 | MD |      INFO  | +0     | Module - retroCore: mame_libretro
+20:21:23:209 | MD |      INFO  | +0     | Module - retroMAMEID: cpc464
+20:21:23:209 | MD |      INFO  | +0     | Module - retroMAMEMedia: 
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Settings] - Fullscreen: true
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module - ConfigFolder: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\config (DEFAULT)
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module - single_core_options: false (DEFAULT)
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module - BIOS_Roms_Folder: (NO VALUE)
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module - Hide_Nag_Screen: false (DEFAULT)
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module - Hide_Info_Screen: false (DEFAULT)
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module - Hide_Warning_Screen: false (DEFAULT)
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Settings] - HideConsole: true
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module - Eject_Toggle_Key: (NO VALUE)
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module - Next_Disk_Key: (NO VALUE)
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module - Previous_Disk_Key: (NO VALUE)
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Amstrad CPC] - LibRetro_Core: crocods_libretro
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module - SuperGameBoy: false (DEFAULT)
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module - Enable_Network_Play: false (DEFAULT)
+20:21:23:209 | MD |      INFO  | +0     | RIniFile.Read - Module - Overlay: (NO VALUE)
+20:21:23:210 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Amstrad CPC] - VideoShader: ..\RetroArch\shaders\shaders_cg\retro\smootheststep.cgp
+20:21:23:210 | MD |      INFO  | +0     | RIniFile.Read - Module - AspectRatioIndex: (NO VALUE)
+20:21:23:210 | MD |      INFO  | +0     | RIniFile.Read - Module - CustomViewportWidth: (NO VALUE)
+20:21:23:210 | MD |      INFO  | +0     | RIniFile.Read - Module - CustomViewportHeight: (NO VALUE)
+20:21:23:210 | MD |      INFO  | +0     | RIniFile.Read - Module - CustomViewportX: (NO VALUE)
+20:21:23:210 | MD |      INFO  | +0     | RIniFile.Read - Module - CustomViewportY: (NO VALUE)
+20:21:23:210 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Amstrad CPC] - StretchToFillBezel: true
+20:21:23:210 | MD |      INFO  | +0     | RIniFile.Read - Module - Rotation: 0 (DEFAULT)
+20:21:23:210 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Amstrad CPC] - CropOverscan: true
+20:21:23:210 | MD |      INFO  | +0     | RIniFile.Read - Module - ThreadedVideo: (NO VALUE)
+20:21:23:210 | MD |      INFO  | +0     | RIniFile.Read - Module - VSync: (NO VALUE)
+20:21:23:210 | MD |      INFO  | +0     | RIniFile.Read - Module {GlobalModuleIni} - [Amstrad CPC] - IntegerScale: false
+20:21:23:210 | MD |      INFO  | +0     | RIniFile.Read - Module - ConfigurationPerCore: false (DEFAULT)
+20:21:23:210 | MD |      INFO  | +0     | CheckFile - Checking if D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\cores\crocods_libretro.dll exists
+20:21:23:210 | MD |      INFO  | +0     | Module - Global cfg should be: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg
+20:21:23:210 | MD |      INFO  | +0     | Module - System cfg should be: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\config\Amstrad CPC.cfg
+20:21:23:210 | MD |      INFO  | +0     | Module - Core cfg should be: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\config\crocods_libretro.cfg
+20:21:23:211 | MD |      INFO  | +0     | Module - Found a Global cfg!
+20:21:23:211 | MD |      INFO  | +0     | Module - RetroArch is using D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg as its config file.
+20:21:23:211 | MD |      INFO  | +0     | LoadProperties - Started and loading this cfg into memory: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg
+20:21:23:211 | MD |      INFO  | +0     | LoadProperties - Ended
+20:21:23:212 | MD |      INFO  | +0     | Module - Retroarch standard mode enabled
+20:21:23:212 | MD |      INFO  | +0     | BezelStart - Started
+20:21:23:269 | MD |      INFO  | +62    | DefaultFadeAnimationLoop - percentage
+20:21:23:302 | MD |      INFO  | +32    | Bezel - Game will be moved to monitor 1 if RL finds a valid bezel to be show.
+20:21:23:305 | MD |      INFO  | +0     | Bezel - Loading Bezel image: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Bezels\_Default\Bezel - 80 television.png
+20:21:23:310 | MD |      INFO  | +0     | Bezel - Loading Background image: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RocketLauncher\Media\Bezels\_Default\Background4 Nosh.png
+20:21:23:329 | MD |      INFO  | +31    | DefaultFadeAnimationLoop - percentage100
+20:21:23:335 | MD |      INFO  | +0     | BezelStart - Ended
+20:21:23:335 | MD |      INFO  | +0     | Stretching viewport to fit bezel
+20:21:23:402 | MD |      INFO  | +62    | Module - Saving changed settings to: "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg"
+20:21:23:402 | MD |      INFO  | +0     | SaveProperties - Started and saving this cfg to disk: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg
+20:21:23:457 | MD |      INFO  | +63    | SaveProperties - Ended
+20:21:23:457 | MD |      INFO  | +0     | Process.Run - Running: D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.exe  "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Roms\amstradcpc\Afterburner (UK) (1988).dsk" -c "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\retroarch.cfg" -L "D:\RETROSHUR-PREFINAL\RETROSHUR-FRONTEND\Emuladores\RetroArch\cores\crocods_libretro.dll
+20:21:23:567 | MD |      INFO  | +109   | Window.Wait - Waiting for window "RetroArch ahk_class RetroArch"
+20:21:23:759 | MD |      INFO  | +188   | Window.WaitActive - Waiting for "RetroArch ahk_class RetroArch"
+20:21:24:550 | MD |      INFO  | +797   | BezelDraw - Started
+20:21:24:645 | MD |      INFO  | +93    | Bezel - Bezel Screen Offset: left= top= right= bottom=
+20:21:24:830 | MD |      INFO  | +188   | ToggleMenu - Started
+20:21:25:350 | MD |   WARNING  | +516   | ToggleMenu - Timed out trying to restore MenuBar for 0x50c5a
+20:21:25:350 | MD |      INFO  | +0     | ToggleMenu - Ended
+20:21:25:871 | MD |      INFO  | +515   | BezelDraw - Ended
+20:21:25:871 | MD |      INFO  | +0     | DefaultAnimateFadeIn - Started, direction is: out
+20:21:26:380 | MD |      INFO  | +516   | DefaultAnimateFadeIn - Ended
+20:21:26:450 | MD |      INFO  | +62    | Process.Process - "WaitClose" "retroarch.exe" 
+20:21:41:838 | MD |      INFO  | +15391 | BezelExit - Started
+20:21:41:915 | MD |      INFO  | +78    | Bezel - Removing bezel image components to exit RocketLauncher.
+20:21:41:917 | MD |      INFO  | +0     | BezelExit - Ended
+20:21:41:917 | MD |      INFO  | +0     | ExitModule - Started
+20:21:41:917 | MD |      INFO  | +0     | Starting Updating Statistics:
+20:21:42:108 | MD |      INFO  | +188   | Game section statistics updated.
+20:21:42:108 | MD |      INFO  | +0     | ExitModule - Ended
 End of Module Logs
-20:58:39:352 | RL |      INFO  | +7093  | Main - Module ended, exiting RocketLauncher normally
-20:58:39:352 | RL |      INFO  | +0     | ExitScript - Started
-20:58:39:365 | RL |      INFO  | +16    | ExitScript - Checking what application is currently in focus.
-20:58:39:365 | RL |      INFO  | +0     | ExitScript - C:\WINDOWS\system32\cmd.exe is currently active. Putting focus back on RocketLauncherUI.exe with PID of 10068
-20:58:39:605 | RL |      INFO  | +234   | ExitScript - Restoring taskbar
-20:58:39:735 | RL |      INFO  | +125   | SystemCursor - Restoring mouse cursor
-20:58:39:748 | RL |      INFO  | +16    | ExitScript - Restored cursor
+20:21:42:221 | RL |      INFO  | +19829 | Main - Module ended, exiting RocketLauncher normally
+20:21:42:221 | RL |      INFO  | +0     | ExitScript - Started
+20:21:42:251 | RL |      INFO  | +31    | ExitScript - Restoring taskbar
+20:21:42:387 | RL |      INFO  | +125   | SystemCursor - Restoring mouse cursor
+20:21:42:411 | RL |      INFO  | +31    | ExitScript - Restored cursor
 [/code]
