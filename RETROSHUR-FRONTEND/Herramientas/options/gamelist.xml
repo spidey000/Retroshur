@@ -101,4 +101,11 @@
 		<playcount>2</playcount>
 		<lastplayed>20170922T072011</lastplayed>
 	</game>
+	<game>
+		<path>./Retroshur-Rom-Downloader/Vectrex.bat</path>
+		<name>Vectrex</name>
+		<image>./boxart/Vectrex.png</image>
+		<playcount>1</playcount>
+		<lastplayed>20170922T083627</lastplayed>
+	</game>
 </gameList>
