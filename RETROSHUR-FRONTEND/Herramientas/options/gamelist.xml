@@ -11,13 +11,6 @@
 		<image>./boxart/2.-Actualiza-Cores.png</image>
 	</game>
 	<game>
-		<path>./RETROARCH-MENU.bat</path>
-		<name>RETROARCH-MENU</name>
-		<image>C:/Users/papilyn/Desktop/RETROSHUR-ALPHA4/RETROSHUR-FRONTEND/Roms/options/boxart/RETROARCH-MENU.png</image>
-		<playcount>1</playcount>
-		<lastplayed>20170819T151749</lastplayed>
-	</game>
-	<game>
 		<path>./Configurar-Mandos/1.-PLAYER1.bat</path>
 		<name>1.-PLAYER1</name>
 		<playcount>17</playcount>
@@ -58,5 +51,54 @@
 		<name>MODO-ROCKET-LAUNCHER</name>
 		<playcount>36</playcount>
 		<lastplayed>20170919T185713</lastplayed>
+	</game>
+	<game>
+		<path>./Emuladores/Demul.bat</path>
+		<name>Demul</name>
+		<image>./boxart/Demul.png</image>
+		<playcount>4</playcount>
+		<lastplayed>20170922T063829</lastplayed>
+	</game>
+	<game>
+		<path>./Emuladores/BlueMSX.bat</path>
+		<name>BlueMSX</name>
+		<image>./boxart/BlueMSX.png</image>
+		<playcount>1</playcount>
+		<lastplayed>20170922T064753</lastplayed>
+	</game>
+	<game>
+		<path>./Emuladores/RetroArch.bat</path>
+		<name>RetroArch</name>
+		<image>./boxart/RetroArch.png</image>
+		<playcount>1</playcount>
+		<lastplayed>20170922T065259</lastplayed>
+	</game>
+	<game>
+		<path>./Emuladores/Dolphin.bat</path>
+		<name>Dolphin</name>
+		<image>./boxart/Dolphin.png</image>
+		<playcount>1</playcount>
+		<lastplayed>20170922T065826</lastplayed>
+	</game>
+	<game>
+		<path>./Emuladores/PCSX2.bat</path>
+		<name>PCSX2</name>
+		<image>./boxart/PCSX2.png</image>
+		<playcount>2</playcount>
+		<lastplayed>20170922T070336</lastplayed>
+	</game>
+	<game>
+		<path>./Emuladores/Rocket-LauncherUI.bat</path>
+		<name>Rocket-LauncherUI</name>
+		<image>./boxart/Rocket-LauncherUI.png</image>
+		<playcount>5</playcount>
+		<lastplayed>20170922T071144</lastplayed>
+	</game>
+	<game>
+		<path>./Emuladores/Spectaculator.bat</path>
+		<name>Spectaculator</name>
+		<image>./boxart/Spectaculator.png</image>
+		<playcount>2</playcount>
+		<lastplayed>20170922T072011</lastplayed>
 	</game>
 </gameList>
