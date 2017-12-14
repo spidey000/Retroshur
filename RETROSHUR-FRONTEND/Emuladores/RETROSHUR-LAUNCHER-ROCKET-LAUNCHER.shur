@@ -50,6 +50,11 @@ if "%1"=="gameandwatch" goto :RETROARCH-GW
 if "%1"=="zxspectrum" goto :RETROARCH-ZXSPECTRUM
 exit /b %ERRORLEVEL%
 ::ABAJO: codigo para lanzar retroarch por sistemas
+:RETROARCH-AMSTRADCPC
+FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\RocketLauncher.exe"')  DO ("%~dp0%%D\%%A" -s "Amstrad CPC" -r %2))
+::taskkill /F /IM RocketLauncher.exe /T
+exit /b %ERRORLEVEL%
+
 
 :RETROARCH-AMIGA
 ::start "Frameless" /d %BCK% "Frameless.exe" %~dp0Backgrounds\amiga\launching.jpg
@@ -149,11 +154,6 @@ exit /b %ERRORLEVEL%
 
 :RETROARCH-PCENGINE
 FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\RocketLauncher.exe"')  DO ("%~dp0%%D\%%A" -s "NEC PC Engine" -r %2))
-taskkill /F /IM RocketLauncher.exe /T
-exit /b %ERRORLEVEL%
-
-:RETROARCH-AMSTRADCPC
-FOR /f "tokens=*" %%D IN ('dir /b "%~dp0RocketLauncher*"') Do (FOR /f "tokens=*" %%A IN ('dir /b "%~dp0%%D\RocketLauncher.exe"')  DO ("%~dp0%%D\%%A" -s "Amstrad CPC" -r %2))
 taskkill /F /IM RocketLauncher.exe /T
 exit /b %ERRORLEVEL%
 
