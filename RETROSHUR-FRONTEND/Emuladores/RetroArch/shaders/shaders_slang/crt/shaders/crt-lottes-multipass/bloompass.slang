@@ -68,7 +68,6 @@ layout(location = 0) in vec2 vTexCoord;
 layout(location = 1) in vec2 FragCoord;
 layout(location = 0) out vec4 FragColor;
 layout(set = 0, binding = 2) uniform sampler2D Source;
-layout(set = 0, binding = 3) uniform sampler2D Original;
 
 //Uncomment to reduce instructions with simpler linearization
 //(fixes HD3000 Sandy Bridge IGP)
@@ -135,9 +134,9 @@ vec3 ToSrgb(vec3 c)
 vec3 Fetch(vec2 pos,vec2 off){
   pos=(floor(pos*global.SourceSize.xy+off)+vec2(0.5,0.5))/global.SourceSize.xy;
 #ifdef SIMPLE_LINEAR_GAMMA
-  return ToLinear(param.brightBoost * pow(texture(Original,pos.xy).rgb, vec3(2.2)));
+  return ToLinear(pow(texture(Source,pos.xy).rgb, vec3(2.2)));
 #else
-  return ToLinear(param.brightBoost * texture(Original,pos.xy).rgb);
+  return ToLinear(texture(Source,pos.xy).rgb);
 #endif
 }
   

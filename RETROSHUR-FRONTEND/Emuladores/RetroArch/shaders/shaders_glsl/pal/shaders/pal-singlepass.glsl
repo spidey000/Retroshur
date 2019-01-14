@@ -71,8 +71,8 @@ COMPAT_VARYING vec4 COL0;
 COMPAT_VARYING vec4 TEX0;
 
 uniform mat4 MVPMatrix;
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -112,8 +112,8 @@ precision mediump float;
 #define COMPAT_PRECISION
 #endif
 
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -123,7 +123,7 @@ COMPAT_VARYING vec4 TEX0;
 // fragment compatibility #defines
 #define Source Texture
 #define vTexCoord TEX0.xy
-#define texture(c, d) COMPAT_TEXTURE(c, d)
+
 #define SourceSize vec4(TextureSize, 1.0 / TextureSize) //either TextureSize or InputSize
 #define outsize vec4(OutputSize, 1.0 / OutputSize)
 
@@ -164,7 +164,7 @@ uniform COMPAT_PRECISION float PHASE_NOISE;
                             0.0,     -0.39465,   2.03211,\
                             1.13983, -0.58060,   0.0)
                             
-#define fetch(ofs,center,invx) texture(Source, vec2((ofs) * (invx) + center.x, center.y))
+#define fetch(ofs,center,invx) COMPAT_TEXTURE(Source, vec2((ofs) * (invx) + center.x, center.y))
 
 #define FIRTAPS 20.
 #if __VERSION__ < 130

@@ -60,7 +60,7 @@ layout(location = 0) out vec2 vTexCoord;
 void main()
 {
 	gl_Position = global.MVP * Position;
-	vTexCoord = TexCoord;
+	vTexCoord = TexCoord*1.0001;;
 }
 
 
@@ -68,7 +68,7 @@ void main()
 layout(location = 0) in vec2 vTexCoord;
 layout(location = 0) out vec4 FragColor;
 layout(binding = 1) uniform sampler2D Source;
-layout(binding = 2) uniform sampler2D PassOutput0;
+layout(binding = 2) uniform sampler2D scalefx_pass0;
 
 
 #define LE(x, y) (1 - step(y, x))
@@ -99,7 +99,7 @@ void main()
 	*/
 
 
-#define TEXm(x, y) textureOffset(PassOutput0, vTexCoord, ivec2(x, y))
+#define TEXm(x, y) textureOffset(scalefx_pass0, vTexCoord, ivec2(x, y))
 #define TEXs(x, y) textureOffset(Source, vTexCoord, ivec2(x, y))
 
 
@@ -151,9 +151,9 @@ void main()
 	vec4 h = vec4(min(D.w, A.w), min(E.w, B.w), min(E.w, H.w), min(D.w, G.w));
 	vec4 v = vec4(min(E.y, D.y), min(E.y, F.y), min(H.y, I.y), min(H.y, G.y));
 
-	vec4 or   = GE(h + vec4(D.w, E.w, E.w, D.w), v + vec4(E.y, E.y, H.y, H.y));	// orientation
-	vec4 hori = LE(h, v) * clr;	// horizontal edges
-	vec4 vert = GE(h, v) * clr;	// vertical edges
+	vec4 orien = GE(h + vec4(D.w, E.w, E.w, D.w), v + vec4(E.y, E.y, H.y, H.y));	// orientation
+	vec4 hori  = LE(h, v) * clr;	// horizontal edges
+	vec4 vert  = GE(h, v) * clr;	// vertical edges
 
-	FragColor = (res + 2 * hori + 4 * vert + 8 * or) / 15;
+	FragColor = (res + 2 * hori + 4 * vert + 8 * orien) / 15;
 }

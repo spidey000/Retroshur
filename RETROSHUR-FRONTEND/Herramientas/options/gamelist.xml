@@ -11,12 +11,6 @@
 		<image>./boxart/2.-Actualiza-Cores.png</image>
 	</game>
 	<game>
-		<path>./Configurar-Mandos/1.-PLAYER1.bat</path>
-		<name>1.-PLAYER1</name>
-		<playcount>17</playcount>
-		<lastplayed>20170819T153752</lastplayed>
-	</game>
-	<game>
 		<path>./Configurar-Mandos/3.-Configurar-Gamepad-GameBoy-Advance.cmd</path>
 		<name>3.-Configurar-Gamepad-GameBoy-Advance</name>
 		<playcount>1</playcount>
@@ -39,18 +33,6 @@
 		<name>6.-Configurar-Gamepad-GameBoy</name>
 		<playcount>7</playcount>
 		<lastplayed>20170918T072035</lastplayed>
-	</game>
-	<game>
-		<path>./configuracion-Retroshur/MODO-NORMAL.cmd</path>
-		<name>MODO-NORMAL</name>
-		<playcount>11</playcount>
-		<lastplayed>20170919T181403</lastplayed>
-	</game>
-	<game>
-		<path>./configuracion-Retroshur/MODO-ROCKET-LAUNCHER.cmd</path>
-		<name>MODO-ROCKET-LAUNCHER</name>
-		<playcount>36</playcount>
-		<lastplayed>20170919T185713</lastplayed>
 	</game>
 	<game>
 		<path>./Emuladores/Demul.bat</path>
@@ -107,5 +89,23 @@
 		<image>./boxart/Vectrex.png</image>
 		<playcount>1</playcount>
 		<lastplayed>20170922T083627</lastplayed>
+	</game>
+	<game>
+		<path>./configuracion-Retroshur/MODO-ROCKET-LAUNCHER.cmd</path>
+		<name>MODO-ROCKET-LAUNCHER</name>
+		<playcount>37</playcount>
+		<lastplayed>20190114T162219</lastplayed>
+	</game>
+	<game>
+		<path>./Configurar-Mandos/1.-PLAYER1.bat</path>
+		<name>1.-PLAYER1</name>
+		<playcount>18</playcount>
+		<lastplayed>20190114T162138</lastplayed>
+	</game>
+	<game>
+		<path>./configuracion-Retroshur/MODO-NORMAL.cmd</path>
+		<name>MODO-NORMAL</name>
+		<playcount>12</playcount>
+		<lastplayed>20190114T162741</lastplayed>
 	</game>
 </gameList>

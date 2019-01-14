@@ -1,1 +1,0 @@
-nircmd.exe setdisplay 1600 1200 32

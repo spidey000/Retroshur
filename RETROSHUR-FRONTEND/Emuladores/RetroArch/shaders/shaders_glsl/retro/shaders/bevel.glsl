@@ -50,8 +50,8 @@ COMPAT_VARYING vec4 TEX0;
 // out variables go here as COMPAT_VARYING whatever
 
 uniform mat4 MVPMatrix;
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -91,8 +91,8 @@ precision mediump float;
 #define COMPAT_PRECISION
 #endif
 
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -102,7 +102,7 @@ COMPAT_VARYING vec4 TEX0;
 // fragment compatibility #defines
 #define Source Texture
 #define vTexCoord TEX0.xy
-#define texture(c, d) COMPAT_TEXTURE(c, d)
+
 #define SourceSize vec4(TextureSize, 1.0 / TextureSize) //either TextureSize or InputSize
 #define outsize vec4(OutputSize, 1.0 / OutputSize)
 
@@ -136,7 +136,7 @@ void main()
 {
     vec2 position = fract(vTexCoord*SourceSize.xy);
 
-    vec3 color = GAMMA_IN(texture(Source, vTexCoord).rgb);
+    vec3 color = GAMMA_IN(COMPAT_TEXTURE(Source, vTexCoord).rgb);
 
     color = clamp(bevel(position, color), 0.0, 1.0);
 

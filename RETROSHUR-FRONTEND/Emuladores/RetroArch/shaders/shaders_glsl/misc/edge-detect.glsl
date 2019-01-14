@@ -1,4 +1,3 @@
-// Parameter lines go here:
 #pragma parameter minimum "Edge Thresh Min" 0.05 0.0 1.0 0.01
 #pragma parameter maximum "Edge Thresh Max" 0.35 0.0 1.0 0.01
 
@@ -27,8 +26,8 @@ COMPAT_VARYING vec4 COL0;
 COMPAT_VARYING vec4 TEX0;
 
 uniform mat4 MVPMatrix;
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -62,31 +61,32 @@ out vec4 FragColor;
 precision highp float;
 #else
 precision mediump float;
+precision mediump int;
 #endif
 #define COMPAT_PRECISION mediump
 #else
 #define COMPAT_PRECISION
 #endif
 
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
 uniform sampler2D Texture;
-uniform sampler2D PassPrev;
-uniform sampler2D PassPrev1;
-uniform sampler2D Original;
+uniform sampler2D PassPrevTexture;
+uniform sampler2D PassPrev1Texture;
+uniform sampler2D OrigTexture;
 COMPAT_VARYING vec4 TEX0;
 
 // fragment compatibility #defines
 #define Source Texture
 #define vTexCoord TEX0.xy
-#define texture(c, d) COMPAT_TEXTURE(c, d)
+
 #define SourceSize vec4(TextureSize, 1.0 / TextureSize) //either TextureSize or InputSize
 #define outsize vec4(OutputSize, 1.0 / OutputSize)
-#define Smooth PassPrev1
-#define Sharp PassPrev
+#define Smooth PassPrev1Texture
+#define Sharp PassPrevTexture
 
 #ifdef PARAMETER_UNIFORM
 uniform COMPAT_PRECISION float minimum;
@@ -108,7 +108,7 @@ float avg_intensity(vec4 pix) {
 }
 
 vec4 get_pixel(sampler2D tex, vec2 coords, float dx, float dy) {
- return texture(tex, coords + vec2(dx, dy));
+ return COMPAT_TEXTURE(tex, coords + vec2(dx, dy));
 }
 
 // returns pixel color
@@ -140,9 +140,9 @@ float IsEdge(sampler2D tex, vec2 coords){
 
 void main()
 {
-   float test = IsEdge(Original, vTexCoord);
+   float test = IsEdge(Source, vTexCoord);
 //   vec4 hybrid = vec4(0.0);
-//   hybrid = (test > 0.01) ? texture(Sharp, vTexCoord) : texture(Smooth, vTexCoord);
+//   hybrid = (test > 0.01) ? COMPAT_TEXTURE(Sharp, vTexCoord) : COMPAT_TEXTURE(Smooth, vTexCoord);
    FragColor = vec4(test);
 } 
 #endif

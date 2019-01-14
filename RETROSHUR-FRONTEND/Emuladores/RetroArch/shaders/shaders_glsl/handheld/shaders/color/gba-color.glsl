@@ -14,12 +14,12 @@
 #endif
 
 // Parameter lines go here:
-#pragma parameter darken_screen "Darken Screen" 0.5 0.0 2.0 0.05
+#pragma parameter darken_screen "Darken Screen" 0.5 -0.25 2.0 0.05
 #ifdef PARAMETER_UNIFORM
 // All parameter floats need to have COMPAT_PRECISION in front of them
 uniform COMPAT_PRECISION float darken_screen;
 #else
-#define darken_screen 0.6
+#define darken_screen 0.5
 #endif
 
 #define target_gamma 2.2
@@ -30,15 +30,15 @@ uniform COMPAT_PRECISION float darken_screen;
 #define blr 0.0
 #define blg 0.0
 #define blb 0.0
-#define r 0.82
-#define g 0.67
-#define b 0.73
+#define r 0.845
+#define g 0.68
+#define b 0.755
 #define rg 0.09
 #define rb 0.16
-#define gr 0.24
-#define gb 0.11
-#define br -0.06
-#define bg 0.24
+#define gr 0.17
+#define gb 0.085
+#define br -0.015
+#define bg 0.23
 #define overscan_percent_x 0.0
 #define overscan_percent_y 0.0
 
@@ -67,8 +67,8 @@ COMPAT_VARYING vec4 COL0;
 COMPAT_VARYING vec4 TEX0;
 
 uniform mat4 MVPMatrix;
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -103,8 +103,8 @@ precision mediump float;
 #define COMPAT_PRECISION
 #endif
 
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -114,13 +114,13 @@ COMPAT_VARYING vec4 TEX0;
 // compatibility #defines
 #define Source Texture
 #define vTexCoord TEX0.xy
-#define texture(c, d) COMPAT_TEXTURE(c, d)
+
 #define SourceSize vec4(TextureSize, 1.0 / TextureSize) //either TextureSize or InputSize
 #define outsize vec4(OutputSize, 1.0 / OutputSize)
 
 void main()
 {
-   vec4 screen = pow(texture(Source, vTexCoord), vec4(target_gamma + darken_screen)).rgba;
+   vec4 screen = pow(COMPAT_TEXTURE(Source, vTexCoord), vec4(target_gamma + darken_screen)).rgba;
    vec4 avglum = vec4(0.5);
    screen = mix(screen, avglum, (1.0 - contrast));
    

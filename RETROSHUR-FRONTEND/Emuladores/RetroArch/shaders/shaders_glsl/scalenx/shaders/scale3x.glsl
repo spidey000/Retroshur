@@ -18,7 +18,7 @@ License: GNU-GPL
 #define mul(a,b) (b*a)
 #define fmod(c,d) mod(c,d)
 #define frac(c) fract(c)
-#define tex2D(c,d) texture(c,d)
+#define tex2D(c,d) COMPAT_TEXTURE(c,d)
 #define float2 vec2
 #define float3 vec3
 #define float4 vec4
@@ -70,8 +70,8 @@ COMPAT_VARYING vec4 t2;
 COMPAT_VARYING vec4 t3;
 
 uniform mat4 MVPMatrix;
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -119,8 +119,8 @@ precision mediump float;
 #define COMPAT_PRECISION
 #endif
 
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -133,7 +133,7 @@ COMPAT_VARYING vec4 t3;
 // fragment compatibility #defines
 #define Source Texture
 #define vTexCoord TEX0.xy
-#define texture(c, d) COMPAT_TEXTURE(c, d)
+
 #define SourceSize vec4(TextureSize, 1.0 / TextureSize) //either TextureSize or InputSize
 #define outsize vec4(OutputSize, 1.0 / OutputSize)
 

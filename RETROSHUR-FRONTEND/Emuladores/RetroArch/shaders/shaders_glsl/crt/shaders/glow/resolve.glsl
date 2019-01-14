@@ -28,8 +28,8 @@ COMPAT_VARYING vec4 TEX0;
 
 vec4 _oPosition1; 
 uniform mat4 MVPMatrix;
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -64,8 +64,8 @@ precision mediump float;
 #define COMPAT_PRECISION
 #endif
 
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -76,7 +76,7 @@ COMPAT_VARYING vec4 TEX0;
 // compatibility #defines
 #define Source Texture
 #define vTexCoord TEX0.xy
-#define texture(c, d) COMPAT_TEXTURE(c, d)
+
 #define SourceSize vec4(TextureSize, 1.0 / TextureSize) //either TextureSize or InputSize
 #define outsize vec4(OutputSize, 1.0 / OutputSize)
 
@@ -95,11 +95,11 @@ uniform COMPAT_PRECISION float OUTPUT_GAMMA;
 void main()
 {
 #if BLOOM_ONLY
-    vec3 source = BLOOM_STRENGTH * texture(Source, vTexCoord).rgb;
+    vec3 source = BLOOM_STRENGTH * COMPAT_TEXTURE(Source, vTexCoord).rgb;
 #else
 
-    vec3 source = 1.15 * texture(PassPrev4Texture, vTexCoord * vec2(1.0, 1.004)).rgb;
-    vec3 bloom  = texture(Source, vTexCoord).rgb;
+    vec3 source = 1.15 * COMPAT_TEXTURE(PassPrev4Texture, vTexCoord).rgb;
+    vec3 bloom  = COMPAT_TEXTURE(Source, vTexCoord).rgb;
     source     += BLOOM_STRENGTH * bloom;
 #endif
     FragColor = vec4(pow(clamp(source, 0.0, 1.0), vec3(1.0 / OUTPUT_GAMMA)), 1.0);

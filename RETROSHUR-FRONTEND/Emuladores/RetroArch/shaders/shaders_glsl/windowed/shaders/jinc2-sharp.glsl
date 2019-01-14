@@ -90,8 +90,8 @@ precision mediump float;
 #define PRECISION
 #endif
 
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform PRECISION int FrameDirection;
+uniform PRECISION int FrameCount;
 uniform PRECISION vec2 OutputSize;
 uniform PRECISION vec2 TextureSize;
 uniform PRECISION vec2 InputSize;

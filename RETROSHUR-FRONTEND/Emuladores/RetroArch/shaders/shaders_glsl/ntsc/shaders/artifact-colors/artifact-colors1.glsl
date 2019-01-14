@@ -72,6 +72,7 @@ out vec4 FragColor;
 precision highp float;
 #else
 precision mediump float;
+precision mediump int;
 #endif
 #define COMPAT_PRECISION mediump
 #else
@@ -89,7 +90,7 @@ COMPAT_VARYING vec4 TEX0;
 // compatibility #defines
 #define Source Texture
 #define vTexCoord TEX0.xy
-#define texture(c, d) COMPAT_TEXTURE(c, d)
+
 #define SourceSize vec4(TextureSize, 1.0 / TextureSize) //either TextureSize or InputSize
 #define OutSize vec4(OutputSize, 1.0 / OutputSize)
 
@@ -120,7 +121,7 @@ float tau = 6.283185308;//atan(1.0)*8.0;
 //Non-normalized texture sampling.
 vec4 sample2D(sampler2D tex,vec2 resolution, vec2 uv)
 {
-    return texture(tex, uv / resolution);
+    return COMPAT_TEXTURE(tex, uv / resolution);
 }
 
 //Complex multiply
@@ -178,6 +179,16 @@ vec2 Oscillator(float Fo, float Fs, float N)
     return vec2(cos(phase),sin(phase));
 }
 
+// use this to avoid needing float framebuffers
+vec4 remap(vec4 c)
+{
+#ifdef GL_ES
+	return (c + vec4(0.07));
+#else
+	return c;
+#endif
+}
+
 void main()
 {
     float Fs = SourceSize.x;
@@ -207,6 +218,7 @@ void main()
     //Shift IQ signal down from Fcol to DC 
     vec2 iq_sig_mix = cmul(vec2(iq_sig, 0.), cOsc);
     
-   FragColor = vec4(y_sig, iq_sig_mix, 0.);
+   vec4 final = vec4(y_sig, iq_sig_mix, 0.);
+	FragColor = remap(final);
 } 
 #endif

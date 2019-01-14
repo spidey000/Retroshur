@@ -94,8 +94,8 @@ precision mediump float;
 #define COMPAT_PRECISION
 #endif
  
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -106,7 +106,7 @@ COMPAT_VARYING float angle;
 // compatibility #defines
 #define Source Texture
 #define vTexCoord TEX0.xy
-#define texture(c, d) COMPAT_TEXTURE(c, d)
+
 #define SourceSize vec4(TextureSize, 1.0 / TextureSize) //either TextureSize or InputSize
 #define OutputSize vec4(OutputSize, 1.0 / OutputSize)
  
@@ -119,7 +119,7 @@ uniform COMPAT_PRECISION float lines_white;
  
 void main()
 {
-    vec3 color = texture(Source, vTexCoord).xyz;
+    vec3 color = COMPAT_TEXTURE(Source, vTexCoord).xyz;
     float grid;
  
     float lines;

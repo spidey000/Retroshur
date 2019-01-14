@@ -3,7 +3,7 @@
 #define NTSC_CRT_GAMMA 2.4
 
 #define fetch_offset(offset, one_x) \
-   texture(Source, vTexCoord + vec2((offset) * (one_x), 0.0)).xyz
+   COMPAT_TEXTURE(Source, vTexCoord + vec2((offset) * (one_x), 0.0)).xyz
 
 #if defined(VERTEX)
 
@@ -82,31 +82,30 @@ COMPAT_VARYING vec4 TEX0;
 // fragment compatibility #defines
 #define Source Texture
 #define vTexCoord TEX0.xy
-#define texture(c, d) COMPAT_TEXTURE(c, d)
+
 #define SourceSize vec4(TextureSize, 1.0 / TextureSize) //either TextureSize or InputSize
 #define outsize vec4(OutputSize, 1.0 / OutputSize)
 
 // begin ntsc-rgbyuv
-mat3 yiq2rgb_mat = mat3(
-   1.0, 1.0, 1.0,
-   0.956, -0.2720, -1.1060,
-   0.6210, -0.6474, 1.7046
-);
+const mat3 yiq2rgb_mat = mat3(
+   1.0, 0.956, 0.6210,
+   1.0, -0.2720, -0.6474,
+   1.0, -1.1060, 1.7046);
 
 vec3 yiq2rgb(vec3 yiq)
 {
-   return (yiq * yiq2rgb_mat);
+   return yiq * yiq2rgb_mat;
 }
 
-mat3 yiq_mat = mat3(
-      0.2989, 0.5959, 0.2115,
-      0.5870, -0.2744, -0.5229,
-      0.1140, -0.3216, 0.3114
+const mat3 yiq_mat = mat3(
+      0.2989, 0.5870, 0.1140,
+      0.5959, -0.2744, -0.3216,
+      0.2115, -0.5229, 0.3114
 );
 
 vec3 rgb2yiq(vec3 col)
 {
-   return (col * yiq_mat);
+   return col * yiq_mat;
 }
 // end ntsc-rgbyuv
 
@@ -262,7 +261,7 @@ void main()
 	float offset;
 	vec3 sums;
 	
-	#define macro_loopz(c) offset = float(c) - 1.; \
+	#define macro_loopz(c) offset = float(c) - 1.0; \
 		sums = fetch_offset(offset - 32., one_x) + fetch_offset(32. - offset, one_x); \
 		signal += sums * vec3(luma_filter##c, chroma_filter##c, chroma_filter##c);
 
@@ -311,7 +310,7 @@ void main()
 
 		signal += sums * vec3(luma_filter[i], chroma_filter[i], chroma_filter[i]);
 	}
-	signal += texture(Source, vTexCoord).xyz *
+	signal += COMPAT_TEXTURE(Source, vTexCoord).xyz *
 		vec3(luma_filter[TAPS], chroma_filter[TAPS], chroma_filter[TAPS]);
 #endif
 // end ntsc-pass2-decode

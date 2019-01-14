@@ -11,21 +11,6 @@
 // It is an example what I personally would want as a display option for pixel art games.
 // Please take and use, change, or whatever.
 
-// Parameter lines go here:
-#pragma parameter hardScan "hardScan" -8.0 -20.0 0.0 1.0
-#pragma parameter hardPix "hardPix" -3.0 -20.0 0.0 1.0
-#pragma parameter warpX "warpX" 0.031 0.0 0.125 0.01
-#pragma parameter warpY "warpY" 0.041 0.0 0.125 0.01
-#pragma parameter maskDark "maskDark" 0.5 0.0 2.0 0.1
-#pragma parameter maskLight "maskLight" 1.5 0.0 2.0 0.1
-#pragma parameter scaleInLinearGamma "scaleInLinearGamma" 1.0 0.0 1.0 1.0
-#pragma parameter shadowMask "shadowMask" 3.0 0.0 4.0 1.0
-#pragma parameter brightBoost "brightness boost" 1.0 0.0 2.0 0.05
-#pragma parameter hardBloomPix "bloom-x soft" -1.5 -2.0 -0.5 0.1
-#pragma parameter hardBloomScan "bloom-y soft" -2.0 -4.0 -1.0 0.1
-#pragma parameter bloomAmount "bloom amount" 0.4 0.0 1.0 0.05
-#pragma parameter shape "filter kernel shape" 2.0 0.0 10.0 0.05
-
 #if defined(VERTEX)
 
 #if __VERSION__ >= 130
@@ -51,8 +36,8 @@ COMPAT_VARYING vec4 COL0;
 COMPAT_VARYING vec4 TEX0;
 
 uniform mat4 MVPMatrix;
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -91,8 +76,8 @@ precision mediump float;
 #define COMPAT_PRECISION
 #endif
 
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -102,7 +87,7 @@ COMPAT_VARYING vec4 TEX0;
 // fragment compatibility #defines
 #define Source Texture
 #define vTexCoord TEX0.xy
-#define texture(c, d) COMPAT_TEXTURE(c, d)
+
 #define SourceSize vec4(TextureSize, 1.0 / TextureSize) //either TextureSize or InputSize
 #define outsize vec4(OutputSize, 1.0 / OutputSize)
 
@@ -200,9 +185,9 @@ vec3 ToSrgb(vec3 c)
 vec3 Fetch(vec2 pos,vec2 off){
   pos=(floor(pos*SourceSize.xy+off)+vec2(0.5,0.5))/SourceSize.xy;
 #ifdef SIMPLE_LINEAR_GAMMA
-  return ToLinear(brightBoost * pow(texture(Source,pos.xy).rgb, vec3(2.2)));
+  return ToLinear(brightBoost * pow(COMPAT_TEXTURE(Source,pos.xy).rgb, vec3(2.2)));
 #else
-  return ToLinear(brightBoost * texture(Source,pos.xy).rgb);
+  return ToLinear(brightBoost * COMPAT_TEXTURE(Source,pos.xy).rgb);
 #endif
 }
 

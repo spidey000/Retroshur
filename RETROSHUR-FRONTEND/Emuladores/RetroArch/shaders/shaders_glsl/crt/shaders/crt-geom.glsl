@@ -22,7 +22,7 @@
 
 #pragma parameter CRTgamma "CRTGeom Target Gamma" 2.4 0.1 5.0 0.1
 #pragma parameter monitorgamma "CRTGeom Monitor Gamma" 2.2 0.1 5.0 0.1
-#pragma parameter d "CRTGeom Distance" 1.5 0.1 3.0 0.1
+#pragma parameter d "CRTGeom Distance" 1.6 0.1 3.0 0.1
 #pragma parameter CURVATURE "CRTGeom Curvature Toggle" 1.0 0.0 1.0 1.0
 #pragma parameter R "CRTGeom Curvature Radius" 2.0 0.1 10.0 0.1
 #pragma parameter cornersize "CRTGeom Corner Size" 0.03 0.001 1.0 0.005
@@ -34,11 +34,12 @@
 #pragma parameter DOTMASK "CRTGeom Dot Mask Toggle" 0.3 0.0 0.3 0.3
 #pragma parameter SHARPER "CRTGeom Sharpness" 1.0 1.0 3.0 1.0
 #pragma parameter scanline_weight "CRTGeom Scanline Weight" 0.3 0.1 0.5 0.05
+#pragma parameter lum "CRTGeom Luminance" 0.0 0.0 1.0 0.01
 
 #ifndef PARAMETER_UNIFORM
 #define CRTgamma 2.4
 #define monitorgamma 2.2
-#define d 1.5
+#define d 1.6
 #define CURVATURE 1.0
 #define R 2.0
 #define cornersize 0.03
@@ -50,6 +51,7 @@
 #define DOTMASK 0.3
 #define SHARPER 1.0
 #define scanline_weight 0.3
+#define lum 0.0
 #endif
 
 #if defined(VERTEX)
@@ -78,8 +80,8 @@ COMPAT_VARYING vec4 TEX0;
 
 vec4 _oPosition1; 
 uniform mat4 MVPMatrix;
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -108,6 +110,7 @@ uniform COMPAT_PRECISION float overscan_y;
 uniform COMPAT_PRECISION float DOTMASK;
 uniform COMPAT_PRECISION float SHARPER;
 uniform COMPAT_PRECISION float scanline_weight;
+uniform COMPAT_PRECISION float lum;
 #endif
 
 #define FIX(c) max(abs(c), 1e-5);
@@ -237,8 +240,8 @@ struct output_dummy {
     vec4 _color;
 };
 
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -292,6 +295,7 @@ uniform COMPAT_PRECISION float overscan_y;
 uniform COMPAT_PRECISION float DOTMASK;
 uniform COMPAT_PRECISION float SHARPER;
 uniform COMPAT_PRECISION float scanline_weight;
+uniform COMPAT_PRECISION float lum;
 #endif
 
 float intersect(vec2 xy)
@@ -358,11 +362,11 @@ vec4 scanlineWeights(float distance, vec4 color)
 #ifdef USEGAUSSIAN
 	vec4 wid = 0.3 + 0.1 * pow(color, vec4(3.0));
 	vec4 weights = vec4(distance / wid);
-	return 0.4 * exp(-weights * weights) / wid;
+	return (lum + 0.4) * exp(-weights * weights) / wid;
 #else
 	vec4 wid = 2.0 + 2.0 * pow(color, vec4(4.0));
 	vec4 weights = vec4(distance / scanline_weight);
-	return 1.4 * exp(-pow(weights * inversesqrt(0.5 * wid), wid)) / (0.6 + 0.2 * wid);
+	return (lum + 1.4) * exp(-pow(weights * inversesqrt(0.5 * wid), wid)) / (0.6 + 0.2 * wid);
 #endif
         }
 

@@ -74,8 +74,8 @@ COMPAT_VARYING vec4 TEX0;
 COMPAT_VARYING float colorPhase;
 
 uniform mat4 MVPMatrix;
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -111,14 +111,15 @@ out vec4 FragColor;
 precision highp float;
 #else
 precision mediump float;
+precision mediump int;
 #endif
 #define COMPAT_PRECISION mediump
 #else
 #define COMPAT_PRECISION
 #endif
 
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -129,13 +130,13 @@ COMPAT_VARYING float colorPhase;
 // fragment compatibility #defines
 #define Source Texture
 #define vTexCoord TEX0.xy
-#define texture(c, d) COMPAT_TEXTURE(c, d)
+
 #define SourceSize vec4(TextureSize, 1.0 / TextureSize) //either TextureSize or InputSize
 #define outsize vec4(OutputSize, 1.0 / OutputSize)
 
 void main()
 {
-    vec4 c = texture(Source, vTexCoord.xy);
+    vec4 c = COMPAT_TEXTURE(Source, vTexCoord.xy);
 
     int color    = TO_INT4(c.x);
     int level    = TO_INT2(c.y);

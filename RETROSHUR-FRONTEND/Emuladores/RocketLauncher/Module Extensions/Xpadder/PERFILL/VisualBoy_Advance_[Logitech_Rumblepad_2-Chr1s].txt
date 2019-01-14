@@ -1,8 +1,0 @@
-This Profile is for the Game Boy Adance emulator "Visual Boy Advance".
-
-
-I made it so that Button 4 switches between Mouse movements and game controls, so you don't have to use your mouse 
-to select the game you would like to play. 
-All buttons are mapped to the default controls for play 1 in this emulator.
-
-Made by: Chr1s

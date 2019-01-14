@@ -69,8 +69,8 @@ COMPAT_VARYING vec4 TEX0;
 
 vec4 _oPosition1;
 uniform mat4 MVPMatrix;
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -166,8 +166,8 @@ vec3 LEVELS(vec3 c0)
       tempColor += (c*STU(X,(TVOUT_RESOLUTION*oneI)))
 
 
-uniform int FrameDirection;
-uniform int FrameCount;
+uniform COMPAT_PRECISION int FrameDirection;
+uniform COMPAT_PRECISION int FrameCount;
 uniform COMPAT_PRECISION vec2 OutputSize;
 uniform COMPAT_PRECISION vec2 TextureSize;
 uniform COMPAT_PRECISION vec2 InputSize;
@@ -187,7 +187,7 @@ mat3 YIQ_to_RGB = mat3(1.0,0.9563,0.6210,
 vec3 tempColor=vec3(0.0,0.0,0.0);
 float	offset	= fract((TEX0.x * TextureSize.x) - 0.5);
    float oneT=1.0/TextureSize.x;
-   float oneI=1.0/TextureSize.x;
+   float oneI=1.0/InputSize.x;
 
    float X;
    vec3 c;
