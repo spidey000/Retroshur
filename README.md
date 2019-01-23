@@ -1,4 +1,4 @@
-![logo](https://s25.postimg.org/ukndgc5bz/screenshot_37.png)
+![logo](https://i.postimg.cc/nVXsVX2H/screenshot-37.png)
 
 # Retroshur
 Emulationstation para windows con algunas mejoras y añadidos mediante scripts batch (.bat)
